@@ -1,0 +1,18 @@
+{
+  "date": "2026-04-14",
+  "generated_at": "2026-04-14T13:59:04.546461Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  }
+}

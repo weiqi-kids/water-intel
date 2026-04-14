@@ -1,0 +1,62 @@
+[
+  {
+    "id": "unknown-2026-04-03-001",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "positive",
+    "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
+    "summary": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                           ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-28-004",
+    "date": "2026-03-28",
+    "companies": [],
+    "topics": [
+      "smart_water"
+    ],
+    "impact": "neutral",
+    "title": " Sony freezes memory card orders in Japan amid growing storage crisis — the company attributes the cause to ‘shortage of semiconductors’ ",
+    "summary": "\n                             Sony Japan has announced that it will no longer accept orders for almost its entire lineup of CFexpress and SD memory cards as of March 27. \n                             ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-27-005",
+    "date": "2026-03-27",
+    "companies": [],
+    "topics": [
+      "smart_water"
+    ],
+    "impact": "neutral",
+    "title": " Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot — near-identical performance blurs the line between real and fake as AI crunch drives knock-off market ",
+    "summary": "\n                             Japanese news outlet Akiba PC Hotline! examines a fake Samsung 990 Pro SSD that's starting to show up in the Japanese market. \n                                           ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-22-002",
+    "date": "2026-03-22",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
+    "summary": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                            ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-02-003",
+    "date": "2026-02-02",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "negative",
+    "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
+    "summary": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leve",
+    "sources": []
+  }
+]
