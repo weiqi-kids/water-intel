@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T22:59:28.220643Z",
+  "updated_at": "2026-04-14T23:00:39.914230Z",
   "quarter": "2025-09-30, 2025-12-31",
   "companies": [
     {
@@ -99,20 +99,6 @@
       "inv_qoq": "+2%",
       "alert": false,
       "quarter_date": "2025-09-30"
-    },
-    {
-      "id": "mueller",
-      "name": "穆勒",
-      "ticker": "MWA",
-      "currency": "USD",
-      "ar": 138400000,
-      "ar_prev": 210800000,
-      "ar_qoq": "-34%",
-      "inventory": 376700000,
-      "inv_prev": 328700000,
-      "inv_qoq": "+15%",
-      "alert": true,
-      "quarter_date": "2025-12-31"
     },
     {
       "id": "pentair",
