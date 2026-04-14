@@ -1,0 +1,53 @@
+# 記憶體供應鏈 - 重要性評分規則
+
+# 基礎分數為 0.5，加上各規則分數，上限 1.0
+rules:
+  - name: "多公司提及"
+    condition: "entities.companies.length > 1"
+    score: +0.2
+    description: "新聞同時提及多家公司，通常代表產業事件"
+
+  - name: "涉及 HBM"
+    condition: "'hbm' in topics"
+    score: +0.3
+    description: "HBM 是當前記憶體產業最熱門的技術"
+
+  - name: "涉及價格"
+    condition: "'dram_price' in topics or 'nand_price' in topics"
+    score: +0.2
+    description: "價格變動直接影響營收"
+
+  - name: "涉及財報"
+    condition: "'earnings' in topics"
+    score: +0.25
+    description: "財報是重要的資訊揭露"
+
+  - name: "情緒極端"
+    condition: "abs(sentiment.score) > 0.7"
+    score: +0.15
+    description: "極端情緒通常代表重大事件"
+
+  - name: "供應鏈上下游同時提及"
+    condition: "has_upstream_downstream_mention"
+    score: +0.2
+    description: "供應鏈連動通常是重要訊號"
+
+  - name: "涉及產能"
+    condition: "'capacity' in topics or 'capex' in topics"
+    score: +0.15
+    description: "產能變動影響供需平衡"
+
+  - name: "涉及 AI 伺服器"
+    condition: "'ai_server' in topics"
+    score: +0.2
+    description: "AI 伺服器是記憶體需求的主要成長動力"
+
+  - name: "涉及先進封裝"
+    condition: "'advanced_packaging' in topics"
+    score: +0.15
+    description: "先進封裝是 HBM 的關鍵技術"
+
+  - name: "涉及 AI 記憶體"
+    condition: "'ai_memory' in topics"
+    score: +0.2
+    description: "AI 記憶體是當前發展重點"

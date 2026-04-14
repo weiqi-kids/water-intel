@@ -1,0 +1,114 @@
+# 每日資料擷取 Workflow 範例
+# 複製此檔案為 daily-ingest.yml 並依需求修改
+
+name: Daily Ingest
+
+on:
+  schedule:
+    # UTC 0:00 = 台北 08:00
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 允許手動觸發
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          # 如果需要 Playwright
+          # pip install playwright
+          # playwright install chromium
+
+      - name: Get today's date
+        id: date
+        run: echo "today=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
+
+      # ========================================
+      # 1. 抓取新聞
+      # ========================================
+      - name: Fetch news
+        run: |
+          # 執行各公司的爬蟲
+          # python -m fetchers.company_a
+          # python -m fetchers.company_b
+          echo "Fetching news..."
+
+      # ========================================
+      # 2. 標註事件
+      # ========================================
+      - name: Enrich events
+        run: |
+          python scripts/enrich_event.py --date ${{ steps.date.outputs.today }}
+
+      # ========================================
+      # 3. 計算指標
+      # ========================================
+      - name: Generate metrics
+        run: |
+          python scripts/generate_metrics.py --date ${{ steps.date.outputs.today }}
+
+      # ========================================
+      # 4. 偵測異常
+      # ========================================
+      - name: Detect anomalies
+        run: |
+          python scripts/detect_anomalies.py --date ${{ steps.date.outputs.today }}
+
+      # ========================================
+      # 5. 生成報告
+      # ========================================
+      - name: Generate daily report
+        run: |
+          python scripts/generate_daily.py --date ${{ steps.date.outputs.today }}
+
+      - name: Generate 7-day report
+        run: |
+          python scripts/generate_7d_report.py --date ${{ steps.date.outputs.today }}
+
+      # ========================================
+      # 6. 更新基準線（報告生成後才執行）
+      # ========================================
+      - name: Update baselines
+        run: |
+          python scripts/update_baselines.py --date ${{ steps.date.outputs.today }}
+
+      # ========================================
+      # 7. 複製資料到 site/ 供前端使用
+      # ========================================
+      - name: Copy data to site
+        run: |
+          # 複製最新報告
+          cp reports/daily/${{ steps.date.outputs.today }}.json site/data/daily.json
+          cp reports/7d/${{ steps.date.outputs.today }}.json site/data/7d.json
+          # 複製事件（可選，依前端需求）
+          # cp data/events/${{ steps.date.outputs.today }}.jsonl site/data/events.jsonl
+
+      # ========================================
+      # 8. 提交變更
+      # ========================================
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m "Daily update: ${{ steps.date.outputs.today }}"
+          git push
+
+      # ========================================
+      # 9. 部署到 GitHub Pages（可選）
+      # ========================================
+      # - name: Deploy to GitHub Pages
+      #   uses: peaceiris/actions-gh-pages@v4
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     publish_dir: ./site

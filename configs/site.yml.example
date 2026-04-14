@@ -1,0 +1,29 @@
+# 網站設定
+# 複製此檔案為 site.yml 並修改
+
+# 網站基本資訊
+site:
+  title: "供應鏈情報"                    # 網站標題
+  subtitle: "Supply Chain Intelligence"  # 副標題（英文）
+  description: "追蹤產業供應鏈動態"       # 網站描述
+  
+# 頁面標題
+pages:
+  index: "情報總覽"                       # 首頁標題
+  how_it_works: "運作流程"                # 運作流程頁標題
+
+# GitHub Pages 設定
+github:
+  cname: "example.intel.weiqi.kids"       # 自訂網域（可選）
+  repo: "weiqi-kids/example-intel"        # GitHub repo
+
+# 贊助連結
+sponsor:
+  enabled: true
+  url: "https://ko-fi.com/lightchang"
+  text: "贊助"
+
+# 意見回饋
+feedback:
+  enabled: true
+  api_url: "https://feedback-api.lightman-chang.workers.dev/submit"

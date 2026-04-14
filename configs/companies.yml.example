@@ -1,0 +1,125 @@
+# 公司清單範例
+# 複製此檔案為 companies.yml 並依產業修改
+
+companies:
+  # ========================================
+  # 上游 - 供應商
+  # ========================================
+  - id: supplier_a
+    name: Supplier A Company
+    aliases:
+      - 供應商A
+      - SupA
+    ticker: SUPA
+    market: NASDAQ
+    currency: USD
+    position: upstream
+    role: 設備
+    description: 上游設備供應商
+    ir_url: https://example.com/ir
+    downstream:
+      - manufacturer_a
+      - manufacturer_b
+
+  - id: supplier_b
+    name: Supplier B Company
+    aliases:
+      - 供應商B
+    ticker: SUPB
+    market: TSE
+    currency: JPY
+    position: upstream
+    role: 材料
+    description: 上游材料供應商
+    ir_url: https://example.com/ir
+    downstream:
+      - manufacturer_a
+
+  # ========================================
+  # 中游 - 製造商
+  # ========================================
+  - id: manufacturer_a
+    name: Manufacturer A
+    aliases:
+      - 製造商A
+      - MfgA
+    ticker: MFGA
+    market: KRX
+    currency: KRW
+    position: midstream
+    role: 製造
+    description: 主要製造商
+    ir_url: https://example.com/ir
+    news_url: https://example.com/news
+    upstream:
+      - supplier_a
+      - supplier_b
+    downstream:
+      - customer_a
+      - customer_b
+
+  - id: manufacturer_b
+    name: Manufacturer B
+    aliases:
+      - 製造商B
+    ticker: MFGB
+    market: NASDAQ
+    currency: USD
+    position: midstream
+    role: 製造
+    description: 次要製造商
+    ir_url: https://example.com/ir
+    upstream:
+      - supplier_a
+    downstream:
+      - customer_a
+
+  # ========================================
+  # 下游 - 客戶
+  # ========================================
+  - id: customer_a
+    name: Customer A Corp
+    aliases:
+      - 客戶A
+      - CustA
+    ticker: CUSA
+    market: NASDAQ
+    currency: USD
+    position: downstream
+    role: 終端應用
+    description: 主要客戶
+    ir_url: https://example.com/ir
+    upstream:
+      - manufacturer_a
+      - manufacturer_b
+    downstream: []
+
+  - id: customer_b
+    name: Customer B Corp
+    aliases:
+      - 客戶B
+    ticker: CUSB
+    market: NASDAQ
+    currency: USD
+    position: downstream
+    role: 雲端服務
+    description: 雲端服務客戶
+    ir_url: https://example.com/ir
+    upstream:
+      - manufacturer_a
+    downstream: []
+
+
+# ========================================
+# 供應鏈層級定義
+# ========================================
+supply_chain_positions:
+  upstream:
+    - 設備
+    - 材料
+  midstream:
+    - 製造
+    - 封測
+  downstream:
+    - 終端應用
+    - 雲端服務

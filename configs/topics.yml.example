@@ -1,0 +1,143 @@
+# 主題清單範例
+# 複製此檔案為 topics.yml 並依產業修改
+
+topics:
+  # ========================================
+  # 產品相關
+  # ========================================
+  product_a:
+    display: "產品A"
+    keywords:
+      - "Product A"
+      - "產品A"
+      - "PA系列"
+
+  product_b:
+    display: "產品B"
+    keywords:
+      - "Product B"
+      - "產品B"
+      - "PB系列"
+
+  # ========================================
+  # 價格相關
+  # ========================================
+  price:
+    display: "價格"
+    keywords:
+      - "價格"
+      - "price"
+      - "報價"
+      - "quote"
+      - "合約價"
+      - "contract price"
+      - "現貨價"
+      - "spot price"
+    # 主題特定的情緒詞
+    sentiment_keywords:
+      positive:
+        - "上漲"
+        - "漲價"
+        - "調漲"
+        - "price hike"
+        - "increase"
+      negative:
+        - "下跌"
+        - "跌價"
+        - "降價"
+        - "price cut"
+        - "decline"
+
+  # ========================================
+  # 產能相關
+  # ========================================
+  capacity:
+    display: "產能"
+    keywords:
+      - "產能"
+      - "capacity"
+      - "擴產"
+      - "expansion"
+      - "wafer starts"
+      - "月產能"
+
+  capex:
+    display: "資本支出"
+    keywords:
+      - "capex"
+      - "capital expenditure"
+      - "資本支出"
+      - "投資"
+      - "建廠"
+      - "fab"
+
+  # ========================================
+  # 供需相關
+  # ========================================
+  shortage:
+    display: "缺貨"
+    keywords:
+      - "缺貨"
+      - "shortage"
+      - "supply constraint"
+      - "供應緊張"
+      - "缺料"
+
+  inventory:
+    display: "庫存"
+    keywords:
+      - "庫存"
+      - "inventory"
+      - "stock"
+      - "去化"
+      - "destocking"
+
+  # ========================================
+  # 財務相關
+  # ========================================
+  earnings:
+    display: "財報"
+    keywords:
+      - "財報"
+      - "earnings"
+      - "quarterly results"
+      - "Q1"
+      - "Q2"
+      - "Q3"
+      - "Q4"
+      - "營收"
+      - "revenue"
+      - "profit"
+      - "獲利"
+
+  guidance:
+    display: "展望"
+    keywords:
+      - "展望"
+      - "guidance"
+      - "outlook"
+      - "forecast"
+      - "預測"
+
+  # ========================================
+  # 技術相關
+  # ========================================
+  technology:
+    display: "技術"
+    keywords:
+      - "技術"
+      - "technology"
+      - "製程"
+      - "process"
+      - "node"
+      - "nm"
+
+  rd:
+    display: "研發"
+    keywords:
+      - "研發"
+      - "R&D"
+      - "research"
+      - "development"
+      - "專利"
+      - "patent"

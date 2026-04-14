@@ -1,0 +1,35 @@
+# 記憶體供應鏈 - 異常偵測規則
+
+anomaly_detection:
+
+  # 資料不足時不觸發異常
+  minimum_data_requirements:
+    7d_avg: 5      # 至少要有 5 天資料才計算 7 日均值
+    30d_avg: 20    # 至少要有 20 天資料才計算 30 日均值
+    yoy: 300       # 至少要有 300 天資料才計算去年同期
+
+  # 各類異常的觸發閾值
+  thresholds:
+    # 新聞量暴增
+    volume_spike:
+      vs_7d_pct: 100      # 較 7 日均值增加 100% 以上
+      vs_30d_pct: 80      # 較 30 日均值增加 80% 以上
+      vs_yoy_pct: 150     # 較去年同期增加 150% 以上
+      min_absolute: 3     # 最小絕對數量
+
+    # 情緒急轉
+    sentiment_shift:
+      delta_7d: 0.5       # 較 7 日均值變化 0.5 以上
+      delta_30d: 0.4      # 較 30 日均值變化 0.4 以上
+      min_events: 3       # 最少要有 3 則新聞才計算情緒
+
+    # 主題重新出現
+    topic_resurface:
+      min_silent_days: 14 # 至少沉寂 14 天才算「重新出現」
+      min_events: 2       # 至少 2 則才算「出現」
+
+  # 異常優先級（數字越小越優先）
+  priority:
+    volume_spike: 1
+    sentiment_shift: 2
+    topic_resurface: 3

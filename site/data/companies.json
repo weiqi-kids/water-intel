@@ -1,0 +1,195 @@
+{
+  "companies": [
+    {
+      "id": "mueller",
+      "name": "Mueller Water Products",
+      "short_name": "穆勒",
+      "position": "upstream",
+      "role": "管材設備",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "energy_recovery",
+      "name": "Energy Recovery",
+      "short_name": "ERII",
+      "position": "upstream",
+      "role": "能量回收設備",
+      "x": 0.119,
+      "y": 0.34
+    },
+    {
+      "id": "chien_fu",
+      "name": "千附精密",
+      "short_name": "千附",
+      "position": "upstream",
+      "role": "水處理零組件",
+      "x": 0.188,
+      "y": 0.34
+    },
+    {
+      "id": "xylem",
+      "name": "Xylem",
+      "short_name": "賽萊默",
+      "position": "midstream",
+      "role": "水處理設備",
+      "x": 0.258,
+      "y": 0.34
+    },
+    {
+      "id": "veolia",
+      "name": "Veolia Environnement",
+      "short_name": "威立雅",
+      "position": "midstream",
+      "role": "水務營運",
+      "x": 0.327,
+      "y": 0.34
+    },
+    {
+      "id": "pentair",
+      "name": "Pentair",
+      "short_name": "濱特爾",
+      "position": "midstream",
+      "role": "水處理設備",
+      "x": 0.396,
+      "y": 0.34
+    },
+    {
+      "id": "ao_smith",
+      "name": "A.O. Smith",
+      "short_name": "史密斯",
+      "position": "midstream",
+      "role": "熱水器/淨水器",
+      "x": 0.465,
+      "y": 0.34
+    },
+    {
+      "id": "danaher",
+      "name": "Danaher",
+      "short_name": "丹納赫",
+      "position": "midstream",
+      "role": "水質分析",
+      "x": 0.535,
+      "y": 0.34
+    },
+    {
+      "id": "watts",
+      "name": "Watts Water Technologies",
+      "short_name": "Watts",
+      "position": "midstream",
+      "role": "流量控制",
+      "x": 0.604,
+      "y": 0.34
+    },
+    {
+      "id": "badger",
+      "name": "Badger Meter",
+      "short_name": "巴傑",
+      "position": "midstream",
+      "role": "智慧水表",
+      "x": 0.673,
+      "y": 0.34
+    },
+    {
+      "id": "kurita",
+      "name": "Kurita Water Industries",
+      "short_name": "栗田",
+      "position": "midstream",
+      "role": "水處理化學品",
+      "x": 0.742,
+      "y": 0.34
+    },
+    {
+      "id": "zhongyu",
+      "name": "中宇環保",
+      "short_name": "中宇",
+      "position": "midstream",
+      "role": "水處理工程",
+      "x": 0.812,
+      "y": 0.34
+    },
+    {
+      "id": "essential",
+      "name": "Essential Utilities",
+      "short_name": "必要公用",
+      "position": "downstream",
+      "role": "水務公用事業",
+      "x": 0.881,
+      "y": 0.34
+    },
+    {
+      "id": "american_water",
+      "name": "American Water Works",
+      "short_name": "美國水務",
+      "position": "downstream",
+      "role": "水務公用事業",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "mueller",
+      "target": "essential",
+      "strength": 2
+    },
+    {
+      "source": "mueller",
+      "target": "american_water",
+      "strength": 2
+    },
+    {
+      "source": "energy_recovery",
+      "target": "veolia",
+      "strength": 2
+    },
+    {
+      "source": "energy_recovery",
+      "target": "xylem",
+      "strength": 2
+    },
+    {
+      "source": "chien_fu",
+      "target": "zhongyu",
+      "strength": 2
+    },
+    {
+      "source": "xylem",
+      "target": "essential",
+      "strength": 2
+    },
+    {
+      "source": "xylem",
+      "target": "american_water",
+      "strength": 2
+    },
+    {
+      "source": "badger",
+      "target": "essential",
+      "strength": 2
+    },
+    {
+      "source": "badger",
+      "target": "american_water",
+      "strength": 2
+    }
+  ],
+  "etfs": [
+    {
+      "id": "etf_pho",
+      "name": "Invesco Water Resources ETF",
+      "ticker": "PHO",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "description": "美國水資源 ETF，涵蓋水處理與公用事業"
+    },
+    {
+      "id": "etf_cgw",
+      "name": "Invesco S&P Global Water Index ETF",
+      "ticker": "CGW",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "全球水資源 ETF"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "mueller": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "energy_recovery": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "xylem": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "veolia": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 63
+  },
+  "pentair": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "ao_smith": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "danaher": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "watts": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "badger": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "kurita": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "zhongyu": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 55
+  },
+  "essential": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "american_water": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "etf_pho": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "etf_cgw": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  }
+}

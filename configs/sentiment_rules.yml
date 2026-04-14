@@ -1,0 +1,91 @@
+# 記憶體供應鏈 - 情緒分析規則
+
+# 正面詞彙
+positive:
+  strong:  # 分數 +1.0
+    - "突破"
+    - "領先"
+    - "大幅成長"
+    - "超越預期"
+    - "創新高"
+    - "供不應求"
+    - "record"
+    - "breakthrough"
+    - "leading"
+    - "outperform"
+    - "beat expectations"
+    - "surpass"
+    - "dominant"
+
+  moderate:  # 分數 +0.5
+    - "成長"
+    - "增加"
+    - "擴大"
+    - "提升"
+    - "擴產"
+    - "量產"
+    - "optimistic"
+    - "growth"
+    - "increase"
+    - "expand"
+    - "improve"
+    - "strong demand"
+    - "ramp up"
+    - "mass production"
+
+# 負面詞彙
+negative:
+  strong:  # 分數 -1.0
+    - "虧損"
+    - "下滑"
+    - "衰退"
+    - "警告"
+    - "暴跌"
+    - "產能過剩"
+    - "loss"
+    - "decline"
+    - "warning"
+    - "plunge"
+    - "miss expectations"
+    - "overcapacity"
+    - "writedown"
+
+  moderate:  # 分數 -0.5
+    - "減少"
+    - "放緩"
+    - "挑戰"
+    - "疲軟"
+    - "庫存過高"
+    - "延後"
+    - "concerns"
+    - "slow"
+    - "weak"
+    - "challenging"
+    - "uncertainty"
+    - "pressure"
+    - "delay"
+    - "excess inventory"
+
+# 否定詞設定
+negation:
+  words:
+    - "否認"
+    - "取消"
+    - "延後"
+    - "不會"
+    - "沒有"
+    - "未"
+    - "非"
+    - "尚未"
+    - "deny"
+    - "cancel"
+    - "postpone"
+    - "not"
+    - "no"
+    - "won't"
+    - "didn't"
+    - "hasn't"
+    - "without"
+    - "unlikely"
+  # 否定詞的影響範圍（前後幾個詞）
+  window: 5

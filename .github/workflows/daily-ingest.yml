@@ -1,0 +1,183 @@
+name: Daily Data Ingest
+
+on:
+  schedule:
+    # Run at 08:00 UTC every day (16:00 Taiwan time)
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+    inputs:
+      fetch_type:
+        description: 'Type of fetch to run'
+        required: false
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - stocks
+          - news
+          - ir
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium
+
+      - name: Create data directories
+        run: |
+          mkdir -p data/raw/$(date +%Y-%m-%d)
+          mkdir -p data/normalized
+          mkdir -p data/cards
+          mkdir -p site/data
+
+      - name: Fetch stock prices
+        if: ${{ github.event.inputs.fetch_type == 'all' || github.event.inputs.fetch_type == 'stocks' || github.event_name == 'schedule' }}
+        run: |
+          python scripts/fetch_stocks.py
+        continue-on-error: true
+
+      - name: Fetch company IR/News
+        if: ${{ github.event.inputs.fetch_type == 'all' || github.event.inputs.fetch_type == 'ir' || github.event_name == 'schedule' }}
+        run: |
+          python scripts/fetch_companies.py
+        continue-on-error: true
+
+      - name: Fetch RSS news
+        if: ${{ github.event.inputs.fetch_type == 'all' || github.event.inputs.fetch_type == 'news' || github.event_name == 'schedule' }}
+        run: |
+          python scripts/fetch_rss.py
+        continue-on-error: true
+
+      - name: Normalize data
+        run: |
+          python scripts/normalize.py
+        continue-on-error: true
+
+      - name: Fetch financial data
+        run: |
+          python scripts/fetch_financials.py
+        continue-on-error: true
+
+      - name: Generate cards
+        run: |
+          python scripts/generate_cards.py
+        continue-on-error: true
+
+      - name: Enrich events
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          if [ -f "data/raw/$TODAY/companies.jsonl" ]; then
+            python scripts/enrich_event.py --date $TODAY --input "data/raw/$TODAY/companies.jsonl"
+          fi
+          if [ -f "data/raw/$TODAY/rss.jsonl" ]; then
+            python scripts/enrich_event.py --date $TODAY --input "data/raw/$TODAY/rss.jsonl"
+          fi
+        continue-on-error: true
+
+      - name: Generate metrics
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          python scripts/generate_metrics.py --date $TODAY
+        continue-on-error: true
+
+      - name: Generate daily report
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          mkdir -p site/data/reports/daily
+          python scripts/generate_daily.py --date $TODAY
+          cp reports/daily/$TODAY.json site/data/reports/daily/ 2>/dev/null || true
+        continue-on-error: true
+
+      - name: Generate 7d report
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          mkdir -p site/data/reports/7d
+          python scripts/generate_7d_report.py --date $TODAY
+          cp reports/7d/$TODAY.json site/data/reports/7d/ 2>/dev/null || true
+        continue-on-error: true
+
+      - name: Generate report indexes
+        run: |
+          # Generate daily report index
+          ls site/data/reports/daily/*.json 2>/dev/null | xargs -I {} basename {} .json | sort -r | jq -R -s 'split("\n") | map(select(length > 0))' > site/data/reports/daily/index.json || echo '[]' > site/data/reports/daily/index.json
+          # Generate 7d report index
+          ls site/data/reports/7d/*.json 2>/dev/null | xargs -I {} basename {} .json | sort -r | jq -R -s 'split("\n") | map(select(length > 0))' > site/data/reports/7d/index.json || echo '[]' > site/data/reports/7d/index.json
+
+      - name: Generate config stats
+        run: |
+          mkdir -p site/data/configs
+          python scripts/generate_config_stats.py
+        continue-on-error: true
+
+      - name: Sync events to frontend
+        run: |
+          python scripts/sync_to_frontend.py
+        continue-on-error: true
+
+      - name: Update site data
+        run: |
+          # Copy latest data to site for visualization
+          # Note: events.json is handled by sync_to_frontend.py, don't overwrite
+          cp data/normalized/stocks.json site/data/ 2>/dev/null || true
+          cp data/normalized/companies.json site/data/ 2>/dev/null || true
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+
+          git add data/ site/data/
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Daily data update: $(date +%Y-%m-%d)"
+            git push
+          fi
+
+  deploy-site:
+    needs: fetch-data
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Pull latest changes
+        run: git pull origin main
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'site'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

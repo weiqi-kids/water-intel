@@ -1,0 +1,236 @@
+companies:
+- id: mueller
+  name: Mueller Water Products
+  aliases:
+  - 穆勒
+  - Mueller
+  ticker: MWA
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 管材設備
+  description: 北美水管與閥門設備領導者
+  ir_url: https://www.muellerwaterproducts.com/investors
+  downstream:
+  - essential
+  - american_water
+- id: energy_recovery
+  name: Energy Recovery
+  aliases:
+  - ERII
+  ticker: ERII
+  market: NASDAQ
+  currency: USD
+  position: upstream
+  role: 能量回收設備
+  description: 海水淡化壓力交換器龍頭
+  ir_url: https://ir.energyrecovery.com/
+  downstream:
+  - veolia
+  - xylem
+- id: chien_fu
+  name: 千附精密
+  aliases:
+  - Chien Fu
+  - 千附
+  ticker: 6235.TWO
+  market: TPEx
+  currency: TWD
+  position: upstream
+  role: 水處理零組件
+  description: 台灣精密鑄件與水處理零組件
+  ir_url: null
+  downstream:
+  - zhongyu
+- id: xylem
+  name: Xylem
+  aliases:
+  - 賽萊默
+  ticker: XYL
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 水處理設備
+  description: 全球水處理技術與泵浦龍頭
+  ir_url: https://www.xylem.com/en-us/investors/
+  upstream:
+  - energy_recovery
+  downstream:
+  - essential
+  - american_water
+- id: veolia
+  name: Veolia Environnement
+  aliases:
+  - 威立雅
+  - Veolia
+  ticker: VIE.PA
+  market: Euronext
+  currency: EUR
+  position: midstream
+  role: 水務營運
+  description: 全球最大水務營運商
+  ir_url: https://www.veolia.com/en/finance
+  upstream:
+  - energy_recovery
+  downstream: []
+- id: pentair
+  name: Pentair
+  aliases:
+  - 濱特爾
+  ticker: PNR
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 水處理設備
+  description: 家用與工業水處理過濾設備
+  ir_url: https://www.pentair.com/en-us/investors.html
+  upstream: []
+  downstream: []
+- id: ao_smith
+  name: A.O. Smith
+  aliases:
+  - 史密斯
+  - AO Smith
+  ticker: AOS
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 熱水器/淨水器
+  description: 熱水器與家用淨水設備
+  ir_url: https://www.aosmith.com/investors/
+  upstream: []
+  downstream: []
+- id: danaher
+  name: Danaher
+  aliases:
+  - 丹納赫
+  ticker: DHR
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 水質分析
+  description: 水質分析儀器與過濾設備（Hach, Pall）
+  ir_url: https://investors.danaher.com/
+  upstream: []
+  downstream: []
+- id: watts
+  name: Watts Water Technologies
+  aliases:
+  - Watts
+  ticker: WTS
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 流量控制
+  description: 水流量管理與安全設備
+  ir_url: https://investors.wattswater.com/
+  upstream: []
+  downstream: []
+- id: badger
+  name: Badger Meter
+  aliases:
+  - 巴傑
+  - Badger
+  ticker: BMI
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 智慧水表
+  description: 智慧水表與流量計量設備
+  ir_url: https://www.badgermeter.com/investors/
+  upstream: []
+  downstream:
+  - essential
+  - american_water
+- id: kurita
+  name: Kurita Water Industries
+  aliases:
+  - 栗田
+  - 栗田工業
+  ticker: 6370.T
+  market: TSE
+  currency: JPY
+  position: midstream
+  role: 水處理化學品
+  description: 半導體超純水與工業水處理化學品
+  ir_url: https://ir.kurita.co.jp/en/
+  upstream: []
+  downstream: []
+- id: zhongyu
+  name: 中宇環保
+  aliases:
+  - Zhong Yu
+  - 中宇
+  ticker: 1535.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 水處理工程
+  description: 台灣水處理工程與環保設備
+  ir_url: null
+  upstream:
+  - chien_fu
+  downstream: []
+- id: essential
+  name: Essential Utilities
+  aliases:
+  - 必要公用
+  - Essential
+  ticker: WTRG
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 水務公用事業
+  description: 美國自來水公用事業
+  ir_url: https://www.essential.co/investors
+  upstream:
+  - xylem
+  - mueller
+  - badger
+  downstream: []
+- id: american_water
+  name: American Water Works
+  aliases:
+  - 美國水務
+  - AWK
+  ticker: AWK
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 水務公用事業
+  description: 美國最大上市水務公司
+  ir_url: https://ir.amwater.com/
+  upstream:
+  - xylem
+  - mueller
+  - badger
+  downstream: []
+etfs:
+- id: pho
+  name: Invesco Water Resources ETF
+  ticker: PHO
+  market: NASDAQ
+  currency: USD
+  description: 美國水資源 ETF，涵蓋水處理與公用事業
+- id: cgw
+  name: Invesco S&P Global Water Index ETF
+  ticker: CGW
+  market: NYSE
+  currency: USD
+  description: 全球水資源 ETF
+supply_chain_positions:
+  upstream:
+  - 管材設備
+  - 能量回收設備
+  - 水處理零組件
+  midstream:
+  - 水處理設備
+  - 水務營運
+  - 熱水器/淨水器
+  - 水質分析
+  - 流量控制
+  - 智慧水表
+  - 水處理化學品
+  - 水處理工程
+  downstream:
+  - 水務公用事業

@@ -1,0 +1,103 @@
+topics:
+  water_scarcity:
+    display: 水資源短缺
+    keywords:
+    - water scarcity
+    - 水資源短缺
+    - 缺水
+    - drought
+    - 乾旱
+    - water stress
+    - 水資源危機
+    - water crisis
+  desalination:
+    display: 海水淡化
+    keywords:
+    - desalination
+    - 海水淡化
+    - reverse osmosis
+    - 逆滲透
+    - RO membrane
+    - 淡化廠
+    - desalination plant
+    - brackish water
+  wastewater_treatment:
+    display: 廢水處理
+    keywords:
+    - wastewater
+    - 廢水處理
+    - 污水處理
+    - sewage
+    - water treatment
+    - 水處理
+    - effluent
+    - reclaimed water
+    - 再生水
+  semiconductor_ultrapure_water:
+    display: 半導體超純水
+    keywords:
+    - ultrapure water
+    - 超純水
+    - UPW
+    - semiconductor water
+    - fab water
+    - deionized water
+    - 去離子水
+    - 高純度水
+  smart_water:
+    display: 智慧水務
+    keywords:
+    - smart water
+    - 智慧水務
+    - smart meter
+    - 智慧水表
+    - AMI
+    - water IoT
+    - leak detection
+    - 漏水偵測
+    - digital water
+  earnings:
+    display: 財報
+    keywords:
+    - 財報
+    - earnings
+    - quarterly results
+    - Q1
+    - Q2
+    - Q3
+    - Q4
+    - 營收
+    - revenue
+    - profit
+    - 獲利
+    - gross margin
+    - 毛利率
+  guidance:
+    display: 展望
+    keywords:
+    - 展望
+    - guidance
+    - outlook
+    - forecast
+    - 預測
+  capex:
+    display: 資本支出
+    keywords:
+    - capex
+    - capital expenditure
+    - 資本支出
+    - 投資
+    - infrastructure
+    - 基礎建設
+  regulation:
+    display: 法規
+    keywords:
+    - regulation
+    - 法規
+    - EPA
+    - 環保署
+    - PFAS
+    - 水質標準
+    - water quality standard
+    - compliance
+    - 合規

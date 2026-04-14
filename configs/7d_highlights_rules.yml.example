@@ -1,0 +1,82 @@
+# 7 日報告亮點偵測規則範例
+# 複製此檔案為 7d_highlights_rules.yml 並依產業修改
+
+highlights_7d:
+
+  # 本週最大轉折
+  sentiment_reversal:
+    enabled: true
+    conditions:
+      # 本週情緒與上週情緒符號相反
+      sign_flip: true
+      # 變化幅度最小值
+      min_delta: 0.4
+      # 最少事件數
+      min_events_this_week: 5
+      min_events_last_week: 3
+    output:
+      type: "sentiment_reversal"
+      fields:
+        - "subject"
+        - "subject_type"
+        - "this_week_sentiment"
+        - "last_week_sentiment"
+        - "delta"
+        - "top_events"
+
+  # 新出現的供應鏈關係
+  emerging_relation:
+    enabled: true
+    conditions:
+      # 本週首次出現（過去 N 天沒出現過）
+      lookback_days: 30
+      # 最少共同提及次數
+      min_co_mentions: 3
+    output:
+      type: "emerging_relation"
+      fields:
+        - "company_a"
+        - "company_b"
+        - "relation_type"
+        - "co_mention_count"
+        - "context_topics"
+        - "sample_events"
+
+  # 持續發酵（連續 N 週上升）
+  sustained_momentum:
+    enabled: true
+    conditions:
+      consecutive_weeks: 3
+      min_growth_rate: 0.2  # 每週至少成長 20%
+    output:
+      type: "sustained_momentum"
+      fields:
+        - "subject"
+        - "subject_type"
+        - "weeks_rising"
+        - "total_growth"
+        - "this_week_count"
+
+  # 沉寂後爆發
+  dormant_spike:
+    enabled: true
+    conditions:
+      silent_weeks: 4       # 沉寂至少 4 週
+      spike_threshold: 5    # 本週數量超過此值
+    output:
+      type: "dormant_spike"
+      fields:
+        - "subject"
+        - "subject_type"
+        - "silent_weeks"
+        - "this_week_count"
+        - "last_seen_date"
+
+  # 亮點排序權重（用於決定亮點優先順序）
+  ranking_weights:
+    sentiment_reversal: 1.0
+    emerging_relation: 0.9
+    sustained_momentum: 0.8
+    dormant_spike: 0.7
+    top_event: 0.6          # 本週最高分事件
+    volume_anomaly: 0.5     # 新聞量異常
