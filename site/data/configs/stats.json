@@ -1,0 +1,86 @@
+{
+  "company_count": 14,
+  "topic_count": 9,
+  "alias_count": 75,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "mueller",
+      "short_name": "Mueller Water Products",
+      "tier": ""
+    },
+    {
+      "id": "energy_recovery",
+      "short_name": "Energy Recovery",
+      "tier": ""
+    },
+    {
+      "id": "chien_fu",
+      "short_name": "千附精密",
+      "tier": ""
+    },
+    {
+      "id": "xylem",
+      "short_name": "Xylem",
+      "tier": ""
+    },
+    {
+      "id": "veolia",
+      "short_name": "Veolia Environnement",
+      "tier": ""
+    },
+    {
+      "id": "pentair",
+      "short_name": "Pentair",
+      "tier": ""
+    },
+    {
+      "id": "ao_smith",
+      "short_name": "A.O. Smith",
+      "tier": ""
+    },
+    {
+      "id": "danaher",
+      "short_name": "Danaher",
+      "tier": ""
+    },
+    {
+      "id": "watts",
+      "short_name": "Watts Water Technologies",
+      "tier": ""
+    },
+    {
+      "id": "badger",
+      "short_name": "Badger Meter",
+      "tier": ""
+    },
+    {
+      "id": "kurita",
+      "short_name": "Kurita Water Industries",
+      "tier": ""
+    },
+    {
+      "id": "zhongyu",
+      "short_name": "中宇環保",
+      "tier": ""
+    },
+    {
+      "id": "essential",
+      "short_name": "Essential Utilities",
+      "tier": ""
+    },
+    {
+      "id": "american_water",
+      "short_name": "American Water Works",
+      "tier": ""
+    }
+  ]
+}
