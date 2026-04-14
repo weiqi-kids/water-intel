@@ -2089,7 +2089,7 @@
                 return 'flat';
             }
 
-            // 只顯示有 alert 的 + 按 AR 變化排序的前 10 家
+            // 只顯示有 alert 的 + 按應收帳款變化排序的前 10 家
             const sorted = [...fin.data]
                 .filter(c => c.ar_qoq !== 'N/A' || c.inv_qoq !== 'N/A')
                 .sort((a, b) => {
@@ -2106,7 +2106,7 @@
                 <div class="financial-row${c.alert ? ' alert' : ''}">
                     <span class="financial-name">${c.name}</span>
                     <span class="financial-metric">
-                        <span class="financial-label">AR</span>
+                        <span class="financial-label">應收</span>
                         <span class="financial-change ${changeClass(c.ar_qoq)}">${c.ar_qoq}</span>
                     </span>
                     <span class="financial-metric">
