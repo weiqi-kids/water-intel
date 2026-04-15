@@ -6,42 +6,6 @@
     <title>水資源供應鏈情報</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <style>
-        :root {
-            /* OKLCH Design Tokens */
-            /* 背景 */
-            --bg-base: oklch(0.97 0.005 250);
-            --bg-surface: oklch(0.94 0.005 250);
-            --bg-overlay: oklch(0.90 0.008 250);
-            --bg-hover: oklch(0.92 0.005 250);
-            /* 文字 */
-            --text-primary: oklch(0.20 0.01 250);
-            --text-secondary: oklch(0.45 0.01 250);
-            --text-muted: oklch(0.60 0.008 250);
-            /* 語意 */
-            --color-critical: oklch(0.55 0.22 25);
-            --color-warn: oklch(0.52 0.14 80);
-            --color-pass: oklch(0.48 0.16 150);
-            --color-info: oklch(0.52 0.13 240);
-            --color-link: oklch(0.48 0.15 250);
-            /* 供應鏈 */
-            --color-upstream: oklch(0.55 0.16 55);
-            --color-midstream: oklch(0.52 0.13 240);
-            --color-downstream: oklch(0.48 0.16 150);
-            /* 邊框 */
-            --border-subtle: oklch(0.85 0.005 250);
-            /* 專案品牌色 */
-            --brand-hue: 250;
-            --color-brand: oklch(0.50 0.15 var(--brand-hue));
-            /* Hex fallbacks */
-            --hex-critical: #c93135;
-            --hex-warn: #8a7020;
-            --hex-pass: #1e8050;
-            --hex-info: #2a6bb8;
-            --hex-upstream: #b86a2a;
-            --hex-midstream: #2a6bb8;
-            --hex-downstream: #1e8050;
-        }
-
         * {
             margin: 0;
             padding: 0;
@@ -50,15 +14,15 @@
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            background: var(--bg-base, #f5f6f8);
-            color: var(--text-primary, #1e2030);
+            background: #f5f7fa;
+            color: #1a1a2e;
             padding: 20px;
         }
 
         h1 {
             font-size: 1.5rem;
             margin-bottom: 20px;
-            color: var(--text-primary, #1e2030);
+            color: #1a1a2e;
         }
 
         .main-container {
@@ -77,7 +41,7 @@
 
         .panel {
             background: #ffffff;
-            border: 1px solid var(--border-subtle, #d5d6da);
+            border: 1px solid #e0e4e8;
             border-radius: 8px;
             padding: 15px;
             box-shadow: 0 1px 3px rgba(0,0,0,0.05);
@@ -108,7 +72,7 @@
 
         .detail-panel {
             background: #ffffff;
-            border: 1px solid var(--border-subtle, #d5d6da);
+            border: 1px solid #e0e4e8;
             border-radius: 8px;
             padding: 20px;
             height: fit-content;
@@ -122,7 +86,7 @@
         .detail-panel h2 {
             font-size: 1.1rem;
             margin-bottom: 15px;
-            color: var(--text-primary, #1e2030);
+            color: #1a1a2e;
             border-bottom: 1px solid #e0e4e8;
             padding-bottom: 10px;
         }
@@ -140,7 +104,7 @@
 
         .report-section h3 {
             font-size: 0.9rem;
-            color: var(--text-primary, #1e2030);
+            color: #1a1a2e;
             margin-bottom: 10px;
             display: flex;
             align-items: center;
@@ -155,23 +119,23 @@
         }
 
         .report-section.daily h3::before {
-            background: var(--color-critical, #c93135);
+            background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
         }
 
         .report-section.weekly h3::before {
-            background: var(--color-info, #2a6bb8);
+            background: linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%);
         }
 
         .report-section.analysis h3::before {
-            background: var(--color-link, #1e5ab8);
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
         }
 
         .report-section.financials h3::before {
-            background: var(--color-pass, #1e8050);
+            background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
         }
 
         .report-section.weekly-llm h3::before {
-            background: oklch(0.50 0.17 300);
+            background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
         }
 
         .llm-summary {
@@ -208,9 +172,9 @@
             margin-top: 4px;
         }
 
-        .signal-dot.red { background: var(--color-critical, #c93135); }
-        .signal-dot.yellow { background: var(--color-warn, #8a7020); }
-        .signal-dot.green { background: var(--color-pass, #1e8050); }
+        .signal-dot.red { background: #ef4444; }
+        .signal-dot.yellow { background: #f59e0b; }
+        .signal-dot.green { background: #10b981; }
 
         .financial-quarter {
             font-size: 0.75rem;
@@ -254,9 +218,9 @@
             text-align: right;
         }
 
-        .financial-change.up { color: var(--color-critical, #c93135); }
-        .financial-change.down { color: var(--color-pass, #1e8050); }
-        .financial-change.flat { color: var(--text-muted, #8a8c98); }
+        .financial-change.up { color: #ef4444; }
+        .financial-change.down { color: #10b981; }
+        .financial-change.flat { color: #888; }
 
         .financial-row.alert {
             background: #fef3c7;
@@ -275,7 +239,7 @@
 
         .watchlist-company {
             font-weight: 500;
-            color: var(--text-primary, #1e2030);
+            color: #1a1a2e;
         }
 
         .watchlist-reason {
@@ -292,7 +256,7 @@
 
         .date-nav button {
             background: #f0f2f5;
-            border: 1px solid var(--border-subtle, #d5d6da);
+            border: 1px solid #e0e4e8;
             border-radius: 4px;
             padding: 4px 8px;
             cursor: pointer;
@@ -303,7 +267,7 @@
 
         .date-nav button:hover:not(:disabled) {
             background: #e4e7eb;
-            color: var(--text-primary, #1e2030);
+            color: #1a1a2e;
         }
 
         .date-nav button:disabled {
@@ -510,13 +474,13 @@
             color: #555;
         }
 
-        .detail-tag.positive { background: oklch(0.92 0.04 150); color: var(--color-pass, #1e8050); }
-        .detail-tag.negative { background: oklch(0.92 0.06 25); color: var(--color-critical, #c93135); }
-        .detail-tag.neutral { background: var(--bg-overlay, #dfe0e5); color: var(--text-secondary, #5e6070); }
+        .detail-tag.positive { background: rgba(16, 185, 129, 0.15); color: #059669; }
+        .detail-tag.negative { background: rgba(239, 68, 68, 0.15); color: #dc2626; }
+        .detail-tag.neutral { background: rgba(107, 114, 128, 0.15); color: #6b7280; }
 
         .source-item {
             background: #f8f9fb;
-            border: 1px solid var(--border-subtle, #d5d6da);
+            border: 1px solid #e0e4e8;
             border-radius: 6px;
             padding: 12px;
             margin-bottom: 10px;
@@ -549,7 +513,7 @@
         .source-title {
             font-weight: 500;
             margin-bottom: 6px;
-            color: var(--text-primary, #1e2030);
+            color: #1a1a2e;
         }
 
         .source-title a {
@@ -667,7 +631,7 @@
         .tooltip {
             position: absolute;
             background: #ffffff;
-            border: 1px solid var(--border-subtle, #d5d6da);
+            border: 1px solid #e0e4e8;
             border-radius: 4px;
             padding: 10px 14px;
             font-size: 12px;
@@ -681,7 +645,7 @@
         }
 
         .tooltip strong {
-            color: var(--text-primary, #1e2030);
+            color: #1a1a2e;
         }
 
         .layer-label {
@@ -717,7 +681,7 @@
             margin-bottom: 15px;
             padding: 10px 15px;
             background: #ffffff;
-            border: 1px solid var(--border-subtle, #d5d6da);
+            border: 1px solid #e0e4e8;
             border-radius: 8px;
             box-shadow: 0 1px 3px rgba(0,0,0,0.05);
         }
@@ -729,7 +693,7 @@
 
         .info-bar button {
             background: #f0f2f5;
-            border: 1px solid var(--border-subtle, #d5d6da);
+            border: 1px solid #e0e4e8;
             color: #555;
             padding: 6px 12px;
             border-radius: 4px;
@@ -739,7 +703,7 @@
 
         .info-bar button:hover {
             background: #e4e7eb;
-            color: var(--text-primary, #1e2030);
+            color: #1a1a2e;
         }
 
         .legend {
@@ -771,7 +735,7 @@
         .tab {
             padding: 6px 12px;
             background: #f0f2f5;
-            border: 1px solid var(--border-subtle, #d5d6da);
+            border: 1px solid #e0e4e8;
             border-radius: 4px;
             font-size: 0.8rem;
             cursor: pointer;
@@ -780,7 +744,7 @@
 
         .tab.active {
             background: #ffffff;
-            color: var(--text-primary, #1e2030);
+            color: #1a1a2e;
             border-color: #3b82f6;
         }
 
@@ -794,7 +758,7 @@
         <h1>水資源供應鏈情報</h1>
         <nav style="display: flex; gap: 8px;">
             <a href="index.html" style="padding: 8px 16px; background: #3b82f6; color: white; border-radius: 6px; text-decoration: none; font-size: 0.9rem;">情報總覽</a>
-            <a href="how-it-works.html" style="padding: 8px 16px; background: #f0f2f5; color: #666; border: 1px solid var(--border-subtle, #d5d6da); border-radius: 6px; text-decoration: none; font-size: 0.9rem;">運作流程</a>
+            <a href="how-it-works.html" style="padding: 8px 16px; background: #f0f2f5; color: #666; border: 1px solid #e0e4e8; border-radius: 6px; text-decoration: none; font-size: 0.9rem;">運作流程</a>
             <a onclick="openFeedback()" style="padding: 8px 16px; background: #10b981; color: white; border-radius: 6px; text-decoration: none; font-size: 0.9rem; cursor: pointer;">💬 意見回饋</a>
             <a href="https://ko-fi.com/lightchang" target="_blank" style="padding: 8px 16px; background: #ff5e5b; color: white; border-radius: 6px; text-decoration: none; font-size: 0.9rem;">☕ 贊助</a>
         </nav>
@@ -836,7 +800,7 @@
                         <div id="heatmap-container"></div>
                         <div class="legend" style="justify-content:center; margin-top:8px;">
                             <span style="font-size:0.7rem; color:#888;">跌 3%+</span>
-                            <div style="width:120px; height:10px; border-radius:3px; background:linear-gradient(90deg, #c93135, #dfe0e5, #1e8050);"></div>
+                            <div style="width:120px; height:10px; border-radius:3px; background:linear-gradient(90deg, rgb(220,60,60), rgb(200,200,200), rgb(40,230,60));"></div>
                             <span style="font-size:0.7rem; color:#888;">漲 3%+</span>
                         </div>
                     </div>
@@ -852,9 +816,9 @@
                 <div class="panel-title">事件時間軸（點擊查看詳情）</div>
                 <svg id="timeline-svg"></svg>
                 <div class="legend">
-                    <div class="legend-item"><div class="legend-dot" style="background:#1e8050"></div> 正面</div>
-                    <div class="legend-item"><div class="legend-dot" style="background:#8a8c98"></div> 中性</div>
-                    <div class="legend-item"><div class="legend-dot" style="background:#c93135"></div> 負面</div>
+                    <div class="legend-item"><div class="legend-dot" style="background:#10b981"></div> 正面</div>
+                    <div class="legend-item"><div class="legend-dot" style="background:#6b7280"></div> 中性</div>
+                    <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> 負面</div>
                 </div>
             </div>
         </div>
@@ -1181,11 +1145,10 @@
         };
 
         // ===== Colors =====
-        // OKLCH design tokens (hex fallback for JS/canvas)
         const positionColor = {
-            upstream: "#b86a2a",   // oklch(0.55 0.16 55) 橘系
-            midstream: "#2a6bb8",  // oklch(0.52 0.13 240) 藍系
-            downstream: "#1e8050"  // oklch(0.48 0.16 150) 綠系
+            upstream: "#d97706",   // 橘色 - 上游
+            midstream: "#2563eb",  // 藍色 - 中游
+            downstream: "#059669"  // 綠色 - 下游
         };
 
         // 依位置產生同色系顏色
@@ -2106,7 +2069,7 @@
                 <div class="financial-row${c.alert ? ' alert' : ''}">
                     <span class="financial-name">${c.name}</span>
                     <span class="financial-metric">
-                        <span class="financial-label">應收</span>
+                        <span class="financial-label">AR</span>
                         <span class="financial-change ${changeClass(c.ar_qoq)}">${c.ar_qoq}</span>
                     </span>
                     <span class="financial-metric">
@@ -2191,23 +2154,16 @@
             ];
 
             // 計算色塊顏色
-            // OKLCH-aligned heatmap colors (hex fallback)
-            // critical=#c93135 (hue 25), neutral=#dfe0e5, pass=#1e8050 (hue 150)
             function changeColor(pct) {
                 const clamped = Math.max(-5, Math.min(5, pct));
-                const t = (clamped + 5) / 10; // 0=critical red, 0.5=neutral, 1=pass green
+                const t = (clamped + 5) / 10; // 0=deep red, 0.5=gray, 1=deep green
                 if (t < 0.5) {
-                    const f = t * 2; // 0→1
-                    const r = Math.round(201 + f * (223 - 201));
-                    const g = Math.round(49 + f * (224 - 49));
-                    const b = Math.round(53 + f * (229 - 53));
-                    return { bg: `rgb(${r},${g},${b})`, text: f < 0.5 ? '#fff' : '#1e2030' };
+                    const r = 220, g = Math.round(60 + t * 2 * 140), b = Math.round(60 + t * 2 * 140);
+                    return { bg: `rgb(${r},${g},${b})`, text: '#fff' };
                 } else {
-                    const f = (t - 0.5) * 2; // 0→1
-                    const r = Math.round(223 - f * (223 - 30));
-                    const g = Math.round(224 - f * (224 - 128));
-                    const b = Math.round(229 - f * (229 - 80));
-                    return { bg: `rgb(${r},${g},${b})`, text: f > 0.4 ? '#fff' : '#1e2030' };
+                    const factor = (t - 0.5) * 2;
+                    const r = Math.round(200 - factor * 160), g = Math.round(200 + factor * 30), b = Math.round(200 - factor * 140);
+                    return { bg: `rgb(${r},${g},${b})`, text: factor > 0.3 ? '#fff' : '#333' };
                 }
             }
 
@@ -2257,18 +2213,18 @@
 
             <div id="feedback-screenshot" style="display: none; margin-bottom: 16px;">
                 <p style="color: #666; margin-bottom: 8px;">截圖預覽（可在上面圈選標記）：</p>
-                <div style="position: relative; border: 1px solid var(--border-subtle, #d5d6da); border-radius: 8px; overflow: hidden;">
+                <div style="position: relative; border: 1px solid #e0e4e8; border-radius: 8px; overflow: hidden;">
                     <canvas id="feedback-canvas" style="width: 100%; cursor: crosshair;"></canvas>
                 </div>
                 <div style="display: flex; gap: 8px; margin-top: 8px;">
-                    <button onclick="clearDrawing()" style="padding: 8px 16px; background: #f0f2f5; border: 1px solid var(--border-subtle, #d5d6da); border-radius: 6px; cursor: pointer;">清除標記</button>
-                    <button onclick="retakeScreenshot()" style="padding: 8px 16px; background: #f0f2f5; border: 1px solid var(--border-subtle, #d5d6da); border-radius: 6px; cursor: pointer;">重新截圖</button>
+                    <button onclick="clearDrawing()" style="padding: 8px 16px; background: #f0f2f5; border: 1px solid #e0e4e8; border-radius: 6px; cursor: pointer;">清除標記</button>
+                    <button onclick="retakeScreenshot()" style="padding: 8px 16px; background: #f0f2f5; border: 1px solid #e0e4e8; border-radius: 6px; cursor: pointer;">重新截圖</button>
                 </div>
             </div>
 
             <div style="margin-bottom: 16px;">
                 <label style="display: block; margin-bottom: 8px; font-weight: 500;">您的意見或建議：</label>
-                <textarea id="feedback-message" rows="4" style="width: 100%; padding: 12px; border: 1px solid var(--border-subtle, #d5d6da); border-radius: 8px; font-size: 1rem; resize: vertical; box-sizing: border-box;" placeholder="請描述您遇到的問題或建議..."></textarea>
+                <textarea id="feedback-message" rows="4" style="width: 100%; padding: 12px; border: 1px solid #e0e4e8; border-radius: 8px; font-size: 1rem; resize: vertical; box-sizing: border-box;" placeholder="請描述您遇到的問題或建議..."></textarea>
             </div>
 
             <div id="feedback-status" style="display: none; padding: 12px; border-radius: 8px; margin-bottom: 16px;"></div>
