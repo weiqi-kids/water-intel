@@ -54,5 +54,15 @@
       "event_count": 0,
       "sentiment_avg": 0
     }
-  ]
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-08 ~ 2026-04-14）水資源產業動態較為平靜，未有重大事件發生。建議持續追蹤下週動態。",
+    "watchlist": [
+      {
+        "company": "水資源產業",
+        "reason": "本週無特定企業異常，建議持續追蹤整體產業走勢。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

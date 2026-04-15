@@ -14,5 +14,19 @@
     },
     "top_companies": [],
     "top_topics": []
-  }
+  },
+  "llm_analysis": {
+    "summary": "2026-04-14 無水資源產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }
