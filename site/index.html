@@ -1464,9 +1464,9 @@
             svg.selectAll("*").remove();
 
             const layers = [
-                { name: "上游（設備/材料/EDA）", y: 0.0, height: 0.32, color: "rgba(245, 158, 11, 0.06)" },
-                { name: "中游（製造/代工/封測）", y: 0.34, height: 0.34, color: "rgba(59, 130, 246, 0.06)" },
-                { name: "下游（AI晶片/系統/CSP）", y: 0.70, height: 0.30, color: "rgba(16, 185, 129, 0.06)" }
+                { name: "上游（水處理零組件/管材設備/能量回收設備）", y: 0.13, height: 0.08, color: "rgba(245, 158, 11, 0.08)" },
+                { name: "中游（智慧水表/水務營運/水處理化學品/水處理工程...）", y: 0.32, height: 0.36, color: "rgba(59, 130, 246, 0.08)" },
+                { name: "下游（水務公用事業）", y: 0.79, height: 0.08, color: "rgba(16, 185, 129, 0.08)" }
             ];
 
             layers.forEach(layer => {
@@ -2069,7 +2069,7 @@
                 <div class="financial-row${c.alert ? ' alert' : ''}">
                     <span class="financial-name">${c.name}</span>
                     <span class="financial-metric">
-                        <span class="financial-label">AR</span>
+                        <span class="financial-label">應收</span>
                         <span class="financial-change ${changeClass(c.ar_qoq)}">${c.ar_qoq}</span>
                     </span>
                     <span class="financial-metric">
