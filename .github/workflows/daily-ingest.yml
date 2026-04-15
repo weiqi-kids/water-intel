@@ -76,6 +76,16 @@ jobs:
           python scripts/fetch_financials.py
         continue-on-error: true
 
+
+      - name: Fetch fund flow data
+        run: |
+          python scripts/fetch_fund_flow.py
+        continue-on-error: true
+
+      - name: Fetch institutional holders
+        run: |
+          python scripts/fetch_holders.py
+        continue-on-error: true
       - name: Generate cards
         run: |
           python scripts/generate_cards.py
@@ -138,6 +148,8 @@ jobs:
           # Note: events.json is handled by sync_to_frontend.py, don't overwrite
           cp data/normalized/stocks.json site/data/ 2>/dev/null || true
           cp data/normalized/companies.json site/data/ 2>/dev/null || true
+          cp data/fund_flow/latest.json site/data/fund_flow.json 2>/dev/null || true
+          cp data/holders/latest.json site/data/holders.json 2>/dev/null || true
 
       - name: Commit and push changes
         run: |

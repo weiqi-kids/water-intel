@@ -1,5 +1,60 @@
 [
   {
+    "id": "american_water-2026-04-14-026",
+    "date": "2026-04-14",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Is American Water’s US$48 Billion Infrastructure Pledge Altering The Investment Case For American Water Works (AWK)? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOU12WHpMb1hMQXlWNzhMRFA2LWxhb191TldXdUZsQWhsZDVmS1FJOFRQWFhuNWZHalFiNlFtTlRJOEJuY0dJRnFKY2ZHY25lS0YzQ3RBaDl2ME95ZF9NdmJIZlNtc214REk5T1BGUX",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-10-027",
+    "date": "2026-04-10",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "American Water's West Virginia Unit to Invest $1.6M in Infrastructure - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxORGtDdWNKYW9LQUlrYnhJNHZNSmZDTmZ5M1lHb3NIVWRJenl6RnZoeG1uaFhWMjZFSDh1ZVo5SGsyLVRxeG1wLVJpdE5kVjlxZ0xPdVpieTlwQVRVQjl6WnEzeG9fRm10WnRYaXZoRU",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-10-029",
+    "date": "2026-04-10",
+    "companies": [],
+    "topics": [
+      "smart_water",
+      "earnings",
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "West Virginia American Water Invests $1.6M in South Charleston Infrastructure - National Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU1phcGpTNUhoemhjaTlRTE94YWtHOEYzTDh4amIyU2lCOEJLYjVfRUE2aWpxdmRMV0NaR0V1OU9BbVFDdWhWT0tia2dDM3R3dDJ6SGtFcUdYVUhjeHkzLTFiakpFSmpIWnNGcWs2dj",
+    "sources": []
+  },
+  {
+    "id": "watts-2026-04-08-001",
+    "date": "2026-04-08",
+    "companies": [
+      "watts"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Watts Water Technologies, Inc. Announces First Quarter 2026 Earnings Release and Earnings Conference Call",
+    "summary": "",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-03-001",
     "date": "2026-04-03",
     "companies": [],
@@ -9,6 +64,20 @@
     "impact": "positive",
     "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
     "summary": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                           ",
+    "sources": []
+  },
+  {
+    "id": "badger-2026-04-01-003",
+    "date": "2026-04-01",
+    "companies": [
+      "badger"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Badger Meter Schedules First Quarter 2026 Earnings Call",
+    "summary": "",
     "sources": []
   },
   {
@@ -24,6 +93,19 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-03-28-020",
+    "date": "2026-03-28",
+    "companies": [],
+    "topics": [
+      "water_scarcity",
+      "desalination"
+    ],
+    "impact": "neutral",
+    "title": "Reverse Osmosis Pump Market Driven by Desalination Investment to Address Water Scarcity Through 2035 - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPeUFHWG9HdGhyZjVxVzJwalc4LWUyZVM0dm43XzJOOXhXV0xlZ3FjTE1aYTBxMnNGTFd5dEN1VHdQZ0VqRENSMGRsNzRfWEZPX3FTcEdqcDVBLVRUT0tqckp1NG8zMXVUU3lNejNNNF",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-03-27-005",
     "date": "2026-03-27",
     "companies": [],
@@ -33,6 +115,20 @@
     "impact": "neutral",
     "title": " Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot — near-identical performance blurs the line between real and fake as AI crunch drives knock-off market ",
     "summary": "\n                             Japanese news outlet Akiba PC Hotline! examines a fake Samsung 990 Pro SSD that's starting to show up in the Japanese market. \n                                           ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-27-028",
+    "date": "2026-03-27",
+    "companies": [],
+    "topics": [
+      "smart_water",
+      "earnings",
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "U.S. faces massive drinking water infrastructure investment shortfall, warns AWWA report - Smart Water Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQVllSdU5HYWhJOExoeG1tZG5HQ0JOYlpMR3pGVmxXVlhRN0xUaV9fMGhHV004OTQ1M1B5MURoY25FQ1hzTTAybDhQbjhtUVdQNXlYaEZSNFBzZ2RBeHBMNkxJbFhKdXdyS3dPNGJpUU",
     "sources": []
   },
   {
@@ -48,6 +144,96 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-03-17-030",
+    "date": "2026-03-17",
+    "companies": [],
+    "topics": [
+      "capex",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Interior Announces $889 Million Investment in Western Water Infrastructure Through President Trump’s One Big Beautiful Bill | U.S. Department of the Interior - U.S. Department of the Interior (.gov)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXl3NjJrck1wUUFRRDV3LXgxMUtMUDJHbGZVM0YzVjhxZm5hZjhZZ0Yxd1p6bVVTMUc0LVJoQTJRNWowTGsxNHlqekZyQTE5WUFYMDYwOUdOTUg3bmdCUFktMjVpYVRrWnEtOHp2VW",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-17-032",
+    "date": "2026-03-17",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "positive",
+    "title": "CT Water seeks 19% rate increase, citing $129M infrastructure investment - Hartford Business Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYkRTZ0lLZG1NYjVDX1pFMGFkaWpHeElEdWVCaTFUUFhWVTZqWjJ0NlJzRTdQUWdTT0UtdDJNUzhvMDNMRDBCbFV2V2t6OFlEbGN5SW1WcVZxYVIyaWZXZ2pzQVc3TXJZai1BdzlHTG",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-09-012",
+    "date": "2026-03-09",
+    "companies": [],
+    "topics": [
+      "smart_water",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "New ceramic membrane cuts filtration pressure by 80%, slashes energy costs - R&D World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQN1kyZGJHNjV4N0pmNTNkV1g4N2VwY1hRakd1UGJzWk4wOHVSMjJiYVFjR0VmUFN4QS1jV3dNVmtkS25LczZBRXRkRTcxV282cENRYWZWM21NcFQ5MWJaRE5kUlVfREg4Z0x4aDV3OV",
+    "sources": []
+  },
+  {
+    "id": "veolia-2026-03-09-033",
+    "date": "2026-03-09",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "capex"
+    ],
+    "impact": "negative",
+    "title": "New White Paper From Veolia and NAWC Defines Economic Imperative to Improve America’s Water Infrastructure - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcWI5eTNMM3VNdTNpdUF5TTJTMmpuVFFIZHRhdGNJbUkxQlJsZkxDTVRCS1JNTXZNRFBOTkhSeGROMWExMTlJZkswNV9BeHB2MHkxOXc5Z0tzd3lVd05sY3F0TndDZ2k5aUdIeDNXLV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-03-011",
+    "date": "2026-03-03",
+    "companies": [],
+    "topics": [
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Filtration+Separation February 2026 issue – online now! - Filtration and Separation",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWpCOEJCZjk3UWFlSEYzS2FYaTIteWRsOW9pdjE0dlFCZUZCUmpoVlJ3ZWw2ZTkxQzJFRHRNMkYzblhOTlY4MEd1TXcwejBpUFNRdlY2UjFHaEpIME5kMXMyMERoUzlaakl5YXNEVX",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-24-040",
+    "date": "2026-02-24",
+    "companies": [],
+    "topics": [
+      "smart_water",
+      "earnings",
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Amazon's $12 billion Louisiana data center to invest $400 million in water infrastructure - Smart Water Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPMFpndTNqa3I1M3dTM09vWmtHTjBSck84eFRuNG0xVW9ENkVrS0FOZDFkS045am5XenpDZ2NNdVhMdU12Z1NpRVh6TjlHUXZjTEVaM2RnbThnNVphTTRIczlUc2lJMmtmWnQ0V2R6Xz",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-19-035",
+    "date": "2026-02-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Middlesex Water Company Reports 2025 Earnings - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWtxTHExRjk1b3o5NW1hVGZ3eDR0VDJ0WTZGWGFjTFlsNGJ2QVJMYzZfNGRfX0dRS1FTVkZzSHoweW9fR2tZMnRkeGhPSTUtTlA3M0w3M2Y4RHNlaS1LalhMTlR2WlVHTXNQTVhKTD",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-02-02-003",
     "date": "2026-02-02",
     "companies": [],
@@ -57,6 +243,385 @@
     "impact": "negative",
     "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
     "summary": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leve",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-31-022",
+    "date": "2026-01-31",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Forget chips: Why VA Tech Wabag & ION Exchange are the ‘silent’ AI winners - The Financial Express",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNFVCRXA4UmVRY3dUNU1raXJYajN4d0M3SXQ0MmdIT3F1cDJrMTMtdV84MGJtS2ZzM0xhUDIzWHZFQTFBVHdjdk5TLWc1dkhfQ0E0Q3BLT0haRUF1bFhjc2lBZkM5RmN6eTRzYjZfNX",
+    "sources": []
+  },
+  {
+    "id": "badger-2026-01-28-004",
+    "date": "2026-01-28",
+    "companies": [
+      "badger"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Badger Meter Reports Fourth Quarter and Full Year 2025 Financial Results",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-28-037",
+    "date": "2026-01-28",
+    "companies": [],
+    "topics": [
+      "smart_water",
+      "earnings",
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Illinois American Water seeks rare approval to advance $577 million infrastructure investment - Smart Water Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOMDZyY0RPajZZZVFzeTAtZ2UzdDl2SlZyM0Q4VjdqaXlFMUhnbzhtUmZSdExGNG5fel8zZktVWW5uZGh4OWlGZVFzWUtGLXE0VkVCaGNrWE9QV0lXLTFXSWV3TklwcTdISUp2QWxBaT",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-22-038",
+    "date": "2026-01-22",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "positive",
+    "title": "Pennsylvania American Water Receives $6.1+ Million in PENNVEST Funding for Infrastructure Improvement Projects in Berks and Cumberland Counties - American Water Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxNbUlNTGlGaXRLMUd2RXJWYW4tWWZIVFJXdTVxd2Y0b21VNFlOY0h3M1BvVDJ5a0kxMTc3WVcyaFYwLUdTbUN4TnF6NDYwaGtmSkNfV29BWmVka2ZhVnFMS3huT1FVbENHcFZrRWFVOV",
+    "sources": []
+  },
+  {
+    "id": "watts-2026-01-15-002",
+    "date": "2026-01-15",
+    "companies": [
+      "watts"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Watts Water Technologies, Inc. Announces Fourth Quarter and Full Year 2025 Earnings Release and Earnings Conference Call",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-12-034",
+    "date": "2026-01-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "capex",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "PFAS Treatment, Infrastructure Investment, and the Power of Partnerships - VISTA.Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1Dc1p3U2JlT0hreWt4TDBndHpGVkpSdDNmQVQ2RndPcmFxeUZMT19MMWxUTjM1a2J5WTJiVkt3QkdCeVlxbGJGa2xvbEl1UXpWS1g0cUY2c1hrMFhIV1psOFRBblFQRVZ5LTE0VW9QLT",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-09-041",
+    "date": "2026-01-09",
+    "companies": [],
+    "topics": [
+      "smart_water",
+      "earnings",
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Reinventing water utilities: infrastructure, fair tariffs and the true value of water - Smart Water Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNUTh2WGdQRHNRa056UXI0SHdpZjNpbW5oQVZrRUx5NHkwQnU2ckZnSlJ1NVVXT1RETTJNSVNTcXJjcUM2UWhVcUlHLVRWenNzVXJNQlBZSXVqaUtJZi1OUGhiN21wZmtKM3Q4UUJrcW",
+    "sources": []
+  },
+  {
+    "id": "badger-2026-01-07-005",
+    "date": "2026-01-07",
+    "companies": [
+      "badger"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Badger Meter Schedules Fourth Quarter and Full Year 2025 Earnings Call",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-05-013",
+    "date": "2026-01-05",
+    "companies": [],
+    "topics": [
+      "smart_water",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mergers and acquisitions in the global water sector: Trends and key deals of 2025 - Smart Water Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQOGVyM2lzanlLb25TWTJiNGVzbzBXRUNRTXV6cUNKTXdRRXNyWmd6MDRfZGp4cVZKSHRCenp0bHp6R3hEa3dFc0V5S1dYaURsbkxvTllLMkx4Tm5fMmlmQnNfRzlHMm4xbmNkOEdlZG",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-12-23-014",
+    "date": "2025-12-23",
+    "companies": [],
+    "topics": [
+      "desalination",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Marine Desalination System Market Size & Growth, 2033 - Market Data Forecast",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQWh0WV9hbGhibmxqSDN1ZEhKdXFaNEpMUWFzb0tpRDVWdy1pMzFrS1JYMGN5RmRqZlg4S2ZYS3dqcUpkMVp5UWhoUkdmX1pjeU0wMVktT2xqbkhuMHBSM1g0UzR4TS1VeHowMnJkaD",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-12-17-039",
+    "date": "2025-12-17",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "West Virginia American Water President Addresses New Infrastructure Report Card, Urges Collaboration Around Critical Water Infrastructure - American Water Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNa3dVWU9KaUtpQ0xVeHFWekpnVDBnbVdFdnA2VzRGeVRCSmdpX1FtT3g2WXFGSjBzUUpxMmlGLUVObWxKdWUzUlJ3RjU5SXVjR1BOS3Q5Qjh3Z0ZkaTYxdHJIM3pLZjY1alVhblJPXy",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-12-16-042",
+    "date": "2025-12-16",
+    "companies": [],
+    "topics": [
+      "wastewater_treatment",
+      "smart_water",
+      "earnings",
+      "capex"
+    ],
+    "impact": "positive",
+    "title": "Nama Water Services sets out $28.8B long-term plan to expand water and wastewater infrastructure - Smart Water Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOc3dzdHluTVJNXzZURENGQlAxaGhzSVljQ3p2cENFUjlyTDFjVVRVYzI3dHp3T1Y4aS1TcGdtV080Q0hnUG8ySXpyb0Y4ZFBSYXRheDFkcmpGZmZjT2ZMdGRjdThUU1BuZlJYMl9nUE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-12-09-010",
+    "date": "2025-12-09",
+    "companies": [],
+    "topics": [
+      "wastewater_treatment",
+      "semiconductor_ultrapure_water"
+    ],
+    "impact": "neutral",
+    "title": "Ultrapure Water Treatment Systems Market | Global Market Analysis Report - 2035 - Fact.MR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9mTXpadEljbm5WVktMakdwNHgzdE1qQm9WaEpIZk5Ka29ZdWRkR1IyWG1sRlM4NkQ5QW1fa1JHMDhjUm5pLUNiZUUtbXhZMlhqRlJ2OGdRTTVwaEJLbkRQSkE2NkRhMUoyUjdWUGV1NG",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-11-20-031",
+    "date": "2025-11-20",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "The Water Infrastructure Investments States Will Need - Governing",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSENKY0ttVlFfUmF6X3JxMGgwRDY3a2tiYmVpWndJb1N0ZGFKM2V5R2U0Y001UjR3Q1RhWTk2M00yWmhER0pHdEprWFA0eExBU2tHZnc4YTl1Qjc2NTBwZ2E2TWZzeEEyWVV6cGs5LT",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-11-19-019",
+    "date": "2025-11-19",
+    "companies": [],
+    "topics": [
+      "desalination"
+    ],
+    "impact": "neutral",
+    "title": "Carbon footprint analysis and carbon neutrality potential of desalination by reverse osmosis for different applications basd on life cycle assessment method - Nature",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tT0R1d0hRQkUzSkFQcFRtamxzMFdMOTdWSERCdHBia0VMLWNpRnIwRlJXVmRuZWFEZlJBY1BiTGxrdnR6a3QweGZnVEpqeV8taU9GWWIzQzViemJCOVl3?oc=5\" target=\"_blank\"",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-11-05-036",
+    "date": "2025-11-05",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "capex",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Texas Approves Landmark $20 Billion Investment in Water Infrastructure - ConstructConnect News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmE2WWw0U1NhLXhsQVk0MjlCYlItN1ZBRE5Cb0J6Ql9JSTBwVXJnQzB6M1k2VWZsNWNyeE91RkRCaGhjbVRWdUlibmtKUzRpaUhnUU1wYUtCZk1ORWFVWFdER0o5azYtakItS2hhNW",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-10-31-017",
+    "date": "2025-10-31",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "What are the top 30 Ion Exchange Resins companies in 2025? Learn about key manufacturers, market size, CAGR trends, and industry outlook through 2032. - Global Growth Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNaTkyZFZHUTVzU25tYXp2QlN3WC1jUVFDRXBrOHhOOWtmbU52cm83VmIwdGlWaVlKVFg0TkNBZUdwMWJjMkNrck1ZQlRBekFwSnRJYVBydlBfYU1XQlhydXVxSHl2c3o2dUdsRnJVRV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-10-28-043",
+    "date": "2025-10-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "How Water Utilities Could Save Billions and Strengthen Resilience - McKinsey & Company",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYnJkYWRPNU0yMjdsd2pDNlZFbkNlaUJmbG1TdWJZckZSQ3dFb2dBWGdNMGFIVVFLWHdjSkIxSHJ2VEJuQVJIbGpJcklyNi1lbERGd0V2WVd2ZFdtbHhSNjBOTUYxMWt0LVJuX3Z3WH",
+    "sources": []
+  },
+  {
+    "id": "badger-2025-10-21-006",
+    "date": "2025-10-21",
+    "companies": [
+      "badger"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Badger Meter Reports Third Quarter 2025 Financial Results",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "badger-2025-10-03-007",
+    "date": "2025-10-03",
+    "companies": [
+      "badger"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Badger Meter Schedules Third Quarter 2025 Earnings Call",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-09-12-016",
+    "date": "2025-09-12",
+    "companies": [],
+    "topics": [
+      "semiconductor_ultrapure_water",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "GnG InTech Supplies Semiconductor-Grade Ultrapure Water Globally - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNN3lSelQ3eFR1VXQ0aWdaU3d2ckRtelY0RGN5TmV4WWRmTXlkMkNpd2JpZUZtQkFVVlM4Q1lndTA1VERZcmlmQWhKaGo3WDBGYzFfQ0dpcjU4T0EzZkVjZHkxSkplRVNtWUd5UzNzMG",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-08-05-015",
+    "date": "2025-08-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Semiconductor industry faces water, sustainability challenges - Manufacturing Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZTVXeGxRSHFKYnBaSWxaUHJfUlBJbU5icGpaUnpiMm53TUJUSGZVTmprQ2ZiT25Fck5RYVh2OXdaOVROQmdOZlFQVjJfanB2aWFyNzNPMzQ1UGV2R1hMMEk0U2VDUHljYXlGM1NndV",
+    "sources": []
+  },
+  {
+    "id": "badger-2025-07-22-008",
+    "date": "2025-07-22",
+    "companies": [
+      "badger"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Badger Meter Reports Second Quarter 2025 Financial Results",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-06-16-018",
+    "date": "2025-06-16",
+    "companies": [],
+    "topics": [
+      "desalination"
+    ],
+    "impact": "neutral",
+    "title": "Water Desalination Equipment Market Size & Trends - 2035 - Future Market Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlM5Vno2dGVoUU9mVkNhWXRWVF94Y0xzNUFFSFZpbm9zSGhtVEpqalBWcy1OMjV0eXRmZWNuaUJ3M1o2LWFoZHBZZXBDS3o2ei1tZDY1WkNSV1Z0dmItRmxDNGNUc3p5Ml9HcU9adU",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-06-11-009",
+    "date": "2025-06-11",
+    "companies": [],
+    "topics": [
+      "wastewater_treatment",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Squeezing every last drop out of wastewater - ASU News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSFBoVHBObjI0YllrT0ctUUlJd3JqVHFvbHhZenc2OGJqZ3pzVGpWLVdfQU9WMTVtcUFhdFJHckhFcmJEX3pNZTNpN0tsVjFObWhGSjRTS3dpVEMtRVZKckQtODZsNE1LMFpsdU1KaU",
+    "sources": []
+  },
+  {
+    "id": "unknown-2024-11-15-025",
+    "date": "2024-11-15",
+    "companies": [],
+    "topics": [
+      "desalination",
+      "wastewater_treatment",
+      "semiconductor_ultrapure_water",
+      "earnings",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Toray’s new RO membrane elements double urea removal when producing ultrapure water from recycled wastewater - Filtration and Separation",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT1RxVXhhQWNnSGFITGVZMTFOMzQ1NzU5ZGhtTEZaZ0tCdFNQQVo2dzRQRGRCRjRiRTNXLVZPNHVIc3Y4XzZ3OEFDTjFtX0hSUThMNVp6R0xsakVseFBrMjJWWmdoUHR3QXZlSEVyZ0",
+    "sources": []
+  },
+  {
+    "id": "unknown-2021-07-16-024",
+    "date": "2021-07-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The ultra-clean water making a splash in the semiconductor industry | ULTRAWAT Project | Results in Brief | H2020 - CORDIS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmoyeGFrWkgycHJJRmxkeERVMlEzZ3MxWXg3QVB4cURkSVRWdTdsMWpxNmxPVVNsVmM2NUY0c1U2aUVsVU1uMm5uV0YxcEZ0Q3V3UFdTaFVzYmlhX1RDUzdXcmxQN0FyY2pYRGZpUl",
+    "sources": []
+  },
+  {
+    "id": "unknown-2020-10-15-023",
+    "date": "2020-10-15",
+    "companies": [],
+    "topics": [
+      "wastewater_treatment",
+      "semiconductor_ultrapure_water",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ultrapure Water Treatment: A Market With Energy - Water Online",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVFJOZk1oT0tDWDV5T205N2lPX2JfNEVEaVppanl6MEl2WHNkUFRFVGdQOVlmMzVXbUdrSXdIMGczTlZLUUprZ2hjWnJMUlZjU2Q2ZUNyNWdjY001bmxfNGk1NC16cThMNkd4Q3BETD",
+    "sources": []
+  },
+  {
+    "id": "unknown-2019-09-17-021",
+    "date": "2019-09-17",
+    "companies": [],
+    "topics": [
+      "desalination",
+      "semiconductor_ultrapure_water"
+    ],
+    "impact": "neutral",
+    "title": "Recent transitions in ultrapure water (UPW) technology: Rising role of reverse osmosis (RO) - ScienceDirect.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1SUmtUUmg2eE40LXg0c0dwcFJxbFRpVk0ySGlBUEFkTVg5NllQREpNVUpXRkR4aEhCcjk5WnZ5c05faHlkWXMzTDc1TjRlU2xkYlQzUnRrejFicnpVNThDS25ibEVpYThyUUVMWGpyN3",
     "sources": []
   }
 ]

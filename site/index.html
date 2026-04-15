@@ -748,6 +748,30 @@
             border-color: #3b82f6;
         }
 
+        
+        /* === Fund Flow === */
+        .fund-flow-summary { display: flex; gap: 8px; margin-bottom: 10px; }
+        .etf-card { flex: 1; padding: 6px 10px; background: #f8f9fb; border: 1px solid #d5d6da; border-radius: 6px; cursor: pointer; transition: all 0.2s; }
+        .etf-card.active { background: #ffffff; border-color: #3b82f6; }
+        .etf-card .etf-name { font-size: 0.7rem; color: #888; }
+        .etf-card .etf-price { font-size: 1rem; font-weight: 600; }
+        .etf-card .etf-change { font-size: 0.75rem; font-weight: 500; }
+        .etf-card .etf-change.up { color: #c93135; }
+        .etf-card .etf-change.down { color: #1e8050; }
+        .etf-card .etf-flow { font-size: 0.65rem; margin-top: 2px; }
+        .etf-card .etf-flow.inflow { color: #1e8050; }
+        .etf-card .etf-flow.outflow { color: #c93135; }
+        /* === Holders === */
+        .holders-table { width: 100%; font-size: 0.78rem; border-collapse: collapse; }
+        .holders-table th { text-align: left; padding: 5px 6px; border-bottom: 1px solid #d5d6da; color: #888; font-weight: 500; font-size: 0.7rem; }
+        .holders-table th:nth-child(n+3) { text-align: right; }
+        .holders-table td { padding: 4px 6px; border-bottom: 1px solid #f0f2f5; }
+        .holders-table td:nth-child(n+3) { text-align: right; }
+        .holders-table tr:hover { background: #f8f9fb; }
+        .holders-select { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 8px; }
+        .holder-chip { padding: 3px 8px; background: #f0f2f5; border: 1px solid #d5d6da; border-radius: 4px; font-size: 0.7rem; cursor: pointer; }
+        .holder-chip.active { background: #ffffff; border-color: #3b82f6; color: #3b82f6; }
+
         .tab:hover:not(.active) {
             background: #e4e7eb;
         }
@@ -785,6 +809,8 @@
                         <div class="tab-bar" id="stock-tabs">
                             <div class="tab active" data-view="trend">走勢圖</div>
                             <div class="tab" data-view="heatmap">熱力圖</div>
+                            <div class="tab" data-view="fundflow">資金流向</div>
+                            <div class="tab" data-view="holders">機構持倉</div>
                         </div>
                         <div class="tab-bar" id="stock-range">
                             <div class="tab" data-range="1">日</div>
@@ -803,6 +829,18 @@
                             <div style="width:120px; height:10px; border-radius:3px; background:linear-gradient(90deg, rgb(220,60,60), rgb(200,200,200), rgb(40,230,60));"></div>
                             <span style="font-size:0.7rem; color:#888;">漲 3%+</span>
                         </div>
+                    </div>
+                    <div id="stock-fundflow-view" style="display:none;">
+                        <div class="fund-flow-summary" id="etf-cards"></div>
+                        <svg id="fundflow-svg"></svg>
+                        <div class="legend" style="justify-content:center; margin-top:8px;">
+                            <div class="legend-item"><div class="legend-dot" style="background:#1e8050"></div> 資金流入</div>
+                            <div class="legend-item"><div class="legend-dot" style="background:#c93135"></div> 資金流出</div>
+                        </div>
+                    </div>
+                    <div id="stock-holders-view" style="display:none;">
+                        <div class="holders-select" id="holders-company-select"></div>
+                        <div id="holders-table-container"></div>
                     </div>
                 </div>
 
@@ -970,6 +1008,17 @@
                 state.currentReportIdx = 0;
                 await loadReportForDate(state.reportDates[0]);
             }
+
+            // Load fund flow data
+            try {
+                const ffResp = await fetch('data/fund_flow.json');
+                if (ffResp.ok) data.fundFlow = await ffResp.json();
+            } catch (e) {}
+            // Load holders data
+            try {
+                const hResp = await fetch('data/holders.json');
+                if (hResp.ok) data.holders = await hResp.json();
+            } catch (e) {}
 
             // If no data loaded, use demo
             if (!hasRealData) {
@@ -1742,10 +1791,14 @@
                     document.querySelectorAll('#stock-tabs .tab').forEach(t => t.classList.remove('active'));
                     tab.classList.add('active');
                     const view = tab.dataset.view;
-                    document.getElementById('stock-trend-view').style.display = view === 'trend' ? 'block' : 'none';
-                    document.getElementById('stock-heatmap-view').style.display = view === 'heatmap' ? 'block' : 'none';
+                    ['trend', 'heatmap', 'fundflow', 'holders'].forEach(v => {
+                        const el = document.getElementById('stock-' + v + '-view');
+                        if (el) el.style.display = v === view ? 'block' : 'none';
+                    });
                     if (view === 'heatmap') renderHeatmap();
                     if (view === 'trend') updateStockChartByRange();
+                    if (view === 'fundflow') renderFundFlow();
+                    if (view === 'holders') renderHolders();
                 });
             });
 
@@ -2081,7 +2134,77 @@
             container.innerHTML = html;
         }
 
-        function renderWeeklyLLM() {
+        
+        // ===== Fund Flow =====
+        function renderFundFlow() {
+            const etfs = data.fundFlow?.etfs;
+            if (!etfs) {
+                document.getElementById('etf-cards').innerHTML = '<div style="color:#999; text-align:center; padding:40px;">暫無資金流向資料</div>';
+                return;
+            }
+            const tickers = Object.keys(etfs);
+            const selectedETF = state.selectedETF || tickers[0];
+            state.selectedETF = selectedETF;
+            const cardsHtml = tickers.map(ticker => {
+                const e = etfs[ticker];
+                const chgClass = e.daily_change_pct >= 0 ? 'up' : 'down';
+                const chgSign = e.daily_change_pct >= 0 ? '+' : '';
+                const flowClass = e.flow_trend === 'inflow' ? 'inflow' : 'outflow';
+                const flowLabel = e.flow_trend === 'inflow' ? '▲ 流入' : e.flow_trend === 'outflow' ? '▼ 流出' : '— 持平';
+                const f5d = (e.flow_5d / 1e6).toFixed(0);
+                return '<div class="etf-card' + (ticker === selectedETF ? ' active' : '') + '" onclick="selectETF(\'' + ticker + '\')">' +
+                    '<div class="etf-name">' + ticker + ' · ' + e.name + '</div>' +
+                    '<div class="etf-price">' + (e.latest_price?.toFixed(2) || 'N/A') + '</div>' +
+                    '<span class="etf-change ' + chgClass + '">' + chgSign + (e.daily_change_pct?.toFixed(2) || 0) + '%</span>' +
+                    '<div class="etf-flow ' + flowClass + '">' + flowLabel + ' 5D: ' + f5d + 'M</div></div>';
+            }).join('');
+            document.getElementById('etf-cards').innerHTML = cardsHtml;
+            const etfData = etfs[selectedETF];
+            if (!etfData?.daily_flow?.length) return;
+            const svg = d3.select('#fundflow-svg');
+            svg.selectAll('*').remove();
+            const container = document.getElementById('stock-chart');
+            const width = container.clientWidth - 30;
+            const height = 320;
+            svg.attr('width', width).attr('height', height);
+            const margin = { top: 10, right: 15, bottom: 30, left: 50 };
+            const flowData = etfData.daily_flow.map(d => ({ date: new Date(d.date), flow: d.flow, volume: d.volume }));
+            const x = d3.scaleBand().domain(flowData.map(d => d.date)).range([margin.left, width - margin.right]).padding(0.2);
+            const maxAbs = d3.max(flowData, d => Math.abs(d.flow));
+            const y = d3.scaleLinear().domain([-maxAbs, maxAbs]).nice().range([height - margin.bottom, margin.top]);
+            svg.append('line').attr('x1', margin.left).attr('x2', width - margin.right).attr('y1', y(0)).attr('y2', y(0)).attr('stroke', '#ccc').attr('stroke-dasharray', '3,3');
+            svg.selectAll('.bar').data(flowData).enter().append('rect').attr('x', d => x(d.date)).attr('width', x.bandwidth()).attr('y', d => d.flow >= 0 ? y(d.flow) : y(0)).attr('height', d => Math.abs(y(d.flow) - y(0))).attr('fill', d => d.flow >= 0 ? '#1e8050' : '#c93135').attr('rx', 2).attr('opacity', 0.8);
+            const tickValues = flowData.filter((_, i) => i % Math.ceil(flowData.length / 6) === 0).map(d => d.date);
+            svg.append('g').attr('class', 'axis').attr('transform', 'translate(0,' + (height - margin.bottom) + ')').call(d3.axisBottom(x).tickValues(tickValues).tickFormat(d3.timeFormat('%m/%d')));
+            svg.append('g').attr('class', 'axis').attr('transform', 'translate(' + margin.left + ',0)').call(d3.axisLeft(y).ticks(5).tickFormat(d => { const a = Math.abs(d); return a >= 1e9 ? (d/1e9).toFixed(1)+'B' : a >= 1e6 ? (d/1e6).toFixed(0)+'M' : a >= 1e3 ? (d/1e3).toFixed(0)+'K' : d; }));
+        }
+        window.selectETF = function(ticker) { state.selectedETF = ticker; renderFundFlow(); };
+        // ===== Holders =====
+        function renderHolders() {
+            const holdersData = data.holders;
+            if (!holdersData?.companies || Object.keys(holdersData.companies).length === 0) {
+                document.getElementById('holders-company-select').innerHTML = '';
+                document.getElementById('holders-table-container').innerHTML = '<div style="color:#999; text-align:center; padding:40px;">暫無持倉資料</div>';
+                return;
+            }
+            const companies = holdersData.companies;
+            const ids = Object.keys(companies).sort();
+            const selected = state.selectedHolderCompany || ids[0];
+            state.selectedHolderCompany = selected;
+            const chipsHtml = ids.map(id => { const c = companies[id]; const name = c.short_name || c.name || id; return '<div class="holder-chip' + (id === selected ? ' active' : '') + '" onclick="selectHolderCompany(\'' + id + '\')">' + name + '</div>'; }).join('');
+            document.getElementById('holders-company-select').innerHTML = chipsHtml;
+            const company = companies[selected];
+            if (!company?.holders?.length) { document.getElementById('holders-table-container').innerHTML = '<div style="color:#999; text-align:center; padding:20px;">無持倉資料</div>'; return; }
+            const fmtNum = n => { if (n >= 1e9) return (n/1e9).toFixed(2)+'B'; if (n >= 1e6) return (n/1e6).toFixed(1)+'M'; if (n >= 1e3) return (n/1e3).toFixed(0)+'K'; return n?.toLocaleString() || 'N/A'; };
+            let t = '<div style="font-size:0.75rem; color:#888; margin-bottom:6px;">' + company.name + ' (' + company.ticker + ')</div>';
+            t += '<table class="holders-table"><thead><tr><th>#</th><th>持股機構</th><th>股數</th><th>佔比</th><th>市值</th></tr></thead><tbody>';
+            company.holders.forEach((h, i) => { t += '<tr><td>' + (i+1) + '</td><td style="max-width:140px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" title="' + h.holder + '">' + h.holder + '</td><td>' + fmtNum(h.shares) + '</td><td>' + (h.pct_held?.toFixed(2)||'N/A') + '%</td><td>$' + fmtNum(h.value) + '</td></tr>'; });
+            t += '</tbody></table>';
+            document.getElementById('holders-table-container').innerHTML = t;
+        }
+        window.selectHolderCompany = function(id) { state.selectedHolderCompany = id; renderHolders(); };
+
+function renderWeeklyLLM() {
             const section = document.getElementById('weekly-llm-section');
             const container = document.getElementById('weekly-llm-container');
             const analysis = data.weeklyReport?.llm_analysis;

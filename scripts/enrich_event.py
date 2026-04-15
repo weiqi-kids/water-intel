@@ -276,20 +276,25 @@ def process_events(
         # 第一關：必須匹配到追蹤公司或追蹤主題
         if not preview_companies and not preview_topics:
             continue
-        # 第二關：標題必須包含半導體/記憶體產業關鍵字（過濾家電、手錶等無關文章）
-        industry_keywords = [
-            "semiconductor", "ai memory", "memory chip", "memory solution",
-            "dram", "nand", "hbm", "flash memory",
-            "wafer", "chip", "fab", "foundry", "euv", "lithography",
-            "server", "data center", "datacenter", "gpu", "ai accelerator",
-            "半導體", "記憶體", "晶片", "晶圓", "封裝",
-            "earnings", "revenue", "profit", "guidance", "forecast",
-            "quarterly results", "financial results",
-            "營收", "獲利", "財報", "法說",
-            "ssd", "storage", "ddr4", "ddr5", "lpddr",
-        ]
-        title_lower = title.lower()
-        if not any(kw.lower() in title_lower for kw in industry_keywords):
+        # 第二關：標題或內容必須包含產業關鍵字（從 topics.yml 動態載入）
+        # 加上通用財務關鍵字
+        if not hasattr(process_events, '_industry_kw'):
+            import yaml as _yaml
+            _kws = set()
+            _topics_file = Path(__file__).parent.parent / "configs" / "topics.yml"
+            if _topics_file.exists():
+                with open(_topics_file) as _f:
+                    _tc = _yaml.safe_load(_f)
+                for _t in (_tc.get("topics") or {}).values():
+                    for _k in (_t.get("keywords") or []):
+                        _kws.add(_k.lower())
+            # 通用財務關鍵字
+            _kws.update(["earnings", "revenue", "profit", "guidance", "forecast",
+                         "quarterly results", "financial results",
+                         "營收", "獲利", "財報", "法說"])
+            process_events._industry_kw = _kws
+        title_lower = (title + " " + content[:200]).lower()
+        if process_events._industry_kw and not any(kw in title_lower for kw in process_events._industry_kw):
             continue
 
         # 標註事件
