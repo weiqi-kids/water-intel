@@ -1,0 +1,94 @@
+{
+  "date": "2026-04-15",
+  "generated_at": "2026-04-15T09:44:57.328527Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-15-031",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "VEOEY Maintained at Outperform by RBC Capital April 2026 - Meyka",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-15-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "1 Profitable Stock with Exciting Potential and 2 Facing Headwinds - FinancialContent",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為財報相關動態：「VEOEY Maintained at Outperform by RBC Capital April 2026 ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "VEOEY Maintained at Outperform by RBC Capital April 2026 - Meyka（財報）",
+        "level": "red"
+      },
+      {
+        "text": "1 Profitable Stock with Exciting Potential and 2 Facing Headwinds - Financial...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,84 @@
+{
+  "date": "2026-04-15",
+  "date_range": {
+    "start": "2026-04-09",
+    "end": "2026-04-15"
+  },
+  "generated_at": "2026-04-15T09:44:57.389080Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "american_water-2026-04-09-083",
+      "date": "2026-04-09",
+      "title": "Why The American Water Works Company (AWK) Story Is Shifting Around The Essential Utilities Merger - Yahoo Finance",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {},
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 2,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-09",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-10",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-15",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-09 ~ 2026-04-15）共 2 則事件，重點為「Why The American Water Works Company (AWK) Stor...」。財報為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "水資源產業",
+        "reason": "本週無特定企業異常，建議持續追蹤整體產業走勢。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

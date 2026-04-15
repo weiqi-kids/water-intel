@@ -6,73 +6,73 @@
     "history_complete": true
   },
   "energy_recovery": {
-    "earliest": "2025-04-21",
+    "earliest": "2025-01-21",
     "latest": "2026-04-14",
-    "count": 247
+    "count": 309
   },
   "xylem": {
-    "earliest": "2025-04-21",
+    "earliest": "2025-01-21",
     "latest": "2026-04-14",
-    "count": 247
+    "count": 309
   },
   "veolia": {
-    "earliest": "2025-04-22",
-    "latest": "2026-04-14",
-    "count": 250
+    "earliest": "2025-01-22",
+    "latest": "2026-04-15",
+    "count": 313
   },
   "pentair": {
-    "earliest": "2025-04-21",
+    "earliest": "2025-01-21",
     "latest": "2026-04-14",
-    "count": 247
+    "count": 309
   },
   "ao_smith": {
-    "earliest": "2025-04-21",
+    "earliest": "2025-01-21",
     "latest": "2026-04-14",
-    "count": 247
+    "count": 309
   },
   "danaher": {
-    "earliest": "2025-04-21",
+    "earliest": "2025-01-21",
     "latest": "2026-04-14",
-    "count": 247
+    "count": 309
   },
   "watts": {
-    "earliest": "2025-04-21",
+    "earliest": "2025-01-21",
     "latest": "2026-04-14",
-    "count": 247
+    "count": 309
   },
   "badger": {
-    "earliest": "2025-04-21",
+    "earliest": "2025-01-21",
     "latest": "2026-04-14",
-    "count": 247
+    "count": 309
   },
   "kurita": {
-    "earliest": "2025-04-21",
-    "latest": "2026-04-14",
-    "count": 240
+    "earliest": "2025-01-21",
+    "latest": "2026-04-15",
+    "count": 302
   },
   "zhongyu": {
-    "earliest": "2025-04-21",
-    "latest": "2026-04-14",
-    "count": 238
+    "earliest": "2025-01-21",
+    "latest": "2026-04-15",
+    "count": 293
   },
   "essential": {
-    "earliest": "2025-04-21",
+    "earliest": "2025-01-21",
     "latest": "2026-04-14",
-    "count": 247
+    "count": 309
   },
   "american_water": {
-    "earliest": "2025-04-21",
+    "earliest": "2025-01-21",
     "latest": "2026-04-14",
-    "count": 247
+    "count": 309
   },
   "etf_pho": {
-    "earliest": "2025-04-21",
+    "earliest": "2025-01-21",
     "latest": "2026-04-14",
-    "count": 247
+    "count": 309
   },
   "etf_cgw": {
-    "earliest": "2025-04-21",
+    "earliest": "2025-01-21",
     "latest": "2026-04-14",
-    "count": 247
+    "count": 309
   }
 }

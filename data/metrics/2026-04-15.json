@@ -1,0 +1,16 @@
+{
+  "date": "2026-04-15",
+  "total_events": 2,
+  "by_company": {},
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
