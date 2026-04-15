@@ -53,6 +53,7 @@ companies:
   role: 水處理設備
   description: 全球水處理技術與泵浦龍頭
   ir_url: https://www.xylem.com/en-us/investors/
+  rss_url: https://xyleminc.gcs-web.com/rss/news-releases.xml
   upstream:
   - energy_recovery
   downstream:
@@ -124,6 +125,7 @@ companies:
   role: 流量控制
   description: 水流量管理與安全設備
   ir_url: https://investors.wattswater.com/
+  rss_url: https://investors.wattswater.com/rss/PressRelease.aspx
   upstream: []
   downstream: []
 - id: badger
@@ -138,6 +140,7 @@ companies:
   role: 智慧水表
   description: 智慧水表與流量計量設備
   ir_url: https://www.badgermeter.com/investors/
+  rss_url: https://investors.badgermeter.com/rss/PressRelease.aspx
   upstream: []
   downstream:
   - essential

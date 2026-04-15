@@ -1,0 +1,48 @@
+# Water treatment/utilities industry news feeds
+feeds:
+  # --- Company IR RSS feeds ---
+  - id: xylem_ir
+    name: Xylem Press Releases
+    url: https://xyleminc.gcs-web.com/rss/news-releases.xml
+    description: Xylem investor relations press releases
+
+  - id: wm_ir
+    name: WM Press Releases
+    url: https://investors.wm.com/rss/news-releases.xml
+    description: Waste Management investor relations press releases (Veolia overlap)
+
+  - id: watts_ir
+    name: Watts Water Technologies Press Releases
+    url: https://investors.wattswater.com/rss/PressRelease.aspx
+    description: Watts Water Technologies investor relations press releases
+
+  - id: badger_ir
+    name: Badger Meter Press Releases
+    url: https://investors.badgermeter.com/rss/PressRelease.aspx
+    description: Badger Meter investor relations press releases
+
+  # --- Industry media RSS feeds ---
+  - id: waterworld
+    name: WaterWorld
+    url: https://www.waterworld.com/rss
+    description: Water utility management, smart water, treatment technologies
+
+  - id: water_online
+    name: Water Online
+    url: https://www.wateronline.com/rss
+    description: Water and wastewater industry news, innovations and thought leadership
+
+  - id: wwdmag
+    name: Wastewater Digest
+    url: https://www.wwdmag.com/rss
+    description: Wastewater treatment industry news, products and technology
+
+  - id: google_news_water
+    name: Google News - Water Treatment Industry
+    url: https://news.google.com/rss/search?q=water+treatment+industry+desalination+ultrapure&hl=en
+    description: Google News aggregation for water treatment and desalination
+
+  - id: google_news_water_utility
+    name: Google News - Water Utilities
+    url: https://news.google.com/rss/search?q=water+utility+infrastructure+investment&hl=en
+    description: Google News aggregation for water utility infrastructure
