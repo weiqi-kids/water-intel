@@ -117,9 +117,9 @@ jobs:
       - name: Generate report indexes
         run: |
           # Generate daily report index
-          ls site/data/reports/daily/*.json 2>/dev/null | xargs -I {} basename {} .json | sort -r | jq -R -s 'split("\n") | map(select(length > 0))' > site/data/reports/daily/index.json || echo '[]' > site/data/reports/daily/index.json
+          ls site/data/reports/daily/*.json 2>/dev/null | xargs -I {} basename {} .json | grep -v "^index$" | sort -r | jq -R -s 'split("\n") | map(select(length > 0))' > site/data/reports/daily/index.json || echo '[]' > site/data/reports/daily/index.json
           # Generate 7d report index
-          ls site/data/reports/7d/*.json 2>/dev/null | xargs -I {} basename {} .json | sort -r | jq -R -s 'split("\n") | map(select(length > 0))' > site/data/reports/7d/index.json || echo '[]' > site/data/reports/7d/index.json
+          ls site/data/reports/7d/*.json 2>/dev/null | xargs -I {} basename {} .json | grep -v "^index$" | sort -r | jq -R -s 'split("\n") | map(select(length > 0))' > site/data/reports/7d/index.json || echo '[]' > site/data/reports/7d/index.json
 
       - name: Generate config stats
         run: |
