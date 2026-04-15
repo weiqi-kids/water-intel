@@ -6,13 +6,13 @@
       "short_name": "穆勒",
       "position": "upstream",
       "role": "管材設備",
-      "x": 0.5,
-      "y": 0.04
+      "x": 0.08,
+      "y": 0.17
     },
     {
       "id": "energy_recovery",
       "name": "Energy Recovery",
-      "short_name": "ERII",
+      "short_name": "Energy Recovery",
       "position": "upstream",
       "role": "能量回收設備",
       "x": 0.5,
@@ -24,8 +24,8 @@
       "short_name": "千附",
       "position": "upstream",
       "role": "水處理零組件",
-      "x": 0.5,
-      "y": 0.3
+      "x": 0.92,
+      "y": 0.17
     },
     {
       "id": "xylem",
@@ -33,8 +33,8 @@
       "short_name": "賽萊默",
       "position": "midstream",
       "role": "水處理設備",
-      "x": 0.05,
-      "y": 0.35
+      "x": 0.08,
+      "y": 0.36
     },
     {
       "id": "veolia",
@@ -42,8 +42,8 @@
       "short_name": "威立雅",
       "position": "midstream",
       "role": "水務營運",
-      "x": 0.5,
-      "y": 0.39
+      "x": 0.248,
+      "y": 0.36
     },
     {
       "id": "pentair",
@@ -51,8 +51,8 @@
       "short_name": "濱特爾",
       "position": "midstream",
       "role": "水處理設備",
-      "x": 0.95,
-      "y": 0.35
+      "x": 0.416,
+      "y": 0.36
     },
     {
       "id": "ao_smith",
@@ -60,8 +60,8 @@
       "short_name": "史密斯",
       "position": "midstream",
       "role": "熱水器/淨水器",
-      "x": 0.5,
-      "y": 0.44
+      "x": 0.584,
+      "y": 0.36
     },
     {
       "id": "danaher",
@@ -69,17 +69,17 @@
       "short_name": "丹納赫",
       "position": "midstream",
       "role": "水質分析",
-      "x": 0.5,
-      "y": 0.48
+      "x": 0.752,
+      "y": 0.36
     },
     {
       "id": "watts",
       "name": "Watts Water Technologies",
-      "short_name": "Watts",
+      "short_name": "Watts Water Technologies",
       "position": "midstream",
       "role": "流量控制",
-      "x": 0.5,
-      "y": 0.52
+      "x": 0.92,
+      "y": 0.36
     },
     {
       "id": "badger",
@@ -87,8 +87,8 @@
       "short_name": "巴傑",
       "position": "midstream",
       "role": "智慧水表",
-      "x": 0.5,
-      "y": 0.56
+      "x": 0.08,
+      "y": 0.64
     },
     {
       "id": "kurita",
@@ -97,7 +97,7 @@
       "position": "midstream",
       "role": "水處理化學品",
       "x": 0.5,
-      "y": 0.61
+      "y": 0.64
     },
     {
       "id": "zhongyu",
@@ -105,8 +105,8 @@
       "short_name": "中宇",
       "position": "midstream",
       "role": "水處理工程",
-      "x": 0.5,
-      "y": 0.65
+      "x": 0.92,
+      "y": 0.64
     },
     {
       "id": "essential",
@@ -114,7 +114,7 @@
       "short_name": "必要公用",
       "position": "downstream",
       "role": "水務公用事業",
-      "x": 0.05,
+      "x": 0.08,
       "y": 0.83
     },
     {
@@ -123,7 +123,7 @@
       "short_name": "美國水務",
       "position": "downstream",
       "role": "水務公用事業",
-      "x": 0.95,
+      "x": 0.92,
       "y": 0.83
     }
   ],
@@ -176,20 +176,14 @@
   ],
   "etfs": [
     {
-      "id": "etf_pho",
+      "id": "pho",
       "name": "Invesco Water Resources ETF",
-      "ticker": "PHO",
-      "market": "NASDAQ",
-      "currency": "USD",
-      "description": "美國水資源 ETF，涵蓋水處理與公用事業"
+      "ticker": "PHO"
     },
     {
-      "id": "etf_cgw",
+      "id": "cgw",
       "name": "Invesco S&P Global Water Index ETF",
-      "ticker": "CGW",
-      "market": "NYSE",
-      "currency": "USD",
-      "description": "全球水資源 ETF"
+      "ticker": "CGW"
     }
   ]
 }
