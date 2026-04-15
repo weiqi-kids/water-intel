@@ -76,7 +76,7 @@
         }
 
         .panel {
-            background: var(--bg-surface, #ecedf0);
+            background: #ffffff;
             border: 1px solid var(--border-subtle, #d5d6da);
             border-radius: 8px;
             padding: 15px;
@@ -107,7 +107,7 @@
         }
 
         .detail-panel {
-            background: var(--bg-surface, #ecedf0);
+            background: #ffffff;
             border: 1px solid var(--border-subtle, #d5d6da);
             border-radius: 8px;
             padding: 20px;
@@ -666,7 +666,7 @@
 
         .tooltip {
             position: absolute;
-            background: var(--bg-surface, #ecedf0);
+            background: #ffffff;
             border: 1px solid var(--border-subtle, #d5d6da);
             border-radius: 4px;
             padding: 10px 14px;
@@ -716,7 +716,7 @@
             align-items: center;
             margin-bottom: 15px;
             padding: 10px 15px;
-            background: var(--bg-surface, #ecedf0);
+            background: #ffffff;
             border: 1px solid var(--border-subtle, #d5d6da);
             border-radius: 8px;
             box-shadow: 0 1px 3px rgba(0,0,0,0.05);
@@ -779,7 +779,7 @@
         }
 
         .tab.active {
-            background: var(--bg-surface, #ecedf0);
+            background: #ffffff;
             color: var(--text-primary, #1e2030);
             border-color: #3b82f6;
         }
@@ -1501,9 +1501,9 @@
             svg.selectAll("*").remove();
 
             const layers = [
-                { name: "上游（水處理零組件/管材設備/能量回收設備）", y: 0.00, height: 0.36, color: "rgba(245, 158, 11, 0.06)" },
-                { name: "中游（智慧水表/水務營運/水處理化學品/水處理工程/...）", y: 0.30, height: 0.40, color: "rgba(59, 130, 246, 0.06)" },
-                { name: "下游（水務公用事業）", y: 0.78, height: 0.10, color: "rgba(16, 185, 129, 0.06)" }
+                { name: "上游（設備/材料/EDA）", y: 0.0, height: 0.32, color: "rgba(245, 158, 11, 0.06)" },
+                { name: "中游（製造/代工/封測）", y: 0.34, height: 0.34, color: "rgba(59, 130, 246, 0.06)" },
+                { name: "下游（AI晶片/系統/CSP）", y: 0.70, height: 0.30, color: "rgba(16, 185, 129, 0.06)" }
             ];
 
             layers.forEach(layer => {
@@ -2185,9 +2185,9 @@
 
             // 按供應鏈分組
             const groups = [
-                { label: '上游（水處理零組件/管材設備/能量回收設備）', position: 'upstream' },
-                { label: '中游（智慧水表/水務營運/水處理化學品/水處理工程/...）', position: 'midstream' },
-                { label: '下游（水務公用事業）', position: 'downstream' },
+                { label: '上游（設備/材料/EDA）', position: 'upstream' },
+                { label: '中游（製造/代工/封測）', position: 'midstream' },
+                { label: '下游（AI晶片/系統/CSP）', position: 'downstream' },
             ];
 
             // 計算色塊顏色
