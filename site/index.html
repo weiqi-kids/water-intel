@@ -6,7 +6,49 @@
     <title>水資源供應鏈情報</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <style>
-        * {
+        :root {
+            /* 背景層級 */
+            --bg-base: oklch(0.97 0.005 250);
+            --bg-surface: oklch(1.0 0 0);
+            --bg-muted: oklch(0.955 0.005 250);
+            --bg-subtle: oklch(0.977 0.003 250);
+            --bg-active: oklch(0.915 0.005 250);
+            --bg-overlay: oklch(0.90 0.008 250);
+            --bg-hover: oklch(0.92 0.005 250);
+            /* 淺色語意背景 */
+            --bg-warn-light: oklch(0.96 0.065 90);
+            --bg-info-light: oklch(0.945 0.035 240);
+            --bg-pass-light: oklch(0.98 0.025 155);
+            /* 文字 */
+            --text-primary: oklch(0.20 0.01 250);
+            --text-secondary: oklch(0.45 0.01 250);
+            --text-muted: oklch(0.60 0.008 250);
+            /* 語意色 */
+            --color-critical: oklch(0.55 0.22 25);
+            --color-warn: oklch(0.52 0.14 80);
+            --color-pass: oklch(0.48 0.16 150);
+            --color-info: oklch(0.52 0.13 240);
+            --color-link: oklch(0.48 0.15 250);
+            /* 互動色 */
+            --color-brand: oklch(0.585 0.185 260);
+            /* 供應鏈 */
+            --color-upstream: oklch(0.55 0.16 55);
+            --color-midstream: oklch(0.52 0.13 240);
+            --color-downstream: oklch(0.48 0.16 150);
+            /* 邊框 */
+            --border-subtle: oklch(0.85 0.005 250);
+            /* Hex fallbacks */
+            --hex-critical: #c93135;
+            --hex-warn: #8a7020;
+            --hex-pass: #1e8050;
+            --hex-info: #2a6bb8;
+            --hex-upstream: #b86a2a;
+            --hex-midstream: #2a6bb8;
+            --hex-downstream: #1e8050;
+            --hex-brand: #3b82f6;
+        }
+
+                * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -14,15 +56,15 @@
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            background: #f5f7fa;
-            color: #1a1a2e;
+            background: var(--bg-base, #f5f7fa);
+            color: var(--text-primary, #1a1a2e);
             padding: 20px;
         }
 
         h1 {
             font-size: 1.5rem;
             margin-bottom: 20px;
-            color: #1a1a2e;
+            color: var(--text-primary, #1a1a2e);
         }
 
         .main-container {
@@ -40,8 +82,8 @@
         }
 
         .panel {
-            background: #ffffff;
-            border: 1px solid #e0e4e8;
+            background: var(--bg-surface, #ffffff);
+            border: 1px solid var(--border-subtle, #e0e4e8);
             border-radius: 8px;
             padding: 15px;
             box-shadow: 0 1px 3px rgba(0,0,0,0.05);
@@ -71,8 +113,8 @@
         }
 
         .detail-panel {
-            background: #ffffff;
-            border: 1px solid #e0e4e8;
+            background: var(--bg-surface, #ffffff);
+            border: 1px solid var(--border-subtle, #e0e4e8);
             border-radius: 8px;
             padding: 20px;
             height: fit-content;
@@ -86,8 +128,8 @@
         .detail-panel h2 {
             font-size: 1.1rem;
             margin-bottom: 15px;
-            color: #1a1a2e;
-            border-bottom: 1px solid #e0e4e8;
+            color: var(--text-primary, #1a1a2e);
+            border-bottom: 1px solid var(--border-subtle, #e0e4e8);
             padding-bottom: 10px;
         }
 
@@ -104,7 +146,7 @@
 
         .report-section h3 {
             font-size: 0.9rem;
-            color: #1a1a2e;
+            color: var(--text-primary, #1a1a2e);
             margin-bottom: 10px;
             display: flex;
             align-items: center;
@@ -156,7 +198,7 @@
             align-items: flex-start;
             gap: 8px;
             padding: 6px 0;
-            border-bottom: 1px solid #f0f2f5;
+            border-bottom: 1px solid var(--bg-muted, #f0f2f5);
             font-size: 0.82rem;
             color: #333;
             line-height: 1.4;
@@ -187,7 +229,7 @@
             align-items: center;
             justify-content: space-between;
             padding: 5px 0;
-            border-bottom: 1px solid #f0f2f5;
+            border-bottom: 1px solid var(--bg-muted, #f0f2f5);
             font-size: 0.8rem;
         }
 
@@ -223,7 +265,7 @@
         .financial-change.flat { color: #888; }
 
         .financial-row.alert {
-            background: #fef3c7;
+            background: var(--bg-warn-light, #fef3c7);
             margin: 0 -8px;
             padding: 5px 8px;
             border-radius: 4px;
@@ -231,7 +273,7 @@
 
         .watchlist-item {
             padding: 6px 0;
-            border-bottom: 1px solid #f0f2f5;
+            border-bottom: 1px solid var(--bg-muted, #f0f2f5);
             font-size: 0.82rem;
         }
 
@@ -239,7 +281,7 @@
 
         .watchlist-company {
             font-weight: 500;
-            color: #1a1a2e;
+            color: var(--text-primary, #1a1a2e);
         }
 
         .watchlist-reason {
@@ -255,8 +297,8 @@
         }
 
         .date-nav button {
-            background: #f0f2f5;
-            border: 1px solid #e0e4e8;
+            background: var(--bg-muted, #f0f2f5);
+            border: 1px solid var(--border-subtle, #e0e4e8);
             border-radius: 4px;
             padding: 4px 8px;
             cursor: pointer;
@@ -266,8 +308,8 @@
         }
 
         .date-nav button:hover:not(:disabled) {
-            background: #e4e7eb;
-            color: #1a1a2e;
+            background: var(--bg-active, #e4e7eb);
+            color: var(--text-primary, #1a1a2e);
         }
 
         .date-nav button:disabled {
@@ -336,7 +378,7 @@
             justify-content: space-between;
             align-items: center;
             padding: 8px 0;
-            border-bottom: 1px solid #f0f2f5;
+            border-bottom: 1px solid var(--bg-muted, #f0f2f5);
             font-size: 0.85rem;
         }
 
@@ -345,7 +387,7 @@
         }
 
         .news-item:hover {
-            background: #f8f9fb;
+            background: var(--bg-subtle, #f8f9fb);
             margin: 0 -8px;
             padding: 8px;
             border-radius: 4px;
@@ -361,7 +403,7 @@
         }
 
         .news-score {
-            background: #e0f2fe;
+            background: var(--bg-info-light, #e0f2fe);
             color: #0369a1;
             padding: 2px 8px;
             border-radius: 4px;
@@ -376,7 +418,7 @@
         }
 
         .anomaly-item {
-            background: #fef3c7;
+            background: var(--bg-warn-light, #fef3c7);
             border: 1px solid #fcd34d;
             border-radius: 6px;
             padding: 8px 12px;
@@ -390,7 +432,7 @@
         }
 
         .no-anomaly {
-            background: #f0fdf4;
+            background: var(--bg-pass-light, #f0fdf4);
             border: 1px solid #86efac;
             color: #166534;
             padding: 8px 12px;
@@ -467,7 +509,7 @@
         }
 
         .detail-tag {
-            background: #f0f2f5;
+            background: var(--bg-muted, #f0f2f5);
             padding: 4px 10px;
             border-radius: 4px;
             font-size: 0.75rem;
@@ -479,8 +521,8 @@
         .detail-tag.neutral { background: rgba(107, 114, 128, 0.15); color: #6b7280; }
 
         .source-item {
-            background: #f8f9fb;
-            border: 1px solid #e0e4e8;
+            background: var(--bg-subtle, #f8f9fb);
+            border: 1px solid var(--border-subtle, #e0e4e8);
             border-radius: 6px;
             padding: 12px;
             margin-bottom: 10px;
@@ -501,7 +543,7 @@
             color: #fff;
         }
 
-        .source-type.news { background: #3b82f6; }
+        .source-type.news { background: var(--color-brand, #3b82f6); }
         .source-type.ir { background: #8b5cf6; }
         .source-type.announcement { background: #f59e0b; }
 
@@ -513,11 +555,11 @@
         .source-title {
             font-weight: 500;
             margin-bottom: 6px;
-            color: #1a1a2e;
+            color: var(--text-primary, #1a1a2e);
         }
 
         .source-title a {
-            color: #2563eb;
+            color: var(--color-link, #2563eb);
             text-decoration: none;
         }
 
@@ -547,7 +589,7 @@
         }
 
         .company-chip {
-            background: #f0f2f5;
+            background: var(--bg-muted, #f0f2f5);
             padding: 4px 10px;
             border-radius: 4px;
             font-size: 0.8rem;
@@ -557,7 +599,7 @@
         }
 
         .company-chip:hover {
-            background: #e4e7eb;
+            background: var(--bg-active, #e4e7eb);
         }
 
         .company-chip.upstream { border-left: 3px solid #f59e0b; }
@@ -565,9 +607,9 @@
         .company-chip.downstream { border-left: 3px solid #10b981; }
 
         .brush .selection {
-            fill: #3b82f6;
+            fill: var(--color-brand, #3b82f6);
             fill-opacity: 0.2;
-            stroke: #3b82f6;
+            stroke: var(--color-brand, #3b82f6);
         }
 
         .stock-line {
@@ -588,7 +630,7 @@
 
         .node text {
             font-size: 11px;
-            fill: #1a1a2e;
+            fill: var(--text-primary, #1a1a2e);
             pointer-events: none;
             font-weight: 500;
         }
@@ -615,7 +657,7 @@
         }
 
         .event-dot.selected {
-            stroke: #1a1a2e;
+            stroke: var(--text-primary, #1a1a2e);
             stroke-width: 3;
         }
 
@@ -630,8 +672,8 @@
 
         .tooltip {
             position: absolute;
-            background: #ffffff;
-            border: 1px solid #e0e4e8;
+            background: var(--bg-surface, #ffffff);
+            border: 1px solid var(--border-subtle, #e0e4e8);
             border-radius: 4px;
             padding: 10px 14px;
             font-size: 12px;
@@ -645,7 +687,7 @@
         }
 
         .tooltip strong {
-            color: #1a1a2e;
+            color: var(--text-primary, #1a1a2e);
         }
 
         .layer-label {
@@ -655,7 +697,7 @@
         }
 
         .node.selected circle {
-            stroke: #3b82f6;
+            stroke: var(--color-brand, #3b82f6);
             stroke-width: 4;
             filter: drop-shadow(0 0 6px rgba(59, 130, 246, 0.5));
         }
@@ -669,7 +711,7 @@
         }
 
         .link.highlighted {
-            stroke: #3b82f6;
+            stroke: var(--color-brand, #3b82f6);
             stroke-opacity: 1;
             stroke-width: 2;
         }
@@ -680,20 +722,20 @@
             align-items: center;
             margin-bottom: 15px;
             padding: 10px 15px;
-            background: #ffffff;
-            border: 1px solid #e0e4e8;
+            background: var(--bg-surface, #ffffff);
+            border: 1px solid var(--border-subtle, #e0e4e8);
             border-radius: 8px;
             box-shadow: 0 1px 3px rgba(0,0,0,0.05);
         }
 
         .info-bar .selected-info {
-            color: #2563eb;
+            color: var(--color-link, #2563eb);
             font-weight: 500;
         }
 
         .info-bar button {
-            background: #f0f2f5;
-            border: 1px solid #e0e4e8;
+            background: var(--bg-muted, #f0f2f5);
+            border: 1px solid var(--border-subtle, #e0e4e8);
             color: #555;
             padding: 6px 12px;
             border-radius: 4px;
@@ -702,8 +744,8 @@
         }
 
         .info-bar button:hover {
-            background: #e4e7eb;
-            color: #1a1a2e;
+            background: var(--bg-active, #e4e7eb);
+            color: var(--text-primary, #1a1a2e);
         }
 
         .legend {
@@ -734,8 +776,8 @@
 
         .tab {
             padding: 6px 12px;
-            background: #f0f2f5;
-            border: 1px solid #e0e4e8;
+            background: var(--bg-muted, #f0f2f5);
+            border: 1px solid var(--border-subtle, #e0e4e8);
             border-radius: 4px;
             font-size: 0.8rem;
             cursor: pointer;
@@ -743,16 +785,16 @@
         }
 
         .tab.active {
-            background: #ffffff;
-            color: #1a1a2e;
-            border-color: #3b82f6;
+            background: var(--bg-surface, #ffffff);
+            color: var(--text-primary, #1a1a2e);
+            border-color: var(--color-brand, #3b82f6);
         }
 
         
         /* === Fund Flow === */
         .fund-flow-summary { display: flex; gap: 8px; margin-bottom: 10px; }
-        .etf-card { flex: 1; padding: 6px 10px; background: #f8f9fb; border: 1px solid #d5d6da; border-radius: 6px; cursor: pointer; transition: all 0.2s; }
-        .etf-card.active { background: #ffffff; border-color: #3b82f6; }
+        .etf-card { flex: 1; padding: 6px 10px; background: var(--bg-subtle, #f8f9fb); border: 1px solid #d5d6da; border-radius: 6px; cursor: pointer; transition: all 0.2s; }
+        .etf-card.active { background: var(--bg-surface, #ffffff); border-color: var(--color-brand, #3b82f6); }
         .etf-card .etf-name { font-size: 0.7rem; color: #888; }
         .etf-card .etf-price { font-size: 1rem; font-weight: 600; }
         .etf-card .etf-change { font-size: 0.75rem; font-weight: 500; }
@@ -765,15 +807,15 @@
         .holders-table { width: 100%; font-size: 0.78rem; border-collapse: collapse; }
         .holders-table th { text-align: left; padding: 5px 6px; border-bottom: 1px solid #d5d6da; color: #888; font-weight: 500; font-size: 0.7rem; }
         .holders-table th:nth-child(n+3) { text-align: right; }
-        .holders-table td { padding: 4px 6px; border-bottom: 1px solid #f0f2f5; }
+        .holders-table td { padding: 4px 6px; border-bottom: 1px solid var(--bg-muted, #f0f2f5); }
         .holders-table td:nth-child(n+3) { text-align: right; }
-        .holders-table tr:hover { background: #f8f9fb; }
+        .holders-table tr:hover { background: var(--bg-subtle, #f8f9fb); }
         .holders-select { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 8px; }
-        .holder-chip { padding: 3px 8px; background: #f0f2f5; border: 1px solid #d5d6da; border-radius: 4px; font-size: 0.7rem; cursor: pointer; }
-        .holder-chip.active { background: #ffffff; border-color: #3b82f6; color: #3b82f6; }
+        .holder-chip { padding: 3px 8px; background: var(--bg-muted, #f0f2f5); border: 1px solid #d5d6da; border-radius: 4px; font-size: 0.7rem; cursor: pointer; }
+        .holder-chip.active { background: var(--bg-surface, #ffffff); border-color: var(--color-brand, #3b82f6); color: #3b82f6; }
 
         .tab:hover:not(.active) {
-            background: #e4e7eb;
+            background: var(--bg-active, #e4e7eb);
         }
     </style>
 </head>
@@ -781,8 +823,8 @@
     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
         <h1>水資源供應鏈情報</h1>
         <nav style="display: flex; gap: 8px;">
-            <a href="index.html" style="padding: 8px 16px; background: #3b82f6; color: white; border-radius: 6px; text-decoration: none; font-size: 0.9rem;">情報總覽</a>
-            <a href="how-it-works.html" style="padding: 8px 16px; background: #f0f2f5; color: #666; border: 1px solid #e0e4e8; border-radius: 6px; text-decoration: none; font-size: 0.9rem;">運作流程</a>
+            <a href="index.html" style="padding: 8px 16px; background: var(--color-brand, #3b82f6); color: white; border-radius: 6px; text-decoration: none; font-size: 0.9rem;">情報總覽</a>
+            <a href="how-it-works.html" style="padding: 8px 16px; background: var(--bg-muted, #f0f2f5); color: #666; border: 1px solid var(--border-subtle, #e0e4e8); border-radius: 6px; text-decoration: none; font-size: 0.9rem;">運作流程</a>
             <a onclick="openFeedback()" style="padding: 8px 16px; background: #10b981; color: white; border-radius: 6px; text-decoration: none; font-size: 0.9rem; cursor: pointer;">💬 意見回饋</a>
             <a href="https://ko-fi.com/lightchang" target="_blank" style="padding: 8px 16px; background: #ff5e5b; color: white; border-radius: 6px; text-decoration: none; font-size: 0.9rem;">☕ 贊助</a>
         </nav>
@@ -2331,29 +2373,29 @@ function renderWeeklyLLM() {
 
             <div id="feedback-step1">
                 <p style="color: #666; margin-bottom: 16px;">點擊下方按鈕擷取目前畫面，或直接輸入意見</p>
-                <button onclick="captureScreen()" style="width: 100%; padding: 12px; background: #3b82f6; color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 1rem; margin-bottom: 16px;">📷 擷取畫面截圖</button>
+                <button onclick="captureScreen()" style="width: 100%; padding: 12px; background: var(--color-brand, #3b82f6); color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 1rem; margin-bottom: 16px;">📷 擷取畫面截圖</button>
             </div>
 
             <div id="feedback-screenshot" style="display: none; margin-bottom: 16px;">
                 <p style="color: #666; margin-bottom: 8px;">截圖預覽（可在上面圈選標記）：</p>
-                <div style="position: relative; border: 1px solid #e0e4e8; border-radius: 8px; overflow: hidden;">
+                <div style="position: relative; border: 1px solid var(--border-subtle, #e0e4e8); border-radius: 8px; overflow: hidden;">
                     <canvas id="feedback-canvas" style="width: 100%; cursor: crosshair;"></canvas>
                 </div>
                 <div style="display: flex; gap: 8px; margin-top: 8px;">
-                    <button onclick="clearDrawing()" style="padding: 8px 16px; background: #f0f2f5; border: 1px solid #e0e4e8; border-radius: 6px; cursor: pointer;">清除標記</button>
-                    <button onclick="retakeScreenshot()" style="padding: 8px 16px; background: #f0f2f5; border: 1px solid #e0e4e8; border-radius: 6px; cursor: pointer;">重新截圖</button>
+                    <button onclick="clearDrawing()" style="padding: 8px 16px; background: var(--bg-muted, #f0f2f5); border: 1px solid var(--border-subtle, #e0e4e8); border-radius: 6px; cursor: pointer;">清除標記</button>
+                    <button onclick="retakeScreenshot()" style="padding: 8px 16px; background: var(--bg-muted, #f0f2f5); border: 1px solid var(--border-subtle, #e0e4e8); border-radius: 6px; cursor: pointer;">重新截圖</button>
                 </div>
             </div>
 
             <div style="margin-bottom: 16px;">
                 <label style="display: block; margin-bottom: 8px; font-weight: 500;">您的意見或建議：</label>
-                <textarea id="feedback-message" rows="4" style="width: 100%; padding: 12px; border: 1px solid #e0e4e8; border-radius: 8px; font-size: 1rem; resize: vertical; box-sizing: border-box;" placeholder="請描述您遇到的問題或建議..."></textarea>
+                <textarea id="feedback-message" rows="4" style="width: 100%; padding: 12px; border: 1px solid var(--border-subtle, #e0e4e8); border-radius: 8px; font-size: 1rem; resize: vertical; box-sizing: border-box;" placeholder="請描述您遇到的問題或建議..."></textarea>
             </div>
 
             <div id="feedback-status" style="display: none; padding: 12px; border-radius: 8px; margin-bottom: 16px;"></div>
 
             <div style="display: flex; gap: 12px;">
-                <button onclick="submitFeedback(false)" style="flex: 1; padding: 12px; background: #3b82f6; color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 1rem;">送出</button>
+                <button onclick="submitFeedback(false)" style="flex: 1; padding: 12px; background: var(--color-brand, #3b82f6); color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 1rem;">送出</button>
                 <button onclick="submitFeedback(true)" style="flex: 1; padding: 12px; background: #ff5e5b; color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 1rem;">送出 + 贊助 ☕</button>
             </div>
         </div>

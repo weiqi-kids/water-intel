@@ -11,6 +11,7 @@ companies:
   role: 管材設備
   description: 北美水管與閥門設備領導者
   ir_url: https://www.muellerwaterproducts.com/investors
+  rss_url: https://news.google.com/rss/search?q="Mueller+Water+Products"&hl=en&gl=US&ceid=US:en
   downstream:
   - essential
   - american_water
@@ -25,6 +26,7 @@ companies:
   role: 能量回收設備
   description: 海水淡化壓力交換器龍頭
   ir_url: https://ir.energyrecovery.com/
+  rss_url: https://news.google.com/rss/search?q="Energy+Recovery"&hl=en&gl=US&ceid=US:en
   downstream:
   - veolia
   - xylem
@@ -40,6 +42,7 @@ companies:
   role: 水處理零組件
   description: 台灣精密鑄件與水處理零組件
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Chien+Fu+Precision"&hl=en&gl=US&ceid=US:en
   downstream:
   - zhongyu
 - id: xylem
@@ -71,6 +74,7 @@ companies:
   role: 水務營運
   description: 全球最大水務營運商
   ir_url: https://www.veolia.com/en/finance
+  rss_url: https://news.google.com/rss/search?q="Veolia+Environnement"&hl=en&gl=US&ceid=US:en
   upstream:
   - energy_recovery
   downstream: []
@@ -85,6 +89,7 @@ companies:
   role: 水處理設備
   description: 家用與工業水處理過濾設備
   ir_url: https://www.pentair.com/en-us/investors.html
+  rss_url: https://news.google.com/rss/search?q="Pentair"+water+treatment+equipment&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
 - id: ao_smith
@@ -99,6 +104,7 @@ companies:
   role: 熱水器/淨水器
   description: 熱水器與家用淨水設備
   ir_url: https://www.aosmith.com/investors/
+  rss_url: https://news.google.com/rss/search?q="A.O.+Smith"&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
 - id: danaher
@@ -112,6 +118,7 @@ companies:
   role: 水質分析
   description: 水質分析儀器與過濾設備（Hach, Pall）
   ir_url: https://investors.danaher.com/
+  rss_url: https://news.google.com/rss/search?q="Danaher"+water+quality+analysis&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
 - id: watts
@@ -157,6 +164,7 @@ companies:
   role: 水處理化學品
   description: 半導體超純水與工業水處理化學品
   ir_url: https://ir.kurita.co.jp/en/
+  rss_url: https://news.google.com/rss/search?q="Kurita+Water+Industries"&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
 - id: zhongyu
@@ -171,6 +179,7 @@ companies:
   role: 水處理工程
   description: 台灣水處理工程與環保設備
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Zhong+Yu+Environmental"&hl=en&gl=US&ceid=US:en
   upstream:
   - chien_fu
   downstream: []
@@ -186,6 +195,7 @@ companies:
   role: 水務公用事業
   description: 美國自來水公用事業
   ir_url: https://www.essential.co/investors
+  rss_url: https://news.google.com/rss/search?q="Essential+Utilities"&hl=en&gl=US&ceid=US:en
   upstream:
   - xylem
   - mueller
@@ -203,6 +213,7 @@ companies:
   role: 水務公用事業
   description: 美國最大上市水務公司
   ir_url: https://ir.amwater.com/
+  rss_url: https://news.google.com/rss/search?q="American+Water+Works"&hl=en&gl=US&ceid=US:en
   upstream:
   - xylem
   - mueller

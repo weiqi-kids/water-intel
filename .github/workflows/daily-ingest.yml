@@ -124,6 +124,13 @@ jobs:
           cp reports/7d/$TODAY.json site/data/reports/7d/ 2>/dev/null || true
         continue-on-error: true
 
+
+      - name: Generate LLM analysis
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          python scripts/generate_llm_analysis.py --date $TODAY
+        continue-on-error: true
+
       - name: Generate report indexes
         run: |
           # Generate daily report index
