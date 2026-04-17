@@ -1,5 +1,48 @@
 [
   {
+    "id": "mueller-2026-04-17-001",
+    "date": "2026-04-17",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Short Interest in Mueller Water Products (NYSE:MWA) Drops By 18.2% - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ1ctRU8wNzVFdWw5OWlzOU1BS3h4SlZPNWpSckZJajRiWnR6RkxqSUZ5NG1sTDJBWDhMLVNweVIzWDd1MGFEQjBrYVJJMEZNMGVrd2F2R0RYMWdrcV8wZ21iRkVqYU95bmRnN3BsT2",
+    "sources": []
+  },
+  {
+    "id": "energy_recovery-2026-04-17-003",
+    "date": "2026-04-17",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "IEA: Mideast energy recovery to take two years after Iran war - Asianet Newsable",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdDRSMFU3dmRKTDRwNl84U0tOX3lscEJYQlJ3RUdWeEFUYmttcHlNT210UEk0RWE5RFlvaWRISjJqNmJYc1ZTZmV5TE83SC0td0JMWDROOTJKVXRrVXQ1ZFZGWW0xbzdtQVM1OWYtUl",
+    "sources": []
+  },
+  {
+    "id": "american_water-2026-04-17-009",
+    "date": "2026-04-17",
+    "companies": [
+      "american_water",
+      "essential"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works to Merge With Essential Utilities in All-Stock Deal - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVhQNFJyMGlnU2dUa1ZqalNUNWpNX29hNUtNbmh2R0NPcW5GbVQ3eE5uS1pFanRuWFFlclp5bmZNY19XZGk1dGN0OUlsWEtwSkswN2kzVVNaenRmMmlDQlM5aXJWWnlwUUxIckxwVz",
+    "sources": []
+  },
+  {
     "id": "mueller-2026-04-16-002",
     "date": "2026-04-16",
     "companies": [
@@ -23,6 +66,96 @@
     "impact": "neutral",
     "title": "Water vs Power Utilities: Which Utility Trade Looks Stronger in 2026? - EBC Financial Group",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOMDFpY2IzSW9udmZOMXd0bFpMZU1VRVlZRTNtWmhReXRRcnFjTGZNSUt5TXVwb1JfbXpiSjNvLWR1Q0o0NEhYRmNEdFlvNG5QT0xUZy1VQ2hueFlzcTl4bjZqZ2Zjc1FVaU5XdkJZVD",
+    "sources": []
+  },
+  {
+    "id": "ao_smith-2026-04-16-006",
+    "date": "2026-04-16",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Director At A.O. Smith Buys $150K of Stock - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOZjl3MDJoLU8zWldFcGo2Y21McldLd2x3ak00QV8xVUh4QlNZN05KcUtTREFwSTZGVWN5N053ekpnTnV3SlpybC12b1JDRkVRekQ4NjhqNTF2X3NEVlgzRXVvWllQYU5kcDNwVDRndk",
+    "sources": []
+  },
+  {
+    "id": "essential-2026-04-16-010",
+    "date": "2026-04-16",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities to Report Financial Results for Q1 2026 - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOOG9FMmloRHpyb0VYMUVzdk5WSXF6RHRFYkk0OHMzRkNfQTRHMzFIZm5Ed0JhOFJhX015VnBrbnZGSl80LS1UcF80d3l5WmtaSU51eGNwUlZGSEd3aGtoSVpsMXByMjduUEdQQ2pNVD",
+    "sources": []
+  },
+  {
+    "id": "essential-2026-04-16-011",
+    "date": "2026-04-16",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Press Release: Essential Utilities to Report Financial Results for Q1 2026 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2VHWjJWMG5ld2Q3ZG5MdXdPWVlFUmlab0RVVjVTVURtcktPbEJXZ0t2UVlDd3pqWkhia2JiVG5PdEI4N2FMOU9qZVE3bVJnWDdOQ0JFNTdQUXBrV08tUWhTOThGLTk4WENqUFVzOD",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-013",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "wastewater_treatment"
+    ],
+    "impact": "neutral",
+    "title": "Iowa American Water Parent Company Celebrates 140 Years of Providing Safe and Reliable Water and Wastewater Services to Customers and Communities in 2026 – Company Announcement - FT.com - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkoybjlPa0VyZmpWdFVyd1NCcncwRzd3MWtYZUR5OFVEejZrNC1Rd3BjWXZRQmtNOE52SjhObmhLRlR5VHZvNkM1eXljaUptd0xIOUVsUTRHeGdsSXczRS1CeHdpOHBHMHZCdVRoeU",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-014",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "American Water's Kentucky Unit Buys Livingston Municipal Water System - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPOTVwQVNveHp6V2R6ZnhRd1lWU1dYWThacy1aTzJmSE1IZmtjU2ItNTBkaldrUGo1dl9QQ1Nqb2FodVZQaU52OGMyaUJYVmJMTjNkZGxNYm5XbHlfSmJVd3ZxbnZUVV8ydHdtazVSR2",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-015",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "195 Illinois groups got $1.2M from Illinois American Water in 2025 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0c1b3BuUUVDWm9LbnBvQVNrV0JEUHJMeHg5cTJQZjFyX3dqNG5Qd3V0SDhLSkQ3b0dIVTU5c2Fsa2NSU3V5X01JS0FjNmp0MDRySjJ4cjFJbXpCWXpnZVJONDZPZTdOSm1xc0RxNj",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-016",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "West Virginia American Water Announces $550,000 Infrastructure Project in Fayetteville - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnpYTk1VZlgwWkN1NTBSZE50TmtHZHJzZDhJOUNybHhNdFpSZzVjeEk2YnNfaU5ISjFrMnNWOHNXX19ZTy1KOFlMYWdoYk85VDBJUGlmM3pQYkdod2N1S2NjYlBXc1NkVFY2TTZBek",
     "sources": []
   },
   {
@@ -165,6 +298,32 @@
     "impact": "neutral",
     "title": "Tennessee American Water's 2025 Water Quality Reports Now Available Online – Company Announcement - Financial Times",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxORDIwVmV3Q2VKMXJQSUFfMFlsc3Q3dDk2ODhhM0t5S0JjSllJMEFUQndCR0JJZUk4TndjSU5mdzFOTk5TaHVjbXBUSkJYeTB4VHpMeXFTZ20wdUVkUDlKZVZBTXBJNi14TW5HWk5uUl",
+    "sources": []
+  },
+  {
+    "id": "veolia-2026-04-15-004",
+    "date": "2026-04-15",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement (VIE) Q1 2025 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5BeWszcFJuRDZJand1V21qWWVhcTlTVGRFTUlaSXU2UnlUNlV6SjQ4MXBNbGZ4eEhPaW9PWGZVNmxlLWdIeFNrMkljaEllaDlPTllNM0tGOTNWZWotbXdXUldydG1XM2Zpb1JhT19aRj",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-007",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Director at A. O. Smith (NYSE: AOS) receives 2,262-share grant - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQmNUR1VZX3ZEaUlfLVFYUHFaV0hyQXZlUXhYcTd2WXZtWFhvNHVGMHRCczhOM3dFZUQ1Mk5QaG81VE5yZGpRWFFCUUdEelN0SUVoYnNLR2xOUXhVNnZTWGNUZXozWjlTMjhNbzRPWT",
     "sources": []
   },
   {
@@ -506,6 +665,20 @@
     "sources": []
   },
   {
+    "id": "veolia-2026-04-13-005",
+    "date": "2026-04-13",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1ic18xNWI2ZzVSelVmMS0xTjI2Z2UxcGprQlpoNjNqLWRxWktxdks0ZXBLd0s4MWlWd0hVaU9lajNnZnF0eml0WE9FZG45QU1VeTlQSnpUTmpnaThMaW04TVJRMWNnSHA2ZFd3aklHen",
+    "sources": []
+  },
+  {
     "id": "energy_recovery-2026-04-12-020",
     "date": "2026-04-12",
     "companies": [
@@ -570,6 +743,18 @@
     "impact": "neutral",
     "title": "Earnings Preview: What to Expect From A. O. Smith's Report - Barchart.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOUHFkY3pNVTU4bW84X1NSOUZPZnp6SG5oMlk0Q2dQM1Z2VFZocXU3cVRNQ254MTlUYk5ETVE3dzZEUlFXUzhHTTUyb0lYTHh5TThoMHhhb2M0Tndtb01hRmh0d0drNFNBYmM3em1aSE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-12-008",
+    "date": "2026-04-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Preview: What to Expect From A. O. Smith's Report - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQYUpDdEtBd3FwUHRjODFBb1MwNExFUnpOMzhZV0VLcG1CN0djRWRPdXhnTHpTSHpMY2k5VEtreVd3ZTJmQ1VnekZSQU1hUjhsLTJyT1ZacUxSdFhxZWk3X3JzWC1DOG1LZFQwMFZ0S0",
     "sources": []
   },
   {
@@ -1035,6 +1220,20 @@
     "sources": []
   },
   {
+    "id": "essential-2026-03-27-012",
+    "date": "2026-03-27",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Synergy Asset Management LLC Cuts Stock Holdings in Essential Utilities Inc. $WTRG - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGwwc1JaMUltZU5GLXpnUVIxcGVXQ2M1YmJnTVJzaDFoX1VIeWF4b0NZdzd1RzdXV2NabS10ZTF4Y20tdVdLZjhWVXotVW5lMEVLZHBKemdfVFB1Sy1rQWdDaE1oWHZKWjY4VmlVTG",
+    "sources": []
+  },
+  {
     "id": "energy_recovery-2026-03-26-017",
     "date": "2026-03-26",
     "companies": [
@@ -1336,6 +1535,20 @@
     "impact": "neutral",
     "title": "Filtration+Separation February 2026 issue – online now! - Filtration and Separation",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWpCOEJCZjk3UWFlSEYzS2FYaTIteWRsOW9pdjE0dlFCZUZCUmpoVlJ3ZWw2ZTkxQzJFRHRNMkYzblhOTlY4MEd1TXcwejBpUFNRdlY2UjFHaEpIME5kMXMyMERoUzlaakl5YXNEVX",
+    "sources": []
+  },
+  {
+    "id": "american_water-2026-03-02-018",
+    "date": "2026-03-02",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company (AWK) Is Up 5.1% After Heavy 2025 Infrastructure Spend And Steady EPS – Has The Bull Case Changed? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjZPOXRNb3A5cndReFJYcllHN244UjFhajFiaDhFVlhTZ0dBYUpLcUs5b1ltTGZmYUVRb3NGTGJNMzRFVXdTNENuUlpsTFJ5S2lFYVRsUVRxLVNGNF80NHBiSGhyX0ZNVDNKY0xDV1",
     "sources": []
   },
   {
@@ -2009,6 +2222,20 @@
     "sources": []
   },
   {
+    "id": "mueller-2025-11-06-002",
+    "date": "2025-11-06",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products’s (NYSE:MWA) Q3 Sales Beat Estimates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOTG5heU41ZUlwNGs4U2lld0ExNEpRYUlJLXI1Q3NSaUNSZ2F4aGNZc1ZpVG9ZUW5iQXVrN2NoYVY0X3FXOWZjTmZWV21Kek5kazhEdkhXMThpRnhUNml4Q21sOW5ESzc1ZjhUNW0tT2",
+    "sources": []
+  },
+  {
     "id": "unknown-2025-11-05-036",
     "date": "2025-11-05",
     "companies": [],
@@ -2356,6 +2583,20 @@
     "impact": "neutral",
     "title": "The United States Water Quality Monitoring Systems Market Size & Outlook, 2030 - Grand View Research",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVZkYnJQSmZVeEJlZTZzc0dpQWdZTGxzbUtiSU1rRUUyeDdyOWc5VXRoN3dXM0hMZWJoQTVxTFRIVktkUlRpc2N0QWxFSmhCY1VWOU13MEMtUV9iSTRlWHNmRmFBcDViNjNSQ1NRUT",
+    "sources": []
+  },
+  {
+    "id": "unknown-2023-12-13-017",
+    "date": "2023-12-13",
+    "companies": [],
+    "topics": [
+      "wastewater_treatment",
+      "smart_water",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Samyang Corp. expands global market with two new water treatment devices - Smart Water Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNQTZxd0IwZ2dwMWNXaS0zSWkyTUJzQWtMenBCQzZETWNHYUo0VkttYWp4clI1YXRoUVRyVUxHdHF2dk5uSkdzSWJNUGtpZHdHLUNmY2xueFFjc1hmaDAzeVQ1SU1ybTNJM0RVZGljN3",
     "sources": []
   },
   {
