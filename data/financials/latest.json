@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-21T09:48:15.345715Z",
-  "quarter": "2025-09-30, 2025-12-31",
+  "updated_at": "2026-04-22T09:29:55.920112Z",
+  "quarter": "2025-09-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
       "id": "american_water",
@@ -35,28 +35,28 @@
       "name": "巴傑",
       "ticker": "BMI",
       "currency": "USD",
-      "ar": 112356000,
-      "ar_prev": 115056000,
+      "ar": 110290000,
+      "ar_prev": 112356000,
       "ar_qoq": "-2%",
-      "inventory": 151935000,
-      "inv_prev": 152627000,
-      "inv_qoq": "-0%",
+      "inventory": 175193000,
+      "inv_prev": 151935000,
+      "inv_qoq": "+15%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "danaher",
       "name": "丹納赫",
       "ticker": "DHR",
       "currency": "USD",
-      "ar": 3913000000,
-      "ar_prev": 3755000000,
-      "ar_qoq": "+4%",
-      "inventory": 2489000000,
-      "inv_prev": 2674000000,
-      "inv_qoq": "-7%",
+      "ar": 3819000000,
+      "ar_prev": 3913000000,
+      "ar_qoq": "-2%",
+      "inventory": 2608000000,
+      "inv_prev": 2489000000,
+      "inv_qoq": "+5%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "energy_recovery",

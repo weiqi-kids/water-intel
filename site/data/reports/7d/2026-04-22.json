@@ -1,0 +1,135 @@
+{
+  "date": "2026-04-22",
+  "date_range": {
+    "start": "2026-04-16",
+    "end": "2026-04-22"
+  },
+  "generated_at": "2026-04-22T09:29:59.449396Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "american_water-2026-04-17-009",
+      "date": "2026-04-17",
+      "title": "American Water Works to Merge With Essential Utilities in All-Stock Deal - MSN",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 12,
+      "last_week": 2,
+      "week_over_week_change": "+500%",
+      "sentiment_this_week": -0.08
+    },
+    "capex": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "wastewater_treatment": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "mueller": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 2
+    },
+    "energy_recovery": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "american_water": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 1
+    },
+    "essential": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "xylem": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "kurita": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 13,
+        "last": 2,
+        "change_pct": 550.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-16",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-17",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-18",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-21",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-22",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-16 ~ 2026-04-22）共 13 則事件，重點為「American Water Works to Merge With Essential Ut...」。事件量較上週增加 550%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "穆勒",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "美國水務",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "必要公用",
+        "reason": "受廢水處理議題影響，供應鏈壓力可能上升。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

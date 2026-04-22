@@ -1,0 +1,21 @@
+{
+  "date": "2026-04-22",
+  "total_events": 1,
+  "by_company": {
+    "american_water": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
