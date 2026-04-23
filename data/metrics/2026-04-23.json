@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-23",
+  "total_events": 6,
+  "by_company": {
+    "mueller": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "ao_smith": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "essential": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "american_water": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "regulation": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "american_water",
+      "to": "essential",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ]
+}

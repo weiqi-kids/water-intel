@@ -1,0 +1,230 @@
+{
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T09:52:56.885392Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_water-2026-04-23-016",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "American Water Works, Essential Utilities merger approved by Kentucky regulator - MSN",
+      "companies": [
+        "american_water",
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-04-23-018",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "American Water Works (AWK) and Essential Utilities (WTRG) Merger Approved by Kentucky PSC - GuruFocus",
+      "companies": [
+        "american_water",
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "mueller-2026-04-23-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "MWA (MUELLER WATER PRODUCTS) beats Q1 2026 EPS forecasts, posts 8.8 percent year over year revenue gain but shares drop 3.31 percent. - Profit Growth - UBND thành phố Hải Phòng",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "regulation"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "ao_smith-2026-04-23-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What is really driving A.O. Smith (AOS) stock price movement | Q4 2025: Profit Surprises - Target Revision - UBND thành phố Hải Phòng",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "ao_smith-2026-04-23-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What is really driving A.O. Smith (AOS) stock price movement | Q4 2025: Profit Surprises - Social Trade Signals - Xã Vĩnh Công",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "regulation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "american_water",
+      "to": "essential",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "essential",
+        "count": 3
+      },
+      {
+        "id": "ao_smith",
+        "count": 2
+      },
+      {
+        "id": "american_water",
+        "count": 2
+      },
+      {
+        "id": "mueller",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "regulation",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為必要公用、史密斯、美國水務相關動態：「American Water Works, Essential Utilities merger approved...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "American Water Works, Essential Utilities merger approved by Kentucky regulat...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "American Water Works (AWK) and Essential Utilities (WTRG) Merger Approved by ...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
