@@ -1,5 +1,31 @@
 [
   {
+    "id": "unknown-2026-04-24-006",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Q4 Earnings Highlights: A. O. Smith (NYSE:AOS) Vs The Rest Of The HVAC and Water Systems Stocks - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxONzBaM3pvN0F5TV9DMVlNVHhGeGlrSVZsLWNyRnNCVUdLLTFtNWRYakNoa3loalFaVGtxVnQ1b0VBZmx0dnRrWWFQWWRISWZ5ZmhoNm9mWHFudUU3Q2pPWWJUVEpCTlI5UVNsM1c0Y3",
+    "sources": []
+  },
+  {
+    "id": "essential-2026-04-24-011",
+    "date": "2026-04-24",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Assessing Essential Utilities (WTRG) Valuation After Recent Share Price Gains And Steady Returns - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRnZHeF9NVHo5bUE3RW1lXzdUemxtNU9ubnVCaExRN2ZaY3ZjWHRaZ3habEswenpYSm9ERDVld2VjRnR1Q2FYV3VDNzZaalNTeHVjVmt6Mm1XSGZacnFZV25jaGF6SkF1R3VJYmZ0V3",
+    "sources": []
+  },
+  {
     "id": "mueller-2026-04-23-002",
     "date": "2026-04-23",
     "companies": [
@@ -85,6 +111,85 @@
     "impact": "neutral",
     "title": "American Water Works (AWK) and Essential Utilities (WTRG) Merger Approved by Kentucky PSC - GuruFocus",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWlqT0tWMHBKR1ZnVHdVOVRJYmRDbExGOWZGLTktc0lROTVxWTdQVkstNFBuQXBubzNxS1h6OEtiOUZtMjdZbzd2UmtXSklyQjhRdE9IbmJqN2drU3ZKc1hrUlR5Q1ZoSlVQMncyaW",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-002",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AccelerateEU highlights Waste-to-Energy role - RECYCLING magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0UyaFFsTUhfYVpoc0lwVlJ2ZXBKNlVMdVNEdDJmZjhCRUk3U2F6OXU0dnBObVhubHZ4R2NDbDQyOHJrN1FmN2pvUzZZQll4SkNNaTBNSjU5d1Fyb1pTOG9mM0N6QXhaMGJ6ZWtNQ1",
+    "sources": []
+  },
+  {
+    "id": "veolia-2026-04-23-004",
+    "date": "2026-04-23",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement : PR -Veolia launches two new and unique dialogue initiatives with stakeholders at the heart of environmental security - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVEJpUEMtTmx4Vm5UTU5nMHFORzJrY1BxV1NvU3F3Y0lQQ28tRlEzQkthZlk4bExydmE3aHNyeGFMQXM3WDNWR2ZLYzJzeWppc3J3dXBfSW02dU9mR1VpckRVRUlFdWFSdW1YQU1zSC",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-007",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith Demonstrates Hydronic Heating Innovation, Manufacturing Scale in Tennessee - Contractor Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbkpQajBRUFNyRGEwY2RJaUQwV1Q4cFRiVEMtQnVGaldvVGdlQ3dDR0QtLXdmbGZMUHQ0T2xoUHdzQXJMZXNpVHJIQWkwMUl4MTBYNXpteDNxSUZqSVpINkR6LVNqNzRDRmxaRXduS1",
+    "sources": []
+  },
+  {
+    "id": "essential-2026-04-23-012",
+    "date": "2026-04-23",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "smart_water",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kentucky clears first hurdle for American Water and Essential Utilities merger - Smart Water Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQcFVsa08xMXB0YzhwZVdpb1ZONkJrMlZaeWJRS1VCNUZNZHhLaUtBdlJqSkk0cHBFME9hVmE1OC0tekJlUkhuREQxcEhXV0pfbzYyVTZpQzg1NnBmTnZOUXZ0RnZpY3JfdklvRlo3Xz",
+    "sources": []
+  },
+  {
+    "id": "american_water-2026-04-23-013",
+    "date": "2026-04-23",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Co. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc24zczZVTGZlQTY2bFhNOU9oT2hhU1NQRHRjWF9BYi03SDNLZ0VVcXRyWFBGdVJDcTBkRjdnU0N4UlMzUGNVdDdoOV8xNVBDa2lsd25hWlRfVlBPZDA4MFFUVTUtb0Q4WkhDdkZnRm",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-015",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Pennsylvania American Water Proudly Recognizes American Water Charitable Foundation 2026 Water and Environment Grantees – Company Announcement - FT.com - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOYWhuSGVfWVpmS0R4MzNpYTQzNERLUGZYYXdWeTVDdlJPamFfMXR4ZVZyT0VjMjA0ZWFoNzl3WWc3UWswODlFYUQ4NExlWGVSa3F4NDh6MnFPcGY0UmpDR3FHUXJWaHJDX284WElKeV",
     "sources": []
   },
   {
@@ -223,6 +328,20 @@
     "impact": "neutral",
     "title": "Smart Water Infrastructure Systems - Blueprint Magazine",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1LSFZLc0VNczZadzlwbW1abGc3anc5M1dJVDRjZ2NjNFM2SlpSMmpjOWFwZ3RGdnhBMlZvUHAxYlhmclI0ZnRuYkVqOGlNaU03Q2t3c0xTc0xqcmp3WC1DRGRDbzNNMTRYUGFVbWllek",
+    "sources": []
+  },
+  {
+    "id": "american_water-2026-04-22-014",
+    "date": "2026-04-22",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works (AWK) Projected to Post Earnings on Wednesday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1BUSlZ4TXNTWmxqNFhfaFAxOUFHa0Z2d3BEeUlCRlVlUzNQU0JxdUlkMGtPaV9LYWVjc1JNTlM5ZlpUaXhlN0tiRTJjQ0VKeFFqblNZNnJ4ZGJmWkN3b1hMWHdreVdvSHB0ZHN0c1",
     "sources": []
   },
   {
@@ -1556,6 +1675,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-04-09-018",
+    "date": "2026-04-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Two South Charleston streets get new water mains in $1.6M upgrade - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQOGFENGFQMnpCeTd0VVJ6OHVvQkJCSDAzUXZjTVBjUnNlcVJBdnc0TllhVUpibnozYkZDM2RSN0VQcDdBOXJSMGE3S0dPN2tnQ1VjaVZqNUd2blRHRXI3VEdRZDM2aFJMOHd5aU1Zal",
+    "sources": []
+  },
+  {
     "id": "watts-2026-04-08-001",
     "date": "2026-04-08",
     "companies": [
@@ -1581,6 +1712,20 @@
     "impact": "neutral",
     "title": "Veolia Environnement: Invitation to the Combined General Meeting of Veolia Environnement of April 23, 2026 - Yahoo Finance",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPeHQ1YWJBcWxXN3lPUjVCUjQ4akRlaTJ3c2ppbmJ0M0xZdG9zZUd1end3bHFEbkxNR2RqWlNrN1IyWE9vSXVxYVUwbnctdzR6emxQa0EyVlRWeDhhODFKMHVHZm5UZmwyOFJ6Qzl3a2",
+    "sources": []
+  },
+  {
+    "id": "energy_recovery-2026-04-08-003",
+    "date": "2026-04-08",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Arve Hanstveit Sells 2,419 Shares of Energy Recovery (NASDAQ:ERII) Stock - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOUDBQNDAyaTF2TDBrVDBaaU5DNnp2WUtoWjhVSjE3VUxtTnI0b0o3d1pnem9VZU1kVkFiYTFxNGxqVm5PQ0cyQ3pNMm1qRUVwa0tELW5Da3JjYm9Zb1JQdEtLZ2NTZlVVVFpXMEk1QX",
     "sources": []
   },
   {
@@ -1771,6 +1916,21 @@
     "impact": "neutral",
     "title": "Assenagon Asset Management S.A. Raises Holdings in Essential Utilities Inc. $WTRG - MarketBeat",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaHF5ejh5U0Y1MGlPbDFxdVZPd2FXX3YzeWNmNlJ4bFA1TDFaZ3RKTjk4emdsOXdfZ1VPQ3FrU1lYUUEwczVLbklJWnhRMkp4MUNpVHExcy1aT20zZ2JidlJyNVJLMGlRZDV2S0x2aD",
+    "sources": []
+  },
+  {
+    "id": "kurita-2026-03-28-010",
+    "date": "2026-03-28",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "wastewater_treatment",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries Ltd Stock: Japan's Leader in Water Treatment Solutions for Global Investors - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOWXc3Mi10UUdhWVplb1JOQ3lWR1BodkxNdTlMMGpVakF2NmM0UEpmUS05S25uVzk3OEowS0lRM0FtMEdqQzA1eGxVVmJpdmlHbXp3dUhBVzhmUENXRXRYc1FLSUcxT2lSdEZKU29GVG",
     "sources": []
   },
   {
@@ -2006,6 +2166,18 @@
     "impact": "positive",
     "title": "Water Treatment Systems Market size to surpass $96.75 Billion - openPR.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkM0dUViNF9VOVFxSVYtWmllVVB4NTgzQlh6dzFremZVcUY0YVdxV20xbnd2T0JIcmQ2czlpWVBHUGNuR2RRMHJHUDJFNGVGck9ZNGtQU1JycGU0TTlLVjlXdV9SYl9xWGFoR0U4Tj",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-19-019",
+    "date": "2026-03-19",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Investing in Infrastructure - National Park Service (.gov)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBoOTlEdkRKWXhhUUlHa1JFWVFqd05EanE5VVlFWjhDeEpFTVBNcTdNYUxnMGNzNERDd2pqNThIaDYzTEJtaWpyaW9NNGh6cl84eWlMYk4xZ3hHYXRMcUdfUWgwMnBHaGF2LW5jdA?oc=",
     "sources": []
   },
   {
@@ -2429,6 +2601,18 @@
     "impact": "neutral",
     "title": "American Water and Essential Utilities shareholders back proposed merger - Smart Water Magazine",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSUhfZnpZMWpMZUJPV2s3Nlh2YnVyS1BYaGlaSUNDdnB2Y05JUS0yMFc1REtXOTFfQzVybzRzcXRjbU0yT0YxZElZNFFESnBJOHFfSHQxODAzR3pDek9meXctT2x1WGdBdlE2dFlfUV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-12-009",
+    "date": "2026-02-12",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith’s 2026 Outlook And Buybacks Might Change The Case For Investing In AOS - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxObVlYcERRUnJiMWlHc2NsY2QyZ05fM3dzbDdQSGdVTU9EUGtyeHYxeUluTHFlTUR2Z2c0eHd0TFJQRWtIVmd6YjZ6T1JqOUctVy12WGhnazRrRXhsOTA1dlpXalZFb01LazhnbWtXOD",
     "sources": []
   },
   {
@@ -3149,6 +3333,20 @@
     "sources": []
   },
   {
+    "id": "veolia-2025-10-31-005",
+    "date": "2025-10-31",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement: Still One Of The Best Plays In Water/Recycling Going Into Q3 (VEOEY) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDBjOTVsZzlmTXB2cEIzYkNuaW12dEdiQi1PS0E3WGJnbmZmOFV6dXNOcUdodXlKSVU5cUJxaGZqMW10TEJFTDhZRWhTTTVmYUtiNVpkeGZvTWowY05TUkpqNUhmM3RfbC1HVlVKSX",
+    "sources": []
+  },
+  {
     "id": "unknown-2025-10-28-043",
     "date": "2025-10-28",
     "companies": [],
@@ -3256,6 +3454,19 @@
     "impact": "neutral",
     "title": "Kurita & ispace partner for lunar water treatment demo payload - Smart Water Magazine",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOMTB6Z1VKUnpTcWtiN2dqTElNbmpIOHBZUE1oSUdKVXdRSWxJcC1xSEdhZVZXbnBzV04tbWFEQXBMVk1ZSkJEMXZta3hYbjl6SWJVY1ROc1JvbW56bjNWTjk3OEFXY1BsNDVNS1l5dE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-10-01-016",
+    "date": "2025-10-01",
+    "companies": [],
+    "topics": [
+      "smart_water",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nijhuis Saur Industries acquires Grünbeck Waterbehandeling - Smart Water Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNbEFGMkFXN2J1VWt0d2FubHEtdUxPRUlKQzFVaTh5QkFvUkVHd1lyZkV0YjRBdzB6M3hOX1lPTGZMdUwtZzVENmZDWGVhcWlqcDNPMkdLeTc2YkVUU1JfNHhOS3YwUktOMk1BZGhUWF",
     "sources": []
   },
   {
@@ -3369,6 +3580,20 @@
     "impact": "neutral",
     "title": "Squeezing every last drop out of wastewater - ASU News",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSFBoVHBObjI0YllrT0ctUUlJd3JqVHFvbHhZenc2OGJqZ3pzVGpWLVdfQU9WMTVtcUFhdFJHckhFcmJEX3pNZTNpN0tsVjFObWhGSjRTS3dpVEMtRVZKckQtODZsNE1LMFpsdU1KaU",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-06-10-017",
+    "date": "2025-06-10",
+    "companies": [],
+    "topics": [
+      "semiconductor_ultrapure_water",
+      "smart_water",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Aquatech acquires Century Water, strengthens position in ultrapure water technologies - Smart Water Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUlVMRTVGRHpJLWRHT0NLdzFKazBPWFZqM3k3cG83cC1TMGFDNmNNM0FHcUFLWmJwMUYxaFJMeG5vY0dYQ2dRYjlyLUhmZjFENzBMUTBmZnNsVGRpVkFvZEFETG4xOEdwdWp4U0xaWV",
     "sources": []
   },
   {

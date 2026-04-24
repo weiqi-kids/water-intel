@@ -1,0 +1,100 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T09:53:12.430596Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-24-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Q4 Earnings Highlights: A. O. Smith (NYSE:AOS) Vs The Rest Of The HVAC and Water Systems Stocks - StockStory",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "essential-2026-04-24-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Assessing Essential Utilities (WTRG) Valuation After Recent Share Price Gains And Steady Returns - Yahoo Finance",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "essential",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為必要公用相關動態：「Q4 Earnings Highlights: A. O. Smith (NYSE:AOS) Vs The Res...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Q4 Earnings Highlights: A. O. Smith (NYSE:AOS) Vs The Rest Of The HVAC and Wa...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Assessing Essential Utilities (WTRG) Valuation After Recent Share Price Gains...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
