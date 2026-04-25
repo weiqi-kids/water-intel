@@ -1,0 +1,180 @@
+{
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T09:04:52.338392Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "essential-2026-04-25-012",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "American Water Works, Essential Utilities to Combine to Create $40 Billion Utility - MSN",
+      "companies": [
+        "essential",
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-25-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Indian Health Service Announces New Round of Water Infrastructure Funding - Native News Online",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-25-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FR0013445335 Bond Analysis — Key Metrics - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "essential-2026-04-25-008",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shareholders approve merger of American Water and Essential Utilities, which serve Pa. and NJ - MSN",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "smart_water"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "smart_water": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "essential",
+        "count": 2
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "smart_water",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為必要公用、美國水務相關動態：「American Water Works, Essential Utilities to Combine to C...」。主要關注主題為財報、智慧水務、資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "American Water Works, Essential Utilities to Combine to Create $40 Billion Ut...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Indian Health Service Announces New Round of Water Infrastructure Funding - N...（財報、資本支出）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
