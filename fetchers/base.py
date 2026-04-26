@@ -147,7 +147,7 @@ class CompanyFetcher(ABC):
     def _fetch_via_http(self) -> dict[str, list[CompanyDocument]]:
         """Fetch news page via plain HTTP + BeautifulSoup (no JS rendering)."""
         headers = self.http_headers or {
-            "User-Agent": "Mozilla/5.0 (compatible; IntelBot/1.0)"
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
         result = {}
         if self.news_url:
