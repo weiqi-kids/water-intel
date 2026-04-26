@@ -1,11 +1,11 @@
 {
-  "total_raw": 238,
-  "dup_title": 148,
+  "total_raw": 496,
+  "dup_title": 292,
   "no_date": 0,
-  "too_old": 65,
-  "gate1_fail": 3,
-  "gate2_fail": 19,
-  "passed": 3,
+  "too_old": 140,
+  "gate1_fail": 7,
+  "gate2_fail": 26,
+  "passed": 31,
   "gate2_samples": [
     "Mueller Water Products Trying To Close In On Key Technical Measure - Investor's Business Daily",
     "Mueller Water Products Inc-A (NYSE:MWA) Passes a Peter Lynch GARP Screen - ChartMill",

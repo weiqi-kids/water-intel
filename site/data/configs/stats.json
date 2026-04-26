@@ -1,7 +1,7 @@
 {
   "company_count": 14,
-  "topic_count": 9,
-  "alias_count": 75,
+  "topic_count": 10,
+  "alias_count": 100,
   "positive_word_count": 27,
   "negative_word_count": 27,
   "negation_word_count": 18,

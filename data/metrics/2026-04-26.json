@@ -1,15 +1,27 @@
 {
   "date": "2026-04-26",
-  "total_events": 1,
+  "total_events": 9,
   "by_company": {
     "american_water": {
       "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "essential": {
+      "count": 2,
       "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "earnings": {
-      "count": 1,
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 5,
       "sentiment_avg": 0.0
     }
   },

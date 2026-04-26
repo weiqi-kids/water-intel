@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T09:11:17.181610Z",
+  "generated_at": "2026-04-26T14:10:50.937693Z",
   "top_events": [
     {
       "rank": 1,
@@ -25,12 +25,117 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPblg1N1c5T09hZ0ZnTWU2bG9YRng2TVlpZlFVNFFRb2JRWEpFTVowU1JyTmphUUlibVJYODZja2tyelQ1UkJqZDB4T3paNnhlbFdWVjRqN0dzYjByWi1BcXRQRkVFUjRwUTZhVEZJSWtjWVc1TzdabS1SNmlmSmtXNVhPaFBnb09SY0ZqWFFxOUtxMHVMMlB1MlUtZVh0a0VzdzVBUkhVcWV0djRzVEQxb2lVTkRIQkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "veolia-2026-04-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Targets Data Centers With New Resource 360 Sustainability Offer - Yahoo Finance UK",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnptdXR1eDVXcHVwQmZ5MnpDUHRGWnRkSWZ1Qk5wblJhcEMta1dqNTRSYzZSRjZrVXpkMjhVQ2lRVFRYS2RRM09jZExCdDZteXNBYnRaQ3gxZkpxd1M2Z2NmWGs5S1p4S0wwMlEwQmFualFueGRJVFVTMmtTU214WDZaeE1Ta28?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "veolia-2026-04-26-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement S.A. stock (FR0000124141): Why Google Discover changes matter more now - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQlQyd21KSjhoamVSM2o5UURUakFQQ1ViUDZ4QlM3bFhJb0QwekJlUDJaNWJ0bWFHMWszRnVfT1RkUjV0SDFveVFMREkyaVhkSzNFNWhDa29fbkVVRHI3blJ0MkdSbWdZUDhwNjV5YThPMlZ4TW01QzhrcUtoRFlsSkl5ZldYem9vYVBfRGdNTGtxcWNDREZpTnd2V2FmRzJkMUpQVkJQSmRIa25OdFlQR05aRm9UWGZiSzJwbGcxdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-26-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is It Time To Revisit A. O. Smith (AOS) After Recent Sideways Share Performance? - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdS1XSlk0Z2MyaFJTajJIUW45OXpTbTYyRGtIa2pvMEltXzQtQkRBZUdSb2ROaV9LaHRPZFZQNnMzWTV1Zm1XNHlQYV92bHpBN29CdGVWQ1VtaVp0b3J5SnBzQXIwWGdseGp0YS1mN19fMEhWY2NoeGpEdGMxcnRCOW56UTRxTzdyRHBvc2tVb29OQkVCbUlKNUdHUndqT2FjQ2plTk8tNkRWY1NWbVNhQV95bEhERXgtMHFrTl83SjFwZkQ4dXZ6S0h30gHPAUFVX3lxTE1NMTFZU3AyX2htNVdqWTZqTmk0bnItajgzZloyVUFOZjdkNUJwNGE0NzhHQldEUktoVWVQbU1kX0dERmVzdGlTZWR0VnBHRTNWVkY4SW0xTVc3dDNiblZpOW4yY0IyWk5pbDJsT2NYRXNrWVpKZUtvejNYYmNiLUVDR0N2cnVGX2F6RV9WY2FLWmpCM1Z4bXduODM3LWl5YzlTaVNFd3FFU0ItV0ZkMVZpWXlDQkFUTXRnclhvdGRPYXdTbnRqR0dSbVhiRVJGSQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "essential-2026-04-26-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Essential Utilities (WTRG) is a Great Dividend Stock Right Now - MSN",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNSlVELXRsaDNOX3pKSlVIR0t3TkNrQjNxSWJERFpZYWpyUFdFb1NNYUJWMnFGV1BKSGs3Q3JRMUN2TmQ1OE5aTExVWFE3WDktTXRLMFFZamxfZ0J6b1dibVQyQnRRSGppUGZuOFI5N0o0NzhETDM3VWd1WU43V0d3bjZtVG1VMy11R241RDc5YTlVYzZkbmpCNnJrenZON2J2UUtyZ3c4aVNXNlMxaHhvZFhZYm9rV1F1M1E4czlNRlZjclFkWEVCZnd0MGVpQnk2QlVlWl9TUmoxV0FLMHdibWd0MVdmOExob0RTY3l3bmZ1RXFCd0VENWYwRGU1ZzJWMm11aXJDaDFsS2ZvR3MwN2lubHVBLVVES3VOS3hPanppTmtMYkxtS2MyR0wzdm9ScnpGWFRyenpZRVc1VFZFdWJ0NXAyenFtTTJjUVdPVDVGVUQ1MlNQZ1dreUF5cndzZkJkQUJpWQ?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "earnings": {
-      "today": 1,
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -42,13 +147,21 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 1,
+    "total_events": 9,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 1,
+      "neutral": 9,
       "negative": 0
     },
     "top_companies": [
+      {
+        "id": "veolia",
+        "count": 2
+      },
+      {
+        "id": "essential",
+        "count": 2
+      },
       {
         "id": "american_water",
         "count": 1
@@ -57,19 +170,23 @@
     "top_topics": [
       {
         "id": "earnings",
-        "count": 1
+        "count": 6
+      },
+      {
+        "id": "industry_general",
+        "count": 5
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 238,
-    "dup_title": 148,
-    "too_old": 65,
-    "gate1_blocked": 3,
-    "gate2_blocked": 19,
-    "passed": 3,
-    "pass_rate": "3.3%",
-    "gate2_block_rate": "21.1%",
+    "total_raw": 496,
+    "dup_title": 292,
+    "too_old": 140,
+    "gate1_blocked": 7,
+    "gate2_blocked": 26,
+    "passed": 31,
+    "pass_rate": "15.2%",
+    "gate2_block_rate": "12.7%",
     "gate2_samples": [
       "Mueller Water Products Trying To Close In On Key Technical Measure - Investor's Business Daily",
       "Mueller Water Products Inc-A (NYSE:MWA) Passes a Peter Lynch GARP Screen - ChartMill",
@@ -80,15 +197,15 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 1 則事件，焦點為美國水務相關動態：「American Water Works (NYSE:AWK) Raised to \"Sell\" at Wall ...」。主要關注主題為財報，市場情緒中性。",
+    "summary": "今日共 9 則事件，焦點為威立雅、必要公用、美國水務相關動態：「American Water Works (NYSE:AWK) Raised to \"Sell\" at Wall ...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
     "signals": [
       {
         "text": "American Water Works (NYSE:AWK) Raised to \"Sell\" at Wall Street Zen - MarketBeat（財報）",
         "level": "yellow"
       },
       {
-        "text": "美國水務為今日主要關注企業。",
-        "level": "green"
+        "text": "Veolia Targets Data Centers With New Resource 360 Sustainability Offer - Yaho...（財報）",
+        "level": "yellow"
       }
     ]
   },

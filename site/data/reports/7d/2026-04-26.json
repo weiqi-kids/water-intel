@@ -4,7 +4,7 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T09:11:17.252526Z",
+  "generated_at": "2026-04-26T14:10:51.003508Z",
   "highlights": [
     {
       "rank": 1,
@@ -18,10 +18,10 @@
   "anomalies_7d": [],
   "topic_7d_summary": {
     "earnings": {
-      "this_week": 17,
+      "this_week": 22,
       "last_week": 9,
-      "week_over_week_change": "+89%",
-      "sentiment_this_week": 0.03
+      "week_over_week_change": "+144%",
+      "sentiment_this_week": 0.02
     },
     "capex": {
       "this_week": 2,
@@ -52,13 +52,19 @@
       "last_week": 0,
       "week_over_week_change": "N/A",
       "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 5,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
     }
   },
   "company_7d_summary": {
     "xylem": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 5
+      "rank": 6
     },
     "kurita": {
       "event_count": 2,
@@ -73,7 +79,7 @@
     "mueller": {
       "event_count": 1,
       "sentiment_avg": 0.5,
-      "rank": 6
+      "rank": 7
     },
     "ao_smith": {
       "event_count": 2,
@@ -81,17 +87,22 @@
       "rank": 4
     },
     "essential": {
-      "event_count": 6,
+      "event_count": 8,
       "sentiment_avg": 0.0,
       "rank": 1
+    },
+    "veolia": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 18,
+        "this": 26,
         "last": 10,
-        "change_pct": 80.0
+        "change_pct": 160.0
       }
     }
   },
@@ -128,12 +139,12 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 1,
+      "event_count": 9,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-20 ~ 2026-04-26）共 18 則事件，重點為「American Water Works, Essential Utilities merge...」。事件量較上週增加 80%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-20 ~ 2026-04-26）共 26 則事件，重點為「American Water Works, Essential Utilities merge...」。事件量較上週增加 160%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "美國水務",
@@ -141,7 +152,7 @@
       },
       {
         "company": "必要公用",
-        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
       }
     ]
   },
