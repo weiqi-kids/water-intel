@@ -133,3 +133,53 @@ python3 -m http.server 6230 -d site
 # 瀏覽器開啟
 open http://localhost:6230
 ```
+
+
+---
+
+## 每日例行（進入此 repo 時自動提醒）
+
+當你讀取此 CLAUDE.md 時，主動執行以下檢查並提醒用戶：
+
+### 自動檢查清單
+
+1. **同步最新** — `git pull origin main`
+2. **今日 Actions 狀態** — `gh run list --limit 1`
+3. **今日事件數** — `wc -l data/events/$(date +%Y-%m-%d).jsonl`
+4. **關鍵字審計** — 讀取 `site/data/reports/daily/$(date +%Y-%m-%d).json` 的 `filter_audit` 欄位
+
+### 提醒格式
+
+```
+📋 每日狀態
+- Actions: ✅/❌
+- 今日事件: N 筆
+- 關鍵字審計: ✅ 通過 / ⚠️ gate2 擋住率 XX%，建議檢視
+```
+
+若 `filter_audit.alert` 為 true 或 `gate2_block_rate > 30%`，提醒用戶：「有關鍵字需要調整，要執行關鍵字審計嗎？」
+
+### 關鍵字審計流程（用戶確認後執行）
+
+1. 檢視 `filter_audit.gate2_samples` 中被擋住的文章標題
+2. 判斷每篇是否與本追蹤產業相關
+3. 相關的文章 → 找出缺少的關鍵字，建議新增到 `configs/topics.yml`
+4. 呈現結果：
+
+```
+## 關鍵字審計結果
+
+通過率：XX% | Gate 2 擋住率：XX%
+
+### 被擋住但應通過的文章
+| 標題 | 缺少的關鍵字 | 建議加入的主題 |
+|------|-------------|--------------|
+
+### 建議新增關鍵字
+topics.yml → {topic_id} → keywords 新增：
+- keyword1
+- keyword2
+```
+
+5. 用戶確認後更新 `configs/topics.yml`，commit + push
+
