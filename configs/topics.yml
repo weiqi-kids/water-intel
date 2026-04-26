@@ -89,6 +89,34 @@ topics:
     - 投資
     - infrastructure
     - 基礎建設
+  industry_general:
+    display: 水資源產業通用
+    keywords:
+    - water
+    - pipe
+    - piping
+    - pipeline
+    - pump
+    - valve
+    - filtration
+    - utility
+    - utilities
+    - reservoir
+    - hydro
+    - irrigation
+    - drainage
+    - plumbing
+    - meter
+    - 淨水
+    - 汙水
+    - 自來水
+    - 給水
+    - 排水
+    - 水務
+    - 水利
+    - 水資源
+    - 管線
+    - 淨化
   regulation:
     display: 法規
     keywords:
