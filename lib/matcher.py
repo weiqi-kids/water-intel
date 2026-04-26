@@ -103,15 +103,16 @@ class KeywordMatcher:
         text_lower = text.lower()
 
         for name, company_id in self._company_name_map.items():
-            # 使用詞邊界匹配
-            # 對於短名稱（< 5 字元），強制使用 word boundary
-            # 對於長名稱，直接子字串匹配（因為誤判機率低）
-            if len(name) < 5:
-                # 用 regex word boundary
+            # 判斷是否為純 ASCII（英文/數字）
+            is_ascii = all(ord(c) < 128 for c in name)
+
+            if is_ascii and len(name) < 5:
+                # 英文短名稱：用 word boundary 避免誤判（如 "ase" 配到 "phase"）
                 pattern = r'\b' + re.escape(name) + r'\b'
                 if re.search(pattern, text_lower):
                     matched.add(company_id)
             else:
+                # 非 ASCII（中文/韓文/日文）或長英文名稱：直接子字串匹配
                 if name in text_lower:
                     matched.add(company_id)
 

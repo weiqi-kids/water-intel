@@ -186,7 +186,11 @@ def enrich_event(
         "importance": importance,
         "title": title,
         "content": content,
-        "sources": raw_event.get("sources", []),
+        "sources": raw_event.get("sources") or (
+            [{"name": raw_event["source"], "url": raw_event.get("url", ""), "type": "rss"}]
+            if raw_event.get("source")
+            else []
+        ),
     }
 
     return event
@@ -267,6 +271,16 @@ def process_events(
             skipped_no_date += 1
             continue
 
+        # 過濾掉超過 7 天前的事件（避免 RSS 回傳歷史資料）
+        event_date_str = get_event_date(raw_event, fallback_date)
+        try:
+            event_dt = datetime.fromisoformat(event_date_str)
+            fallback_dt = datetime.fromisoformat(fallback_date)
+            if (fallback_dt - event_dt).days > 7:
+                continue
+        except (ValueError, TypeError):
+            pass
+
         # 預先檢查相關性
         title = raw_event.get("title", "")
         content = raw_event.get("content", "") or raw_event.get("summary", "")
@@ -297,11 +311,12 @@ def process_events(
         if process_events._industry_kw and not any(kw in title_lower for kw in process_events._industry_kw):
             continue
 
-        # 標註事件
-        seq_by_date[fallback_date] += 1
+        # 標註事件（使用實際事件日期做 seq 計數，避免跨日期 ID 衝突）
+        actual_date = get_event_date(raw_event, fallback_date)
+        seq_by_date[actual_date] += 1
         enriched = enrich_event(
             raw_event, matcher, sentiment_analyzer, scorer,
-            fallback_date, seq_by_date[fallback_date]
+            fallback_date, seq_by_date[actual_date]
         )
 
         # 按事件的實際日期分組
