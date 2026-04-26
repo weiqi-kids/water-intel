@@ -1,16 +1,16 @@
 {
   "total_raw": 238,
-  "dup_title": 155,
+  "dup_title": 148,
   "no_date": 0,
-  "too_old": 62,
-  "gate1_fail": 2,
+  "too_old": 65,
+  "gate1_fail": 3,
   "gate2_fail": 19,
-  "passed": 0,
+  "passed": 3,
   "gate2_samples": [
-    "Mueller Water posts March-quarter results May 5, webcast follows - Stock Titan",
+    "Mueller Water Products Trying To Close In On Key Technical Measure - Investor's Business Daily",
     "Mueller Water Products Inc-A (NYSE:MWA) Passes a Peter Lynch GARP Screen - ChartMill",
-    "Is the Options Market Predicting a Spike in Mueller Water Products Stock? - MSN",
     "Mueller Water Products Inc (MWA) Shares Fall 5.3% -- GF Value Sa - GuruFocus",
-    "Energy Recovery cut at Northcoast as Iran war raises odds of additional project delays - MSN"
+    "3 Russell 2000 Stocks with Warning Signs - StockStory",
+    "Veolia Environnement (VIE) Status Update Summary - Quartr"
   ]
 }

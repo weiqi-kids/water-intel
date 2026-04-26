@@ -1,29 +1,93 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T03:19:46.155586Z",
-  "top_events": [],
+  "generated_at": "2026-04-26T09:11:17.181610Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_water-2026-04-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Works (NYSE:AWK) Raised to \"Sell\" at Wall Street Zen - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPblg1N1c5T09hZ0ZnTWU2bG9YRng2TVlpZlFVNFFRb2JRWEpFTVowU1JyTmphUUlibVJYODZja2tyelQ1UkJqZDB4T3paNnhlbFdWVjRqN0dzYjByWi1BcXRQRkVFUjRwUTZhVEZJSWtjWVc1TzdabS1SNmlmSmtXNVhPaFBnb09SY0ZqWFFxOUtxMHVMMlB1MlUtZVh0a0VzdzVBUkhVcWV0djRzVEQxb2lVTkRIQkE?oc=5"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 1,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0
     },
-    "top_companies": [],
-    "top_topics": []
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 238,
+    "dup_title": 148,
+    "too_old": 65,
+    "gate1_blocked": 3,
+    "gate2_blocked": 19,
+    "passed": 3,
+    "pass_rate": "3.3%",
+    "gate2_block_rate": "21.1%",
+    "gate2_samples": [
+      "Mueller Water Products Trying To Close In On Key Technical Measure - Investor's Business Daily",
+      "Mueller Water Products Inc-A (NYSE:MWA) Passes a Peter Lynch GARP Screen - ChartMill",
+      "Mueller Water Products Inc (MWA) Shares Fall 5.3% -- GF Value Sa - GuruFocus",
+      "3 Russell 2000 Stocks with Warning Signs - StockStory",
+      "Veolia Environnement (VIE) Status Update Summary - Quartr"
+    ],
+    "alert": false
   },
   "llm_analysis": {
-    "summary": "2026-04-26 無水資源產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 1 則事件，焦點為美國水務相關動態：「American Water Works (NYSE:AWK) Raised to \"Sell\" at Wall ...」。主要關注主題為財報，市場情緒中性。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
-        "level": "green"
+        "text": "American Water Works (NYSE:AWK) Raised to \"Sell\" at Wall Street Zen - MarketBeat（財報）",
+        "level": "yellow"
       },
       {
-        "text": "建議持續監控後續發展動態。",
+        "text": "美國水務為今日主要關注企業。",
         "level": "green"
       }
     ]
