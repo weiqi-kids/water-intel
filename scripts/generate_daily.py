@@ -207,7 +207,7 @@ def generate_daily_report(
     supply_chain = metrics.get("supply_chain_activity", [])
     stats = calculate_stats(events, metrics)
 
-    return {
+    report = {
         "date": date_str,
         "generated_at": datetime.utcnow().isoformat() + "Z",
         "top_events": top_events,
@@ -216,6 +216,28 @@ def generate_daily_report(
         "supply_chain_activity": supply_chain,
         "stats": stats,
     }
+
+    # 加入過濾審計數據（如果存在）
+    filter_stats_file = Path("data/metrics") / f"{date_str}_filter.json"
+    if filter_stats_file.exists():
+        with open(filter_stats_file, "r", encoding="utf-8") as f:
+            fs = json.load(f)
+        after_dedup = fs["total_raw"] - fs["dup_title"]
+        gate2_rate = (fs["gate2_fail"] / after_dedup * 100) if after_dedup > 0 else 0
+        report["filter_audit"] = {
+            "total_raw": fs["total_raw"],
+            "dup_title": fs["dup_title"],
+            "too_old": fs["too_old"],
+            "gate1_blocked": fs["gate1_fail"],
+            "gate2_blocked": fs["gate2_fail"],
+            "passed": fs["passed"],
+            "pass_rate": f"{fs['passed'] / after_dedup * 100:.1f}%" if after_dedup > 0 else "0%",
+            "gate2_block_rate": f"{gate2_rate:.1f}%",
+            "gate2_samples": fs["gate2_samples"],
+            "alert": gate2_rate > 50,
+        }
+
+    return report
 
 
 def save_report(report: dict, output_file: Path) -> None:

@@ -258,17 +258,28 @@ def process_events(
 
     new_counts: dict[str, int] = defaultdict(int)
 
-    skipped_no_date = 0
+    # 過濾統計（供審計用）
+    filter_stats = {
+        "total_raw": len(raw_events),
+        "dup_title": 0,
+        "no_date": 0,
+        "too_old": 0,
+        "gate1_fail": 0,
+        "gate2_fail": 0,
+        "passed": 0,
+        "gate2_samples": [],
+    }
+
     for raw_event in raw_events:
         title = raw_event.get("title", "")
 
         if title in all_existing_titles:
-            # 跳過重複標題
+            filter_stats["dup_title"] += 1
             continue
 
         # 過濾掉沒有 published_at 的事件（通常是抓錯的靜態頁面）
         if not raw_event.get("published_at"):
-            skipped_no_date += 1
+            filter_stats["no_date"] += 1
             continue
 
         # 過濾掉超過 7 天前的事件（避免 RSS 回傳歷史資料）
@@ -277,6 +288,7 @@ def process_events(
             event_dt = datetime.fromisoformat(event_date_str)
             fallback_dt = datetime.fromisoformat(fallback_date)
             if (fallback_dt - event_dt).days > 7:
+                filter_stats["too_old"] += 1
                 continue
         except (ValueError, TypeError):
             pass
@@ -289,9 +301,10 @@ def process_events(
         preview_topics = matcher.match_topics(preview_text)
         # 第一關：必須匹配到追蹤公司或追蹤主題
         if not preview_companies and not preview_topics:
+            filter_stats["gate1_fail"] += 1
             continue
         # 第二關：標題或內容必須包含產業關鍵字（從 topics.yml 動態載入）
-        # 加上通用財務關鍵字
+        # 加上通用商業關鍵字和通用財務關鍵字
         if not hasattr(process_events, '_industry_kw'):
             import yaml as _yaml
             _kws = set()
@@ -306,10 +319,28 @@ def process_events(
             _kws.update(["earnings", "revenue", "profit", "guidance", "forecast",
                          "quarterly results", "financial results",
                          "營收", "獲利", "財報", "法說"])
+            # 通用商業關鍵字
+            _kws.update([
+                "acquisition", "merger", "partnership", "joint venture", "jv",
+                "alliance", "supply chain", "supply agreement", "deal", "contract",
+                "mou", "expansion", "investment", "plant", "factory", "production",
+                "capacity", "market share", "shipment", "order", "backlog", "demand",
+                "recall", "lawsuit", "regulatory", "tariff", "trade", "sanction", "ban",
+                "ceo", "executive", "restructuring", "layoff", "hire",
+                "r&d", "patent", "technology", "launch", "announce", "unveil",
+                "ipo", "stake", "buyback", "dividend",
+                "併購", "合資", "供應鏈", "擴產", "投資", "工廠", "產能",
+                "出貨", "訂單", "需求", "關稅", "貿易", "裁員", "重組", "專利",
+            ])
             process_events._industry_kw = _kws
         title_lower = (title + " " + content[:200]).lower()
         if process_events._industry_kw and not any(kw in title_lower for kw in process_events._industry_kw):
+            filter_stats["gate2_fail"] += 1
+            if len(filter_stats["gate2_samples"]) < 5:
+                filter_stats["gate2_samples"].append(title[:100])
             continue
+
+        filter_stats["passed"] += 1
 
         # 標註事件（使用實際事件日期做 seq 計數，避免跨日期 ID 衝突）
         actual_date = get_event_date(raw_event, fallback_date)
@@ -332,8 +363,15 @@ def process_events(
         existing.extend(events)
         save_events(existing, events_file)
 
-    if skipped_no_date > 0:
-        print(f"（跳過 {skipped_no_date} 則無日期事件）")
+    # 儲存過濾統計（供 generate_daily.py 讀取）
+    stats_dir = output_dir.parent / "metrics"
+    stats_dir.mkdir(parents=True, exist_ok=True)
+    stats_file = stats_dir / f"{fallback_date}_filter.json"
+    with open(stats_file, "w", encoding="utf-8") as f:
+        json.dump(filter_stats, f, ensure_ascii=False, indent=2)
+
+    if filter_stats["no_date"] > 0:
+        print(f"（跳過 {filter_stats['no_date']} 則無日期事件）")
 
     return dict(new_counts)
 
