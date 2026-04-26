@@ -363,10 +363,23 @@ def process_events(
         existing.extend(events)
         save_events(existing, events_file)
 
-    # 儲存過濾統計（供 generate_daily.py 讀取）
+    # 儲存過濾統計（供 generate_daily.py 讀取）— 累加模式，不覆蓋
     stats_dir = output_dir.parent / "metrics"
     stats_dir.mkdir(parents=True, exist_ok=True)
     stats_file = stats_dir / f"{fallback_date}_filter.json"
+    if stats_file.exists():
+        with open(stats_file, "r", encoding="utf-8") as f:
+            prev = json.load(f)
+        filter_stats["total_raw"] += prev.get("total_raw", 0)
+        filter_stats["dup_title"] += prev.get("dup_title", 0)
+        filter_stats["no_date"] += prev.get("no_date", 0)
+        filter_stats["too_old"] += prev.get("too_old", 0)
+        filter_stats["gate1_fail"] += prev.get("gate1_fail", 0)
+        filter_stats["gate2_fail"] += prev.get("gate2_fail", 0)
+        filter_stats["passed"] += prev.get("passed", 0)
+        prev_samples = prev.get("gate2_samples", [])
+        combined = prev_samples + filter_stats["gate2_samples"]
+        filter_stats["gate2_samples"] = combined[:5]
     with open(stats_file, "w", encoding="utf-8") as f:
         json.dump(filter_stats, f, ensure_ascii=False, indent=2)
 
