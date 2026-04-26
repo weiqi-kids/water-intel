@@ -15,6 +15,7 @@ companies:
   downstream:
   - essential
   - american_water
+  fetch_mode: http
 - id: energy_recovery
   name: Energy Recovery
   aliases:
@@ -30,6 +31,7 @@ companies:
   downstream:
   - veolia
   - xylem
+  fetch_mode: http
 - id: chien_fu
   name: 千附精密
   aliases:
@@ -45,6 +47,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Chien+Fu+Precision"&hl=en&gl=US&ceid=US:en
   downstream:
   - zhongyu
+  fetch_mode: http
 - id: xylem
   name: Xylem
   aliases:
@@ -62,6 +65,7 @@ companies:
   downstream:
   - essential
   - american_water
+  fetch_mode: http
 - id: veolia
   name: Veolia Environnement
   aliases:
@@ -78,6 +82,7 @@ companies:
   upstream:
   - energy_recovery
   downstream: []
+  fetch_mode: http
 - id: pentair
   name: Pentair
   aliases:
@@ -92,6 +97,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Pentair"+water+treatment+equipment&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: ao_smith
   name: A.O. Smith
   aliases:
@@ -107,6 +113,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="A.O.+Smith"&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: danaher
   name: Danaher
   aliases:
@@ -121,6 +128,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Danaher"+water+quality+analysis&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: watts
   name: Watts Water Technologies
   aliases:
@@ -135,6 +143,7 @@ companies:
   rss_url: https://investors.wattswater.com/rss/PressRelease.aspx
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: badger
   name: Badger Meter
   aliases:
@@ -152,6 +161,7 @@ companies:
   downstream:
   - essential
   - american_water
+  fetch_mode: http
 - id: kurita
   name: Kurita Water Industries
   aliases:
@@ -167,6 +177,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Kurita+Water+Industries"&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: zhongyu
   name: 中宇環保
   aliases:
@@ -183,6 +194,7 @@ companies:
   upstream:
   - chien_fu
   downstream: []
+  fetch_mode: http
 - id: essential
   name: Essential Utilities
   aliases:
@@ -201,6 +213,7 @@ companies:
   - mueller
   - badger
   downstream: []
+  fetch_mode: http
 - id: american_water
   name: American Water Works
   aliases:
@@ -219,6 +232,7 @@ companies:
   - mueller
   - badger
   downstream: []
+  fetch_mode: http
 etfs:
 - id: pho
   name: Invesco Water Resources ETF

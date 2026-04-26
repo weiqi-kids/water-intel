@@ -26,6 +26,8 @@ from typing import Optional
 import hashlib
 import json
 import logging
+import requests
+import xml.etree.ElementTree as ET
 
 try:
     from bs4 import BeautifulSoup
@@ -91,14 +93,20 @@ class CompanyFetcher(ABC):
     timeout: int = 30000  # ms
     wait_for_selector: Optional[str] = None  # 等待特定元素出現
 
+    # Fetch mode: "rss" | "http" | "playwright"
+    fetch_mode: str = "http"
+    ir_rss_url: Optional[str] = None
+
+    # HTTP settings
+    http_headers: dict = None
+    http_timeout: int = 30
+
     # Retry 設定
-    max_retries: int = 3
+    max_retries: int = 1
     retry_base_delay: float = 2.0  # 秒
 
     def __init__(self):
-        if sync_playwright is None or BeautifulSoup is None:
-            raise ImportError("playwright and beautifulsoup4 are required")
-        self._browser: Optional[Browser] = None
+        self._browser: Optional[object] = None
         self._playwright = None
 
     def __enter__(self):
@@ -115,17 +123,133 @@ class CompanyFetcher(ABC):
             self._playwright.stop()
 
     def fetch_all(self) -> dict[str, list[CompanyDocument]]:
-        """抓取所有資料"""
-        result = {}
+        """Dispatch to the appropriate fetch method based on fetch_mode."""
+        if self.fetch_mode == "rss" and self.ir_rss_url:
+            return self._fetch_via_rss()
+        elif self.fetch_mode == "http" and self.news_url:
+            return self._fetch_via_http()
+        else:
+            return self._fetch_via_playwright()
 
+    def _fetch_via_playwright(self) -> dict[str, list[CompanyDocument]]:
+        """Original Playwright-based fetch (fallback)."""
+        if sync_playwright is None or BeautifulSoup is None:
+            logger.error(f"[{self.company_id}] Playwright/BS4 not installed, skipping")
+            return {}
+        result = {}
         with self:
             if self.ir_url:
                 result["ir"] = self.fetch_ir()
-
             if self.news_url:
                 result["news"] = self.fetch_news()
-
         return result
+
+    def _fetch_via_http(self) -> dict[str, list[CompanyDocument]]:
+        """Fetch news page via plain HTTP + BeautifulSoup (no JS rendering)."""
+        headers = self.http_headers or {
+            "User-Agent": "Mozilla/5.0 (compatible; IntelBot/1.0)"
+        }
+        result = {}
+        if self.news_url:
+            try:
+                logger.info(f"[{self.company_id}] HTTP fetch: {self.news_url}")
+                resp = requests.get(self.news_url, timeout=self.http_timeout,
+                                    headers=headers)
+                resp.raise_for_status()
+                docs = self.parse_news(resp.text)
+                valid_docs = [d for d in docs if d.published_at is not None]
+                skipped = len(docs) - len(valid_docs)
+                if skipped > 0:
+                    logger.warning(f"[{self.company_id}] Skipped {skipped} items without published_at")
+                result["news"] = valid_docs
+            except Exception as e:
+                logger.error(f"[{self.company_id}] HTTP fetch failed: {e}")
+                result["news"] = []
+        return result
+
+    def _fetch_via_rss(self) -> dict[str, list[CompanyDocument]]:
+        """Fetch company news from IR RSS feed directly."""
+        headers = {"User-Agent": "Mozilla/5.0 (compatible; IntelBot/1.0)"}
+        docs = []
+        try:
+            logger.info(f"[{self.company_id}] RSS fetch: {self.ir_rss_url}")
+            resp = requests.get(self.ir_rss_url, timeout=self.http_timeout,
+                                headers=headers)
+            resp.raise_for_status()
+            docs = self._parse_rss_xml(resp.text)
+        except Exception as e:
+            logger.error(f"[{self.company_id}] RSS fetch failed: {e}")
+        return {"ir": docs}
+
+    def _parse_rss_xml(self, xml_text: str) -> list[CompanyDocument]:
+        """Parse RSS 2.0 or Atom feed XML into CompanyDocument list."""
+        from email.utils import parsedate_to_datetime
+
+        docs = []
+        try:
+            root = ET.fromstring(xml_text)
+        except ET.ParseError as e:
+            logger.error(f"[{self.company_id}] RSS XML parse error: {e}")
+            return []
+
+        # Try RSS 2.0 first
+        items = root.findall(".//item")
+        if not items:
+            # Try Atom
+            ns = {"atom": "http://www.w3.org/2005/Atom"}
+            items = root.findall(".//atom:entry", ns)
+
+        for item in items[:20]:
+            title = self._rss_text(item, "title") or self._rss_text(
+                item, "{http://www.w3.org/2005/Atom}title"
+            )
+            link = self._rss_text(item, "link") or ""
+            if not link:
+                link_el = item.find("{http://www.w3.org/2005/Atom}link")
+                if link_el is not None:
+                    link = link_el.get("href", "")
+
+            pub_str = (
+                self._rss_text(item, "pubDate")
+                or self._rss_text(item, "{http://www.w3.org/2005/Atom}updated")
+                or ""
+            )
+            published_at = None
+            if pub_str:
+                try:
+                    published_at = parsedate_to_datetime(pub_str)
+                except Exception:
+                    try:
+                        published_at = datetime.fromisoformat(
+                            pub_str.replace("Z", "+00:00")
+                        )
+                    except Exception:
+                        pass
+
+            desc = (
+                self._rss_text(item, "description")
+                or self._rss_text(item, "{http://www.w3.org/2005/Atom}summary")
+                or ""
+            )
+
+            if title and link:
+                docs.append(CompanyDocument(
+                    company_id=self.company_id,
+                    doc_type="ir",
+                    title=title.strip(),
+                    url=link.strip(),
+                    published_at=published_at,
+                    content=desc[:500] if desc else None,
+                    language="en",
+                ))
+
+        return docs
+
+    @staticmethod
+    def _rss_text(element, tag: str) -> Optional[str]:
+        """Extract text from an XML element's child tag."""
+        child = element.find(tag)
+        return child.text if child is not None and child.text else None
 
     def fetch_ir(self) -> list[CompanyDocument]:
         """抓取 IR 頁面"""
@@ -199,10 +323,9 @@ class CompanyFetcher(ABC):
                     return None
 
     def _fetch_page_content(self, page: Page, url: str, wait_selector: Optional[str] = None) -> str:
-        """實際抓取頁面內容"""
+        """Fetch page content via Playwright."""
         page.goto(url, timeout=self.timeout)
 
-        # 等待特定元素或頁面載入完成
         selector = wait_selector or self.wait_for_selector
         if selector:
             try:
@@ -210,8 +333,8 @@ class CompanyFetcher(ABC):
             except Exception:
                 logger.warning(f"Selector {selector} not found, continuing anyway")
 
-        # 等待網路請求完成
-        page.wait_for_load_state("networkidle", timeout=self.timeout)
+        # Use domcontentloaded instead of networkidle for stability
+        page.wait_for_load_state("domcontentloaded", timeout=self.timeout)
 
         return page.content()
 
