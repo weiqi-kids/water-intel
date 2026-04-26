@@ -6,73 +6,73 @@
     "history_complete": true
   },
   "energy_recovery": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-24",
-    "count": 622
+    "count": 685
   },
   "xylem": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-24",
-    "count": 622
+    "count": 685
   },
   "veolia": {
-    "earliest": "2023-11-01",
+    "earliest": "2023-08-03",
     "latest": "2026-04-24",
-    "count": 631
+    "count": 695
   },
   "pentair": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-24",
-    "count": 622
+    "count": 685
   },
   "ao_smith": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-24",
-    "count": 622
+    "count": 685
   },
   "danaher": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-24",
-    "count": 622
+    "count": 685
   },
   "watts": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-24",
-    "count": 622
+    "count": 685
   },
   "badger": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-24",
-    "count": 622
+    "count": 685
   },
   "kurita": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-24",
-    "count": 606
+    "count": 667
   },
   "zhongyu": {
-    "earliest": "2023-11-01",
+    "earliest": "2023-08-04",
     "latest": "2026-04-24",
-    "count": 598
+    "count": 658
   },
   "essential": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-24",
-    "count": 622
+    "count": 685
   },
   "american_water": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-24",
-    "count": 622
+    "count": 685
   },
   "etf_pho": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-24",
-    "count": 622
+    "count": 685
   },
   "etf_cgw": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-24",
-    "count": 622
+    "count": 685
   }
 }
