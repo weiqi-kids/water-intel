@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T01:41:31.222228Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 258,
+    "dup_title": 163,
+    "too_old": 80,
+    "gate1_blocked": 2,
+    "gate2_blocked": 7,
+    "passed": 6,
+    "pass_rate": "6.3%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "Energy Recovery cut at Northcoast as Iran war raises odds of additional project delays - MSN",
+      "3 Russell 2000 Stocks with Warning Signs - StockStory",
+      "Veolia Environnement (VIE) Status Update Summary - Quartr",
+      "Veolia Environnement SA (MEX:VIEN) Stock PDF (Updated: 2026/04/25) - GuruFocus",
+      "A Look At Veolia Environnement’s (ENXTPA:VIE) Valuation After Recent Share Price Momentum - simplywa"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-04-27 無水資源產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

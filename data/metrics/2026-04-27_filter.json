@@ -1,0 +1,16 @@
+{
+  "total_raw": 258,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 2,
+  "gate2_fail": 7,
+  "passed": 6,
+  "gate2_samples": [
+    "Energy Recovery cut at Northcoast as Iran war raises odds of additional project delays - MSN",
+    "3 Russell 2000 Stocks with Warning Signs - StockStory",
+    "Veolia Environnement (VIE) Status Update Summary - Quartr",
+    "Veolia Environnement SA (MEX:VIEN) Stock PDF (Updated: 2026/04/25) - GuruFocus",
+    "A Look At Veolia Environnement’s (ENXTPA:VIE) Valuation After Recent Share Price Momentum - simplywa"
+  ]
+}
