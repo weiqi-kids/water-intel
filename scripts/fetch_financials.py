@@ -33,9 +33,9 @@ def fetch_company_financials(ticker: str) -> dict | None:
         inv_row = None
         for idx in bs.index:
             s = str(idx).lower()
-            if s == "accounts receivable":
+            if "accounts receivable" in s and ar_row is None:
                 ar_row = idx
-            elif s == "inventory":
+            elif "inventor" in s and inv_row is None:
                 inv_row = idx
 
         if ar_row is None and inv_row is None:
