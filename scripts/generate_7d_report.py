@@ -78,7 +78,7 @@ def aggregate_7d_events(events_dir: Path, dates: list[str]) -> list[dict]:
     return all_events
 
 
-def aggregate_7d_metrics(metrics_dir: Path, dates: list[str]) -> dict:
+def aggregate_7d_metrics(metrics_dir: Path, dates: list[str], events_dir: Path | None = None) -> dict:
     """
     彙整 7 天的指標
 
@@ -106,12 +106,20 @@ def aggregate_7d_metrics(metrics_dir: Path, dates: list[str]) -> dict:
 
     for date_str in dates:
         metrics = load_metrics_for_date(metrics_dir, date_str)
+
+        # 用 events 檔案的實際行數作為 event_count（metrics 是快照，可能過時）
+        actual_count = 0
+        if events_dir:
+            events_file = events_dir / f"{date_str}.jsonl"
+            if events_file.exists():
+                actual_count = sum(1 for line in open(events_file, encoding="utf-8") if line.strip())
+
         if not metrics:
-            daily.append({"date": date_str, "event_count": 0, "sentiment_avg": 0})
+            daily.append({"date": date_str, "event_count": actual_count, "sentiment_avg": 0})
             continue
 
-        # 日統計
-        total = metrics.get("total_events", 0)
+        # 日統計：優先用 events 檔案的實際行數
+        total = actual_count if actual_count > 0 else metrics.get("total_events", 0)
         daily.append({
             "date": date_str,
             "event_count": total,
@@ -336,11 +344,11 @@ def generate_7d_report(
 
     # 彙整本週資料
     events_7d = aggregate_7d_events(events_dir, dates_7d)
-    metrics_7d = aggregate_7d_metrics(metrics_dir, dates_7d)
+    metrics_7d = aggregate_7d_metrics(metrics_dir, dates_7d, events_dir=events_dir)
 
     # 彙整上週資料
     events_prev_7d = aggregate_7d_events(events_dir, dates_prev_7d)
-    metrics_prev_7d = aggregate_7d_metrics(metrics_dir, dates_prev_7d)
+    metrics_prev_7d = aggregate_7d_metrics(metrics_dir, dates_prev_7d, events_dir=events_dir)
 
     # 計算亮點
     highlights = []
