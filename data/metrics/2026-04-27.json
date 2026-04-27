@@ -1,8 +1,26 @@
 {
   "date": "2026-04-27",
-  "total_events": 0,
-  "by_company": {},
-  "by_topic": {},
+  "total_events": 4,
+  "by_company": {
+    "veolia": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "essential": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
   "baselines_used": {
     "companies": {},
     "topics": {}

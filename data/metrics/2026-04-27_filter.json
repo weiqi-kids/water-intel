@@ -1,11 +1,11 @@
 {
-  "total_raw": 516,
-  "dup_title": 337,
+  "total_raw": 774,
+  "dup_title": 497,
   "no_date": 0,
-  "too_old": 156,
-  "gate1_fail": 3,
-  "gate2_fail": 14,
-  "passed": 6,
+  "too_old": 234,
+  "gate1_fail": 8,
+  "gate2_fail": 19,
+  "passed": 16,
   "gate2_samples": [
     "Energy Recovery cut at Northcoast as Iran war raises odds of additional project delays - MSN",
     "3 Russell 2000 Stocks with Warning Signs - StockStory",

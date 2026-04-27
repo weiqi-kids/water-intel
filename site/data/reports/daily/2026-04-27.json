@@ -1,29 +1,164 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:37:17.233980Z",
-  "top_events": [],
+  "generated_at": "2026-04-27T10:24:42.030485Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-04-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement (VEOEY) Partners with Amazon on Innovative Cooling Solutions - GuruFocus",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTRqZmpqWmEzdzFxLXdmY21JTHlhQ1pyVnVGYTF3S1J5a01VYWZ1VTBkQzZoYnl6Ui1PUFRoQmNCZjB4ZWJ6RnYyVmJ3eXdLd2xJdXFlNXBpZFE0SzVUbjkyb1JCeFhFTWdfMEV4OFJiMlZnaU85RG1GakItSUd2OEpBcFlrVFRfb3hnazZwZkdkX1pRTVZEeTZhVF9tSm5DZjBnS2hpVWxWLXJBdS1lSHpINjFBSUh1WHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "veolia-2026-04-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement : Inside Information / Other news releases - marketscreener.com",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1d4SkNvT1h6SmFmUW94TXlFUFRqbDJ2NDBrUWYxWVFrdGpoSnl4UDBNN2dqQ2ZDNjVmUndFb0NoZ2UzVHdPdUNiUllKMzBzdkd4dTVoRkpyQnlXVVpuY0thNnprV2prMFVZSXpnNmo0OUJQelFaclhqSzZZUkFXMF9vdC1IakF0QlNqWmVYX0dOUDlhYXZicUZVQlhUVjdGcm8weWlwc0lRR3A0R1QyZWZB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "veolia-2026-04-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia, Amazon team up to reduce data center water use - Breakingthenews.net",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTmhhN3hhbm5MZ0p2dTQzZ3AzTHpBZlFQNkZaYWV4VHh5WkN2Wk5qQ3gwRElUQnZnUGdnb192Q3R5aGxaN0hlQjdnREtxSm1wRFZrVHh4N1BmVVZfelJ4Yksybnp5aEtlOExCNndCR3RtaEpfRFpXUElIS1JnckI2MTFsUDMzVDJZMm9fRjNmWjIwMk1leWhwY0VVZWZpeHM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "essential-2026-04-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Water, Essential Utilities shareholders approve merger deal - MSN",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPekVsNmxzZkU4LXRBbHA0MzN3VEZSa18wTkdUZElIN2RUQ0hmNm9KWWpUbFpELUlNTzZsNkhTNkRlVnhUeF9vc20zbjkwdjN0MFhXZmR2R18ta0lpUmJucy1PVFZhN1R4UzB6TTlnWmhfNzUwamNjMnFIN29peU0yQzVVOTNpWGx2aXBvM3RDdG5hN05aNjRKc1BVZGdrbHF6OTV2THZkaFk0a0lwN2VDTTFveExSR0pKZXVIQVlvZG9XTzNJM2o2aktFSnU3WWlMNV9mU2VWNE85Mml3LURCSjlNSGljeHRVUW42aFozM0ZaOHlsbl9qNGcwcU51U2h4QldKMFVETVprdUp1MU4wYjhZV2RaenNlbnQ0WGhsa3lmbjhWRkVmX3d5cW10SkE4c3FzNXVnU0xfVFQ0VU15ZnY1SmN5cmVzWmJmX2ItcEI3YWtQTlVxY25qenpNNnU0c01pWHBGM0t6cUIwTVBLQWl3?oc=5"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 4,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 4,
       "negative": 0
     },
-    "top_companies": [],
-    "top_topics": []
+    "top_companies": [
+      {
+        "id": "veolia",
+        "count": 3
+      },
+      {
+        "id": "essential",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 516,
-    "dup_title": 337,
-    "too_old": 156,
-    "gate1_blocked": 3,
-    "gate2_blocked": 14,
-    "passed": 6,
-    "pass_rate": "3.4%",
-    "gate2_block_rate": "7.8%",
+    "total_raw": 774,
+    "dup_title": 497,
+    "too_old": 234,
+    "gate1_blocked": 8,
+    "gate2_blocked": 19,
+    "passed": 16,
+    "pass_rate": "5.8%",
+    "gate2_block_rate": "6.9%",
     "gate2_samples": [
       "Energy Recovery cut at Northcoast as Iran war raises odds of additional project delays - MSN",
       "3 Russell 2000 Stocks with Warning Signs - StockStory",
@@ -34,15 +169,15 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "2026-04-27 無水資源產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 4 則事件，焦點為威立雅、必要公用相關動態：「Veolia Environnement (VEOEY) Partners with Amazon on Inno...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
-        "level": "green"
+        "text": "Veolia Environnement (VEOEY) Partners with Amazon on Innovative Cooling Solut...（財報）",
+        "level": "yellow"
       },
       {
-        "text": "建議持續監控後續發展動態。",
-        "level": "green"
+        "text": "Veolia Environnement : Inside Information / Other news releases - marketscree...（財報）",
+        "level": "yellow"
       }
     ]
   },
