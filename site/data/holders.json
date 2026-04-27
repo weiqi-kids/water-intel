@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T01:41:30.881577+00:00",
+  "updated_at": "2026-04-27T03:37:16.902297+00:00",
   "companies": {
     "mueller": {
       "name": "Mueller Water Products",
@@ -565,7 +565,7 @@
           "holder": "Boston Common Asset Management, LLC",
           "shares": 535403,
           "pct_held": 0.46,
-          "value": 4346401554
+          "value": 4319631404
         }
       ]
     },

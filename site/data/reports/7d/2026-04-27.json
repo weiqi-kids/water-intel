@@ -4,7 +4,7 @@
     "start": "2026-04-21",
     "end": "2026-04-27"
   },
-  "generated_at": "2026-04-27T01:41:31.284423Z",
+  "generated_at": "2026-04-27T03:37:17.299885Z",
   "highlights": [
     {
       "rank": 1,
@@ -100,41 +100,41 @@
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 26,
-        "last": 10,
-        "change_pct": 160.0
+        "this": 112,
+        "last": 74,
+        "change_pct": 51.4
       }
     }
   },
   "daily_breakdown": [
     {
       "date": "2026-04-21",
-      "event_count": 4,
+      "event_count": 19,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-22",
-      "event_count": 1,
+      "event_count": 22,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-23",
-      "event_count": 6,
+      "event_count": 26,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-24",
-      "event_count": 2,
+      "event_count": 20,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-25",
-      "event_count": 4,
+      "event_count": 14,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-26",
-      "event_count": 9,
+      "event_count": 11,
       "sentiment_avg": 0
     },
     {
@@ -144,7 +144,7 @@
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-21 ~ 2026-04-27）共 26 則事件，重點為「American Water Works, Essential Utilities merge...」。事件量較上週增加 160%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 112 則事件，重點為「American Water Works, Essential Utilities merge...」。事件量較上週增加 51%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "美國水務",

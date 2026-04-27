@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T01:41:31.222228Z",
+  "generated_at": "2026-04-27T03:37:17.233980Z",
   "top_events": [],
   "anomalies": [],
   "topic_trends": {},
@@ -16,14 +16,14 @@
     "top_topics": []
   },
   "filter_audit": {
-    "total_raw": 258,
-    "dup_title": 163,
-    "too_old": 80,
-    "gate1_blocked": 2,
-    "gate2_blocked": 7,
+    "total_raw": 516,
+    "dup_title": 337,
+    "too_old": 156,
+    "gate1_blocked": 3,
+    "gate2_blocked": 14,
     "passed": 6,
-    "pass_rate": "6.3%",
-    "gate2_block_rate": "7.4%",
+    "pass_rate": "3.4%",
+    "gate2_block_rate": "7.8%",
     "gate2_samples": [
       "Energy Recovery cut at Northcoast as Iran war raises odds of additional project delays - MSN",
       "3 Russell 2000 Stocks with Warning Signs - StockStory",
