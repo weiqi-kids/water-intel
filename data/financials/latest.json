@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T10:24:39.067087Z",
+  "updated_at": "2026-04-28T10:23:21.818511Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -105,13 +105,13 @@
       "name": "穆勒",
       "ticker": "MWA",
       "currency": "USD",
-      "ar": 138400000,
-      "ar_prev": 210800000,
-      "ar_qoq": "-34%",
+      "ar": null,
+      "ar_prev": null,
+      "ar_qoq": "N/A",
       "inventory": 376700000,
       "inv_prev": 328700000,
       "inv_qoq": "+15%",
-      "alert": true,
+      "alert": false,
       "quarter_date": "2025-12-31"
     },
     {

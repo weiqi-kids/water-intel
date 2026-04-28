@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-28",
+  "total_events": 3,
+  "by_company": {
+    "kurita": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "essential": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "american_water": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "industry_general": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
