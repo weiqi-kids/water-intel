@@ -1,0 +1,16 @@
+{
+  "total_raw": 258,
+  "dup_title": 142,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 2,
+  "gate2_fail": 6,
+  "passed": 26,
+  "gate2_samples": [
+    "The Energy Management Changes Would Eliminate the “Lifting” in F1 Qualifying - roundtable.io",
+    "Veolia Environnement (VIE) Status Update Summary - Quartr",
+    "Veolia Environnement SA (MEX:VIEN) Stock PDF (Updated: 2026/04/25) - GuruFocus",
+    "Veolia Environnement: Combined Shareholders’ General Meeting, April 23, 2026 - Yahoo Finance",
+    "Danaher Corp. stock (US2358511028): Why Google Discover changes matter more now - AD HOC NEWS"
+  ]
+}

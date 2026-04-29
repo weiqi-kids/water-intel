@@ -1,0 +1,158 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T10:13:05.218457Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "energy_recovery-2026-04-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Minority Blames Power Outages on Neglect of Energy Recovery Programme - Modern Ghana",
+      "companies": [
+        "energy_recovery"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ud1MtbGg4RkNuRVh1bExrbzh0OTc1Nk56cU5sUkl1aGo0Q19hb0xhSldpc0txbEJhYnlxNDBlMFJDU2NlOEdwZmhLY0pqMXRlUnVIZjJFMWZGNGtIdDJQQkxuMWTSAVxBVV95cUxNcW84MUt2ME1YeXl4a3hDYkw4OHphVVRoUEJ5XzRkcEpnLS1JNHZ2R3lXNHRzdkQ3aThDSnAtZWFiOEpISklFSHhaa25tWFVIUzBYMnowVHN2ZGFwcQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings To Watch: A. O. Smith (AOS) Reports Q1 Results Tomorrow - StockStory",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSlp0ZHRnd0xReU9xNkZQaV9Vci1LZXdNcEhyS0h3cnBQVXprYnVDZDliTkxqUGtYVHpFQWtISDZYNTF5WWpMSVNzN053VWRmNWxEUkpZY2FOMnJ0WFp3Y0Z3a3U2WThDbXdHeWUwYWlXa0JXd2d1S3YxblVkczlhWHFsZGFPMDgyTEhmcmlUZ3VVV2F0RHZwM1QyQVBHQnVEREh5dDR6VVpFVHQ5dXAxT1hrNHhfVF9w?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "essential-2026-04-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Water, Essential merger wins first approval - NJBIZ",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPZjN3OE15UFdLeFBSWGU5S1hSeERnVXRid1BINlo0OTZrOTJacTU3a3BIWkJUTmhubVYzWkM5VHpYUGRkMDVGY0E3dHNHRWIyZmhpcERJT1NWNUxlX3dKaFgzdWRDYlVyUGJTSUV3eEdxMkNBWHM1Wg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "energy_recovery",
+        "count": 1
+      },
+      {
+        "id": "essential",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 258,
+    "dup_title": 142,
+    "too_old": 82,
+    "gate1_blocked": 2,
+    "gate2_blocked": 6,
+    "passed": 26,
+    "pass_rate": "22.4%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "The Energy Management Changes Would Eliminate the “Lifting” in F1 Qualifying - roundtable.io",
+      "Veolia Environnement (VIE) Status Update Summary - Quartr",
+      "Veolia Environnement SA (MEX:VIEN) Stock PDF (Updated: 2026/04/25) - GuruFocus",
+      "Veolia Environnement: Combined Shareholders’ General Meeting, April 23, 2026 - Yahoo Finance",
+      "Danaher Corp. stock (US2358511028): Why Google Discover changes matter more now - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為ERII、必要公用相關動態：「Minority Blames Power Outages on Neglect of Energy Recove...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Minority Blames Power Outages on Neglect of Energy Recovery Programme - Moder...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Earnings To Watch: A. O. Smith (AOS) Reports Q1 Results Tomorrow - StockStory（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
