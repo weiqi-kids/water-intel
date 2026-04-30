@@ -1,0 +1,16 @@
+{
+  "total_raw": 260,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 4,
+  "gate2_fail": 5,
+  "passed": 33,
+  "gate2_samples": [
+    "Veolia Environnement (VIE) Status Update Summary - Quartr",
+    "Veolia Environnement SA (MEX:VIEN) Stock PDF (Updated: 2026/04/25) - GuruFocus",
+    "Veolia Environnement: Combined Shareholders’ General Meeting, April 23, 2026 - Yahoo Finance",
+    "A Look At A. O. Smith (AOS) Valuation After Recent Share Weakness And Modest Growth - Yahoo Finance",
+    "Danaher Corp. stock (US2358511028): Why Google Discover changes matter more now - AD HOC NEWS"
+  ]
+}

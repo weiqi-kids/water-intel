@@ -1,0 +1,234 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T10:13:17.312562Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-30-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "United Utilities raising billions to fund increased infrastructure programme - TheBusinessDesk.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjNWMktlYXIyRUxmR1BQMXY3Q0U4VjRsUmpRR0doV2dpTE9RY3EyR2tkakRpSEQwUnpWODc2RkF0Um9uQXlpSXptNkxqUkl2TEs1Z3JacEVPdmZrTURGU1hOX0dDU3pBUTRUY0FUSm45b041TWEzLWhaQmpTa1hvMUVhQUxQMllGVWxKbkNlQzFERUp3SHBYdThDUDNDWHJjR0hnd295ZWRCd1R4V09Xak5pQzJJeE50R2ttS09VaHY3ZTNwcTQ1V0N6UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-04-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "State of Michigan Retirement System Sells 8,900 Shares of American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZy1ubGRaekl5eXllNXNjSG85S0FES0RURlU0TWVUZWxhdjN2OHhMTkJVcGczczNvd05sY2E1MFdsZFFRb1l2d0FyTk5VNVoyOFlWc2ZXem1ZeEdVNlA5Zy1udVRlQlJYcXg0ZmEzLVJCMDdTa1hXUWZueDIyQ1hfZ012Qk9wRG1SUW5aVXdtemhCU0ZfNFkzTlVHcnE2bTcwT2lrcTJYM3Z1SUZGb1VBa0Qta0IzWHRSSkVuMnE5OVdhZ1RyV0kzMVF3ZlRaSlZ1X2E5NWlKUFhTRXVpMGJ6TUl0MkVTN3Iycmc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_water-2026-04-30-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Investors May Respond To American Water Works Company (AWK) Profit Dip Amid Rising Revenue And Community Spend - simplywall.st",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "smart_water",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeS1rNGNMNjZhMkVTdllwNGRndXVzMWhRQjRrUVJPS1I1MVM4RmlacTBwMGNtU0UxdlpNQl9pbDZvMHRLUVhXZDlSbDBQLW1xVFV5Q0dtSWJOZl9zazFzZ2twNnd3RlZFdURlVWtQZVUtMkJKTzRTeTJUMGxvb0R2cmFkZFMydlZnbHlrMXI3MEYxaDNKVUhDU1pUbDNsNTZ5Wk85NFZueTZMSWVXcVR6UmJGX214bzNaTjdqV0NJdjdQeUxWX0pBVXhpMHhiOW1yZ2Z30gHYAUFVX3lxTE9yZ1J4eGFKU2RDQ3Zndk1YVkYwcGVqR3NTSW02SklLckhvZjlQZTR1dFdqeEtpeHFlVFAyZ25IN2hCNm9RT3JWbThQalJYZkQ5am9GTk9LZzNmUHpIWUhMQVNabXNaR19DenJkU0dpcm52UERvWjZqWWFDeWZPX0dnMlhhbmtoSzU2V2xhRnk1eXhEdUdTajA0ejJFODZWcEs1SFpEeDdFWnUyMzczX0FENlFlVFlMSTJMUG15M3U1WDk4NDdSYUhURFdQcDk1VWdUMzk0cHNmaQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ao_smith-2026-04-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A.O. Smith’s China Business Is Said to Attract Investor Interest - Bloomberg",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXy1mcnI2TklEeG1GY2FoNkMzeVlXRmI2aDZxajVBMGkzanpfUlFJZDNGcFIzTWRFQUFPVlZ5TlEyLW5KLVo5UnoxQmJVTjl3YnNZNFlGRGFHS3NKZEtFZzMyR0pia3JuQWRJUnRzN2xES2duV1pKeS1uYXg3cUtDM2YzTjZTc1NUQ09HZ0w5RE9lQWdaRnFTSF9SV1kzeC1aV0Nkc0ExdDRJWk9ZUmxpQWF1LVI?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "California Water awaits CPUC vote on rate plan worth $90.5M - Stock Titan",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS2FhdmRwV3hGZU8zblBaajdGRXQwaGhIaGR0eWUyY2RQUGo0WHZZcWN6Z2VpckZkcHV0WGl3bWZkS0M2WXhuTGk3b2U5WElUY3dwRHBvNnNUZE02V1VWM092N010SU5CSzNLekthSHFZZ3M2dkpfVEZxWXNpZ0FuNWtwTmlBZ1dkZHhHR2F0RjIyWDhHdDluNDRfU0lpd2g5VV9UQmFtU0VmUmRaSGFqc2NkOGQyLTFlbmN5TjFB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "smart_water": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 2
+      },
+      {
+        "id": "ao_smith",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "smart_water",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 145,
+    "too_old": 73,
+    "gate1_blocked": 4,
+    "gate2_blocked": 5,
+    "passed": 33,
+    "pass_rate": "28.7%",
+    "gate2_block_rate": "4.3%",
+    "gate2_samples": [
+      "Veolia Environnement (VIE) Status Update Summary - Quartr",
+      "Veolia Environnement SA (MEX:VIEN) Stock PDF (Updated: 2026/04/25) - GuruFocus",
+      "Veolia Environnement: Combined Shareholders’ General Meeting, April 23, 2026 - Yahoo Finance",
+      "A Look At A. O. Smith (AOS) Valuation After Recent Share Weakness And Modest Growth - Yahoo Finance",
+      "Danaher Corp. stock (US2358511028): Why Google Discover changes matter more now - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為美國水務、史密斯相關動態：「United Utilities raising billions to fund increased infra...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "United Utilities raising billions to fund increased infrastructure programme ...（財報、資本支出、水資源產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "State of Michigan Retirement System Sells 8,900 Shares of American Water Work...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

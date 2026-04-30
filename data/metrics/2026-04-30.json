@@ -1,0 +1,37 @@
+{
+  "date": "2026-04-30",
+  "total_events": 5,
+  "by_company": {
+    "ao_smith": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "american_water": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "smart_water": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capex": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
