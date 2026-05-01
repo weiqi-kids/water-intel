@@ -1,0 +1,33 @@
+{
+  "date": "2026-05-01",
+  "total_events": 10,
+  "by_company": {
+    "ao_smith": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "essential": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "american_water": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

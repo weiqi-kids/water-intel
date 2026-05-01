@@ -1,0 +1,13 @@
+{
+  "total_raw": 258,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 2,
+  "gate2_fail": 2,
+  "passed": 44,
+  "gate2_samples": [
+    "Veolia Environnement (VIE) Status Update Summary - Quartr",
+    "Veolia Environnement SA (MEX:VIEN) Stock PDF (Updated: 2026/04/25) - GuruFocus"
+  ]
+}
