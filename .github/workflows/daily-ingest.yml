@@ -2,7 +2,6 @@ name: Daily Data Ingest
 
 on:
   schedule:
-    # Run at 08:00 UTC every day (16:00 Taiwan time)
     - cron: '0 8 * * *'
   workflow_dispatch:
     inputs:
@@ -48,47 +47,44 @@ jobs:
           mkdir -p data/cards
           mkdir -p site/data
 
+      - name: Export site config
+        if: hashFiles('scripts/export_configs.py') != ''
+        run: python scripts/export_configs.py
+        continue-on-error: true
+
       - name: Fetch stock prices
-        if: ${{ github.event.inputs.fetch_type == 'all' || github.event.inputs.fetch_type == 'stocks' || github.event_name == 'schedule' }}
-        run: |
-          python scripts/fetch_stocks.py
+        if: ${{ (github.event.inputs.fetch_type == 'all' || github.event.inputs.fetch_type == 'stocks' || github.event_name == 'schedule') && hashFiles('scripts/fetch_stocks.py') != '' }}
+        run: python scripts/fetch_stocks.py
         continue-on-error: true
 
       - name: Fetch company IR/News
-        if: ${{ github.event.inputs.fetch_type == 'all' || github.event.inputs.fetch_type == 'ir' || github.event_name == 'schedule' }}
-        run: |
-          python scripts/fetch_companies.py
+        if: ${{ (github.event.inputs.fetch_type == 'all' || github.event.inputs.fetch_type == 'ir' || github.event_name == 'schedule') && hashFiles('scripts/fetch_companies.py') != '' }}
+        run: python scripts/fetch_companies.py
         continue-on-error: true
 
       - name: Fetch RSS news
-        if: ${{ github.event.inputs.fetch_type == 'all' || github.event.inputs.fetch_type == 'news' || github.event_name == 'schedule' }}
-        run: |
-          python scripts/fetch_rss.py
+        if: ${{ (github.event.inputs.fetch_type == 'all' || github.event.inputs.fetch_type == 'news' || github.event_name == 'schedule') && hashFiles('scripts/fetch_rss.py') != '' }}
+        run: python scripts/fetch_rss.py
         continue-on-error: true
 
       - name: Normalize data
-        run: |
-          python scripts/normalize.py
+        if: hashFiles('scripts/normalize.py') != ''
+        run: python scripts/normalize.py
         continue-on-error: true
 
       - name: Fetch financial data
-        run: |
-          python scripts/fetch_financials.py
+        if: hashFiles('scripts/fetch_financials.py') != ''
+        run: python scripts/fetch_financials.py
         continue-on-error: true
 
-
-      - name: Fetch fund flow data
-        run: |
-          python scripts/fetch_fund_flow.py
+      - name: Fetch holders data
+        if: hashFiles('scripts/fetch_holders.py') != ''
+        run: python scripts/fetch_holders.py
         continue-on-error: true
 
-      - name: Fetch institutional holders
-        run: |
-          python scripts/fetch_holders.py
-        continue-on-error: true
       - name: Generate cards
-        run: |
-          python scripts/generate_cards.py
+        if: hashFiles('scripts/generate_cards.py') != ''
+        run: python scripts/generate_cards.py
         continue-on-error: true
 
       - name: Enrich events
@@ -103,12 +99,14 @@ jobs:
         continue-on-error: true
 
       - name: Generate metrics
+        if: hashFiles('scripts/generate_metrics.py') != ''
         run: |
           TODAY=$(date +%Y-%m-%d)
           python scripts/generate_metrics.py --date $TODAY
         continue-on-error: true
 
       - name: Generate daily report
+        if: hashFiles('scripts/generate_daily.py') != ''
         run: |
           TODAY=$(date +%Y-%m-%d)
           mkdir -p site/data/reports/daily
@@ -117,6 +115,7 @@ jobs:
         continue-on-error: true
 
       - name: Generate 7d report
+        if: hashFiles('scripts/generate_7d_report.py') != ''
         run: |
           TODAY=$(date +%Y-%m-%d)
           mkdir -p site/data/reports/7d
@@ -124,8 +123,8 @@ jobs:
           cp reports/7d/$TODAY.json site/data/reports/7d/ 2>/dev/null || true
         continue-on-error: true
 
-
       - name: Generate LLM analysis
+        if: hashFiles('scripts/generate_llm_analysis.py') != ''
         run: |
           TODAY=$(date +%Y-%m-%d)
           python scripts/generate_llm_analysis.py --date $TODAY
@@ -133,30 +132,32 @@ jobs:
 
       - name: Generate report indexes
         run: |
-          # Generate daily report index
-          ls site/data/reports/daily/*.json 2>/dev/null | xargs -I {} basename {} .json | grep -v "^index$" | sort -r | jq -R -s 'split("\n") | map(select(length > 0))' > site/data/reports/daily/index.json || echo '[]' > site/data/reports/daily/index.json
-          # Generate 7d report index
-          ls site/data/reports/7d/*.json 2>/dev/null | xargs -I {} basename {} .json | grep -v "^index$" | sort -r | jq -R -s 'split("\n") | map(select(length > 0))' > site/data/reports/7d/index.json || echo '[]' > site/data/reports/7d/index.json
+          # Generate daily report index (exclude index.json itself)
+          ls site/data/reports/daily/*.json 2>/dev/null | xargs -I {} basename {} .json | grep -v '^index$' | sort -r | jq -R -s 'split("\n") | map(select(length > 0))' > site/data/reports/daily/index.json || echo '[]' > site/data/reports/daily/index.json
+          # Generate 7d report index (exclude index.json itself)
+          ls site/data/reports/7d/*.json 2>/dev/null | xargs -I {} basename {} .json | grep -v '^index$' | sort -r | jq -R -s 'split("\n") | map(select(length > 0))' > site/data/reports/7d/index.json || echo '[]' > site/data/reports/7d/index.json
 
       - name: Generate config stats
+        if: hashFiles('scripts/generate_config_stats.py') != ''
         run: |
           mkdir -p site/data/configs
           python scripts/generate_config_stats.py
         continue-on-error: true
 
       - name: Sync events to frontend
-        run: |
-          python scripts/sync_to_frontend.py
+        if: hashFiles('scripts/sync_to_frontend.py') != ''
+        run: python scripts/sync_to_frontend.py
+        continue-on-error: true
+
+      - name: Generate financials history
+        if: hashFiles('scripts/generate_financials_history.py') != ''
+        run: python scripts/generate_financials_history.py
         continue-on-error: true
 
       - name: Update site data
         run: |
-          # Copy latest data to site for visualization
-          # Note: events.json is handled by sync_to_frontend.py, don't overwrite
           cp data/normalized/stocks.json site/data/ 2>/dev/null || true
           cp data/normalized/companies.json site/data/ 2>/dev/null || true
-          cp data/fund_flow/latest.json site/data/fund_flow.json 2>/dev/null || true
-          cp data/holders/latest.json site/data/holders.json 2>/dev/null || true
 
       - name: Commit and push changes
         run: |
