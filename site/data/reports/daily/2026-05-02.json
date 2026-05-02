@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T09:15:11.570478Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-05-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Look At Mueller Water Products (MWA) Valuation As Shares Trade Below Narrative Fair Value - simplywall.st",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOG51OUU3TzJ5bUMxWklMLVdrSV90N2hId29wTFdTQXNCTGo1dTFaQ2tiTHoybUFQVVR2dl8tRFBDQWdBZ3EwSG1lZ3RpbFlLZnEzUmd1dTltWk1CQVJZUVgyQmhQRW9FNk81RktSRTI2by10THZnV2xEU0IxMGNzZXJMVUZxTkFaU01jajFRRWRPRFFobllMNkVSWmUzaHpKOGJCQXdZTUFxNzBvWDM2b2NEV2lNNWpFYUlIbWxUb2ZjU2pZNjNCWUlSVy1ueHM5WmVJckRPSmZGSVHSAeABQVVfeXFMTnc3T2pTZ0JTTXNOTHdsN3c4cTRzb1hUOXZIZTdvWWNvRXVIa0t0aDI2Z2E1Y2tOLW9EX29OQS1wNFh3M25JOXk5WURMLUFYN3FqQTVjb2tWZUdVbW1uRHpBbEp3N0FnRDJsTG9LNHpleHE1b052c21uOUJHNTdfZHpBaHZyT2NOV3E1Z29ObmdqeG90dWdHU0xfdFkxM19EOWlqenJDWWNGNEI3WFJFOWpDeXVKMHcwc1o0ODdWZEg4T25nTVJkVC1PSExrVlUza3lxSWkyVXZvLUp2Nkc5bk4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 259,
+    "dup_title": 163,
+    "too_old": 67,
+    "gate1_blocked": 1,
+    "gate2_blocked": 4,
+    "passed": 24,
+    "pass_rate": "25.0%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Veolia Environnement (OTCMKTS:VEOEY) Hits New 1-Year High - What's Next? - MarketBeat",
+      "Veolia Environnement (VIE) Status Update Summary - Quartr",
+      "Veolia Environnement SA (MEX:VIEN) Stock PDF (Updated: 2026/04/25) - GuruFocus",
+      "Danaher Corp. stock (US2358511028): Why Google Discover changes matter more now - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為穆勒相關動態：「A Look At Mueller Water Products (MWA) Valuation As Share...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "A Look At Mueller Water Products (MWA) Valuation As Shares Trade Below Narrat...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "穆勒為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

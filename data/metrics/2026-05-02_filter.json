@@ -1,0 +1,15 @@
+{
+  "total_raw": 259,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 1,
+  "gate2_fail": 4,
+  "passed": 24,
+  "gate2_samples": [
+    "Veolia Environnement (OTCMKTS:VEOEY) Hits New 1-Year High - What's Next? - MarketBeat",
+    "Veolia Environnement (VIE) Status Update Summary - Quartr",
+    "Veolia Environnement SA (MEX:VIEN) Stock PDF (Updated: 2026/04/25) - GuruFocus",
+    "Danaher Corp. stock (US2358511028): Why Google Discover changes matter more now - AD HOC NEWS"
+  ]
+}
