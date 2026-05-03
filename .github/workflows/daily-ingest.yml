@@ -153,7 +153,7 @@ jobs:
         run: |
           # Copy latest data to site for visualization
           # Note: events.json is handled by sync_to_frontend.py, don't overwrite
-          cp data/normalized/stocks.json site/data/ 2>/dev/null || true
+          # stocks.json is handled by fetch_stocks.py (trimmed to 2 years)
           cp data/normalized/companies.json site/data/ 2>/dev/null || true
           cp data/fund_flow/latest.json site/data/fund_flow.json 2>/dev/null || true
           cp data/holders/latest.json site/data/holders.json 2>/dev/null || true

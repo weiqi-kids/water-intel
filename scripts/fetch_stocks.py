@@ -87,6 +87,24 @@ def save_stocks_data(data: dict):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
+FRONTEND_STOCKS_FILE = BASE_DIR / "site" / "data" / "stocks.json"
+FRONTEND_MAX_DAYS = 730  # 前端只載入最近 2 年
+
+
+def save_frontend_stocks(data: dict):
+    """產生前端用的裁切版 stocks.json（最近 2 年）"""
+    cutoff = (date.today() - timedelta(days=FRONTEND_MAX_DAYS)).isoformat()
+    trimmed = {}
+    for company_id, prices in data.items():
+        trimmed[company_id] = [p for p in prices if p["date"] >= cutoff]
+    FRONTEND_STOCKS_FILE.parent.mkdir(parents=True, exist_ok=True)
+    with open(FRONTEND_STOCKS_FILE, "w", encoding="utf-8") as f:
+        json.dump(trimmed, f, ensure_ascii=False)
+    total = sum(len(v) for v in trimmed.values())
+    logger.info(f"前端版: {FRONTEND_STOCKS_FILE} ({total} 筆, cutoff={cutoff})")
+
+
+
 def fetch_stock_range(ticker: str, start: date, end: date) -> list[dict]:
     """抓取指定日期範圍的股價"""
     try:
