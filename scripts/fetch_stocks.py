@@ -236,6 +236,7 @@ def main():
 
     # 存檔
     save_stocks_data(stocks_data)
+    save_frontend_stocks(stocks_data)
     save_metadata(metadata)
 
     logger.info(f"=== 完成 ===")
