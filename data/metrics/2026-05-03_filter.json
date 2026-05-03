@@ -1,0 +1,12 @@
+{
+  "total_raw": 259,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 3,
+  "gate2_fail": 1,
+  "passed": 10,
+  "gate2_samples": [
+    "Veolia Environnement (OTCMKTS:VEOEY) Hits New 1-Year High - What's Next? - MarketBeat"
+  ]
+}
