@@ -1,0 +1,96 @@
+{
+  "date": "2026-04-07",
+  "date_range": {
+    "start": "2026-04-01",
+    "end": "2026-04-07"
+  },
+  "generated_at": "2026-05-03T02:47:02.215876Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "badger-2026-04-01-003",
+      "date": "2026-04-01",
+      "title": "Badger Meter Schedules First Quarter 2026 Earnings Call",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 5,
+      "last_week": 16,
+      "week_over_week_change": "-69%",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "badger": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "mueller": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "essential": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 6,
+        "last": 21,
+        "change_pct": -71.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-01",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-02",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-03",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-04",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-05",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-06",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-07",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

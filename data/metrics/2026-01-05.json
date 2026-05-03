@@ -1,0 +1,20 @@
+{
+  "date": "2026-01-05",
+  "total_events": 1,
+  "by_company": {},
+  "by_topic": {
+    "smart_water": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

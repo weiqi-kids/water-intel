@@ -1,0 +1,20 @@
+{
+  "date": "2019-09-17",
+  "total_events": 1,
+  "by_company": {},
+  "by_topic": {
+    "desalination": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "semiconductor_ultrapure_water": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

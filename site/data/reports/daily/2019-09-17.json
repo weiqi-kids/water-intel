@@ -1,0 +1,70 @@
+{
+  "date": "2019-09-17",
+  "generated_at": "2026-05-03T02:46:30.893080Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2019-09-17-021",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Recent transitions in ultrapure water (UPW) technology: Rising role of reverse osmosis (RO) - ScienceDirect.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "desalination",
+        "semiconductor_ultrapure_water"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "desalination": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "semiconductor_ultrapure_water": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "desalination",
+        "count": 1
+      },
+      {
+        "id": "semiconductor_ultrapure_water",
+        "count": 1
+      }
+    ]
+  }
+}

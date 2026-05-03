@@ -1,0 +1,86 @@
+{
+  "date": "2022-09-15",
+  "date_range": {
+    "start": "2022-09-09",
+    "end": "2022-09-15"
+  },
+  "generated_at": "2026-05-03T02:46:33.385676Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "danaher-2022-09-15-010",
+      "date": "2022-09-15",
+      "title": "Droughts and Old Infrastructure Make It a Good Time for Danaher to Spin Out Its Water Business - Barron's",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "water_scarcity": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "danaher": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2022-09-09",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-09-10",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-09-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-09-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-09-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-09-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-09-15",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

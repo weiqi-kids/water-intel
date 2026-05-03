@@ -1,0 +1,109 @@
+{
+  "date": "2026-02-04",
+  "date_range": {
+    "start": "2026-01-29",
+    "end": "2026-02-04"
+  },
+  "generated_at": "2026-05-03T02:46:52.588503Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-01-29-049",
+      "date": "2026-01-29",
+      "title": "A. O. Smith Reports Record 2025 Diluted Earnings Per Share (EPS) of $3.85 and Introduces 2026 Guidance - PR Newswire",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 12,
+      "last_week": 4,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.08
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    },
+    "capex": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": -0.5
+    },
+    "regulation": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "smart_water": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "pentair": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "mueller": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 13,
+        "last": 7,
+        "change_pct": 85.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-01-29",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-31",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-02",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-03",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-04",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ]
+}

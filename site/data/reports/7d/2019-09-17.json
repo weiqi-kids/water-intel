@@ -1,0 +1,80 @@
+{
+  "date": "2019-09-17",
+  "date_range": {
+    "start": "2019-09-11",
+    "end": "2019-09-17"
+  },
+  "generated_at": "2026-05-03T02:46:30.991658Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2019-09-17-021",
+      "date": "2019-09-17",
+      "title": "Recent transitions in ultrapure water (UPW) technology: Rising role of reverse osmosis (RO) - ScienceDirect.com",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "desalination": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "semiconductor_ultrapure_water": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {},
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2019-09-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-09-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-09-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-09-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-09-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-09-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-09-17",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

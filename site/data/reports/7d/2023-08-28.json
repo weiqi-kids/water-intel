@@ -1,0 +1,80 @@
+{
+  "date": "2023-08-28",
+  "date_range": {
+    "start": "2023-08-22",
+    "end": "2023-08-28"
+  },
+  "generated_at": "2026-05-03T02:46:34.812956Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "danaher-2023-08-28-059",
+      "date": "2023-08-28",
+      "title": "Danaher Names New Environmental and Applied Solutions Company Veralto - Medical Product Outsourcing",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "danaher": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2023-08-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-08-23",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-08-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-08-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-08-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-08-27",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-08-28",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

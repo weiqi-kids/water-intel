@@ -1,0 +1,32 @@
+{
+  "date": "2024-11-15",
+  "total_events": 1,
+  "by_company": {},
+  "by_topic": {
+    "desalination": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "wastewater_treatment": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "semiconductor_ultrapure_water": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "regulation": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

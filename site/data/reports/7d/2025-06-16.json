@@ -1,0 +1,98 @@
+{
+  "date": "2025-06-16",
+  "date_range": {
+    "start": "2025-06-10",
+    "end": "2025-06-16"
+  },
+  "generated_at": "2026-05-03T02:46:39.876955Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2025-06-10-017",
+      "date": "2025-06-10",
+      "title": "Aquatech acquires Century Water, strengthens position in ultrapure water technologies - Smart Water Magazine",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "semiconductor_ultrapure_water": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "smart_water": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "wastewater_treatment": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "desalination": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {},
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 4,
+        "last": 1,
+        "change_pct": 300.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-06-10",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-11",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-16",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

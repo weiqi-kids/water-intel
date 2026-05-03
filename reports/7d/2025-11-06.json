@@ -1,0 +1,109 @@
+{
+  "date": "2025-11-06",
+  "date_range": {
+    "start": "2025-10-31",
+    "end": "2025-11-06"
+  },
+  "generated_at": "2026-05-03T02:46:44.041073Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2025-11-05-036",
+      "date": "2025-11-05",
+      "title": "Texas Approves Landmark $20 Billion Investment in Water Infrastructure - ConstructConnect News",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "guidance": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "earnings": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "regulation": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "wastewater_treatment": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "mueller": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "veolia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 6,
+        "last": 2,
+        "change_pct": 200.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-10-31",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-04",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-05",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-06",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

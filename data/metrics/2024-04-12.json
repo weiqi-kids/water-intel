@@ -1,0 +1,20 @@
+{
+  "date": "2024-04-12",
+  "total_events": 1,
+  "by_company": {},
+  "by_topic": {
+    "water_scarcity": {
+      "count": 1,
+      "sentiment_avg": 0.25
+    },
+    "wastewater_treatment": {
+      "count": 1,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

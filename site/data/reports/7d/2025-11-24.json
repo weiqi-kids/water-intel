@@ -1,0 +1,92 @@
+{
+  "date": "2025-11-24",
+  "date_range": {
+    "start": "2025-11-18",
+    "end": "2025-11-24"
+  },
+  "generated_at": "2026-05-03T02:46:45.428218Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2025-11-20-031",
+      "date": "2025-11-20",
+      "title": "The Water Infrastructure Investments States Will Need - Governing",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "desalination": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "wastewater_treatment": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {},
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 4,
+        "last": 2,
+        "change_pct": 100.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-11-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-19",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-20",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-23",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-24",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

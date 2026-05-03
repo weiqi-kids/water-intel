@@ -1,0 +1,86 @@
+{
+  "date": "2019-10-01",
+  "date_range": {
+    "start": "2019-09-25",
+    "end": "2019-10-01"
+  },
+  "generated_at": "2026-05-03T02:46:31.230766Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "pentair-2019-10-01-033",
+      "date": "2019-10-01",
+      "title": "Pentair announces definitive agreement to acquire Pelican Water Systems - Smart Water Magazine",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "smart_water": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "pentair": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2019-09-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-09-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-09-27",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-09-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-09-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-09-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2019-10-01",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

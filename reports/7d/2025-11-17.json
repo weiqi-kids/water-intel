@@ -1,0 +1,86 @@
+{
+  "date": "2025-11-17",
+  "date_range": {
+    "start": "2025-11-11",
+    "end": "2025-11-17"
+  },
+  "generated_at": "2026-05-03T02:46:44.595630Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "mueller-2025-11-17-009",
+      "date": "2025-11-17",
+      "title": "Mueller Water Products Inc (MWA) Q4 2025 Earnings Call Highlights: Record Sales and Strategic ... - Yahoo Finance",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "wastewater_treatment": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "mueller": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 2,
+        "last": 3,
+        "change_pct": -33.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-11-11",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-17",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

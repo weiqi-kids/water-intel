@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-25",
+  "total_events": 4,
+  "by_company": {
+    "kurita": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "smart_water": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "water_scarcity": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "capex": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

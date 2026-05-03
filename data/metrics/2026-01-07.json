@@ -1,0 +1,25 @@
+{
+  "date": "2026-01-07",
+  "total_events": 2,
+  "by_company": {
+    "badger": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pentair": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

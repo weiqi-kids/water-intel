@@ -1,0 +1,16 @@
+{
+  "date": "2026-01-22",
+  "total_events": 1,
+  "by_company": {},
+  "by_topic": {
+    "capex": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

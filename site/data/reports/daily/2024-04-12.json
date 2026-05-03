@@ -1,0 +1,70 @@
+{
+  "date": "2024-04-12",
+  "generated_at": "2026-05-03T02:46:36.063136Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2024-04-12-016",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Water and Wastewater Treatment Equipment Market to Surpass USD 97.64 Billion by 2031, Driven by Rising Water Scarcity Concerns - StreetInsider",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "water_scarcity",
+        "wastewater_treatment"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "water_scarcity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "wastewater_treatment": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "water_scarcity",
+        "count": 1
+      },
+      {
+        "id": "wastewater_treatment",
+        "count": 1
+      }
+    ]
+  }
+}

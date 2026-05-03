@@ -1,0 +1,33 @@
+{
+  "date": "2025-04-08",
+  "total_events": 1,
+  "by_company": {
+    "kurita": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "wastewater_treatment": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "smart_water": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "regulation": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

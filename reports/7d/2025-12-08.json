@@ -1,0 +1,85 @@
+{
+  "date": "2025-12-08",
+  "date_range": {
+    "start": "2025-12-02",
+    "end": "2025-12-08"
+  },
+  "generated_at": "2026-05-03T02:46:46.273590Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "kurita-2025-12-04-063",
+      "date": "2025-12-04",
+      "title": "ispace and Kurita Water Industries Agree on Strategic Partnership for Lunar Water Resource Development - ispace",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "kurita": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "mueller": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-12-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-04",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-05",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-06",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-07",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-08",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

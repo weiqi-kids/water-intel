@@ -1,0 +1,33 @@
+{
+  "date": "2025-10-03",
+  "total_events": 2,
+  "by_company": {
+    "badger": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "kurita": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "wastewater_treatment": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "smart_water": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

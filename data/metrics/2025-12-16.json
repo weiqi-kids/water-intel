@@ -1,0 +1,28 @@
+{
+  "date": "2025-12-16",
+  "total_events": 2,
+  "by_company": {},
+  "by_topic": {
+    "wastewater_treatment": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "smart_water": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "capex": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

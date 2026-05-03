@@ -1,0 +1,74 @@
+{
+  "date": "2021-07-16",
+  "date_range": {
+    "start": "2021-07-10",
+    "end": "2021-07-16"
+  },
+  "generated_at": "2026-05-03T02:46:32.222593Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2021-07-16-024",
+      "date": "2021-07-16",
+      "title": "The ultra-clean water making a splash in the semiconductor industry | ULTRAWAT Project | Results in Brief | H2020 - CORDIS",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {},
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2021-07-10",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-07-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-07-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-07-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-07-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-07-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2021-07-16",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2026-03-09",
+  "total_events": 2,
+  "by_company": {
+    "veolia": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "smart_water": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "capex": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

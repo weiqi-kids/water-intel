@@ -1,0 +1,16 @@
+{
+  "date": "2025-11-24",
+  "total_events": 1,
+  "by_company": {},
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

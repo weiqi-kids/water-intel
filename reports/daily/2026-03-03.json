@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-03",
+  "generated_at": "2026-05-03T02:46:56.455671Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-03-03-011",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Filtration+Separation February 2026 issue – online now! - Filtration and Separation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "regulation"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "regulation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "regulation",
+        "count": 1
+      }
+    ]
+  }
+}

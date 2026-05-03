@@ -1,0 +1,92 @@
+{
+  "date": "2024-02-01",
+  "date_range": {
+    "start": "2024-01-26",
+    "end": "2024-02-01"
+  },
+  "generated_at": "2026-05-03T02:46:35.694783Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "kurita-2024-02-01-014",
+      "date": "2024-02-01",
+      "title": "Kurita and Fracta establish global water treatment data integration infrastructure - Smart Water Magazine",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "wastewater_treatment": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "smart_water": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "kurita": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2024-01-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-01-27",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-01-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-01-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-01-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-01-31",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-02-01",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

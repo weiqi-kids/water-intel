@@ -1,0 +1,44 @@
+{
+  "date": "2025-07-22",
+  "generated_at": "2026-05-03T02:46:40.239131Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "badger-2025-07-22-008",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Badger Meter Reports Second Quarter 2025 Financial Results",
+      "companies": [
+        "badger"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "badger",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}
