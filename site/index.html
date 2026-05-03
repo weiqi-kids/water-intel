@@ -1268,8 +1268,8 @@
                     // 在色相範圍內均勻分布
                     const hue = hueRange.min + (hueRange.max - hueRange.min) * (i / Math.max(ids.length - 1, 1));
                     // 固定飽和度和亮度，確保顏色鮮明
-                    const saturation = 70 + Math.random() * 15;  // 70-85%
-                    const lightness = 45 + Math.random() * 10;   // 45-55%
+                    const saturation = 70 + (i % 3) * 7;   // 70, 77, 84 循環
+                    const lightness = 45 + (i % 2) * 8;    // 45, 53 交替
                     colors[id] = `hsl(${Math.round(hue)}, ${Math.round(saturation)}%, ${Math.round(lightness)}%)`;
                 });
             });
