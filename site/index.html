@@ -680,7 +680,7 @@
             pointer-events: none;
             opacity: 0;
             transition: opacity 0.2s;
-            max-width: 300px;
+            max-width: 380px;
             z-index: 1000;
             box-shadow: 0 4px 12px rgba(0,0,0,0.1);
             color: #333;
@@ -1295,12 +1295,12 @@
 
         // ===== Tab Info Tooltips =====
         const tabInfoTexts = {
-            trend: '<strong>走勢</strong><br>多檔股價走勢圖（歸一化為 100）<br>• 拖曳時間刷選器調整範圍<br>• 點供應鏈節點看該公司 vs 上下游<br>• 日/週/月 切換區間<br>• 灰虛線 = SMH ETF 基準',
-            heatmap: '<strong>熱力</strong><br>漲跌熱力圖，按上/中/下游分組<br>• 顏色深淺 = 漲跌幅度<br>• 點擊色塊切換到該公司走勢',
-            fundflow: '<strong>流向</strong><br>半導體 ETF 資金流向<br>• SMH / SOXX / SOXQ 三檔 ETF<br>• 綠柱 = 資金流入，紅柱 = 流出<br>• 點 ETF 卡片切換',
-            holders: '<strong>持倉</strong><br>機構投資人持股明細<br>• 點上方公司名稱切換<br>• 顯示股數、佔比、市值<br>• 折線 = 機構持股比例歷史趨勢',
-            backtest: '<strong>回測</strong><br>⚠ 需先點選一家公司<br>• 股價走勢 + 報酬率 vs SMH<br>• 黃點 = 應收帳款(AR)，紫方 = 庫存<br>• Hover 看季度數據 + QoQ 變化<br>• 1M/3M/6M/1Y 切換區間',
-            distribution: '<strong>分布</strong><br>⚠ 需先點選一家公司<br>• 20 日持有期報酬分布直方圖<br>• 顯示勝率、中位數、最大虧損<br>• 跌/漲 >10% 發生率<br>• 6M/12M/24M 切換回顧期',
+            trend: '<strong>走勢圖</strong><br>顯示多檔股價的相對漲跌走勢。<br>所有股價歸一化為起始日 = 100，方便比較不同價位的股票。<br>例如：數字 142 表示從起始日到現在漲了 42%。<br><br><strong>操作方式：</strong><br>• 拖曳上方「時間範圍」調整起始日<br>• 點右側「供應鏈」節點，看該公司 vs 上下游<br>• 日/週/月 = 顯示最近 1天/5天/20天<br>• 灰色虛線 = SMH 半導體 ETF 大盤基準',
+            heatmap: '<strong>熱力圖</strong><br>顯示所有公司在目前時間範圍內的股價漲跌。<br>按供應鏈位置分三排：上游（設備/材料）、中游（製造/封測）、下游（AI/系統）。<br><br><strong>顏色：</strong>綠色 = 漲，紅色 = 跌，越深越大。<br><strong>Hover：</strong>顯示該公司漲跌% 和 vs 大盤表現（贏/輸大盤多少%）。<br><strong>點擊：</strong>切換到該公司的走勢圖。',
+            fundflow: '<strong>ETF 資金流向</strong><br>追蹤半導體 ETF 的資金流入/流出趨勢。<br>資金流 = 價格變動 × 成交量，正值代表資金流入，負值代表流出。<br><br><strong>三張卡片：</strong>SMH / SOXX / SOXQ 各一檔 ETF，<br>顯示最新價格、當日漲跌、5日淨流向。<br><strong>柱狀圖：</strong>綠柱 = 資金流入日，紅柱 = 流出日。<br><strong>點擊卡片：</strong>切換顯示該 ETF 的柱狀圖。',
+            holders: '<strong>機構持倉</strong><br>顯示各公司的機構投資人（基金、法人）持股明細。<br><br><strong>操作方式：</strong>點上方公司名稱切換。<br><strong>表格欄位：</strong>持股機構名稱、股數、佔比(%)、市值。<br><strong>折線圖：</strong>該公司機構總持股比例的歷史趨勢，<br>上升 = 法人持續買進，下降 = 法人減碼。',
+            backtest: '<strong>回測分析</strong><br>分析單一公司的股價走勢和基本面數據。<br>⚠ 需先點擊供應鏈節點選擇一家公司。<br><br><strong>圖表：</strong>該公司股價走勢（原始價格）。<br><strong>黃色圓點：</strong>應收帳款(AR)季度數據，Hover 看金額和 QoQ 變化。<br><strong>紫色方塊：</strong>庫存季度數據，Hover 看金額和 QoQ 變化。<br><strong>下方：</strong>報酬率 vs SMH 大盤、最大回撤(MDD) vs SMH。<br><strong>按鈕：</strong>1M/3M/6M/1Y 切換回顧期間。',
+            distribution: '<strong>報酬分布</strong><br>分析單一公司「任意買進持有 20 個交易日」的報酬分布。<br>⚠ 需先點擊供應鏈節點選擇一家公司。<br><br><strong>直方圖：</strong>所有 20 日持有期報酬的分布。<br>綠色 = 正報酬區間，紅色 = 負報酬區間。<br><strong>統計數據：</strong><br>• 中位數 = 買進後最可能的報酬<br>• 勝率 = 賺錢的機率（>50% 為綠色）<br>• 最大虧損 / 跌>10% 發生率<br>• 回撤恢復天數 = 跌了之後多久漲回來<br><strong>按鈕：</strong>6M/12M/24M 切換回顧期間。',
         };
         document.querySelectorAll('.tab-info').forEach(el => {
             el.addEventListener('mouseenter', e => {
@@ -2197,6 +2197,36 @@
                 </div>
             `).join('');
             container.innerHTML = html;
+
+            // Heatmap cell tooltips
+            container.querySelectorAll('.heatmap-cell').forEach(cell => {
+                cell.addEventListener('mouseenter', (event) => {
+                    const name = cell.dataset.name;
+                    const role = cell.dataset.role;
+                    const id = cell.dataset.id;
+                    const change = parseFloat(cell.dataset.change);
+                    const sign = change >= 0 ? '+' : '';
+                    const fmt = d => d.toLocaleDateString('zh-TW', {year:'numeric',month:'2-digit',day:'2-digit'});
+                    const rangeText = `${fmt(state.timeRange[0])} ~ ${fmt(state.timeRange[1])}`;
+
+                    let tip = `<strong>${companyLink(id, name)}</strong>`;
+                    tip += `<span style="color:var(--text-muted,#999)">（${role}）</span><br>`;
+                    tip += `<span style="color:var(--text-muted,#999)">期間：${rangeText}</span><br><br>`;
+                    tip += `本公司在這段期間的股價漲跌：<strong>${sign}${change.toFixed(2)}%</strong><br>`;
+                    if (state.smhReturn !== null) {
+                        const excess = change - state.smhReturn;
+                        const exColor = excess >= 0 ? 'var(--hex-pass, #1e8050)' : 'var(--hex-critical, #c93135)';
+                        const smhSign = state.smhReturn >= 0 ? '+' : '';
+                        tip += `同期間半導體大盤（SMH ETF）漲跌：<strong>${smhSign}${state.smhReturn.toFixed(2)}%</strong><br><br>`;
+                        if (excess >= 0) {
+                            tip += `<span style="color:${exColor}">→ 贏大盤 ${excess.toFixed(2)}%（表現優於大盤）</span>`;
+                        } else {
+                            tip += `<span style="color:${exColor}">→ 輸大盤 ${Math.abs(excess).toFixed(2)}%（漲幅不及大盤）</span>`;
+                        }
+                    }
+                    showTooltip(tip, event);
+                });
+            });
         }
 
         
@@ -2369,7 +2399,7 @@ function renderWeeklyLLM() {
                     const sign = item.change >= 0 ? '+' : '';
                     html += `
                         <div class="heatmap-cell" style="background:${bg}; color:${text};"
-                             onmouseenter="showTooltip('<strong>${item.name}</strong><br>${item.role}<br>漲跌：${sign}${item.change.toFixed(2)}%', event)"
+                             data-id="${item.id}" data-name="${item.name}" data-role="${item.role}" data-change="${item.change}"
                              onmouseleave="hideTooltip()"
                              onclick="selectCompany('${item.id}')">
                             <span class="heatmap-name">${item.name}</span>
