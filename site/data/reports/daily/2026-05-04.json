@@ -1,0 +1,137 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T10:20:48.169513Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-05-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What To Expect From Mueller Water Products’s (MWA) Q1 Earnings - StockStory",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLTlkS3RDaXJBR2lnQjcycG5ud3daSGpEZDBaRkdyZFplR0lmdjBoRGJ0Q1JWUjA0elhoT09tRnJJeWczNm4wSHJ6ZVZ3SHhCS0IzTGFNZFpoMWJ5UVotN2E5U3VHalg3aWM4c1N2ZlJUUm5OR1BrWk1fQTh6MzNXeUhNaWJwQU93WDlIa2R0alhlbUlWY19YN3F3UXA4Q1o4YVdySDBLVVZXSGVpbVl5dDc5Z0N2Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "essential-2026-05-04-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ICYMI: Kentucky Regulators Approve American Water, Essential Utilities Merger - MyChesCo",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQUR1R1NPNmUwd0s2VVFMcUlvUWJCbnRUT0xUNjZodWJUSTgyWWxhZ0NIQWF3SkpxTVpnM3JVdDBRS1hLbWdCOWUxQ2Z4enN3WDVTcTgtdE96MTAzVjV6d2c0XzU2SXhoQUdITUx1aHJOU0w5NHVDaFFneE5WenpwcWtJUkhpRlpURG9najVzV1p5SnJmNlYyMmlMdUE1WWpnbzZLaW5VeXZFR2VjZ29BRFZNczBHRERs?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 1
+      },
+      {
+        "id": "essential",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 172,
+    "too_old": 76,
+    "gate1_blocked": 2,
+    "gate2_blocked": 2,
+    "passed": 8,
+    "pass_rate": "9.1%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "Veolia Environnement (OTCMKTS:VEOEY) Hits New 1-Year High - What's Next? - MarketBeat",
+      "AO Smith (AOS) PT Lowered to $67 at DA Davidson - StreetInsider"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為穆勒、必要公用相關動態：「What To Expect From Mueller Water Products’s (MWA) Q1 Ear...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "What To Expect From Mueller Water Products’s (MWA) Q1 Earnings - StockStory（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "ICYMI: Kentucky Regulators Approve American Water, Essential Utilities Merger...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,13 @@
+{
+  "total_raw": 260,
+  "dup_title": 172,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 2,
+  "gate2_fail": 2,
+  "passed": 8,
+  "gate2_samples": [
+    "Veolia Environnement (OTCMKTS:VEOEY) Hits New 1-Year High - What's Next? - MarketBeat",
+    "AO Smith (AOS) PT Lowered to $67 at DA Davidson - StreetInsider"
+  ]
+}
