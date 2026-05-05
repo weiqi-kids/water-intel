@@ -1,5 +1,66 @@
 [
   {
+    "id": "mueller-2026-05-05-001",
+    "date": "2026-05-05",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What To Expect From Mueller Water Products’s (MWA) Q1 Earnings - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0lrWDl2eUFXeWZtbS1YZjNJaW9Tc3lIR0tiRk9PNWdRbWR4VFFnaFRmSGNjVE9rWWxBUGxjb3FNeTYyT3drSzZnUThfcG5SVTRWbW1xNnByMm1HRkpJQlNyTXUzd1ZrS25xcUxjQ2",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0lrWDl2eUFXeWZtbS1YZjNJaW9Tc3lIR0tiRk9PNWdRbWR4VFFnaFRmSGNjVE9rWWxBUGxjb3FNeTYyT3drSzZnUThfcG5SVTRWbW1xNnByMm1HRkpJQlNyTXUzd1ZrS25xcUxjQ2JQQWJGTFhlOElMeXF2cGU0X21uMmVuWExTTWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-05-05-002",
+    "date": "2026-05-05",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery (ERII) Q1 Earnings Report Preview: What To Look For - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc3B6X1owSkZMREtNNVE2dUdoUDN0UVpzc0lOWW1za2hRMEFERHYwSFB4QVE1U0U1Z0tVSWx5aFppUFZhcXRaV2lmZG9sSDZfLTVJTWJ5a3BPQkE1N0hSVF9jcFZUbUE3N3ljNG9Ya0",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc3B6X1owSkZMREtNNVE2dUdoUDN0UVpzc0lOWW1za2hRMEFERHYwSFB4QVE1U0U1Z0tVSWx5aFppUFZhcXRaV2lmZG9sSDZfLTVJTWJ5a3BPQkE1N0hSVF9jcFZUbUE3N3ljNG9Ya0YyTUw5SE9tUzUtbVVLVjZValBxeW9QeWEtQTB2bkRjQzB1aHFHZmQ3OElWbXZPdEo3RVZ0M1JvbDJjRm82WnppNHNqc3ltWlRNQTZZZlZSYXU3ZWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-05-05-003",
+    "date": "2026-05-05",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Danske Bank A S Purchases 17,200 Shares of American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPek50VjUxZ0pWTHZzdjcydXBJUlFyUTk5amVvbTRoVUk3ZjVsUm14VXhySkZLTVpoQk00V0NIZWRUSjQwOHhHQk5KVFlPN2tHYzNrdUJZTUFraURSUExiTThSLWsxVnFIVWJwN2h6Qm",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPek50VjUxZ0pWTHZzdjcydXBJUlFyUTk5amVvbTRoVUk3ZjVsUm14VXhySkZLTVpoQk00V0NIZWRUSjQwOHhHQk5KVFlPN2tHYzNrdUJZTUFraURSUExiTThSLWsxVnFIVWJwN2h6QmFiUmRpa3JhOEs2V1l6SVNxaEVlX3pGSzRhd2NZT2loODM0dDBWc3ZwSTVnUFJIN3gyQWxlX0FtcEZJUTU1b053aDR0ME1saURQa0NRMmpYa3NGbmVJb2lfd3NZREtoN1FzZGFnSlFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-05-04-001",
     "date": "2026-05-04",
     "companies": [
@@ -37,6 +98,287 @@
       {
         "name": "essential",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQUR1R1NPNmUwd0s2VVFMcUlvUWJCbnRUT0xUNjZodWJUSTgyWWxhZ0NIQWF3SkpxTVpnM3JVdDBRS1hLbWdCOWUxQ2Z4enN3WDVTcTgtdE96MTAzVjV6d2c0XzU2SXhoQUdITUx1aHJOU0w5NHVDaFFneE5WenpwcWtJUkhpRlpURG9najVzV1p5SnJmNlYyMmlMdUE1WWpnbzZLaW5VeXZFR2VjZ29BRFZNczBHRERs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-05-04-003",
+    "date": "2026-05-04",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products Q2 2026 Earnings Preview — May 6, Street Expects $0.37 EPS - AlphaStreet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa29lVGloRkhGbzRPWGY1SXBveDM4RjFzQVo5bDFCaW9ZUk8tQkl0WS1yTThrRWVJUUVJdGZnZUp0V2lpY2w2NVZZdmZLVVQ5RkpCalVqVDZFa1Y3WURYTTFUWFk1azZpN25UQVU3SV",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa29lVGloRkhGbzRPWGY1SXBveDM4RjFzQVo5bDFCaW9ZUk8tQkl0WS1yTThrRWVJUUVJdGZnZUp0V2lpY2w2NVZZdmZLVVQ5RkpCalVqVDZFa1Y3WURYTTFUWFk1azZpN25UQVU3SVRfX3JUUk1UQ1lQaHg5RTl3Z1JTakFZOHE5Wnd4aXU4TVBaelNUN05sU0E1VHFuRHpEM2JGNEhGLXpObmPSAasBQVVfeXFMUGtvZVRpaEZIRm80T1hmNUlwb3gzOEYxc0FaOWwxQmlvWVJPLUJJdFktck04a0VlSVFFSXRmZ2VKdFdpaWNsNjVWWXZmS1VUOUZKQmpValQ2RWtWN1lEWE0xVFhZNWs2aTduVEFVN0lUX19yVFJNVENZUGh4OUU5d2dSU2pBWThxOVp3eGl1OE1QWnpTVDdObFNBNVRxbkR6RDNiRjRIRi16Tm5j?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-05-04-004",
+    "date": "2026-05-04",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Energy Recovery Inc expected to post a loss of 9 cents a share - Earnings Preview - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbU5GWHZmbkZ1VnVXcWt0WDNHOERoSkZ3am1ObWxFLWF3VW56UWtqb3NiWFlhdHFZM2hLaHRSOVY2UXhkS2ltLXd1ekNiekxtbnZ4TkRhXzN3UDV5WDJZTUp3S1lKS25tYVBsd1BmOG",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbU5GWHZmbkZ1VnVXcWt0WDNHOERoSkZ3am1ObWxFLWF3VW56UWtqb3NiWFlhdHFZM2hLaHRSOVY2UXhkS2ltLXd1ekNiekxtbnZ4TkRhXzN3UDV5WDJZTUp3S1lKS25tYVBsd1BmOGcxSDY1QTIzNTVqQVNYRlFTRWhLbFgxT3JxQVhOeEI4QlFPY0NTakhrdEctTXB4Z0p5Ulk5R3FFUlM0c2hUemhZRkVBTjlwZTNvRlA2eExGcW82R3d6OGMtdEQ1TkdEUUZZd005STczNl9iZlJ2eFNWLVh4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-005",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Power Grid Generator Claims Evaluated: The Ultimate OFF-GRID Energy Generator System for Electricity Savings At-Home - The Manila Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNb0UxS090a3c3T0ZUenFCWUh3TThPX3lIREstWEU0Wl9IakFYbzNBcy1LTzJ5UXNDTzVYbkJoRFJsQXFUQ3RMaXhIMUNOVHVyY3RfUTJIdHFtbzBhVTJVOUVPMWcxZ3duWW51b25NSl",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNb0UxS090a3c3T0ZUenFCWUh3TThPX3lIREstWEU0Wl9IakFYbzNBcy1LTzJ5UXNDTzVYbkJoRFJsQXFUQ3RMaXhIMUNOVHVyY3RfUTJIdHFtbzBhVTJVOUVPMWcxZ3duWW51b25NSldPZTNNalVuQ0hBdUEzb0RVaTY4bjJyQnYtNGF5V0otYUtrU0tucnl5S2ZFdDMxMThWNmtnTnBSUkFmczFPQjRxZko3bFNlSjlOR0VhN19wcFl2cjA4SmFyWkwtemtoTnM3aEFVdUVEWC1sUmdZT2F5UVNxY3R2QzVQZlNFM0hZTjlkWWh2V0R4Q2hrT1NMUXFtVHdPejBFcENsc0piMFhKaHZ6aUZEMGI00gGeAkFVX3lxTFBOby1PTU1pSC1falpLbm5kanhlXzlhRjJDSnRfQU5Nd0FpOGNYejlRUHZYdEtvN1VKNFNRS2YwTlR1TVZwRUpmemJjTEFFM2tpbDI4ZmtDTmNWaGI3eUNmTFhyUEU0d2ZHQXVQUENSVGs2ZllkcU9UM3NfQWw0bS0zU2JsSFJEZjRKUnZGOTZENWUzUkZkSVNuTmJpbWFGUzhsQUg1b1p3Q1lKNFB1YmYwR1ZsdmV2bF9JejNnQTNPcms4RlUyMy01dHBiNnlkMDhRbW1iX09RdTFQTTlaVzQ1YWh3WGVWT2RCRk1jYjcxNkZTUUo2dnhBcHNic3ZZV2thanVsbzBvSzJiN00zSzRLMWktdjZMWUlHc2d6TUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-05-04-006",
+    "date": "2026-05-04",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Veolia Environnement: Information Relating to the Total Number of Voting Rights Forming the Share Capital - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1dMZldzOVpkWFJJV0lzT1pVZGlVTDRqNGZmWnlZTVdLMjk5Wk9mRnpUWTVhTThLY0M3T0YySmJ6dWhrU0luWWtSTUNYdUN0WHFzM3pCTEFLNDRfQ05QYkVONnNrcnRyQm1fTFB2LV",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1dMZldzOVpkWFJJV0lzT1pVZGlVTDRqNGZmWnlZTVdLMjk5Wk9mRnpUWTVhTThLY0M3T0YySmJ6dWhrU0luWWtSTUNYdUN0WHFzM3pCTEFLNDRfQ05QYkVONnNrcnRyQm1fTFB2LVJHZDlkMmlKME05eF9kSXJPMVExRlEydUxTaDFnenA4Z1lZVkhXN2NYNk1TWjg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-05-04-007",
+    "date": "2026-05-04",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A.O. Smith Corp. stock underperforms Monday when compared to competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNSGZZRy1FNFQ2MWh1bnFnNkl3TUZXem9YS3Y5QXBDdzRPZVp1SURhSlNjbldxTThiYTEySU15eXYwQXpKZllLQ3l5Z29NQ1NuZHd0R1RCUGRtdjRHT3gwZGNTRHZSdm1DYTBCbDFEd3",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSGZZRy1FNFQ2MWh1bnFnNkl3TUZXem9YS3Y5QXBDdzRPZVp1SURhSlNjbldxTThiYTEySU15eXYwQXpKZllLQ3l5Z29NQ1NuZHd0R1RCUGRtdjRHT3gwZGNTRHZSdm1DYTBCbDFEd3RWNW9CWkpnb2hETXppOUJTbi1oVERoU0VDUEF6RVp2LWNvVlNQQWpVcHJrQkFkOXZleFFUTko4bWtJN0hFZWc0UjhIMVhKbzJhSXp1U1JpZ1JhZGFwem5VRktR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "watts-2026-05-04-008",
+    "date": "2026-05-04",
+    "companies": [
+      "watts"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Watts Water Technologies, Inc. Declares Quarterly Dividend",
+    "summary": "",
+    "sources": [
+      {
+        "name": "watts",
+        "url": "https://investors.wattswater.com/press-releases/press-release-details/2026/Watts-Water-Technologies-Inc--Declares-Quarterly-Dividend-f8aef8a34/default.aspx",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-009",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois American Water Marks Drinking Water Week with Focus on Safe, Reliable Water - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdGt3NTUxR2RfZm8yYlduY1E0SEhleTJQcWZNdVZCelBrYXlVeUFaM19SMGZyLWdxeDN2YVRiemlkSlUwSlR3amh3UE5JTjZoOG1FR19sN1hTd09SNlloWWIxQUFydUZHam5VQVdCcG",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdGt3NTUxR2RfZm8yYlduY1E0SEhleTJQcWZNdVZCelBrYXlVeUFaM19SMGZyLWdxeDN2YVRiemlkSlUwSlR3amh3UE5JTjZoOG1FR19sN1hTd09SNlloWWIxQUFydUZHam5VQVdCcG1RXzJRbFpibnoxWkMxX0tBSVNLOFRmcWx6TXFOb1RDQWNwakV6QWdGNUhHTW1vbFlNZ2xvMEIwSFh6MWxiSDRULVJhbXRKaXVfVmptVHJoekRORW9ZQ2JrUVNiUnozc2dZUk5tdzVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-010",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Iowa water utility replaced 928 lead lines, starts 2M-gallon tank - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOblBNN1ZVbkloSGpBR3ZJM2dlTHlsX2ZvNi1JbzZzc1FKei1UQ0drc1BSVERCZWZLTEV4ZXphVl9TaG1Tems2OXVJd0dPSUJPdkpvdUIwZXRPTmhZZnV4SFRVclZ3Zk1yTDk3Wnh0Vn",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOblBNN1ZVbkloSGpBR3ZJM2dlTHlsX2ZvNi1JbzZzc1FKei1UQ0drc1BSVERCZWZLTEV4ZXphVl9TaG1Tems2OXVJd0dPSUJPdkpvdUIwZXRPTmhZZnV4SFRVclZ3Zk1yTDk3Wnh0VndwWTdLMU5Cd043Ymd4QVFxWk1IakwtNXNHMDBSblA4N1ItaUljNDd2X2RPR09rYnV0bUtXaWNtU3ZaeGlyUm4tOG9EUjdxXzBjZXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-011",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Virginia American Water Employee, Terry Stanley, Named Utility Employee of the Year by the Alexandria Chamber of Commerce - Quantisnow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOX2lOYU1CS1MwRzVQcHg5OWlwYjlGWDdpeXZOcWtBd3ZieXVHLTRUTkJKZExjNld2Y2FGbFliNWJwSG11TUhYWTNfM3dyTUNiNnlrTWNYd0pCNUhFMUJuNTRCUUZMZV9JdjlROXZDam",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX2lOYU1CS1MwRzVQcHg5OWlwYjlGWDdpeXZOcWtBd3ZieXVHLTRUTkJKZExjNld2Y2FGbFliNWJwSG11TUhYWTNfM3dyTUNiNnlrTWNYd0pCNUhFMUJuNTRCUUZMZV9JdjlROXZDamc2SGVnMk9Td1pTR0gwQUNnNmJtSHQzYm9iemNiN2xwVkx0NzVSTFJ3Q2h3TTlFSUcwOHpMQWFaMFBnY1RjVmJ2bQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-012",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Iowa American Water Marks Drinking Water Week with Focus on Safe, Reliable Water - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnlxNmY3eHRfeVR2NFk2RWdienFXUE14T0xUUm1VRVViTGgtN1J5X0d6bnNIOE53RTY3Qi0xSWE4ZGFURlJWOFlFWGNGeFR6OG9OQlNhUEphcjFUTy1jVnZjWmRRTzZtZ1llaDVVTV",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnlxNmY3eHRfeVR2NFk2RWdienFXUE14T0xUUm1VRVViTGgtN1J5X0d6bnNIOE53RTY3Qi0xSWE4ZGFURlJWOFlFWGNGeFR6OG9OQlNhUEphcjFUTy1jVnZjWmRRTzZtZ1llaDVVTVNMb3lLQTVVREVCNkthYWludzdhQlZ6ZVNFUUVZaEpfQlYwRmFkb0dqRm9oeEtkWUtFUmlkZU1FdXNBZlFPWU80Z3VxaVJQMTZwYVl3LV9QSHVQbUVvZG1SQjhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-013",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois water utility spent $280M in 2025 on systems serving 1.3M - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOanRmRDZhZ1FCenNDXzN5S1BocmhWeDNtaU4zenhuVjJVN0lUQjVuN21KZU1xdkRYNDVVdjNiQXJjVk9xcndNcW9yZ1RUM2JsMV9LbVhOT3dfcmE4d1NaOVkzTnNmck1qazNHWGozRn",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOanRmRDZhZ1FCenNDXzN5S1BocmhWeDNtaU4zenhuVjJVN0lUQjVuN21KZU1xdkRYNDVVdjNiQXJjVk9xcndNcW9yZ1RUM2JsMV9LbVhOT3dfcmE4d1NaOVkzTnNmck1qazNHWGozRnd4a1MtX3EzemxJRS1WTmo4OGpZMmxvY2J5SmdmZHVuS0FhNkFlT1NrdC1JLVZxeXM1clFlbzRzbDIyNjl6ZFpfV0swa3JpeDR1S0Jxa0FyOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-014",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Missouri water utility cites $1.1B in upgrades serving 1.7M people - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONnAzSXlPOERpNWNRdmxsNUFoTVBmVE1TbGNuSVJkRzk1XzRaa2xxLXBOLVdOSmpacFRvaFY5TU1FSWFDYXNNMkc2UDBiUWloUGxUbHdSYUJETEJRYllBdFNHZVJiaXNJdVVhRkpWYT",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnAzSXlPOERpNWNRdmxsNUFoTVBmVE1TbGNuSVJkRzk1XzRaa2xxLXBOLVdOSmpacFRvaFY5TU1FSWFDYXNNMkc2UDBiUWloUGxUbHdSYUJETEJRYllBdFNHZVJiaXNJdVVhRkpWYTNneXZ3YWJxdVE2dEJVM1BIakxqa0dqNDJ1dkpxZDd2dnUtbUpvdWVmcW1TRGljRk9yZkxzSWp2MHlqUnVJMi1OSGUzUUtNdFVaaDd3eUZBYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-015",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Alexandria names water utility supervisor employee of the year - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjRiZWx5STFSdUFSNDlOX3RZOC01Z0VDYkJQNWlOVm5Ud1htMURidEVDUjBibkMwOVJwdVlnSm9rYXpaNmZNYjBFdUpOa0NCWmdPVGpwUTJKMnFBTjdOZjIzVnFZVktzZjJ1RFN6YU",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjRiZWx5STFSdUFSNDlOX3RZOC01Z0VDYkJQNWlOVm5Ud1htMURidEVDUjBibkMwOVJwdVlnSm9rYXpaNmZNYjBFdUpOa0NCWmdPVGpwUTJKMnFBTjdOZjIzVnFZVktzZjJ1RFN6YU9TaTkycnpFa042QU1kYldpbThFbjFSWmVEMlJ1MERVTUN3S1AyclVHby1jOG1ZRW5FRi1PUGVoUXoxa19HRmd6SVdqNXg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-016",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois American Water Celebrates Drinking Water Week - Intellectia AI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlpjaUZLd2FzTVA1d0FNNDRrTElIMTdNZXd3WXgyaUt6TGE3c2JzMFYyS3RKX0NaU00xSjVKdU12YW5BdnR3aTZmOUlQMUxJY3JCQlhZem9OZDctRXRlcUl4VUVmLVd2NUR2YmI3OD",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlpjaUZLd2FzTVA1d0FNNDRrTElIMTdNZXd3WXgyaUt6TGE3c2JzMFYyS3RKX0NaU00xSjVKdU12YW5BdnR3aTZmOUlQMUxJY3JCQlhZem9OZDctRXRlcUl4VUVmLVd2NUR2YmI3ODB1eUVFSUJVYVFxZzM1ZnNrTUJDSjd3bGN1eFZfZ1ZSbXN3UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-017",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Iowa American Water Celebrates Drinking Water Week - Intellectia AI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPYU8tSzUtS19rX0VaSGloVUpNQll6RjB0NTNBVU9DQUluWXNnMHE1Y1BXN25lVkJOVkttdlZjRFJsazRSblFNRHVHZ3FhaURJbWJXM19NSU1BUVlrM2dtT0JVaWJLMHVjYjVFRGtkcF",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYU8tSzUtS19rX0VaSGloVUpNQll6RjB0NTNBVU9DQUluWXNnMHE1Y1BXN25lVkJOVkttdlZjRFJsazRSblFNRHVHZ3FhaURJbWJXM19NSU1BUVlrM2dtT0JVaWJLMHVjYjVFRGtkcFkyVlEwR3d6YmtDNm05LTliTnJaQkRQUC1nWEpPcw?oc=5",
         "type": "rss"
       }
     ]
@@ -858,6 +1200,46 @@
     ]
   },
   {
+    "id": "essential-2026-05-01-030",
+    "date": "2026-05-01",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities Shareholders Back Board, Pay and Auditor - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMHlGSTkyd2Q0VjdoUmxHbUZORHNXSnBlN3dGX0Z0LTVya0JMYWllczVpMHVHT20tYkZiWnROcFNBNW82b0JCQ2hLU3U5TGcteUF6bGZwMFRiT0t2MVV4OU40WVZEbWFjdl9JMVpraE",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMHlGSTkyd2Q0VjdoUmxHbUZORHNXSnBlN3dGX0Z0LTVya0JMYWllczVpMHVHT20tYkZiWnROcFNBNW82b0JCQ2hLU3U5TGcteUF6bGZwMFRiT0t2MVV4OU40WVZEbWFjdl9JMVpraEU3aVNtSktvSkNSWlYydVp4NHVQVWFQb1JJRFc0LWJXUk9hd0Facmt2Unl4enBOTExDVHVHMzMzUXo5WGM3QlNnWjNmb00zTmFvQkZlRTY4UlFIYzZZZjBuZDktdFJ4bTJxWnl1eGdQamNieWFK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-031",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pennsylvania American Water Highlights Local Infrastructure Needs as AWWA issues New Report on U.S. Water Systems - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQS3NXV3RzMFRXQmk2OWFXMWNFdy1LajFzRVBiM0dtWmhWNmgxOGs5bHlvczJ3RDF1MDY2WDcyUHhzeGw4dnpqejlKVGw4LUZxUXJOaEk2Vm85SGFmZDF2eHhNRFFZaUNYTHVkM1hJZT",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQS3NXV3RzMFRXQmk2OWFXMWNFdy1LajFzRVBiM0dtWmhWNmgxOGs5bHlvczJ3RDF1MDY2WDcyUHhzeGw4dnpqejlKVGw4LUZxUXJOaEk2Vm85SGFmZDF2eHhNRFFZaUNYTHVkM1hJZTIyWGVvSEhJMHI0b2VIeEZPaktRVTcwTUR6T3V5aHZFR2dHMEZZOHAyN2M0cWVKaTlGMTRxc3Y5MmJMaTcxOTZKaFRNNXRhYlMzemhCRkV6OXVrVVRUYm9aMVJkSkt5V002aEZxUmpLdEwwRlZXWkhmaGtCeDN1S3JZckNlcnFseWhoa1hvYlJVcmx2X0YtX2tOSVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ao_smith-2026-04-30-001",
     "date": "2026-04-30",
     "companies": [
@@ -1650,6 +2032,24 @@
       {
         "name": "ao_smith",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWdiY1AtTGR2SExnTXQtcTVsa3NNRFNlRG14SzRRVUlZeEZNR0pEbmlrM1Y0QlpCcEtlUHRNd19IRjY0V3hoVUhPYnlOckxnZE1TYVR5eFZyZmJZS1ZPWC1HUGcyR2t5elBBRGNHWDBHU0JuQlUwNUNmcXIwTUpzakxRY2FfcVBiQnR2aExtdW96Z0JLdmlxVXljakRWSHBVQ2Q2ZVJueWRZdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-04-30-042",
+    "date": "2026-04-30",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "VVD.DE Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (FRA:VVD) - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE85RWk2RjJVckdQaFdFN3JPUUJJb0U0QUhyN3A1Y2VYRXNZZ240UjdTMm9XNEluaTF5Z19LZi1lV2pYLUFmb1BVOGkyMTVTMzdSQkJkRVktR1huSWgwcXhQdWM3dzdRVlE4a0o5VlFfZm",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85RWk2RjJVckdQaFdFN3JPUUJJb0U0QUhyN3A1Y2VYRXNZZ240UjdTMm9XNEluaTF5Z19LZi1lV2pYLUFmb1BVOGkyMTVTMzdSQkJkRVktR1huSWgwcXhQdWM3dzdRVlE4a0o5VlFfZmk?oc=5",
         "type": "rss"
       }
     ]

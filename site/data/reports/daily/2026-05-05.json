@@ -1,0 +1,162 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T10:09:05.777094Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-05-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What To Expect From Mueller Water Products’s (MWA) Q1 Earnings - Yahoo Finance UK",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0lrWDl2eUFXeWZtbS1YZjNJaW9Tc3lIR0tiRk9PNWdRbWR4VFFnaFRmSGNjVE9rWWxBUGxjb3FNeTYyT3drSzZnUThfcG5SVTRWbW1xNnByMm1HRkpJQlNyTXUzd1ZrS25xcUxjQ2JQQWJGTFhlOElMeXF2cGU0X21uMmVuWExTTWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "energy_recovery-2026-05-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Energy Recovery (ERII) Q1 Earnings Report Preview: What To Look For - TradingView",
+      "companies": [
+        "energy_recovery"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc3B6X1owSkZMREtNNVE2dUdoUDN0UVpzc0lOWW1za2hRMEFERHYwSFB4QVE1U0U1Z0tVSWx5aFppUFZhcXRaV2lmZG9sSDZfLTVJTWJ5a3BPQkE1N0hSVF9jcFZUbUE3N3ljNG9Ya0YyTUw5SE9tUzUtbVVLVjZValBxeW9QeWEtQTB2bkRjQzB1aHFHZmQ3OElWbXZPdEo3RVZ0M1JvbDJjRm82WnppNHNqc3ltWlRNQTZZZlZSYXU3ZWM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_water-2026-05-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Danske Bank A S Purchases 17,200 Shares of American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPek50VjUxZ0pWTHZzdjcydXBJUlFyUTk5amVvbTRoVUk3ZjVsUm14VXhySkZLTVpoQk00V0NIZWRUSjQwOHhHQk5KVFlPN2tHYzNrdUJZTUFraURSUExiTThSLWsxVnFIVWJwN2h6QmFiUmRpa3JhOEs2V1l6SVNxaEVlX3pGSzRhd2NZT2loODM0dDBWc3ZwSTVnUFJIN3gyQWxlX0FtcEZJUTU1b053aDR0ME1saURQa0NRMmpYa3NGbmVJb2lfd3NZREtoN1FzZGFnSlFR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 1
+      },
+      {
+        "id": "energy_recovery",
+        "count": 1
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 257,
+    "dup_title": 159,
+    "too_old": 73,
+    "gate1_blocked": 2,
+    "gate2_blocked": 2,
+    "passed": 21,
+    "pass_rate": "21.4%",
+    "gate2_block_rate": "2.0%",
+    "gate2_samples": [
+      "Isack Hadjar: Struggles with Energy Recovery - theScore",
+      "Veolia Environnement (OTCMKTS:VEOEY) Hits New 1-Year High - What's Next? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為穆勒、ERII、美國水務相關動態：「What To Expect From Mueller Water Products’s (MWA) Q1 Ear...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "What To Expect From Mueller Water Products’s (MWA) Q1 Earnings - Yahoo Financ...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Energy Recovery (ERII) Q1 Earnings Report Preview: What To Look For - Trading...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

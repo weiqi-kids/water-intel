@@ -1,0 +1,13 @@
+{
+  "total_raw": 257,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 2,
+  "gate2_fail": 2,
+  "passed": 21,
+  "gate2_samples": [
+    "Isack Hadjar: Struggles with Energy Recovery - theScore",
+    "Veolia Environnement (OTCMKTS:VEOEY) Hits New 1-Year High - What's Next? - MarketBeat"
+  ]
+}
