@@ -137,6 +137,17 @@ open http://localhost:6230
 
 ---
 
+
+## 前端同步規則
+
+`site/index.html` 所有 repo 共用同一份程式碼，由 `weiqi-kids/intel-template` 統一管理。
+
+**禁止直接修改本 repo 的 index.html。** 修改流程：
+1. 在 `memory-intel` 開發和測試
+2. 複製到 `intel-template/site/index.html` 並 push
+3. `sync-downstream.yml` 會自動向本 repo 建 PR
+4. Merge PR 完成同步
+
 ## 每日例行（進入此 repo 時自動提醒）
 
 當你讀取此 CLAUDE.md 時，主動執行以下檢查並提醒用戶：
