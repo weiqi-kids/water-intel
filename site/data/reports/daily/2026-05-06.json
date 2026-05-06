@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T08:10:32.126512Z",
+  "generated_at": "2026-05-06T10:25:39.524665Z",
   "top_events": [
     {
       "rank": 1,
@@ -130,17 +130,17 @@
   "anomalies": [],
   "topic_trends": {
     "earnings": {
-      "today": 7,
+      "today": 11,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.07,
+      "sentiment_today": 0.09,
       "sentiment_7d_avg": null
     },
     "industry_general": {
-      "today": 3,
+      "today": 5,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -150,13 +150,13 @@
       "sentiment_7d_avg": null
     },
     "guidance": {
-      "today": 1,
+      "today": 3,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.5,
+      "sentiment_today": 0.33,
       "sentiment_7d_avg": null
     },
     "regulation": {
@@ -170,6 +170,16 @@
       "sentiment_7d_avg": null
     },
     "smart_water": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
       "today": 1,
       "7d_avg": 0,
       "30d_avg": 0,
@@ -182,61 +192,66 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 7,
+    "total_events": 13,
     "sentiment_distribution": {
-      "positive": 1,
-      "neutral": 6,
+      "positive": 2,
+      "neutral": 11,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "veolia",
-        "count": 4
+        "count": 6
       },
       {
         "id": "mueller",
-        "count": 3
+        "count": 4
+      },
+      {
+        "id": "energy_recovery",
+        "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "earnings",
-        "count": 7
+        "count": 11
       },
       {
         "id": "industry_general",
-        "count": 3
+        "count": 5
       },
       {
         "id": "guidance",
-        "count": 1
-      },
-      {
-        "id": "regulation",
-        "count": 1
+        "count": 3
       },
       {
         "id": "smart_water",
+        "count": 2
+      },
+      {
+        "id": "regulation",
         "count": 1
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 256,
-    "dup_title": 149,
-    "too_old": 73,
-    "gate1_blocked": 4,
-    "gate2_blocked": 1,
-    "passed": 29,
-    "pass_rate": "27.1%",
-    "gate2_block_rate": "0.9%",
+    "total_raw": 512,
+    "dup_title": 315,
+    "too_old": 149,
+    "gate1_blocked": 7,
+    "gate2_blocked": 2,
+    "passed": 39,
+    "pass_rate": "19.8%",
+    "gate2_block_rate": "1.0%",
     "gate2_samples": [
+      "Veolia Environnement (OTCMKTS:VEOEY) Hits New 1-Year High - What's Next? - MarketBeat",
       "Veolia Environnement (OTCMKTS:VEOEY) Hits New 1-Year High - What's Next? - MarketBeat"
     ],
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 7 則事件，焦點為威立雅、穆勒相關動態：「Mueller Water Products (MWA) Reports Q2 Earnings: What Ke...」。整體情緒偏正面，市場信心回溫。",
+    "summary": "今日共 13 則事件，焦點為威立雅、穆勒、ERII相關動態：「Mueller Water Products (MWA) Reports Q2 Earnings: What Ke...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "Mueller Water Products (MWA) Reports Q2 Earnings: What Key Metrics Have to Sa...（財報、水資源產業通用）",
