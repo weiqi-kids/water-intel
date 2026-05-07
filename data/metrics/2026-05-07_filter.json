@@ -1,0 +1,14 @@
+{
+  "total_raw": 255,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 62,
+  "gate1_fail": 4,
+  "gate2_fail": 3,
+  "passed": 52,
+  "gate2_samples": [
+    "Isack Hadjar: Struggles with Energy Recovery - theScore",
+    "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Gains? - Y",
+    "Veolia Environnement (OTCMKTS:VEOEY) Hits New 1-Year High - What's Next? - MarketBeat"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2026-05-07",
+  "total_events": 12,
+  "by_company": {
+    "mueller": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "energy_recovery": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "essential": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
