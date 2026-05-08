@@ -1,0 +1,16 @@
+{
+  "total_raw": 259,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 1,
+  "gate2_fail": 7,
+  "passed": 35,
+  "gate2_samples": [
+    "Energy Recovery (ERII) Quarterly Loss Of US$12.3 Million Tests Bullish Growth Narratives - simplywal",
+    "Why Energy Recovery (ERII) Stock Is Nosediving - FinancialContent",
+    "Energy Recovery (NASDAQ:ERII) Trading Down 13% - What's Next? - MarketBeat",
+    "Veolia Environnement: Information Relating to the Total Number of Voting Rights Forming the Share Ca",
+    "Veolia Environnement (OTCMKTS:VEOEY) Reaches New 12-Month High - What's Next? - MarketBeat"
+  ]
+}
