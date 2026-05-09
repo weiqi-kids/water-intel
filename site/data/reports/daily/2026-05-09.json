@@ -1,0 +1,148 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:26:24.919913Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Will China-Driven Guidance Cut and Buyback History Change A. O. Smith's (AOS) Narrative - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVlp4bElWRFNpZU1RSmo4N2dka0dxOUh3QzdWTFpodU5reXRyVDNjeWFLd2U1LTBsZ21LUkVHQjZobmRMbEY3X2V4TmNPS0syaVRObVFVWkF3WnZpbzE5VnNEMmlrdm1rWm4zU0ptOFR6ZmlFZ0dWdnFhM3Y0eVc2b3htSlVoSHNLTXRaeVY1OVFZeGdENHdTTjNXNEoyVG5UOW9Eb3Nrd3EzN3JpZnhoRTVaNXQzLWpLVGpoT0ljRV9hek5jM1pIZdIBzgFBVV95cUxQUXpVWVN1VzlSREJtOHExYW0yYWgtOWh0NXlYZnJOdS0tX05aZVVVTjRZNzUxMTh3cUdxb0JkR0g0azczNTRQWVJuakJZWFIwVDBxbDIxNHM0NVpRV1JrSVQ1UGVHSVhJSHNuT19oWjJGb25qRjZOSVVoMm96c1lMN09VOGl5N0cyRE1yZjV2bmU0OFBSZVZHOFNHanpZc0pBallTbG8yRnlPVG5Fa3VCSTNLX1J0cmhpV2JfZnNpeG00b0ktQkJBZDR5QjNaZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-05-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Should American Water’s Q1 Earnings, Dividend Hike and Service Investments Require Action From AWK Investors? - simplywall.st",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM25nVERCakc2bFY4clV4TWYtT2JqTHA1WldTRjhfOFRRWDZhb2VRSjNlZnFRd2s5TDRFcWNKdHhDOXllR0Jwd2dSRG1LN0tVMWNFV1AyUjdKMFFjLWd0ZFNkUnJ0b2xIbURmUTlmd1lpcTRJNE9mQ2FVSzVNT3cwalBGOGZ0Y2Nuak5uS1dvbGY5cndQMFBsYnJBcHRzMS1sMFd0YTRJeWFTX1diSm5LR0FwOHp4MDBvMXQteEMzVHV2S3doTXBiX1RtbWh3emtxajU00gHYAUFVX3lxTE9CRk5ueFJVcGdvSmdSV0p0ZG4wdWxXN3hyM2NZQkpUUGw2VVJsV2EzS0dHYVpRNzZNOW1zMTR4Q21rbzlXV3NoV09IcXpmaHgtTkJmcU1vb2tnMGNaYkpRajRkNENWaHFWNWFUbVYxdGluRkZKS1VBR3ZlM0RvNDNvTFZ2cFFmRlhGXzRmTm94STc1VEpSd1JYeXZZS2c0YVBFc0hpOTlFMmNqbWlQd3VNMDFWT09wTHZ2endPVVVVMEQyWVpZa1RnR1hKcjJpcE5ybW9PbUtyWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 258,
+    "dup_title": 158,
+    "too_old": 63,
+    "gate1_blocked": 2,
+    "gate2_blocked": 6,
+    "passed": 29,
+    "pass_rate": "29.0%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "Energy Recovery to Participate in Upcoming Investor Conference - Yahoo Finance",
+      "Why Energy Recovery (ERII) Stock Is Nosediving - FinancialContent",
+      "Energy Recovery (NASDAQ:ERII) Trading Down 13% - What's Next? - MarketBeat",
+      "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Gains? - Y",
+      "Veolia Environnement (OTCMKTS:VEOEY) Reaches New 12-Month High - What's Next? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為美國水務相關動態：「Will China-Driven Guidance Cut and Buyback History Change...」。主要關注主題為財報、展望、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Will China-Driven Guidance Cut and Buyback History Change A. O. Smith's (AOS)...（財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "Should American Water’s Q1 Earnings, Dividend Hike and Service Investments Re...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
