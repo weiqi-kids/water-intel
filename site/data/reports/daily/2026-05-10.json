@@ -1,0 +1,111 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T09:44:55.236865Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_water-2026-05-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bryn Mawr Trust Advisors LLC Raises Stock Position in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNEdKcDJIdTJoc1pESmRfWS1QXzdmNllDYXZNNUMxMTNpVC1iR1p4WGRsTlo4UlphWkJPaFRxVHBFRExtcDFkdjZsemlPNjktX2NUaGx4bUxJSHVRMlhnaHpOX3NfNFBvRzB1NTUtTlo3RkhoQ2M1aGZvam04eHhKbHcyM2tLOUNTaDk3cWN2SjkxVnBOeFhrLXhiRG40NEIwNXpoSUtlWmFIbDBwVnpZY0c1TXVVeXdGLUFyeVp3T1p6Q0hPYURTdUxpYzBydTNBVXhFWHFubjNtcXlwUDRrUWJLUFdTUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 258,
+    "dup_title": 163,
+    "too_old": 64,
+    "gate1_blocked": 1,
+    "gate2_blocked": 8,
+    "passed": 22,
+    "pass_rate": "23.2%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Why Energy Recovery (ERII) Stock Is Nosediving - FinancialContent",
+      "Energy Recovery (NASDAQ:ERII) Trading Down 13% - What's Next? - MarketBeat",
+      "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Gains? - Y",
+      "Veolia Environnement (OTCMKTS:VEOEY) Reaches New 12-Month High - What's Next? - MarketBeat",
+      "Technical Analysis of Veolia Environnement [physical] Futures (EUREX:VVDPG2027) - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為美國水務相關動態：「Bryn Mawr Trust Advisors LLC Raises Stock Position in Ame...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Bryn Mawr Trust Advisors LLC Raises Stock Position in American Water Works Co...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "美國水務為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

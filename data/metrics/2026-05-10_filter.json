@@ -1,0 +1,16 @@
+{
+  "total_raw": 258,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 1,
+  "gate2_fail": 8,
+  "passed": 22,
+  "gate2_samples": [
+    "Why Energy Recovery (ERII) Stock Is Nosediving - FinancialContent",
+    "Energy Recovery (NASDAQ:ERII) Trading Down 13% - What's Next? - MarketBeat",
+    "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Gains? - Y",
+    "Veolia Environnement (OTCMKTS:VEOEY) Reaches New 12-Month High - What's Next? - MarketBeat",
+    "Technical Analysis of Veolia Environnement [physical] Futures (EUREX:VVDPG2027) - TradingView"
+  ]
+}
