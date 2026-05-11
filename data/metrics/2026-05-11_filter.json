@@ -1,0 +1,16 @@
+{
+  "total_raw": 260,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 2,
+  "gate2_fail": 9,
+  "passed": 26,
+  "gate2_samples": [
+    "Energy Recovery to Participate in Upcoming Investor Conference - ChartMill",
+    "Energy Recovery (NASDAQ:ERII) Trading Down 13% - What's Next? - MarketBeat",
+    "Veolia Environnement: - marketscreener.com",
+    "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Gains? - Y",
+    "Veolia Environnement (OTCMKTS:VEOEY) Reaches New 12-Month High - What's Next? - MarketBeat"
+  ]
+}

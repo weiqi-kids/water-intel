@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-11",
+  "total_events": 7,
+  "by_company": {
+    "energy_recovery": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "pentair": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "ao_smith": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "essential": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "american_water": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "smart_water": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
