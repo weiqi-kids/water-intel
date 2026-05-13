@@ -1,0 +1,16 @@
+{
+  "total_raw": 260,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 57,
+  "gate1_fail": 3,
+  "gate2_fail": 12,
+  "passed": 26,
+  "gate2_samples": [
+    "Energy Recovery Price Target Cut to $11.00/Share From $13.00 by Freedom Broker - Moomoo",
+    "Energy Recovery to Participate in Upcoming Investor Conference - Yahoo Finance",
+    "Freedom Broker downgrades Energy Recovery (ERII) - MSN",
+    "Energy Recovery to Participate in Upcoming Investor Conference - ChartMill",
+    "Energy Recovery (NASDAQ:ERII) Trading Down 13% - What's Next? - MarketBeat"
+  ]
+}

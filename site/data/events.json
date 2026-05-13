@@ -1,5 +1,68 @@
 [
   {
+    "id": "kurita-2026-05-13-001",
+    "date": "2026-05-13",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries Cuts FY Net View to Y15.90B - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQSTRBcmt3Q1lobkpSR3Z1OThJSjMwSWZ5bmVNUWdhelNLeE0wX0s1Z2FQcm9RTExTQU9EYkVfQTVJbWpDU0o1ZlIyTVBWR1IzZUlVODRNNTJqUjQ0eXNXLVFJektkZl93cmVRVEYtdz",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSTRBcmt3Q1lobkpSR3Z1OThJSjMwSWZ5bmVNUWdhelNLeE0wX0s1Z2FQcm9RTExTQU9EYkVfQTVJbWpDU0o1ZlIyTVBWR1IzZUlVODRNNTJqUjQ0eXNXLVFJektkZl93cmVRVEYtdzF2ekY4WmhlVm9HcDNCMGVOSzRBQVktSnhXeEZSbjh5a0NLVGVuOTFnYg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-05-13-002",
+    "date": "2026-05-13",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works stock (US0304201033): Plans $50M restorations in Pennsylvania for 2026 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWXVZNTlIb29iX3h4UTZnR2lNOU1UcmgtUEpGNVFEdlFlOG1zYW5ZcDc5NnZycVh0OGRsZ1RxelBjdUg1cmplanZWWHhCYWNwelBPWnQ4YnZiWWFBSGFha0FOMlE4SmhEbTk2ZEw4M2",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWXVZNTlIb29iX3h4UTZnR2lNOU1UcmgtUEpGNVFEdlFlOG1zYW5ZcDc5NnZycVh0OGRsZ1RxelBjdUg1cmplanZWWHhCYWNwelBPWnQ4YnZiWWFBSGFha0FOMlE4SmhEbTk2ZEw4M2Q1UmVNdDFWYjBPZU1ULUZwSHBHbjgzNy15Z094aC1wRlFGaE1uM1U4d05KMUxnYTAtc24wUlRxaC1veFRtQk5mSV9neExtcEhVZ1Jyd0xmem9Ldw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-003",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "smart_water",
+      "earnings",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Abuja Water Supply Challenges Continue Amid ₦155bn Infrastructure Spending - nigeriahousingmarket.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGVYaVo4TnN4Zk5KNDNhbVFNS0Q3NmNta0lUQ29fVnU0Y251b2JQYkFkS2pHLXRNWDdGdTF0cGRXdGdVZzRJS1NhS29vTVVPRzY3cDFjd01ybXRIa3Q5T1pRRE9NUl9WcHlHbDhQbW",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGVYaVo4TnN4Zk5KNDNhbVFNS0Q3NmNta0lUQ29fVnU0Y251b2JQYkFkS2pHLXRNWDdGdTF0cGRXdGdVZzRJS1NhS29vTVVPRzY3cDFjd01ybXRIa3Q5T1pRRE9NUl9WcHlHbDhQbWtfcmlKM1NlV0VkR2VrVWxrREpfdkFYX0ZLQWM5MXl1VVZQLUt1REJJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-05-12-001",
     "date": "2026-05-12",
     "companies": [
@@ -99,6 +162,359 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNkNyVjBrUURtR1pwTkRxTW1GZ1Z5cWppRHBGOGR0TjVjY1lLNWVMNUZyeThXazd2UTMydlhZOUxUUF9tM3JzT2E4UFpQQ1VHSzRFMDQwVGsybGtjYzJYcDBzcE1zcUdRVzVINzQ2ZWFhZnBENGZZSDUyWU9aSzVlLXdCREExOFVVOTVMbm56c0FOdnNxZlV4N2d6SlE3VTJWV19UaTFoLUh5cmdnWTEyOTVFU3huZ2txbFdtZFU4eXJBcWlMWnMwTUZGZzhDZ09qRzg2UTJvUzY0QWoxakVFenp5d2pKV2VTTzQ1WkJtSkNya0tLWE41cURkeG9DSXlUV2pIaHpXaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-05-12-006",
+    "date": "2026-05-12",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products Q2 Earnings Call Highlights - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNdF9tb3BiRXU0S2JiUm40MEM0Z0RDWW90ZjJWYVY4SDU4R29fd2lnTXZ1VUMzdmVqZ1NJMnE3ZjI5VWoyeU8zRThtYk96QjJUejAwT2N2MGprRENyRkJ4X1RaVWhaVzZFMGdPZWZZcz",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdF9tb3BiRXU0S2JiUm40MEM0Z0RDWW90ZjJWYVY4SDU4R29fd2lnTXZ1VUMzdmVqZ1NJMnE3ZjI5VWoyeU8zRThtYk96QjJUejAwT2N2MGprRENyRkJ4X1RaVWhaVzZFMGdPZWZZczVWRURYN3RVSEY2WWRxOTZ0LVFteFRxUHpmYk5KNHFzMmlHUmFRbktaUU5BQkt4VmdxdXh3WVVZRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-05-12-007",
+    "date": "2026-05-12",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Q3 2025 Mueller Water Products Inc Earnings Call Transcript - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE8ydHN4bXJEd1Bia3NVemFyeUNtaHhqNGVXOUNDdzd6TTctTDhtTFJHYklBNUxUM0pJRU5WT01FYkZ3cndfa1dEUXRFYnZCMnVIcEpyeXJfSXYzMEhiaFZtWGlLaXdxRkJuYnFn?oc=5\"",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ydHN4bXJEd1Bia3NVemFyeUNtaHhqNGVXOUNDdzd6TTctTDhtTFJHYklBNUxUM0pJRU5WT01FYkZ3cndfa1dEUXRFYnZCMnVIcEpyeXJfSXYzMEhiaFZtWGlLaXdxRkJuYnFn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-05-12-008",
+    "date": "2026-05-12",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Q2 2026 Mueller Water Products Inc Earnings Call Transcript - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBGeUg0RjZHRE1MMVRmRWhPTHdkSTNfalYyWmI3dWtkNXB4Q2kwVXg4MnE2ekNmX01FWEVhNjFwbFRfRThrSURTYlhFdXBTbkFpc0wtaVNUdDZHNVRFNnBiM2ZGUklBUDI2Q1lz?oc=5\"",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGeUg0RjZHRE1MMVRmRWhPTHdkSTNfalYyWmI3dWtkNXB4Q2kwVXg4MnE2ekNmX01FWEVhNjFwbFRfRThrSURTYlhFdXBTbkFpc0wtaVNUdDZHNVRFNnBiM2ZGUklBUDI2Q1lz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xylem-2026-05-12-009",
+    "date": "2026-05-12",
+    "companies": [
+      "xylem"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xylem Releases 2025 Sustainability Report",
+    "summary": "Highlights Measurable Progress on Global Water Challenges WASHINGTON --(BUSINESS WIRE)--May 12, 2026-- As global water challenges intensify, efficient and resilient water management is more critical t",
+    "sources": [
+      {
+        "name": "xylem",
+        "url": "https://xyleminc.gcs-web.com/news-releases/news-release-details/xylem-releases-2025-sustainability-report",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-05-12-010",
+    "date": "2026-05-12",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A.O. Smith stock hits 52-week low at 58.19 USD - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUU1SRmNqbzhmNnk3QnhoUjVRRmY5NXJoUXZxa1pjYmkteXBNX1pNWEZwdm9wZ2VGYjU1VlM5X0xZazJVV1BDUDZScUJlVDFxWlQtMHN5cXVTYzhhaElxSkxlT0hXb3ZVNDlPS091cG",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUU1SRmNqbzhmNnk3QnhoUjVRRmY5NXJoUXZxa1pjYmkteXBNX1pNWEZwdm9wZ2VGYjU1VlM5X0xZazJVV1BDUDZScUJlVDFxWlQtMHN5cXVTYzhhaElxSkxlT0hXb3ZVNDlPS091cGE5NlFuNXFGQUxvY0ZhRmxVczlpX3lXVmRmVW5CRDh3Sld3ajBVc2x2clg0LWdTbEN1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-05-12-011",
+    "date": "2026-05-12",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries stock (JP3270800000): Latest business updates and market position - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaklTeG9DTE5UY0NzSXY3N3lRNFU2WVVNMlNaZ3RVdGlaZTRnUTNlNWwyZ01YeGZNbUVrak9PVG93cGlpcnMyNjl4R2VFZEZxM1UxQWNuRURkUWVPbFpuS3lzS19PclJBTHJ4RU5kOE",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaklTeG9DTE5UY0NzSXY3N3lRNFU2WVVNMlNaZ3RVdGlaZTRnUTNlNWwyZ01YeGZNbUVrak9PVG93cGlpcnMyNjl4R2VFZEZxM1UxQWNuRURkUWVPbFpuS3lzS19PclJBTHJ4RU5kOEJWd3kxUENvYldndTZ0ejhYeXQ0YmhrSWdjM09mckY4NVlWdGlBUzQ2cE9WT09Gb0F1MEVHTFNXeVJsSzZJRFVOVkhicEFvaDRROTRqM0xwRGx2Q2otd1dfeQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-05-12-012",
+    "date": "2026-05-12",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries Ltd stock (JP3270800000): Latest business updates - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN0RHZG1zVTUtdnVpVl9NN3ZwaWtYVXA3RkVLeVpJWUtHeHctTVVKaE1LSG52cVZmVDMydDBrdHpTZGlLN0FuVlhIaDVnZlR3WDdJcGdMdHhzUmN5NS0ydFBIOG9HcHZkMzR1aGRYRk",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN0RHZG1zVTUtdnVpVl9NN3ZwaWtYVXA3RkVLeVpJWUtHeHctTVVKaE1LSG52cVZmVDMydDBrdHpTZGlLN0FuVlhIaDVnZlR3WDdJcGdMdHhzUmN5NS0ydFBIOG9HcHZkMzR1aGRYRkp5NGZBZ1o1TzBMb0N1Zl9Kem9oekRrT1VLczRKMDc0emJYWHlSZnJsMUpTRk0yb1MyeVNydk1Vcng2aWlvb3lIVVFUZ2ExbXl1bzUyMW1TeUU0WThETWJtVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-05-12-013",
+    "date": "2026-05-12",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "American Water Works Co. stock outperforms competitors on strong trading day - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUmp5M2hhYXVmR3MzVXlhanNDQXoxaTlVUXI5SjdtMnRSV3RWR0dFbmp3RTg1cXFnbng2dVhiOWQ5bWs4UkQ4Tll1Q2hwUVQtX1Vma1pIWFpGVG45aUFGX0FNT2I3MVVhTERBTU9EM3",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUmp5M2hhYXVmR3MzVXlhanNDQXoxaTlVUXI5SjdtMnRSV3RWR0dFbmp3RTg1cXFnbng2dVhiOWQ5bWs4UkQ4Tll1Q2hwUVQtX1Vma1pIWFpGVG45aUFGX0FNT2I3MVVhTERBTU9EM3lndFk5NkkyTkVXVXFLOUpBZDZtdHYtVVhLTXFCeVpLRUtocEZoOERQWklSY3NIRmI1cndUcmV0Nnc3bnhPQkU3aTZMY2NTcVl4cG9nTlhnZ2lOeHR0QzQ4ZTctMkNWaGlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-014",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nearly $9M in Camden charitable grants: inside American Water’s new report - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOYmcxUHNLYWJpMXlaSVBoUWN5UVptRkdtd3lDNHRRc2o3aTlGX3RJcTRNRldBTDN6V2JBTVNyQmVieHFmaVFLVHZsVTdlbVRpUFZjRmtCajZhUmI0NFhGS1ZNM1F5NjZReHpaUjhDQ2",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYmcxUHNLYWJpMXlaSVBoUWN5UVptRkdtd3lDNHRRc2o3aTlGX3RJcTRNRldBTDN6V2JBTVNyQmVieHFmaVFLVHZsVTdlbVRpUFZjRmtCajZhUmI0NFhGS1ZNM1F5NjZReHpaUjhDQ2wyNV9zVERpYkdHS2ZyekpxZVB4bzB3emtJbDBkZGxGQTllYi0yT2xlaWZIMTUzNEtaSUxmQUdGejFUQVZHQmNMVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-015",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California American Water signs regional water agreement through 2050 - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXdLTlJLaFh3a1JPN3NadXZFRnUwdVF3YkFfLXN5QlI3QjBqclBzd080azZPREtReW90aTZLTVM3LWJTUXQwOFNURzJLSkQwOVJhMGhLbjllWjdPb2dCS0hvaWhjRmdTRG8wdHYyN0",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXdLTlJLaFh3a1JPN3NadXZFRnUwdVF3YkFfLXN5QlI3QjBqclBzd080azZPREtReW90aTZLTVM3LWJTUXQwOFNURzJLSkQwOVJhMGhLbjllWjdPb2dCS0hvaWhjRmdTRG8wdHYyN0F0d2tOSWJzWkVYRjFtazIybUY2OW0xaXpMQ25UN21rZFliOWQ5TEJOWkkwZFNoMV9WUF92Q2JlanhVZW1CTUtaUTNiZzlTOGRGX0c2U3poaEdMX3Fi?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-016",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "water_scarcity",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sacramento deal targets drought, river health as California American Water joins - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzBnQnV4LVAyNXQ4NmtSdlRQRlI2ZzRGemhQdkJtWW9tM0xiUTdLemVDaDEwSnhIMmIyY2cxVVl0OWlucG1pMHBLdUc5enFzUXJqLWc1OTRrTVNkSGlrSnVpejNYV21fOUhmU2JxcU",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzBnQnV4LVAyNXQ4NmtSdlRQRlI2ZzRGemhQdkJtWW9tM0xiUTdLemVDaDEwSnhIMmIyY2cxVVl0OWlucG1pMHBLdUc5enFzUXJqLWc1OTRrTVNkSGlrSnVpejNYV21fOUhmU2JxcUlXQXRnTEx2S0NsSkU4V1VOZmxVVnB2QzZSTzZ3VlpGM2V2eXd3RmxVYlUwQWNIOW8tZlhnVHFJcWgwTXZoUmZ3MUhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-017",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pennsylvania American Water Announces 2026 Restoration Work Across the Commonwealth - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObWVCR21BeHAxNEJobGgwSURUbFdiTEZwSXdnVFVfZFZYaEU1U3NfR2s1Y1RBQVl3MEFvRHRJZ0pxZ2FrY0V5WDhJQVQ1NjdGaHVZTHdnMDByaFNIalFVeFRVdk5IUVBBc2l5UXdVbT",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWVCR21BeHAxNEJobGgwSURUbFdiTEZwSXdnVFVfZFZYaEU1U3NfR2s1Y1RBQVl3MEFvRHRJZ0pxZ2FrY0V5WDhJQVQ1NjdGaHVZTHdnMDByaFNIalFVeFRVdk5IUVBBc2l5UXdVbTFHTm1HS0JZMk1nY2dzeEdvUDNnenpiTndyQS12U3dwdjVpakdnUWN1eQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-018",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Why one water company is spending $50M to repair Pennsylvania roads - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPOFM1VWE3SVI0eHFURmdFMGs4amxEQWpuaWFNVHN0c1EzanBTTGNUdHR3MkJNYjI4TjlvUGp6WXNBdWNKZTJIcWtIQS1IeVlNSTU1T3c0WklGTTZWQndIUEE5MXFUOHlMbU0tdkRvZ3",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOFM1VWE3SVI0eHFURmdFMGs4amxEQWpuaWFNVHN0c1EzanBTTGNUdHR3MkJNYjI4TjlvUGp6WXNBdWNKZTJIcWtIQS1IeVlNSTU1T3c0WklGTTZWQndIUEE5MXFUOHlMbU0tdkRvZ3NXbUpOcUsxbEhQQlVoTEVZT29ScEdSMjNmcEp3dzg1Z2lhNFhhLUJ5RlJWVDBKODdOSUN6WFZGZGN6QzJiZ0FscktBN2d2bGZfWEowUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-019",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Announces 2025 Camden Community Investment Report - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNE4yQ21uZEpES0o5blowQlhzTThKWWxHUGJxQmprZzBBQUVydzZhaVNsbGNUUUlhbFJCTV9vQlMzUjFqamFiOVhONzNhYklPbGhmZDR1X3BrVXYzVXFoQ0xCTGo1aUNwMVNkX2lsRk",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNE4yQ21uZEpES0o5blowQlhzTThKWWxHUGJxQmprZzBBQUVydzZhaVNsbGNUUUlhbFJCTV9vQlMzUjFqamFiOVhONzNhYklPbGhmZDR1X3BrVXYzVXFoQ0xCTGo1aUNwMVNkX2lsRkFfVWp3c3FiZG5KM0FaZGo0R0ttcmFEYjAzSzNzSFFuUEJONVR0UktiNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-020",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California American Water Signs Water Forum Agreement 2050, Reinforcing Commitment to the Sacramento Region - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOdHV5NGpyeHBGWVdfVExQY2hUOWk2djJfUDBVeW1iTk1TQU5DRWFINGhxV2NKZUVRUVVocHhhak9HRFNaUkRSNk83VHBRUW10ZHY1Unp6OWVZbWxFeUxyM3lQN0pFX1JvajlzWFZhT1",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdHV5NGpyeHBGWVdfVExQY2hUOWk2djJfUDBVeW1iTk1TQU5DRWFINGhxV2NKZUVRUVVocHhhak9HRFNaUkRSNk83VHBRUW10ZHY1Unp6OWVZbWxFeUxyM3lQN0pFX1JvajlzWFZhT1JmUDNhbWpqSTVfeng0dDVhWVh4anBpM2FjdUtZVlZtTmNSWTV2V0VldQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-021",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "4 Stocks to Watch From the Challenging Water Supply Industry - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQUNqaDdLaVVEVHNZbUNEcks5MldWdi1FSU1na2dKNGFPejJpOGJVMm03aGlvaklPcFBYRGtZRUJ6eDRUQ2Rabm9oMElwZFpqaFM2WXBnTk1FTUpicU1WY2NXR2FJVVNTck55TUZTdE",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQUNqaDdLaVVEVHNZbUNEcks5MldWdi1FSU1na2dKNGFPejJpOGJVMm03aGlvaklPcFBYRGtZRUJ6eDRUQ2Rabm9oMElwZFpqaFM2WXBnTk1FTUpicU1WY2NXR2FJVVNTck55TUZTdEQ2Y2EweTN5TktvM2NaWVhnWVVILXNpYWFo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-022",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The York Water Co stock (US9871841089): Recent dividend announcement - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzl0Y1FsSHV5RXBJSEZ0cVZ6THowSnNnWUFtSjZRNkhzbU5FZVJ1RkhhUTRNa1hMNDZBOXFreDQ5N1JqNmNEYzNPcURPamtOLWxTWEE2U3V0RmJLZklZVEQ4RGUzNkg5cU10QWpHQl",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzl0Y1FsSHV5RXBJSEZ0cVZ6THowSnNnWUFtSjZRNkhzbU5FZVJ1RkhhUTRNa1hMNDZBOXFreDQ5N1JqNmNEYzNPcURPamtOLWxTWEE2U3V0RmJLZklZVEQ4RGUzNkg5cU10QWpHQlNrQkF2MWV2eFFyZVlWa2F0NzZTdXdpenEzR1F2c195Z2d1MEx3VFcwMTRxNE9ORF9PV2V6NVRoclJLSXNPSlh3ZXlmWEdMbHlJZ0h4b2ZKaWJEUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-023",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "United Utilities Group PLC stock (GB00B39J2M42): Steady UK water utility with stable dividends - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNYW1TNWlVa2l4TUR3Rl9feDFFekJuUWdvckI0TlZicXZSMktkQUxkd1dDSV9mWnVGOGpPWDdwM2JBVVZDNWtBckZqNnB1SE0zeTZybFRKQVZpS0hjUVM1eWVaV1BtWHRnNWlBU1hBSF",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYW1TNWlVa2l4TUR3Rl9feDFFekJuUWdvckI0TlZicXZSMktkQUxkd1dDSV9mWnVGOGpPWDdwM2JBVVZDNWtBckZqNnB1SE0zeTZybFRKQVZpS0hjUVM1eWVaV1BtWHRnNWlBU1hBSFExZURKR090QXpFSWRVWFhIa3hSNnQ4NFY1RGQ0bmZzQXcxRzVCTkdFR0Q4eDNHLVFZSXd5ZlIya05FQlZPbHowTTB2MjdhN2wzWUhuaExCZGNKcU9sMkhB?oc=5",
         "type": "rss"
       }
     ]
@@ -396,6 +812,44 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yRlRKWUdHWnJ0X183NW53aEpWN3BnVk9DOHNkRnBWYlU0cnFtbzFWMTQ2emk4RVpYRDlUNllpSE1hbU5BVDNUMTlnYXRFUmVNWmVkbS0zbGRPanZkbUpDRHk2ZVI2a1FYdFhaMDBsV3dHUm5YNjlKcQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-05-11-016",
+    "date": "2026-05-11",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Freedom Broker cuts Energy Recovery stock rating on margin pressure - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxORkhPUVNsLXh4ZGJoMy1UdFZvRG5PZ3M1a2lfVXJHOFlfZGt2SVBsbnM3U2U1ZUNsamtNcFdUZVV4UVVUdTdaaFVUU1FLc2xsUDZOckFCYUQ2VXZhWmxjRVMtNTBnbWJmSER5ZnJfeE",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORkhPUVNsLXh4ZGJoMy1UdFZvRG5PZ3M1a2lfVXJHOFlfZGt2SVBsbnM3U2U1ZUNsamtNcFdUZVV4UVVUdTdaaFVUU1FLc2xsUDZOckFCYUQ2VXZhWmxjRVMtNTBnbWJmSER5ZnJfeE5sUGpkd0UtSG9oRnFKeUR0WENSMXhteXV2NG1qeG9JOU9td3pUdms2Vl9mOWNxTk1rVHNwN2M2d2FvSVFSX0tVUDNJT0U3WDZ4Y3FlVU9iWGJJVEpoM2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-11-017",
+    "date": "2026-05-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Water Quality Reports Available Online for Virginia American Water Customers – Company Announcement - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnl3b2JILWtEQlRyY01pSHNfSTBJNTlFRWdYMFIyOXYzVjJ2RlZWQTg3Z3N1WmI1azNLdmVTNGk1ZkJXR0hZQldGUjM3YlNQOWxEVGVKRGxzQTlEMDVQeElaTnp0QWxzcEt6bU5Xd1",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnl3b2JILWtEQlRyY01pSHNfSTBJNTlFRWdYMFIyOXYzVjJ2RlZWQTg3Z3N1WmI1azNLdmVTNGk1ZkJXR0hZQldGUjM3YlNQOWxEVGVKRGxzQTlEMDVQeElaTnp0QWxzcEt6bU5Xd1BEaVl5VTF6VlJNTUhaaXBwdld3bk9VajBKX3lvSFZNSmYzampoaEZ2bg?oc=5",
         "type": "rss"
       }
     ]
@@ -847,6 +1301,26 @@
       {
         "name": "ao_smith",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOejhKcEFvd2ZHRVJyclZXNzZteS1faXl2TjF5SE41dmNXZ291WkRzbmJIMERrY0kzTGltVWRuSlFqM2pQMGowZU9hTWFIT0kzQWZFQnBVbXVyNDBkTTd2SXloa01nbHM3LW9OYTVJckRfTlRydXlJN3FET2dQUXVESlZ6ZW54cGpOOGpjNWhveWJEMHV5SGxraVFuS2ZlUEs0UTR6bHp1ODdSdC1oZWc4TlFDNXgtN3J2NDFuWHBReUpEWm5qdWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-05-09-016",
+    "date": "2026-05-09",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery Balances Growth Ambition With Uncertainty - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSUhrRzVtb0dSeDNlc1hWQjhfUER5eGtPY1NYT3owSnNDZlFRUnRWNDJHR1liRVZqNm5pd0hoREtHbEE0cDhRaTdQczQ4d2t1MnhKdDRKMVY0ZEhRMDBCZ19KOHpxY1hRTEY3U1Zfdk",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSUhrRzVtb0dSeDNlc1hWQjhfUER5eGtPY1NYT3owSnNDZlFRUnRWNDJHR1liRVZqNm5pd0hoREtHbEE0cDhRaTdQczQ4d2t1MnhKdDRKMVY0ZEhRMDBCZ19KOHpxY1hRTEY3U1ZfdkNoOWhsbFNwWC1aeGI3NkxRYmg1MkxBT3RhbWIzQUxLeTZEV191ZnVXSW1ZU2NZU1VCLUs0QlJMcUczc0FTVHY1QWhHVU56bUN1emtqUEwtUHFsTFhZcWFrRUY5djgwVXltUkdiWDk0Ukxya05q?oc=5",
         "type": "rss"
       }
     ]
@@ -1483,6 +1957,50 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVHRydGpqTjBhYXhwR2lwbXVKc3FQdm5IVFhUWlBObVZVMXpBaXdsU25mS0M2LS0tRTc1NzNLdjV6dnRIYktmbkJFWjdhR01qWDJvUGNKVDRCNHJ6Tkhtcy1rLVN1OHJNYm9JUXJyaFJueTNfbWJ6bWs2bHZqeDRPWXlzcWtyZ2MxV0RuME9kQmpvLVNNdzJZYzhCc1pDM1BoV3hsbzBGUHdfTEYxYnc0SE44Wnp0aGRjcjlyOFc0ZF8wb1hSNFNVblRrdnV6RXFnWkN4ZE1uODd2WUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-05-08-032",
+    "date": "2026-05-08",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Essential Utilities Q1 Earnings Lag, Revenues Surpass Estimates - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxObmxkTjZGOF93dUJQeWpkcHJQeGJyd0JqRzRfZHpEdk5xN1BOLVFMa3kyeDE1dkJab1dZSTkyQ1FJdm9aTG04Zkg0ZjRwV2ZST3hlallxaUt4dFdWQnlwUUhFay0yVnRxOTBQWjBwd2",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObmxkTjZGOF93dUJQeWpkcHJQeGJyd0JqRzRfZHpEdk5xN1BOLVFMa3kyeDE1dkJab1dZSTkyQ1FJdm9aTG04Zkg0ZjRwV2ZST3hlallxaUt4dFdWQnlwUUhFay0yVnRxOTBQWjBwd21CeFRtNl94cXBlZHNwREtqdTdZVF9zcEw4S2FaNzlvc1dINC0tcmExekdISGVaX0Z4Q0czS291ajRiNkVMa1NKeS1tVVNiQzlpWHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-05-08-033",
+    "date": "2026-05-08",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "capex",
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "positive",
+    "title": "Essential Utilities Marks Drinking Water Week 2026 With Record Infrastructure Investment, Industry-Leading Compliance - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNSTBFVW5WU1VlZXgwdm4xbXlzS0t0TzQ2OFlMT2t3alpyamVmZnBIMk5nYlI4WmtDNWJRbkpDSXhKX0s4QThPYWFNOWlSOGFrcUNZYWxwZkNKMDJodEU4bGdjRmNFV2YtNzN2NmV4bG",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSTBFVW5WU1VlZXgwdm4xbXlzS0t0TzQ2OFlMT2t3alpyamVmZnBIMk5nYlI4WmtDNWJRbkpDSXhKX0s4QThPYWFNOWlSOGFrcUNZYWxwZkNKMDJodEU4bGdjRmNFV2YtNzN2NmV4bGp1cGxSZEw5Q2JEeEIyVDJwTkxUbEFmdnhXS2dNS0ZLeUZtSWVQWDRJZ25hZnctdXdiOEFscWtqS1RqdTlsZUg0aDdOTVIyckdIa2xURS12Q3NhUFdGcmJWb091M2JYbW9EQ1RrekZnMEpTSXdjcHJUTnlxQThGajZUNm1JbUZDQmtWdFBXZnB2VG1OWHA0cUphUUh3?oc=5",
         "type": "rss"
       }
     ]

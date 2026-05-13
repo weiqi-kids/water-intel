@@ -1,0 +1,194 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T10:37:12.444581Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-13-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Abuja Water Supply Challenges Continue Amid ₦155bn Infrastructure Spending - nigeriahousingmarket.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "smart_water",
+        "earnings",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGVYaVo4TnN4Zk5KNDNhbVFNS0Q3NmNta0lUQ29fVnU0Y251b2JQYkFkS2pHLXRNWDdGdTF0cGRXdGdVZzRJS1NhS29vTVVPRzY3cDFjd01ybXRIa3Q5T1pRRE9NUl9WcHlHbDhQbWtfcmlKM1NlV0VkR2VrVWxrREpfdkFYX0ZLQWM5MXl1VVZQLUt1REJJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "kurita-2026-05-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Kurita Water Industries Cuts FY Net View to Y15.90B - Moomoo",
+      "companies": [
+        "kurita"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSTRBcmt3Q1lobkpSR3Z1OThJSjMwSWZ5bmVNUWdhelNLeE0wX0s1Z2FQcm9RTExTQU9EYkVfQTVJbWpDU0o1ZlIyTVBWR1IzZUlVODRNNTJqUjQ0eXNXLVFJektkZl93cmVRVEYtdzF2ekY4WmhlVm9HcDNCMGVOSzRBQVktSnhXeEZSbjh5a0NLVGVuOTFnYg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_water-2026-05-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Works stock (US0304201033): Plans $50M restorations in Pennsylvania for 2026 - AD HOC NEWS",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWXVZNTlIb29iX3h4UTZnR2lNOU1UcmgtUEpGNVFEdlFlOG1zYW5ZcDc5NnZycVh0OGRsZ1RxelBjdUg1cmplanZWWHhCYWNwelBPWnQ4YnZiWWFBSGFha0FOMlE4SmhEbTk2ZEw4M2Q1UmVNdDFWYjBPZU1ULUZwSHBHbjgzNy15Z094aC1wRlFGaE1uM1U4d05KMUxnYTAtc24wUlRxaC1veFRtQk5mSV9neExtcEhVZ1Jyd0xmem9Ldw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "smart_water": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "kurita",
+        "count": 1
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "smart_water",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 162,
+    "too_old": 57,
+    "gate1_blocked": 3,
+    "gate2_blocked": 12,
+    "passed": 26,
+    "pass_rate": "26.5%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "Energy Recovery Price Target Cut to $11.00/Share From $13.00 by Freedom Broker - Moomoo",
+      "Energy Recovery to Participate in Upcoming Investor Conference - Yahoo Finance",
+      "Freedom Broker downgrades Energy Recovery (ERII) - MSN",
+      "Energy Recovery to Participate in Upcoming Investor Conference - ChartMill",
+      "Energy Recovery (NASDAQ:ERII) Trading Down 13% - What's Next? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為栗田、美國水務相關動態：「Abuja Water Supply Challenges Continue Amid ₦155bn Infras...」。主要關注主題為財報、水資源產業通用、智慧水務，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Abuja Water Supply Challenges Continue Amid ₦155bn Infrastructure Spending - ...（智慧水務、財報、資本支出、水資源產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Kurita Water Industries Cuts FY Net View to Y15.90B - Moomoo（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

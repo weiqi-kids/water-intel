@@ -1,0 +1,157 @@
+{
+  "date": "2026-05-13",
+  "date_range": {
+    "start": "2026-05-07",
+    "end": "2026-05-13"
+  },
+  "generated_at": "2026-05-13T10:37:12.515431Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "essential-2026-05-08-021",
+      "date": "2026-05-08",
+      "title": "Essential Utilities Marks Drinking Water Week 2026 With Record Infrastructure Investment, Industry-Leading Compliance - Yahoo! Finance Canada",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 30,
+      "last_week": 27,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.05
+    },
+    "industry_general": {
+      "this_week": 22,
+      "last_week": 22,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.02
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.17
+    },
+    "smart_water": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.25
+    },
+    "capex": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "mueller": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "energy_recovery": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "veolia": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 4
+    },
+    "essential": {
+      "event_count": 6,
+      "sentiment_avg": 0.17,
+      "rank": 2
+    },
+    "american_water": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "pentair": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 6
+    },
+    "ao_smith": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "kurita": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 149,
+        "last": 204,
+        "change_pct": -27.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-07",
+      "event_count": 50,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-08",
+      "event_count": 33,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-09",
+      "event_count": 16,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-10",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-11",
+      "event_count": 17,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-12",
+      "event_count": 23,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-13",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-07 ~ 2026-05-13）共 149 則事件，重點為「Essential Utilities Marks Drinking Water Week 2...」。濱特爾情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "濱特爾",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "穆勒",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "ERII",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
