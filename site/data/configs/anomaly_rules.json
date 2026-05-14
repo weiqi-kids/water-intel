@@ -1,0 +1,31 @@
+{
+  "anomaly_detection": {
+    "minimum_data_requirements": {
+      "7d_avg": 5,
+      "30d_avg": 20,
+      "yoy": 300
+    },
+    "thresholds": {
+      "volume_spike": {
+        "vs_7d_pct": 100,
+        "vs_30d_pct": 80,
+        "vs_yoy_pct": 150,
+        "min_absolute": 3
+      },
+      "sentiment_shift": {
+        "delta_7d": 0.5,
+        "delta_30d": 0.4,
+        "min_events": 3
+      },
+      "topic_resurface": {
+        "min_silent_days": 14,
+        "min_events": 2
+      }
+    },
+    "priority": {
+      "volume_spike": 1,
+      "sentiment_shift": 2,
+      "topic_resurface": 3
+    }
+  }
+}

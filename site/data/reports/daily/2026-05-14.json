@@ -1,0 +1,230 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T10:29:39.328294Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-05-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement stock (FR0000124141): Dividend rises to €1.40 per share - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaktNc2RoeG5tWG8yVmJxOHJjWjhsa1dKN0FwZEVndGgzREQwMmpLaEtDZ3hGT19ldWw5OVYzc0h4bjRBLWlqOWY0R1h3aFZod2kyYlVwdVFpUTBMMVVjV3N0c3pYODhqMlpaVjZlMGFBVzl0Q21zY3ZhNEZyaE52SE8tUUNoRzBhRC05UjFMOTJYUUtvQV85NmRjTzU5bVRnT0JLS0g2NHlTaGtKN2NFYTdqcnctWTlBRjJ2YUU5Tm95NFU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ao_smith-2026-05-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A.O. Smith: A Strong Contender in the Water Heater Industry - The Motley Fool",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV3JnMEpnSjlEdjl4ekhkY09ac3RYTzM1ZFV4eW4wdkR1Y3kxOHBFYmI2bnhIaGNJVGR3Nko5Yk1qY0Q3UTFfbHYyRnIyN01XQjhQdldYNWNuOUN4d3cxS29PcFFETHpWZW5UR3BQX3lfRGdCR2Y4N3dsRWVYaE1MT283ZDNHYlJpd0Qyb05naDNMcG5hR293MA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-14-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "5 Water Heater Venting Questions with A. O. Smith - Contractor Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN2ZnbXdhdmtUREszUGx2Uks3UWNuU09YbGRpTE5wY2l3TUpIU25ybWVqMjdlRk43cXZGMWF1QTFHQURGaVRZSTVRNElmOGdxMFNqSVJNQ296V2ViOFJzY1k2ak40N1k4R1RmZUpTdEJENS1WX0tJVGVtSU82Y2J1N0ZhcGpyYTh0QlNuc1owcGV6LXFFRFRzTVhXN2ZHNFBVUzgzWGNwVQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ao_smith-2026-05-14-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AO Smith: A strong contender in the water heater industry - MSN",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQkVsaUNEaGJmdUV0UUNvUENKNWNaN3FfVnV5T0RjUlZXZkhkRW5saktPVzQ3NG5wcjAwMTREbFNoY3BvX3ZyS0QzNDRJOFVzakNMR3REc1hpeVpJTHVuSXZ4VkxlanczaUpnRjUyTmlLSm1pMTJUYkJ5eWJtSUdfQ2J4eHI2NHo3QkpXaGhsVlNUREhxdWFnTDJKcW02QWZIeUtfTEZvQktHNmJmTzN6bXZxLWhvbzB0UG1GRkp1cWRqSF9YXzhvcHBLMlhEWmpfUXc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "kurita-2026-05-14-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Kurita Water Industries: Profit from continuing operations rose, but overall profit fell due to discontinued operations - TradingView",
+      "companies": [
+        "kurita"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNMWxnNkRwa3dsempYcW9HazVRSTBCN1oyb080bmpxYUFPRHM0eElKOUFJY1JHajRyQW1kaGhZUmNnbXFyLUNfMWdkNXhrTU9yczZ2d01UaWRTbXU4ZDhWOE0xOUVrRU9ZV1FteVRQYXNaNS1iS0xnNUs3d1VxY3hoQ1pNaEd0ZWlzWXJ5M2d5ZmtOUmswLXp3Rm8zSlBvaHdPYjBNd014RnFoTGo1YWwyYTlyMGl0Z09MR2t6bWpoM2R4bHlLaEtIQTEtYk14N2N1MTdCRTVhTFRYQkVTdEc3eFVsOW1Ea2ZsNWkxU01fek40TG9pMDUzR1ppNkJKTVU5eGlQMFNPQUVvVzUxQlNVU3pSczRlazh6TTVXVk5qT2RlcHk3MmRz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "kurita",
+        "count": 4
+      },
+      {
+        "id": "ao_smith",
+        "count": 2
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 259,
+    "dup_title": 150,
+    "too_old": 56,
+    "gate1_blocked": 5,
+    "gate2_blocked": 11,
+    "passed": 37,
+    "pass_rate": "33.9%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "Energy Recovery: It Has To Be Easier Than This (NASDAQ:ERII) - Seeking Alpha",
+      "Freedom Broker downgrades Energy Recovery (ERII) - MSN",
+      "Energy Recovery to Participate in Upcoming Investor Conference - ChartMill",
+      "Veolia Environnement: - marketscreener.com",
+      "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Gains? - Y"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為栗田、史密斯、威立雅相關動態：「Veolia Environnement stock (FR0000124141): Dividend rises...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Veolia Environnement stock (FR0000124141): Dividend rises to €1.40 per share ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "A.O. Smith: A Strong Contender in the Water Heater Industry - The Motley Fool（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

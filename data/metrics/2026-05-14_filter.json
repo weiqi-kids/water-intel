@@ -1,0 +1,16 @@
+{
+  "total_raw": 259,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 56,
+  "gate1_fail": 5,
+  "gate2_fail": 11,
+  "passed": 37,
+  "gate2_samples": [
+    "Energy Recovery: It Has To Be Easier Than This (NASDAQ:ERII) - Seeking Alpha",
+    "Freedom Broker downgrades Energy Recovery (ERII) - MSN",
+    "Energy Recovery to Participate in Upcoming Investor Conference - ChartMill",
+    "Veolia Environnement: - marketscreener.com",
+    "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Gains? - Y"
+  ]
+}
