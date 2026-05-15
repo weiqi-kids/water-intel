@@ -1,0 +1,245 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:33:41.348878Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "essential-2026-05-15-008",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "American Water Works stock (US0304201033): Ohio nod adds momentum to mega-merger with Essential Util - AD HOC NEWS",
+      "companies": [
+        "essential",
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbEhqV1VVUHZwdmpSY1BqMFVGYWNaaG1RRnBqWDlWR3UtU3lKaVhJSUotRm9YeW5TRFU3Z19KNFdWUUZfZHJHTlF2SEN6bmJQTnQ3Zm1RSWJFdTFPaUdQWjU3dkhsUm5GOVBNazdlSmVyOEtRU1pkdzVOdmRBRHJzdEFrc3BSZnJ1TTFjcGlLU2FEQ3RCMWVPNDRwejVxbDYyd3lSLUdNRDVpVW1KeHYtYnVoTUFIdVBMdzFUMGhVVjYwZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mueller-2026-05-15-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Reflecting On Water Infrastructure Stocks’ Q1 Earnings: Mueller Water Products (NYSE:MWA) - StockStory",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb0EtUG8xMGpHX2NETUJ3VE9xa3lvSUs0QjFZVnJPcDNMRGRWTjY1MlYxbmZNeDYtbDNuV3JpVktRd3gxVlExZDlnUmMyUkpRTXY3SVNRVUVyR0dIbG5DS3RPS0ROMF9qOTR5eFpWZEltcVVJVy1WRzF0V1hwb1YxTEpjbjdXSFozLVNYV2tNXzNaSFNYUGd3d04zMjJtNDNwVUhnajhUNVlscE9hVnVpWGZ5enRwRDRPS2VZc21UYnNHNVhFcEdLVTBKQWFObmdfZjJ5elV3NA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mueller-2026-05-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mueller Water Products’s Q1 Earnings Call: Our Top 5 Analyst Questions - Yahoo Finance UK",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDkwZU16cmtwd3BMWXlkeUJlU1Y3ektfSFcxQjgyU0N2TE00cnBzSV9XQmlvemhJR3RkZWRlT19IckRweXZCa0NPdk8zUUpHQnpFdHYwSkRtQ0l5d2lDbUdnbFV2ZVYtTU1yMDVKSUpycy1abjdmOXlaeF9sZ09yZDh2bzJBNThsMHVz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "veolia-2026-05-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia’s Data Center Angle Is Really About Water And Cooling - Finimize",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDgyZ1VpbXNUM3RxTDdjWkQ4X1plNXhrTnFWTklLQ3lPNFgtN1M4WjJoX3dLOWRldkVGelQzVTlIa3dVUzM4M3dFbUJjeWp6V3dfUldmWkxQQ3liTVp4TFFxRUdKU3Npd2NOeWc5SVo2Zm9NbktTQjUwNk44anZtV2ZHMDdjbU5kMkVyNEIyMERUZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "veolia-2026-05-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia stock (FR0000124141): HSBC and Barclays keep the spotlight on the water group - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc29PQ0FDc0phMGJXMzdjZjJta3J1QVJxVzB0MHFrM2dINlFvVmgxbGlieHFWSVJ5MjhBazNwa2NqZ1JWOGZabHp5ZFc5WGg1ZXRXQjNwclNySFBjZEhQSGdlY0JZd0hhbDl4NC02b0pUdTdlT2NTRF9xN1ZzcGhfNzdxWFdhX3NMRWg1YUxEY1MwcTJHQ2I3T1c3azVtV0syX2RvLVlmMV9yMWl2SVR1Tlh6ZjlVLVZQWW95SmUyaldtWWE3VmdJ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 2
+      },
+      {
+        "id": "veolia",
+        "count": 2
+      },
+      {
+        "id": "essential",
+        "count": 2
+      },
+      {
+        "id": "american_water",
+        "count": 2
+      },
+      {
+        "id": "kurita",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 257,
+    "dup_title": 151,
+    "too_old": 55,
+    "gate1_blocked": 6,
+    "gate2_blocked": 8,
+    "passed": 37,
+    "pass_rate": "34.9%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Energy Recovery: It Has To Be Easier Than This (NASDAQ:ERII) - Seeking Alpha",
+      "Pentair plc stock (IE00BLS0VV05): Hits new 1-year low on mixed analyst sentiment and insider sales -",
+      "A.O. Smith Corp. stock underperforms Thursday when compared to competitors despite daily gains - Mar",
+      "Danaher stock (US2358511028): spin-offs reshape the medtech group after latest quarterly numbers - A",
+      "Danaher stock (US2358511028): Shares slide as institutional holdings shift - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為穆勒、威立雅、必要公用相關動態：「American Water Works stock (US0304201033): Ohio nod adds ...」。主要關注主題為水資源產業通用、財報、資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "American Water Works stock (US0304201033): Ohio nod adds momentum to mega-mer...（財報、水資源產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Reflecting On Water Infrastructure Stocks’ Q1 Earnings: Mueller Water Product...（財報、資本支出、水資源產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

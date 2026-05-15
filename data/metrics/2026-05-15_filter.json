@@ -1,0 +1,16 @@
+{
+  "total_raw": 257,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 55,
+  "gate1_fail": 6,
+  "gate2_fail": 8,
+  "passed": 37,
+  "gate2_samples": [
+    "Energy Recovery: It Has To Be Easier Than This (NASDAQ:ERII) - Seeking Alpha",
+    "Pentair plc stock (IE00BLS0VV05): Hits new 1-year low on mixed analyst sentiment and insider sales -",
+    "A.O. Smith Corp. stock underperforms Thursday when compared to competitors despite daily gains - Mar",
+    "Danaher stock (US2358511028): spin-offs reshape the medtech group after latest quarterly numbers - A",
+    "Danaher stock (US2358511028): Shares slide as institutional holdings shift - AD HOC NEWS"
+  ]
+}
