@@ -1,0 +1,111 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T09:47:58.214376Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-05-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mueller Water Products Q2 2026 Earnings Beat: Revenue $384.4M, EPS $0.40 - News and Statistics - IndexBox",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM1U1U2s0MGVlY2FJbUMzbGRscEduaGk5Z21SWktWWjdCSXhqOXNKWWZkWXhjd0gybkstcWFYemFIWTRGbDJwMmZKOVN6blBkdFQxR0RQZS05cTRsR1Bkb3BUNmxGRkxwWlp2VEZPTjh3aUk3V01hV2FwTk9LbjU1VmN1dkFEbG9OUkJEWUxFY2wtLTJfSVFiMzdJMmctTFZ6bXhPSFBwb0UzalNKdlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 258,
+    "dup_title": 160,
+    "too_old": 57,
+    "gate1_blocked": 4,
+    "gate2_blocked": 9,
+    "passed": 28,
+    "pass_rate": "28.6%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "Energy Recovery: It Has To Be Easier Than This (NASDAQ:ERII) - Seeking Alpha",
+      "Energy Recovery Price Target Cut to $11.00/Share From $13.00 by Freedom Broker - Moomoo",
+      "Veolia Kept at Overweight as Barclays Notes 'Positive' Data Center Cooling Exposure - marketscreener",
+      "Pentair plc stock (IE00BLS0VV05): Hits new 1-year low on mixed analyst sentiment and insider sales -",
+      "A Look At A. O. Smith (AOS) Valuation After Zacks Downgrade And Cautious Motley Fool Commentary - si"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為穆勒相關動態：「Mueller Water Products Q2 2026 Earnings Beat: Revenue $38...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mueller Water Products Q2 2026 Earnings Beat: Revenue $384.4M, EPS $0.40 - Ne...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "穆勒為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
