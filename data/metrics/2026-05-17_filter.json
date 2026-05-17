@@ -1,0 +1,16 @@
+{
+  "total_raw": 258,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 55,
+  "gate1_fail": 4,
+  "gate2_fail": 10,
+  "passed": 16,
+  "gate2_samples": [
+    "Energy Recovery: It Has To Be Easier Than This (NASDAQ:ERII) - Seeking Alpha",
+    "Director Pamela Tondreau adds 20,000 Energy Recovery (ERII) shares via trust - Stock Titan",
+    "Energy recovery director Pamela Tondreau buys $166,840 in shares - Investing.com",
+    "Energy Recovery Price Target Cut to $11.00/Share From $13.00 by Freedom Broker - Moomoo",
+    "A Look At A. O. Smith (AOS) Valuation After Zacks Downgrade And Cautious Motley Fool Commentary - si"
+  ]
+}

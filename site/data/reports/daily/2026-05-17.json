@@ -1,0 +1,114 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T09:54:25.382894Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-05-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mueller Water Products (MWA) upgraded to buy: Here's why - MSN",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmk5dFFlMmM2aE5UWFFrLWtKcTc5djM3TFo2Nmg1U0RJOHRmN1J4dVhXMGNxeGlRcGk4UHJfSDVpOXVvT3JxVWppMTZxeTZ1WF9vUlRBVjlmSjIzajBnWm1lMVM1dVBqZlh6a0xQc1hxSGhjaVd3eHBVSEdTZEgxYmdYdTc3WHh0YlZlWWZpQngwZnl0UXZSbUVjelV6ZkluVnVFTFJpdGpSdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ohio Approval Brings American Water Merger And Debt Questions Into Focus - Yahoo Finance UK",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3ZKSnZaMWVkbFdkX0wxbFlQYlBqclBZWXhnaUpvRzIzUzg4TDVIb01rUVdXLXh6Y3BpT1dkb282RVY2SkVRY2JpT254T0RMdEZjcEFtdzNXSTEtWUNKS1hia0NyVklyeWpsZi1ZaEIxOC1jU3o4aW5TVkIxNHRhNG9FQk1XOXk2cThSSQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 258,
+    "dup_title": 173,
+    "too_old": 55,
+    "gate1_blocked": 4,
+    "gate2_blocked": 10,
+    "passed": 16,
+    "pass_rate": "18.8%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "Energy Recovery: It Has To Be Easier Than This (NASDAQ:ERII) - Seeking Alpha",
+      "Director Pamela Tondreau adds 20,000 Energy Recovery (ERII) shares via trust - Stock Titan",
+      "Energy recovery director Pamela Tondreau buys $166,840 in shares - Investing.com",
+      "Energy Recovery Price Target Cut to $11.00/Share From $13.00 by Freedom Broker - Moomoo",
+      "A Look At A. O. Smith (AOS) Valuation After Zacks Downgrade And Cautious Motley Fool Commentary - si"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為穆勒相關動態：「Mueller Water Products (MWA) upgraded to buy: Here's why ...」。主要關注主題為水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mueller Water Products (MWA) upgraded to buy: Here's why - MSN（水資源產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Ohio Approval Brings American Water Merger And Debt Questions Into Focus - Ya...（水資源產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

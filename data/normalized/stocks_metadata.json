@@ -6,73 +6,73 @@
     "history_complete": true
   },
   "energy_recovery": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-15",
-    "count": 2240
+    "count": 2302
   },
   "xylem": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-15",
-    "count": 2240
+    "count": 2302
   },
   "veolia": {
-    "earliest": "2017-06-15",
+    "earliest": "2017-03-17",
     "latest": "2026-05-15",
-    "count": 2282
+    "count": 2343
   },
   "pentair": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-15",
-    "count": 2240
+    "count": 2302
   },
   "ao_smith": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-15",
-    "count": 2240
+    "count": 2302
   },
   "danaher": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-15",
-    "count": 2240
+    "count": 2302
   },
   "watts": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-15",
-    "count": 2240
+    "count": 2302
   },
   "badger": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-15",
-    "count": 2240
+    "count": 2302
   },
   "kurita": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-15",
-    "count": 2194
+    "count": 2255
   },
   "zhongyu": {
-    "earliest": "2017-06-16",
+    "earliest": "2017-03-20",
     "latest": "2026-05-15",
-    "count": 2166
+    "count": 2225
   },
   "essential": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-15",
-    "count": 2240
+    "count": 2302
   },
   "american_water": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-15",
-    "count": 2240
+    "count": 2302
   },
   "etf_pho": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-15",
-    "count": 2240
+    "count": 2302
   },
   "etf_cgw": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-15",
-    "count": 2240
+    "count": 2302
   }
 }
