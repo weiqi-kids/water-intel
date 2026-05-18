@@ -4,7 +4,7 @@
     "start": "2026-04-09",
     "end": "2026-04-15"
   },
-  "generated_at": "2026-04-15T12:06:58.625171Z",
+  "generated_at": "2026-05-18T13:33:17.109514Z",
   "highlights": [
     {
       "rank": 1,
@@ -18,57 +18,96 @@
   "anomalies_7d": [],
   "topic_7d_summary": {
     "earnings": {
-      "this_week": 2,
+      "this_week": 18,
+      "last_week": 7,
+      "week_over_week_change": "+157%",
+      "sentiment_this_week": 0.08
+    },
+    "regulation": {
+      "this_week": 1,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": 0.5
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.0
+    },
+    "smart_water": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
     }
   },
-  "company_7d_summary": {},
+  "company_7d_summary": {
+    "mueller": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "veolia": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 1
+    },
+    "essential": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "american_water": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 2,
-        "last": 0,
-        "change_pct": 0
+        "this": 45,
+        "last": 8,
+        "change_pct": 462.5
       }
     }
   },
   "daily_breakdown": [
     {
       "date": "2026-04-09",
-      "event_count": 0,
-      "sentiment_avg": 0
+      "event_count": 6,
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-04-10",
-      "event_count": 0,
-      "sentiment_avg": 0
+      "event_count": 6,
+      "sentiment_avg": 0.08
     },
     {
       "date": "2026-04-11",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-04-12",
-      "event_count": 0,
-      "sentiment_avg": 0
+      "event_count": 2,
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-04-13",
-      "event_count": 0,
-      "sentiment_avg": 0
+      "event_count": 5,
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-04-14",
-      "event_count": 0,
-      "sentiment_avg": 0
+      "event_count": 15,
+      "sentiment_avg": 0.03
     },
     {
       "date": "2026-04-15",
-      "event_count": 2,
-      "sentiment_avg": 0
+      "event_count": 11,
+      "sentiment_avg": 0.05
     }
   ]
 }

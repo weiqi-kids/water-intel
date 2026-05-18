@@ -107,15 +107,32 @@ def aggregate_7d_metrics(metrics_dir: Path, dates: list[str], events_dir: Path |
     for date_str in dates:
         metrics = load_metrics_for_date(metrics_dir, date_str)
 
-        # 用 events 檔案的實際行數作為 event_count（metrics 是快照，可能過時）
+        # 從 events 檔案讀取實際行數與 sentiment（metrics 是快照，可能過時；
+        # 且 metrics 沒有「整日 sentiment_avg」欄位，只有 by_company/by_topic 的）
         actual_count = 0
+        sentiment_avg = 0.0
         if events_dir:
             events_file = events_dir / f"{date_str}.jsonl"
             if events_file.exists():
-                actual_count = sum(1 for line in open(events_file, encoding="utf-8") if line.strip())
+                scores = []
+                with open(events_file, encoding="utf-8") as f:
+                    for line in f:
+                        line = line.strip()
+                        if not line:
+                            continue
+                        actual_count += 1
+                        try:
+                            ev = json.loads(line)
+                        except json.JSONDecodeError:
+                            continue
+                        score = ev.get("sentiment", {}).get("score")
+                        if isinstance(score, (int, float)):
+                            scores.append(score)
+                if scores:
+                    sentiment_avg = round(sum(scores) / len(scores), 2)
 
         if not metrics:
-            daily.append({"date": date_str, "event_count": actual_count, "sentiment_avg": 0})
+            daily.append({"date": date_str, "event_count": actual_count, "sentiment_avg": sentiment_avg})
             continue
 
         # 日統計：優先用 events 檔案的實際行數
@@ -123,7 +140,7 @@ def aggregate_7d_metrics(metrics_dir: Path, dates: list[str], events_dir: Path |
         daily.append({
             "date": date_str,
             "event_count": total,
-            "sentiment_avg": 0,  # 會再計算
+            "sentiment_avg": sentiment_avg,
         })
 
         # 公司統計
