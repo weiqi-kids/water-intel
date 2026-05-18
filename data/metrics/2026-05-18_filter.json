@@ -1,0 +1,16 @@
+{
+  "total_raw": 256,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 55,
+  "gate1_fail": 5,
+  "gate2_fail": 12,
+  "passed": 20,
+  "gate2_samples": [
+    "Energy Recovery Systems Market Seeking Excellent Growth | Eaton, Schneider Electric, Alfa Laval, Gen",
+    "Energy Recovery: It Has To Be Easier Than This (NASDAQ:ERII) - Seeking Alpha",
+    "Director Pamela Tondreau adds 20,000 Energy Recovery (ERII) shares via trust - Stock Titan",
+    "Energy recovery director Pamela Tondreau buys $166,840 in shares - Investing.com",
+    "Seaport Global Maintains Energy Recovery(ERII.US) With Buy Rating, Cuts Target Price to $12 - Moomoo"
+  ]
+}

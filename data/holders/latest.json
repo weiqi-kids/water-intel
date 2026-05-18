@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T09:54:24.849392+00:00",
+  "updated_at": "2026-05-18T11:50:58.331941+00:00",
   "companies": {
     "mueller": {
       "name": "Mueller Water Products",
@@ -211,13 +211,13 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 442036,
           "pct_held": 0.06,
-          "value": 14861249
+          "value": 14856830
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 39736,
           "pct_held": 0.01,
-          "value": 1335924
+          "value": 1335526
         }
       ]
     },
@@ -565,7 +565,7 @@
           "holder": "Boston Common Asset Management, LLC",
           "shares": 535403,
           "pct_held": 0.46,
-          "value": 4818627000
+          "value": 4668714160
         }
       ]
     },

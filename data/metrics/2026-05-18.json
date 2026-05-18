@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-18",
+  "total_events": 12,
+  "by_company": {
+    "mueller": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pentair": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ao_smith": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "danaher": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "kurita": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "american_water": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 11,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 7,
+      "sentiment_avg": -0.07
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
