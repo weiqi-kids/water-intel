@@ -2432,8 +2432,21 @@
 
             const dailyData = report.daily_breakdown.map((d, i) => ({
                 day: i,
-                value: d.event_count
+                value: d.event_count,
+                sentiment: d.sentiment_avg ?? 0
             }));
+
+            // 以事件數加權的週平均 sentiment 決定整條趨勢的顏色
+            const totalEvents = dailyData.reduce((s, d) => s + d.value, 0);
+            const weightedSentiment = totalEvents > 0
+                ? dailyData.reduce((s, d) => s + d.sentiment * d.value, 0) / totalEvents
+                : 0;
+            const SENTIMENT_THRESHOLD = 0.05;
+            const sentimentColor = weightedSentiment > SENTIMENT_THRESHOLD
+                ? { stroke: '#10b981', fill: 'rgba(16, 185, 129, 0.25)' }   // 正面：綠
+                : weightedSentiment < -SENTIMENT_THRESHOLD
+                ? { stroke: '#ef4444', fill: 'rgba(239, 68, 68, 0.25)' }    // 負面：紅
+                : { stroke: '#a18cd1', fill: 'rgba(161, 140, 209, 0.3)' };  // 中性：紫
 
             const margin = { top: 5, right: 10, bottom: 20, left: 25 };
             const x = d3.scaleLinear()
@@ -2458,15 +2471,26 @@
 
             svg.append('path')
                 .datum(dailyData)
-                .attr('fill', 'rgba(161, 140, 209, 0.3)')
+                .attr('fill', sentimentColor.fill)
                 .attr('d', area);
 
             svg.append('path')
                 .datum(dailyData)
                 .attr('fill', 'none')
-                .attr('stroke', '#a18cd1')
+                .attr('stroke', sentimentColor.stroke)
                 .attr('stroke-width', 2)
                 .attr('d', line);
+
+            // 在右上角標示週情緒
+            const sentimentLabel = weightedSentiment > SENTIMENT_THRESHOLD ? '偏正面'
+                : weightedSentiment < -SENTIMENT_THRESHOLD ? '偏負面' : '中性';
+            svg.append('text')
+                .attr('x', width - margin.right)
+                .attr('y', margin.top + 10)
+                .attr('text-anchor', 'end')
+                .attr('fill', sentimentColor.stroke)
+                .attr('font-size', '10px')
+                .text(`${sentimentLabel} ${weightedSentiment >= 0 ? '+' : ''}${weightedSentiment.toFixed(2)}`);
 
             // X 軸標籤
             svg.append('g')
