@@ -1,0 +1,16 @@
+{
+  "total_raw": 257,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 51,
+  "gate1_fail": 3,
+  "gate2_fail": 13,
+  "passed": 27,
+  "gate2_samples": [
+    "Director Pamela Tondreau adds 20,000 Energy Recovery (ERII) shares via trust - Stock Titan",
+    "Motor Dope Introduces Scalable Electric Motor Architecture Targeting Real-World Efficiency Gaps - ma",
+    "Energy Recovery: It Has To Be Easier Than This (NASDAQ:ERII) - Seeking Alpha",
+    "Energy Recovery Systems Market Seeking Excellent Growth | Eaton, Schneider Electric, Alfa Laval, Gen",
+    "Seaport Global Maintains Energy Recovery(ERII.US) With Buy Rating, Cuts Target Price to $12 - Moomoo"
+  ]
+}

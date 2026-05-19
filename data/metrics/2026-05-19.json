@@ -1,0 +1,49 @@
+{
+  "date": "2026-05-19",
+  "total_events": 11,
+  "by_company": {
+    "mueller": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "energy_recovery": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pentair": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "american_water": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.06
+    },
+    "capex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 8,
+      "sentiment_avg": 0.12
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "regulation": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
