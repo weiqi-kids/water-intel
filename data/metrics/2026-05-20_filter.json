@@ -1,0 +1,16 @@
+{
+  "total_raw": 255,
+  "dup_title": 155,
+  "no_date": 0,
+  "too_old": 50,
+  "gate1_fail": 7,
+  "gate2_fail": 7,
+  "passed": 36,
+  "gate2_samples": [
+    "Energy Recovery: It Has To Be Easier Than This (NASDAQ:ERII) - Seeking Alpha",
+    "Director Pamela Tondreau adds 20,000 Energy Recovery (ERII) shares via trust - Stock Titan",
+    "Pentair (NYSE:PNR) And S&P 500: What’s Driving Market Attention? - Kalkine Media",
+    "A.O. Smith names new CFO - BizTimes - Milwaukee Business News",
+    "A.O. Smith cut to Sell equivalent, Timken upgraded at J.P. Morgan (AOS:NYSE) - Seeking Alpha"
+  ]
+}
