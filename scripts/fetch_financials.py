@@ -20,91 +20,133 @@ except ImportError:
     sys.exit(0)
 
 
-def fetch_company_financials(ticker: str) -> dict | None:
-    """抓取單一公司的 AR 和 Inventory 數據"""
+def _safe_int(val):
+    """NaN-safe int conversion."""
+    if val != val:
+        return None
+    return int(val)
+
+
+def _find_row(index, *keywords):
+    """精確匹配第一個關鍵字；找不到再依序退而求其次。"""
+    for kw in keywords:
+        for idx in index:
+            if str(idx).lower() == kw:
+                return idx
+    return None
+
+
+def _latest_two(bs, row):
+    """從欄位由新到舊找到第一個非 nan 當 curr，再往下找下一個非 nan 當 prev。
+    回傳 (curr, prev, curr_col_idx)。"""
+    curr = prev = None
+    curr_idx = None
+    cols = bs.columns
+    for i in range(len(cols)):
+        v = _safe_int(bs.loc[row].iloc[i])
+        if v is None:
+            continue
+        if curr is None:
+            curr, curr_idx = v, i
+        elif prev is None:
+            prev = v
+            break
+    return curr, prev, curr_idx
+
+
+def _pct_str(curr, prev):
+    if curr is None or prev is None or prev == 0:
+        return "N/A"
+    return f"{(curr - prev) / abs(prev) * 100:+.0f}%"
+
+
+def fetch_company_financials(ticker: str, inventory_applicable: bool = True) -> dict | None:
+    """抓取單一公司的 AR 和 Inventory 數據。
+
+    嘗試順序：
+    1. quarterly_balance_sheet → QoQ
+    2. 若 QoQ 無法計算（curr 或 prev 為 nan），退回 balance_sheet（年報）→ YoY
+       — 應付如 Bridgestone 這類 yfinance 季表只有 1 季有效資料的情況
+
+    inventory_applicable=False 時完全跳過 Inv（適用 SaaS／REIT／勘探商等本來就無庫存的公司）。
+    """
     try:
         t = yf.Ticker(ticker)
-        bs = t.quarterly_balance_sheet
-        if bs is None or bs.empty:
+        bs_q = t.quarterly_balance_sheet
+        if bs_q is None or bs_q.empty:
             return None
 
-        # 找 Accounts Receivable 和 Inventory
-        # 優先精確匹配「Accounts Receivable」，找不到再退而求其次找「Receivables」
-        # （房屋建商如 DHI、TOL 使用 Receivables 而非 Accounts Receivable）
-        ar_row = None
-        inv_row = None
-        for idx in bs.index:
-            s = str(idx).lower()
-            if s == "accounts receivable":
-                ar_row = idx
-            elif s == "inventory":
-                inv_row = idx
-        if ar_row is None:
-            for idx in bs.index:
-                if str(idx).lower() == "receivables":
-                    ar_row = idx
-                    break
+        ar_row_q = _find_row(bs_q.index, "accounts receivable", "receivables")
+        inv_row_q = _find_row(bs_q.index, "inventory") if inventory_applicable else None
 
-        if ar_row is None and inv_row is None:
+        if ar_row_q is None and inv_row_q is None:
             return None
 
-        cols = bs.columns
-        if len(cols) < 2:
-            return None
+        # 年報 lazy load
+        bs_a = None
+        def get_annual():
+            nonlocal bs_a
+            if bs_a is None:
+                try:
+                    bs_a = t.balance_sheet
+                except Exception:
+                    bs_a = False  # 標記嘗試過但失敗
+            return bs_a if bs_a is not False else None
 
-        def safe_int(val):
-            if val != val:  # NaN check
-                return None
-            return int(val)
+        result = {}
+        rep_q_idx = None  # 用來組 quarter_date：選 AR/Inv 中最新的季
 
-        def latest_two(row):
-            """從欄位由新到舊，找到第一個非 nan 當 curr，再往下找一個非 nan 當 prev。
-            回傳 (curr, prev, curr_col_idx) — 若不足兩個非 nan，curr/prev 為 None。
-            這能應付韓股 Q1 yfinance 上游尚未入庫的情況：最新一季為 nan 時退回前一季。"""
-            curr = prev = None
-            curr_idx = None
-            for i in range(len(cols)):
-                v = safe_int(bs.loc[row].iloc[i])
-                if v is None:
-                    continue
-                if curr is None:
-                    curr, curr_idx = v, i
-                elif prev is None:
-                    prev = v
-                    break
-            return curr, prev, curr_idx
-
-        # 用 AR 或 Inv 之中、值較新的那欄當作 quarter_date 代表
-        ar_curr_idx = inv_curr_idx = None
-        if ar_row is not None:
-            _, _, ar_curr_idx = latest_two(ar_row)
-        if inv_row is not None:
-            _, _, inv_curr_idx = latest_two(inv_row)
-        candidate_idxs = [i for i in (ar_curr_idx, inv_curr_idx) if i is not None]
-        rep_idx = min(candidate_idxs) if candidate_idxs else 0
-        quarter_date = cols[rep_idx].strftime("%Y-%m-%d")
-
-        result = {"quarter_date": quarter_date}
-
-        if ar_row is not None:
-            ar_curr, ar_prev, _ = latest_two(ar_row)
-            result["ar"] = ar_curr
-            result["ar_prev"] = ar_prev
-            if ar_curr is not None and ar_prev is not None and ar_prev != 0:
-                pct = (ar_curr - ar_prev) / abs(ar_prev) * 100
-                result["ar_qoq"] = f"{pct:+.0f}%"
+        # ---- AR ----
+        if ar_row_q is not None:
+            ar_curr, ar_prev, ar_q_idx = _latest_two(bs_q, ar_row_q)
+            ar_qoq = _pct_str(ar_curr, ar_prev)
+            ar_period = "QoQ"
+            ar_date = bs_q.columns[ar_q_idx].strftime("%Y-%m-%d") if ar_q_idx is not None else None
+            if ar_qoq == "N/A":
+                ann = get_annual()
+                if ann is not None and not ann.empty:
+                    ar_row_a = _find_row(ann.index, "accounts receivable", "receivables")
+                    if ar_row_a is not None:
+                        a_curr, a_prev, a_idx = _latest_two(ann, ar_row_a)
+                        a_qoq = _pct_str(a_curr, a_prev)
+                        if a_qoq != "N/A":
+                            ar_curr, ar_prev, ar_qoq = a_curr, a_prev, a_qoq
+                            ar_period = "YoY"
+                            ar_date = ann.columns[a_idx].strftime("%Y-%m-%d")
             else:
-                result["ar_qoq"] = "N/A"
+                rep_q_idx = ar_q_idx if rep_q_idx is None else min(rep_q_idx, ar_q_idx)
+            result.update(ar=ar_curr, ar_prev=ar_prev, ar_qoq=ar_qoq, ar_period=ar_period, ar_date=ar_date)
 
-        if inv_row is not None:
-            inv_curr, inv_prev, _ = latest_two(inv_row)
-            result["inventory"] = inv_curr
-            result["inv_prev"] = inv_prev
-            if inv_curr is not None and inv_prev is not None and inv_prev != 0:
-                pct = (inv_curr - inv_prev) / abs(inv_prev) * 100
-                result["inv_qoq"] = f"{pct:+.0f}%"
+        # ---- Inv ----
+        if inv_row_q is not None:
+            inv_curr, inv_prev, inv_q_idx = _latest_two(bs_q, inv_row_q)
+            inv_qoq = _pct_str(inv_curr, inv_prev)
+            inv_period = "QoQ"
+            inv_date = bs_q.columns[inv_q_idx].strftime("%Y-%m-%d") if inv_q_idx is not None else None
+            if inv_qoq == "N/A":
+                ann = get_annual()
+                if ann is not None and not ann.empty:
+                    inv_row_a = _find_row(ann.index, "inventory")
+                    if inv_row_a is not None:
+                        a_curr, a_prev, a_idx = _latest_two(ann, inv_row_a)
+                        a_qoq = _pct_str(a_curr, a_prev)
+                        if a_qoq != "N/A":
+                            inv_curr, inv_prev, inv_qoq = a_curr, a_prev, a_qoq
+                            inv_period = "YoY"
+                            inv_date = ann.columns[a_idx].strftime("%Y-%m-%d")
             else:
-                result["inv_qoq"] = "N/A"
+                rep_q_idx = inv_q_idx if rep_q_idx is None else min(rep_q_idx, inv_q_idx)
+            result.update(inventory=inv_curr, inv_prev=inv_prev, inv_qoq=inv_qoq, inv_period=inv_period, inv_date=inv_date)
+
+        # quarter_date：優先 quarterly 的最新一季；都沒有時用 AR/Inv 的 fallback 日期之較新者
+        if rep_q_idx is not None:
+            quarter_date = bs_q.columns[rep_q_idx].strftime("%Y-%m-%d")
+        else:
+            dates = [d for d in (result.get("ar_date"), result.get("inv_date")) if d]
+            quarter_date = max(dates) if dates else None
+        if quarter_date is None:
+            return None
+        result["quarter_date"] = quarter_date
 
         return result
 
@@ -141,8 +183,10 @@ def main():
                 short_name = a
                 break
 
+        inventory_applicable = company.get("inventory_applicable", True)
+
         print(f"Fetching {cid} ({ticker})...")
-        data = fetch_company_financials(ticker)
+        data = fetch_company_financials(ticker, inventory_applicable=inventory_applicable)
 
         if data:
             quarter_dates.add(data["quarter_date"])
@@ -167,14 +211,24 @@ def main():
                 "ar": data.get("ar"),
                 "ar_prev": data.get("ar_prev"),
                 "ar_qoq": data.get("ar_qoq", "N/A"),
+                "ar_period": data.get("ar_period", "QoQ"),
                 "inventory": data.get("inventory"),
                 "inv_prev": data.get("inv_prev"),
                 "inv_qoq": data.get("inv_qoq", "N/A"),
+                "inv_period": data.get("inv_period", "QoQ"),
+                "inventory_applicable": inventory_applicable,
                 "alert": alert,
                 "quarter_date": data["quarter_date"],
             }
             results.append(entry)
-            print(f"  AR: {data.get('ar_qoq', 'N/A')}, Inv: {data.get('inv_qoq', 'N/A')}")
+            ar_qoq = data.get('ar_qoq', 'N/A')
+            ar_label = f"{ar_qoq}({data.get('ar_period', 'QoQ')})" if ar_qoq != 'N/A' else 'N/A'
+            if not inventory_applicable:
+                inv_label = '—'
+            else:
+                inv_qoq = data.get('inv_qoq', 'N/A')
+                inv_label = f"{inv_qoq}({data.get('inv_period', 'QoQ')})" if inv_qoq != 'N/A' else 'N/A'
+            print(f"  AR: {ar_label}, Inv: {inv_label}")
         else:
             print(f"  No data")
 
