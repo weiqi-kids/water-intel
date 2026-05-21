@@ -287,6 +287,13 @@
         .financial-change.down { color: var(--color-pass, #1e8050); }
         .financial-change.flat { color: var(--text-muted, #8a8c98); }
 
+        .financial-period {
+            font-size: 0.65rem;
+            color: var(--text-muted, #8a8c98);
+            font-weight: 400;
+            margin-left: 2px;
+        }
+
         .financial-row.alert {
             background: var(--bg-warn-light, #fef3c7);
             margin: 0 -8px;
@@ -2603,17 +2610,29 @@
                 })
                 .slice(0, 12);
 
+            // 把週期標記附在 QoQ 之後（YoY 才顯示，QoQ 是預設不顯示以免雜訊）
+            function periodSuffix(p) {
+                return p && p !== 'QoQ' ? ` <span class="financial-period">${p}</span>` : '';
+            }
+            // 不適用庫存的公司（軟體／REIT／勘探商等）：庫存欄顯示 — 而非 N/A
+            function invCell(c) {
+                if (c.inventory_applicable === false) {
+                    return '<span class="financial-change flat" title="此業態無實體庫存">—</span>';
+                }
+                return `<span class="financial-change ${changeClass(c.inv_qoq)}">${c.inv_qoq || 'N/A'}${periodSuffix(c.inv_period)}</span>`;
+            }
+
             let html = `<div class="financial-quarter">${fin.quarter}</div>`;
             html += sorted.map(c => `
                 <div class="financial-row${c.alert ? ' alert' : ''}">
                     <span class="financial-name">${companyLink(c.id || c.company, c.name)}</span>
                     <span class="financial-metric">
                         <span class="financial-label">應收</span>
-                        <span class="financial-change ${changeClass(c.ar_qoq)}">${c.ar_qoq}</span>
+                        <span class="financial-change ${changeClass(c.ar_qoq)}">${c.ar_qoq}${periodSuffix(c.ar_period)}</span>
                     </span>
                     <span class="financial-metric">
                         <span class="financial-label">庫存</span>
-                        <span class="financial-change ${changeClass(c.inv_qoq)}">${c.inv_qoq || 'N/A'}</span>
+                        ${invCell(c)}
                     </span>
                 </div>
             `).join('');
