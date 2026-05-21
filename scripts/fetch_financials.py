@@ -48,23 +48,46 @@ def fetch_company_financials(ticker: str) -> dict | None:
         if ar_row is None and inv_row is None:
             return None
 
-        # 取最近兩季
         cols = bs.columns
         if len(cols) < 2:
             return None
-
-        quarter_date = cols[0].strftime("%Y-%m-%d")
 
         def safe_int(val):
             if val != val:  # NaN check
                 return None
             return int(val)
 
+        def latest_two(row):
+            """從欄位由新到舊，找到第一個非 nan 當 curr，再往下找一個非 nan 當 prev。
+            回傳 (curr, prev, curr_col_idx) — 若不足兩個非 nan，curr/prev 為 None。
+            這能應付韓股 Q1 yfinance 上游尚未入庫的情況：最新一季為 nan 時退回前一季。"""
+            curr = prev = None
+            curr_idx = None
+            for i in range(len(cols)):
+                v = safe_int(bs.loc[row].iloc[i])
+                if v is None:
+                    continue
+                if curr is None:
+                    curr, curr_idx = v, i
+                elif prev is None:
+                    prev = v
+                    break
+            return curr, prev, curr_idx
+
+        # 用 AR 或 Inv 之中、值較新的那欄當作 quarter_date 代表
+        ar_curr_idx = inv_curr_idx = None
+        if ar_row is not None:
+            _, _, ar_curr_idx = latest_two(ar_row)
+        if inv_row is not None:
+            _, _, inv_curr_idx = latest_two(inv_row)
+        candidate_idxs = [i for i in (ar_curr_idx, inv_curr_idx) if i is not None]
+        rep_idx = min(candidate_idxs) if candidate_idxs else 0
+        quarter_date = cols[rep_idx].strftime("%Y-%m-%d")
+
         result = {"quarter_date": quarter_date}
 
         if ar_row is not None:
-            ar_curr = safe_int(bs.loc[ar_row].iloc[0])
-            ar_prev = safe_int(bs.loc[ar_row].iloc[1])
+            ar_curr, ar_prev, _ = latest_two(ar_row)
             result["ar"] = ar_curr
             result["ar_prev"] = ar_prev
             if ar_curr is not None and ar_prev is not None and ar_prev != 0:
@@ -74,8 +97,7 @@ def fetch_company_financials(ticker: str) -> dict | None:
                 result["ar_qoq"] = "N/A"
 
         if inv_row is not None:
-            inv_curr = safe_int(bs.loc[inv_row].iloc[0])
-            inv_prev = safe_int(bs.loc[inv_row].iloc[1])
+            inv_curr, inv_prev, _ = latest_two(inv_row)
             result["inventory"] = inv_curr
             result["inv_prev"] = inv_prev
             if inv_curr is not None and inv_prev is not None and inv_prev != 0:
