@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-21",
+  "date_range": {
+    "start": "2026-05-15",
+    "end": "2026-05-21"
+  },
+  "generated_at": "2026-05-21T11:33:21.184185Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "essential-2026-05-15-008",
+      "date": "2026-05-15",
+      "title": "American Water Works stock (US0304201033): Ohio nod adds momentum to mega-merger with Essential Util - AD HOC NEWS",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 45,
+      "last_week": 26,
+      "week_over_week_change": "+73%",
+      "sentiment_this_week": 0.01
+    },
+    "capex": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 47,
+      "last_week": 25,
+      "week_over_week_change": "+88%",
+      "sentiment_this_week": 0.01
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": -0.12
+    },
+    "regulation": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "mueller": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "veolia": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "kurita": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "essential": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "american_water": {
+      "event_count": 15,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "pentair": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "ao_smith": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 9
+    },
+    "danaher": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "energy_recovery": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "badger": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 152,
+        "last": 174,
+        "change_pct": -12.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-15",
+      "event_count": 41,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 13,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 6,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 26,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 30,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 29,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 7,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-15 ~ 2026-05-21）共 152 則事件，重點為「American Water Works stock (US0304201033): Ohio...」。史密斯情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "史密斯",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "穆勒",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "威立雅",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

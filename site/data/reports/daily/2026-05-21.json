@@ -1,0 +1,236 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T11:33:21.042753Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_water-2026-05-21-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "How Multi‑State Infrastructure Upgrades At American Water (AWK) Have Changed Its Investment Story - Yahoo Finance",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkxuLXMxSWU4dlZxdFhTQUN6OWhHTnUzOWFYZHIyXzFrSWdDamdUN2pHdUtucHBBbldFM2FCS0Z2NW5waU1rbS1KZDhSSTJoMFZlR2RIZ2h4NXk1TU9wVGJFSGpqT25GTzRaeTlzdGIzdnh4NzFnUUpQcDNpMHFhQWQ4Z2pvalQ3eTRVeHB4MWlfSnExNFJiR0ZoLWw2TXJIMTU0V1g0SlpuMTF5VlJHcGdrOA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mueller-2026-05-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Fideuram Intesa Sanpaolo Private Banking S.P.A. Makes New $2.22 Million Investment in Mueller Water Products $MWA - MarketBeat",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNnNRU1BGRk9PdlRQVFNZQWNZSW1zUjRqSVdVSHFVSU1MRzk0cXljR0QzVVo1MG9SeDB1SzBQYnJ5NjlwU3ZhU0NnVGVXcDBDNFcxSGt0NEwtN3RKSi1GamNVN3I0dGxhdEtmRGQ1TDIxSloyd09Td3dJR3V0RzczalVQek1CUzJvSkZzSzZHSXlqcEZyYTR5T1Vza1lWRVMwaXVkME14a1hyM1Z0TG8wYTB5MVl1UV85ekhiRTZQVFllNklYUzZJTUJCOWdlRmRlRXFhWWpPRWJ4Wk05Z25oM0pDcFNYa3UwMko1MFVVTHVla1E4RGYweFYzZUg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_water-2026-05-21-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Fideuram Intesa Sanpaolo Private Banking S.P.A. Makes New Investment in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQV0NCSncwS0ZOTDRSMjczRC1rdGNudXdkMXczUDk3TU5Qc0JqWjM3Q25VVVRkU1VBLXJkTXhEeDVwcUJ3MkRRQTdmS2lPZE42Y2IxMnZMdi1ValJsWDBfQTJFZnA1QjV2VXVRSkxIYW9lYndaaE01VU9uT2xqWkQ2Y2l3MzNkZTdjcG96alp4NnNZT1FxSV9wUzVwOVVDSmdROGNReGdVbGU3djFscy1MYjRzTTN6aVZSS1pwbmRPejEySm91SFo5SUtiUWlXamZSY2doNXdFQVRZZVoyM191VVNrcFljWi1CMkthM3lFc1J6OUlReFJESmd3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_water-2026-05-21-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABN Amro Investment Solutions Lowers Stock Position in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWDhIaVh0N3llWDFyX2hHX3FIWnBtdVh6X3I1TE5uaV9XTDJ6UDdEaEszY3p3Sk9LNzY0bENVMjdSTTJZaTNUU1R2a2FBZGplR2xXU0hjV21HbS1SdDdCX3pzeEpYYXU2aVNWNl9GR0ZEWWZfRm5Sa21UT0dYaC1aQjZqTHQ3cktidkZpdGplOTF1cFNJVGxpSVRnTXM0cjlfZjR3aTRuMUNWOUFNWFRyZnlIZ0swcVhhZUNpbVlaQVNpQXljS014Unc1TGdHWlZDT192U3NTQkU5VEtRYXV4V1VnYUFFeXc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "veolia-2026-05-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Veolia Environnement S.A. stock (FR0000124141): focus on water and waste after latest quarterly upda - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWl9wNmc4bEtGTTZkUXdtR3V1ajNwVE81Ni1nem81RjdvV3I5QXBzVkNNNm1XcEhJZ2hHN3ktVjJZcVZkQ05TUzhUaTFXRDg2dmVxYXhfWnAwX0RqWlV3VW5SUU8yRmFVNzhQbl9CTHVfcmdYQTZ2bklQMXg3U3dwY2IyOW9BS2RKOVc3ZVlOLVh3Wi1YeVRTRVVDVGFzUjlBcFNmTkpsa09NZTZ2WkZOUDNjVkJpUlBZa3lwckh4T2gzc2dDRXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 3
+      },
+      {
+        "id": "mueller",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "badger",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 255,
+    "dup_title": 166,
+    "too_old": 51,
+    "gate1_blocked": 5,
+    "gate2_blocked": 7,
+    "passed": 26,
+    "pass_rate": "29.2%",
+    "gate2_block_rate": "7.9%",
+    "gate2_samples": [
+      "Can Energy Recovery Inc. (ERII) Overcome the Impact of the Iran War? - Yahoo Finance",
+      "Energy Recovery Ventilator Market to Reach USD 6.2 Billion by 2030, says Stratview Research - openPR",
+      "Energy Recovery Inc stock (US2927641074): T1 Energy rebound puts industrial names back in focus - AD",
+      "Director Pamela Tondreau adds 20,000 Energy Recovery (ERII) shares via trust - Stock Titan",
+      "Pentair (NYSE:PNR) And S&P 500: What’s Driving Market Attention? - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為美國水務、穆勒、威立雅相關動態：「How Multi‑State Infrastructure Upgrades At American Water...」。主要關注主題為水資源產業通用、財報、資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "How Multi‑State Infrastructure Upgrades At American Water (AWK) Have Changed ...（財報、資本支出、水資源產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Fideuram Intesa Sanpaolo Private Banking S.P.A. Makes New $2.22 Million Inves...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
