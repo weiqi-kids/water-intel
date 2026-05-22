@@ -1,5 +1,86 @@
 [
   {
+    "id": "veolia-2026-05-22-001",
+    "date": "2026-05-22",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement S.A. stock (FR0000124141): focus shifts to cash flow after Q1 2026 update - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNaUl3M29TSmlYdjVfNDQ0YWxPc2Zvc3d4TWdjMWNOTDNUNU9uVkhhMF9QQmRjX00xb0d2akR4UWNrU1JTNXV5YjdwemlqWVVXQkJLbGdlUTY3dng1QVd3bWMtcFFuTl83ZGRub2hYam",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaUl3M29TSmlYdjVfNDQ0YWxPc2Zvc3d4TWdjMWNOTDNUNU9uVkhhMF9QQmRjX00xb0d2akR4UWNrU1JTNXV5YjdwemlqWVVXQkJLbGdlUTY3dng1QVd3bWMtcFFuTl83ZGRub2hYamVYMk0yNV9qcEtVbmVWNGRUMk4wSGNLQnFGWm1zY2FxSzlScU5keVRaRzNLaHNxSTFnLXFIQV82Rzl4UmNHb3NSTVNSYjZ0MjJxUkZheFpBbVVTcEFZTnow?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-05-22-002",
+    "date": "2026-05-22",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "A.O. Smith stock (US0003711006): dividend track record and water technology exposure for US investor - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb0RFSGNzbUJ4aFctcmdMN0ZTVTZGLV9Sd2VpZmVNalJqemFBQ2NsMTJuYkpJY2pGYXY5UEZJTFNvUXBlQ3NyMmdfN1p3Y1NkaVhLY1UwYWdCX1NZODA5TDUtQ0xKS09ZWGVzTkJwX0",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb0RFSGNzbUJ4aFctcmdMN0ZTVTZGLV9Sd2VpZmVNalJqemFBQ2NsMTJuYkpJY2pGYXY5UEZJTFNvUXBlQ3NyMmdfN1p3Y1NkaVhLY1UwYWdCX1NZODA5TDUtQ0xKS09ZWGVzTkJwX0FYNDZXV1ltMjliUldHTGVYZVdBQWFCN0hEeE04NEU1SzVudFVIZU1WX2pQZnp6TEJsMXJ4WFhCWjNXY24tTFQzSms3TmFwS2NJZFdj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "danaher-2026-05-22-003",
+    "date": "2026-05-22",
+    "companies": [
+      "danaher"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Danaher Corp. stock (US2358511028): earnings beat keeps focus on life sciences recovery - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZjBIcjB3WmpqdlE3eDFTYWFSLUE5dnhrNzZ3Ty1iMVFGc053d0RDd3JJMDR6UU1kaUtXeFFYb3NRaEpHc3ViSzZhVnVJYThuYVFKTWxzZGtyb3lJTE9HazUta1JZMVoxb09mQ2NPcH",
+    "sources": [
+      {
+        "name": "danaher",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZjBIcjB3WmpqdlE3eDFTYWFSLUE5dnhrNzZ3Ty1iMVFGc053d0RDd3JJMDR6UU1kaUtXeFFYb3NRaEpHc3ViSzZhVnVJYThuYVFKTWxzZGtyb3lJTE9HazUta1JZMVoxb09mQ2NPcHlrYzRsbjhqQ0N0b3FsT0lBZTU5MGd1eG5OaWE3MWF3VVhQeWdaM0dSal9DMHh1MUVHSE0zZkZnTk9NVk5WRlQwRTJWT1otTWk5Yk1IaEFjWENMZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-05-22-004",
+    "date": "2026-05-22",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company, Inc. $AWK Shares Sold by PNC Financial Services Group Inc. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbmR2NUMxVENMUGR3TUhSbjA2ZDM3NDk1aGNvSjJzR24xdVVKRXExNTVLcmNDRUxzMFg0SzRUQlpQdDBQWWdvSXZrNmpPZ180QzBnc1kzX19JZzNkRzVVa3d4VjNIU0lnZ0t6M083S0",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbmR2NUMxVENMUGR3TUhSbjA2ZDM3NDk1aGNvSjJzR24xdVVKRXExNTVLcmNDRUxzMFg0SzRUQlpQdDBQWWdvSXZrNmpPZ180QzBnc1kzX19JZzNkRzVVa3d4VjNIU0lnZ0t6M083S0V4UjBpU3N5NmJrRkNpNHo5VVhFMmtVNmVtUU9jeUJiOGw3NnNHVGRqN24wazc5THJfdGhvbnJPNHBXMmdXbDhTRFhFSXhoM1BvbGtCQVF1OElVMFRzNmFHRkxiLWhkcngwUUVKN1cwS2Z2OFRxeGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-05-21-001",
     "date": "2026-05-21",
     "companies": [
@@ -138,6 +219,241 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWDhIaVh0N3llWDFyX2hHX3FIWnBtdVh6X3I1TE5uaV9XTDJ6UDdEaEszY3p3Sk9LNzY0bENVMjdSTTJZaTNUU1R2a2FBZGplR2xXU0hjV21HbS1SdDdCX3pzeEpYYXU2aVNWNl9GR0ZEWWZfRm5Sa21UT0dYaC1aQjZqTHQ3cktidkZpdGplOTF1cFNJVGxpSVRnTXM0cjlfZjR3aTRuMUNWOUFNWFRyZnlIZ0swcVhhZUNpbVlaQVNpQXljS014Unc1TGdHWlZDT192U3NTQkU5VEtRYXV4V1VnYUFFeXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-05-21-008",
+    "date": "2026-05-21",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scruggs Adds Former Mueller Water Executive Greg Rogowski to Board as Water Infrastructure Investment Accelerates - citybiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQemlmd1ZMVjA3SURQdTg0U0pvQ0FqNUZ4OV83RXJnbjFndFUzc2tDNk11TVBiRUxsSEdEdFExRDh1cXpTaVppWktYZmp0b3VXNm9SNmJ1dHV1anRVWXlZbkVXckFtbkx5cHVLX3dSdU",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQemlmd1ZMVjA3SURQdTg0U0pvQ0FqNUZ4OV83RXJnbjFndFUzc2tDNk11TVBiRUxsSEdEdFExRDh1cXpTaVppWktYZmp0b3VXNm9SNmJ1dHV1anRVWXlZbkVXckFtbkx5cHVLX3dSdUhSU0VvcnJnZmVHVjlvTmlJRjFlczNRM2hZWURLcEg1bl9kenlndF9ZRWo1dTBqYk9yZlRtRU9naWFZZFE3T0VNMGp1YWtJb1FaRmszQUZieGt4eVdTamtnT05uMVltYm9VM1o0cmNLMGxxWjNzWDd0X2xDNFBoT1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-05-21-009",
+    "date": "2026-05-21",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Integrated torrefaction-anaerobic digestion of bamboo waste for enhanced energy recovery: process optimization, product characterization, and techno-economic evaluation - Nature",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhb3VJcHhicDVseHBiNUI0bko4R3JqSFkxSnVOZkRaX28yRnZONjR5aVNUU1c2LVlRZjJsUzYzSXI3cjlXMHQ3QmZPbkpiUzEyNHQ0cUE5V0hSWnBVMkQw?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhb3VJcHhicDVseHBiNUI0bko4R3JqSFkxSnVOZkRaX28yRnZONjR5aVNUU1c2LVlRZjJsUzYzSXI3cjlXMHQ3QmZPbkpiUzEyNHQ0cUE5V0hSWnBVMkQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pentair-2026-05-21-010",
+    "date": "2026-05-21",
+    "companies": [
+      "pentair"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pentair plc stock (IE00BLS0VV05): Institutional buying and recent price surge put the water technolo - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNdkxnMHRKX0VtNEJTeFQyazdycHlKM2dhS0VSYWQ4My1LRjZ5X3BmY1pDQjVRZDBQQkxFQ1lDSFcxZldpVFNlallyS0xxMkRhM1FjQ2E3RG9KN28wSUpVaERvUTlsb2VMS1VGTldPNm",
+    "sources": [
+      {
+        "name": "pentair",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdkxnMHRKX0VtNEJTeFQyazdycHlKM2dhS0VSYWQ4My1LRjZ5X3BmY1pDQjVRZDBQQkxFQ1lDSFcxZldpVFNlallyS0xxMkRhM1FjQ2E3RG9KN28wSUpVaERvUTlsb2VMS1VGTldPNmNCcnp2QlVobDNtX1VZQ3BzWEVVWmVEQTBSSXB1RzhoQ1ZweEFfS193dkM3TXNqUXJ4V2FKVmlrOVhJNU1xWUhIa3pjQnNsX3FQaWNKS0E4RzJqVjZrQXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-011",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is A. O. Smith Corporation (AOS) A Good Stock To Buy Now? - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNSzNLeEZQY1QzT1NYdlNMdWZVeC00bndnTFlaMkVvZjNfcE5oTVVkeFBQc2dpM2FsUm9RalRMd25TX3FHeFA5em5xZEMybUVxcHJzQnhjOGlWM25IbVk0Sm9NYVZFZmQ4bzNNOWhFdn",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSzNLeEZQY1QzT1NYdlNMdWZVeC00bndnTFlaMkVvZjNfcE5oTVVkeFBQc2dpM2FsUm9RalRMd25TX3FHeFA5em5xZEMybUVxcHJzQnhjOGlWM25IbVk0Sm9NYVZFZmQ4bzNNOWhFdnotUTY3N01nSWF4QnJIQjEwc25NUjZNNkJYbnFodmN5MG00VVJjMWd6ZHJBTGk2emRFX3VsMdIBpAFBVV95cUxNSzNLeEZQY1QzT1NYdlNMdWZVeC00bndnTFlaMkVvZjNfcE5oTVVkeFBQc2dpM2FsUm9RalRMd25TX3FHeFA5em5xZEMybUVxcHJzQnhjOGlWM25IbVk0Sm9NYVZFZmQ4bzNNOWhFdnotUTY3N01nSWF4QnJIQjEwc25NUjZNNkJYbnFodmN5MG00VVJjMWd6ZHJBTGk2emRFX3VsMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-05-21-012",
+    "date": "2026-05-21",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries stock (JP3270800000): Arizona engineering center boosts North America servic - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPWkVtdGxsRHFvMkhqenVpU2tBVzVhaVpIQm10OG5faEY5V0tRWGMwQzRtVjVPdWg3b0RzaXdWeVlEaEFmMElQWEpiYU50bGtrRTc1ajJ4SlBuSms0dXNMU2VNa0ViOTRMT0FGcW11ZG",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWkVtdGxsRHFvMkhqenVpU2tBVzVhaVpIQm10OG5faEY5V0tRWGMwQzRtVjVPdWg3b0RzaXdWeVlEaEFmMElQWEpiYU50bGtrRTc1ajJ4SlBuSms0dXNMU2VNa0ViOTRMT0FGcW11ZGdqYTlMRFdxaEl1Zldramt6Yl9CVm1NcWE1TzE0ZWFtRTdxY2ZtNGhBUHRXTVZGTFJHb0QwTFZCRUdMM0RIYU1Ddlk3RnpLUHRHd0RRYkM0cXEwM21OSUdF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-05-21-013",
+    "date": "2026-05-21",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Does a Congressional Stock Sale Mean for American Water Works (AWK)? - Kavout",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjA1WDZVUEhhQXNrMXFFZEh6cnlKTGt5SkhXYVdfS2RmVkwwQS1ZOHhwQWtKNjh2MjJmc09YeXVMcEVjbVE0cmZrV0daYm5YaEs5cUxTVkR4U090VzlvRjZOdFRuMUdTUmdVS1gzY0",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjA1WDZVUEhhQXNrMXFFZEh6cnlKTGt5SkhXYVdfS2RmVkwwQS1ZOHhwQWtKNjh2MjJmc09YeXVMcEVjbVE0cmZrV0daYm5YaEs5cUxTVkR4U090VzlvRjZOdFRuMUdTUmdVS1gzY0R4a1BDU2gxS2VxdlVlT2YwZ0xTWXc2cVpKQnZXT3d0OTZ3MkZBRWlnbmI2UGFoSzhVYmduUGxGVmY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-014",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Water Quality Reports Available Online for Illinois American Water Customers – Company Announcement - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVEtdWlfeklJNG4yS2ZHajU0TnpZY3FFMTFfOVpURzZWYkFabVBjY1VtSi1fLVhsczB3SUZXdDZMQUhPbGp5M1E0Tm9NWUxlUnc4WnJRNE93R2ROQThFV25Vcjl5eGoweXFza3hmNT",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVEtdWlfeklJNG4yS2ZHajU0TnpZY3FFMTFfOVpURzZWYkFabVBjY1VtSi1fLVhsczB3SUZXdDZMQUhPbGp5M1E0Tm9NWUxlUnc4WnJRNE93R2ROQThFV25Vcjl5eGoweXFza3hmNTk4U05ZSUlva1dzbDdaUkpaWmdiSVBlOW9CNnhFNWxJRUt4allhRF9wdg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-015",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois American Water to invest $32M replacing lead lines - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNRjFDMlhPSE9xd28zMlowRTNWVDhrNmE1LXR1ZXBUYzZjU0NSckZYNVRJZ2kyaXAxN19fejB0NEtZVDdnVkwtZWlaTUt2UWRxRi1IaEhvU1VBVnA3cnBvdzF2R3dKa0c0eTlhUlN0Zn",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRjFDMlhPSE9xd28zMlowRTNWVDhrNmE1LXR1ZXBUYzZjU0NSckZYNVRJZ2kyaXAxN19fejB0NEtZVDdnVkwtZWlaTUt2UWRxRi1IaEhvU1VBVnA3cnBvdzF2R3dKa0c0eTlhUlN0ZndndTJfOEI2Nk1EVzVpeUVxTEFOT2lpR1pnV21NVkR2QWg5STJuQXBFUzcyZHlpVGExR1BCWWtGTS1rS3cta2JDYWtmZTRicVpyd29uTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-05-21-016",
+    "date": "2026-05-21",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is New Multistate Infrastructure Spending And Debt Issue Altering The Investment Case For American Water Works (AWK)? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSU1aLTl2OERTNFZLdkxRTlhsS0V5eEdfekpUcTkxUGV2b1lfN2F3NTNwZWdVNEtER3VVQVVKdDk2WHpWRGlvTWhiRGZrNGdpYnJpd0g2Ri13a0gzbkZ4TjhKeGZiMTg0SlFoXzdScT",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSU1aLTl2OERTNFZLdkxRTlhsS0V5eEdfekpUcTkxUGV2b1lfN2F3NTNwZWdVNEtER3VVQVVKdDk2WHpWRGlvTWhiRGZrNGdpYnJpd0g2Ri13a0gzbkZ4TjhKeGZiMTg0SlFoXzdScThlcjJ0ODJlb0RZdVd2U1AwWFRRZHhvREFiNUpiMm5wb0gwMEItU01LMUVKbDE1LWswTE1EOENNSWRablJpZVhsek1SZWs0ZEdZSlFXUlZMNVk2WElYOEphemZxQ1RZTlJKYWZ30gHYAUFVX3lxTE9LODF5a3IwMEZJSWN4WUJKZlJWR0ItQlA4Q2pyWHVYclVWamNFSldfWWpQNFJBSFJYLURpMVpMWVM0cHRhbVVvenhjdW9nYWJXU2c1enI5MXFGbHktdnpNQ1FzcEhTOEJVbXljeDRvekM0U3NVeWZoWTJwckZYYVlZc1FRSzNUckRSd2RmS181UWpZUV9Cc1RIanVkZFR4bDVZMXd5UU5MeUJ5SUFzOHREcGxaTlVia0xYWDl2T3ZWWkRqX09LMXpYa3EzTDNWTnNrMzQ2YnlSYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-017",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "$50K in grants will upgrade gear for NJ volunteer firefighters and EMS - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGhaRlpLMk1MVDZVa1pCTWM4R2JoNW50LUp2Q3NQOGpBZEtNeklhMlFqSFNyNnRaMU1CSTI1cjNrMGNSeFFFMEFXb3hWZFAtZ0JzQm9LOWRsaHJ1Qi1tbW45RmtzYzlRY1FXYk9fMW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGhaRlpLMk1MVDZVa1pCTWM4R2JoNW50LUp2Q3NQOGpBZEtNeklhMlFqSFNyNnRaMU1CSTI1cjNrMGNSeFFFMEFXb3hWZFAtZ0JzQm9LOWRsaHJ1Qi1tbW45RmtzYzlRY1FXYk9fMW4zVkt6WWg5Qkc1eklTMUFjc0FFLUV4dVlYZzQ5R3BkQlVKcHdKOFZjOVFzSFdLOC1yUTdRTFViLXJQM3cxOXkwVC1VWXpKRmpjbEJLdg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-018",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Holly Springs (NC) Town Council Grapples With Growth, Traffic and Infrastructure Pressures - hollyspringsupdate.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOdXJQUWFGQnFSWS1JRnVoejlJblZRSFphSkNNQmM3S0JoT2JiUTMtYmc5YzFqVVppaldrU0lKSmdUQmdROElTVzM3a1JpaC0xUTJ1RTRldFlDZnNhR3NWckQtYXpVLW5kZGZmdWZ6Mj",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdXJQUWFGQnFSWS1JRnVoejlJblZRSFphSkNNQmM3S0JoT2JiUTMtYmc5YzFqVVppaldrU0lKSmdUQmdROElTVzM3a1JpaC0xUTJ1RTRldFlDZnNhR3NWckQtYXpVLW5kZGZmdWZ6MjdMZjNtUzZuTnM4NEhOWm96NQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-05-21-019",
+    "date": "2026-05-21",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works stock (US0304201033): dividend hike and solid Q1 results draw investor attentio - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdFpnZ19WTkxiaG5qa2hMdUp6eDNkTVJ2S3hzR200c013NjlfSXA5UE1LcW0wVHcwU183cDZ0NGtaRVRqSVVqZDNGMmZtQy1wLWtlSHFpSmdQOGlKak11TEVMSGg2OGxkUG14RG43SG",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdFpnZ19WTkxiaG5qa2hMdUp6eDNkTVJ2S3hzR200c013NjlfSXA5UE1LcW0wVHcwU183cDZ0NGtaRVRqSVVqZDNGMmZtQy1wLWtlSHFpSmdQOGlKak11TEVMSGg2OGxkUG14RG43SGY2aU92UnNKRmxHRExBektKVDMtY1gzOFNFT25vdTZaR0lpVGwtZngxSmRlalpyUEIzNWRFSDczWUpMSmgzV2ZoY292MC1wakdHQlA1ZnYwa2tlQkU?oc=5",
         "type": "rss"
       }
     ]
@@ -725,6 +1041,26 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSUNIVWV4TDJUaTd6ZjVfbURDM1o3VmpxY2p2TG1wNzVfT0JGbHpBRjZZbzNpZjllazJPV1cwcklTYzRTdTVDZ2RIaHpsOVBaNm8tVlpaT0M1eDc3X0xLN0JPaFlxOHFpSVB1ejl1VzhQSWtqSWV5TEdteWhuMzB4NWpnX2lxYUNHcGZVT3FxVzJ0UEFoS3lvUG1zT2lWblVidGRJaDZjYk10dkVOdVo0T0VGY3NZWlNiUUhPNDZpUzJPbm5SaEN3R0t4eVZfZHlTSXNGWmQ4X3ZNZGhTSnNDMXF1S0p6MWROSFp1Y2h4RW1sbzBubXJPNXdrZHVFTTl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-030",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "INFRASTRUCTURE WEEK: CALIFORNIA AMERICAN WATER HIGHLIGHTS $277 MILLION OF INFRASTRUCTURE INVESTMENTS EXPECTED IN 2026 - American Water Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcmpWTmZkZGdjUENwWjdjU29IM2dBLXJHR1ZSOFV6VHg0TjItYjJuY01FVl9tMU9mTk5hX0laRG5PNHMteVRHdm1hWmNFVWY3QnNRYThVdzlNOGpQcUR3VDZyVUNVUngta05FQm1DRW",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcmpWTmZkZGdjUENwWjdjU29IM2dBLXJHR1ZSOFV6VHg0TjItYjJuY01FVl9tMU9mTk5hX0laRG5PNHMteVRHdm1hWmNFVWY3QnNRYThVdzlNOGpQcUR3VDZyVUNVUngta05FQm1DRWZiNDV2N1E5Q2phYXFQOVZyNmU0RG5YZVhiOHdFdzUxTW1rWEtMOXZxQWxQcnBBNFZJS25NbjJWNWlFM3VIak1nSlgwT2lpTElQMDQ3T1RCQzdNRlpsazVUbUNvMU90eDNGWWdIamU1bE0wbDlDbl9GdmdaZWlRclBJTnZr?oc=5",
         "type": "rss"
       }
     ]
@@ -1321,6 +1657,26 @@
     ]
   },
   {
+    "id": "unknown-2026-05-19-031",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois American Water Highlights $290 Million of Infrastructure Investments Expected in 2026 During Infrastructure Week - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNNDRJNUMzbElxSlRwXzZNU29NMm1SNjhXbDdFTDIyanZobkUyM095cHJYSEktb1cyZEtYNDlHSVltSFQ4OUhqdHJrOTZVdkdUdWc3YldlQjBfVFpSbXJ3aTVndnAtUDVwdFVOQkZFdm",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNDRJNUMzbElxSlRwXzZNU29NMm1SNjhXbDdFTDIyanZobkUyM095cHJYSEktb1cyZEtYNDlHSVltSFQ4OUhqdHJrOTZVdkdUdWc3YldlQjBfVFpSbXJ3aTVndnAtUDVwdFVOQkZFdmtVdUt3ZmdIUGVNSE1URkJhMng4ZTkzeVRqLWFhY3VBQXRDYnZwakVlazVDNnlUZlQyaHJSdVpOYVhhVVk4TEg4bjA4OVlVQjhMOWhWYXA2NUMtTnVtVl9OMzRldk5PNXRoQmVVNXhZQlJmcjg0Vmw2RWcyUV9vb0ZrYTJrcHdhNGQ2R1ktTVFKeVJ2ZGNlckhucVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-05-18-001",
     "date": "2026-05-18",
     "companies": [
@@ -1830,6 +2186,27 @@
       {
         "name": "ao_smith",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONGd6WlBEdUY0enlzdzVlalFka0hHd1lHVVBUcGxPQUNXaUd6bDk0ZjVhR1Qwc0x4VGFNVVNQaXlKaHRRd1Zsekd1Ry1qOGswWjJiY2txNkI0WVdoUFdGSkpuYlYwUVBUQUQ2SUdhNjZCYlhPUUgyR3BNb3N5U2pYZlBkNjNiWWNYekgtUlh6RGFQajZyUXo1RjQ4a01zcFJTWU5xMlJJcUxmaVdEMDN3UUp4dHJWb3A5N1NNUkRqdGZTR3ZtMHpsZUVDNVZEbm0wNjROSFNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-05-18-027",
+    "date": "2026-05-18",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products director Healy buys $30,018 in stock By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNNU1sdTFmT3BSUDI3OUNUcS00SmIycW1JMzFOemtDTnRMZ3ZQVXAta1RDTDlJcGNsdDdCUWlXSlBDTGJQZFFFYTBQN0ZudDFpME1CUlBFbEtfaGdaY3podW8yLVdLRTBTVzlLNldOM2",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNU1sdTFmT3BSUDI3OUNUcS00SmIycW1JMzFOemtDTnRMZ3ZQVXAta1RDTDlJcGNsdDdCUWlXSlBDTGJQZFFFYTBQN0ZudDFpME1CUlBFbEtfaGdaY3podW8yLVdLRTBTVzlLNldOM25Pd0dyWWQ2Zmk3dnhkSzhJZnRfam9xYmUwWldVUGJtM0FmR0VoSi1URzJiQ1dWdDNuTm5jdFBENnhlWm1EQ2kySHI1UG51Nk5Wa2lGREtB?oc=5",
         "type": "rss"
       }
     ]

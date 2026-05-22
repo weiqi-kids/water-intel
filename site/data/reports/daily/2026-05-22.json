@@ -1,0 +1,194 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T10:57:05.510462Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ao_smith-2026-05-22-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "A.O. Smith stock (US0003711006): dividend track record and water technology exposure for US investor - AD HOC NEWS",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb0RFSGNzbUJ4aFctcmdMN0ZTVTZGLV9Sd2VpZmVNalJqemFBQ2NsMTJuYkpJY2pGYXY5UEZJTFNvUXBlQ3NyMmdfN1p3Y1NkaVhLY1UwYWdCX1NZODA5TDUtQ0xKS09ZWGVzTkJwX0FYNDZXV1ltMjliUldHTGVYZVdBQWFCN0hEeE04NEU1SzVudFVIZU1WX2pQZnp6TEJsMXJ4WFhCWjNXY24tTFQzSms3TmFwS2NJZFdj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "veolia-2026-05-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement S.A. stock (FR0000124141): focus shifts to cash flow after Q1 2026 update - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaUl3M29TSmlYdjVfNDQ0YWxPc2Zvc3d4TWdjMWNOTDNUNU9uVkhhMF9QQmRjX00xb0d2akR4UWNrU1JTNXV5YjdwemlqWVVXQkJLbGdlUTY3dng1QVd3bWMtcFFuTl83ZGRub2hYamVYMk0yNV9qcEtVbmVWNGRUMk4wSGNLQnFGWm1zY2FxSzlScU5keVRaRzNLaHNxSTFnLXFIQV82Rzl4UmNHb3NSTVNSYjZ0MjJxUkZheFpBbVVTcEFZTnow?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "danaher-2026-05-22-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Danaher Corp. stock (US2358511028): earnings beat keeps focus on life sciences recovery - AD HOC NEWS",
+      "companies": [
+        "danaher"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZjBIcjB3WmpqdlE3eDFTYWFSLUE5dnhrNzZ3Ty1iMVFGc053d0RDd3JJMDR6UU1kaUtXeFFYb3NRaEpHc3ViSzZhVnVJYThuYVFKTWxzZGtyb3lJTE9HazUta1JZMVoxb09mQ2NPcHlrYzRsbjhqQ0N0b3FsT0lBZTU5MGd1eG5OaWE3MWF3VVhQeWdaM0dSal9DMHh1MUVHSE0zZkZnTk9NVk5WRlQwRTJWT1otTWk5Yk1IaEFjWENMZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_water-2026-05-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Water Works Company, Inc. $AWK Shares Sold by PNC Financial Services Group Inc. - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbmR2NUMxVENMUGR3TUhSbjA2ZDM3NDk1aGNvSjJzR24xdVVKRXExNTVLcmNDRUxzMFg0SzRUQlpQdDBQWWdvSXZrNmpPZ180QzBnc1kzX19JZzNkRzVVa3d4VjNIU0lnZ0t6M083S0V4UjBpU3N5NmJrRkNpNHo5VVhFMmtVNmVtUU9jeUJiOGw3NnNHVGRqN24wazc5THJfdGhvbnJPNHBXMmdXbDhTRFhFSXhoM1BvbGtCQVF1OElVMFRzNmFHRkxiLWhkcngwUUVKN1cwS2Z2OFRxeGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "ao_smith",
+        "count": 1
+      },
+      {
+        "id": "danaher",
+        "count": 1
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 256,
+    "dup_title": 177,
+    "too_old": 48,
+    "gate1_blocked": 6,
+    "gate2_blocked": 6,
+    "passed": 19,
+    "pass_rate": "24.1%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "Can Energy Recovery Inc. (ERII) Overcome the Impact of the Iran War? - Yahoo Finance",
+      "Energy Recovery Ventilator Market to Reach USD 6.2 Billion by 2030, says Stratview Research - openPR",
+      "Director Pamela Tondreau adds 20,000 Energy Recovery (ERII) shares via trust - Stock Titan",
+      "Pentair (NYSE:PNR) And S&P 500: What’s Driving Market Attention? - Kalkine Media",
+      "A.O. Smith names new CFO - BizTimes - Milwaukee Business News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為威立雅、史密斯、丹納赫相關動態：「A.O. Smith stock (US0003711006): dividend track record an...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "A.O. Smith stock (US0003711006): dividend track record and water technology e...（財報、水資源產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Veolia Environnement S.A. stock (FR0000124141): focus shifts to cash flow aft...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

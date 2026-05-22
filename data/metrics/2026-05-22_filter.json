@@ -1,0 +1,16 @@
+{
+  "total_raw": 256,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 48,
+  "gate1_fail": 6,
+  "gate2_fail": 6,
+  "passed": 19,
+  "gate2_samples": [
+    "Can Energy Recovery Inc. (ERII) Overcome the Impact of the Iran War? - Yahoo Finance",
+    "Energy Recovery Ventilator Market to Reach USD 6.2 Billion by 2030, says Stratview Research - openPR",
+    "Director Pamela Tondreau adds 20,000 Energy Recovery (ERII) shares via trust - Stock Titan",
+    "Pentair (NYSE:PNR) And S&P 500: What’s Driving Market Attention? - Kalkine Media",
+    "A.O. Smith names new CFO - BizTimes - Milwaukee Business News"
+  ]
+}
