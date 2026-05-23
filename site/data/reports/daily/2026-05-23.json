@@ -1,0 +1,109 @@
+{
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T10:00:37.328773Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_water-2026-05-23-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IFP Advisors Inc Purchases 10,249 Shares of American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZm9qVHpRSTE2cGFlRGRRUDFxa0E0RUtpdm1yNFowMTRWNWhDSlFQaGhoXzM2RTNIcnY1SWtySV9UMkpPdmJQdzZLaklPdE85OHBKWUdDUDdJcDFibjN5TmtMbklkQ2pPUWFKMjdDZjdPR3hNaVRJNnlhTV9DR25NMVNvUWZPX3J3dVh3eGU3QmhsNjF1X1hockZ1Y0tPbFl1SWw5UjJpY0hsNDlRQWJIQUYzZ0ZoNk1ic1JOQ2NpdEtfek15dWtLV2pfOHM1anQ3NkZuUTJjRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 257,
+    "dup_title": 177,
+    "too_old": 66,
+    "gate1_blocked": 2,
+    "gate2_blocked": 3,
+    "passed": 9,
+    "pass_rate": "11.2%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "Can Energy Recovery Inc. (ERII) Overcome the Impact of the Iran War? - Yahoo Finance",
+      "Pentair (NYSE:PNR) And S&P 500: What’s Driving Market Attention? - Kalkine Media",
+      "A.O. Smith names new CFO - BizTimes - Milwaukee Business News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為美國水務相關動態：「IFP Advisors Inc Purchases 10,249 Shares of American Wate...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "IFP Advisors Inc Purchases 10,249 Shares of American Water Works Company, Inc...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "美國水務為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,14 @@
+{
+  "total_raw": 257,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 2,
+  "gate2_fail": 3,
+  "passed": 9,
+  "gate2_samples": [
+    "Can Energy Recovery Inc. (ERII) Overcome the Impact of the Iran War? - Yahoo Finance",
+    "Pentair (NYSE:PNR) And S&P 500: What’s Driving Market Attention? - Kalkine Media",
+    "A.O. Smith names new CFO - BizTimes - Milwaukee Business News"
+  ]
+}
