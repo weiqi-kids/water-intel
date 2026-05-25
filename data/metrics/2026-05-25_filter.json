@@ -1,0 +1,16 @@
+{
+  "total_raw": 258,
+  "dup_title": 182,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 3,
+  "gate2_fail": 5,
+  "passed": 5,
+  "gate2_samples": [
+    "Can Energy Recovery Inc. (ERII) Overcome the Impact of the Iran War? - Yahoo Finance",
+    "Pentair (NYSE:PNR) And S&P 500: What’s Driving Market Attention? - Kalkine Media",
+    "A.O. Smith names new CFO - BizTimes - Milwaukee Business News",
+    "A O Smith names Carrie Anderson as CFO - MSN",
+    "Mark Harbour Obituary (2020) - Stamps, AR - A.O. Smith Funeral Home - Thomas Street Chapel - AL.com"
+  ]
+}

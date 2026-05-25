@@ -1,0 +1,25 @@
+{
+  "date": "2026-05-25",
+  "total_events": 3,
+  "by_company": {
+    "american_water": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "industry_general": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

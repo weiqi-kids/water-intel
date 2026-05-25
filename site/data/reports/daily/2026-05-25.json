@@ -1,0 +1,157 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T11:58:15.189621Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "pH Sensors Market Growth to Accelerate by 2035 Driven by Digitalization and Water Quality Mandates - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkZwbG9TSjBfaDNXZU9JN3JtcEJxbjVJNG9UbWV2dDlmdUxGeDU1Q1NoZUpkV0FhcUNvWXc3R1g1Mk01Skc5MXR6UE5oalR0b2Z0Sms2cWQ4X2ItR1NadW9EclVYMmNfdGZadEtNX2xJYzNidHNrYnNKN1NMWkJBakhyeDZtUlNBRUxPbnhjLVdhYjYxUEc4WFQ3YlVCNU5Gdm11V2dDSjF5NENIN3FmMWlKbmNuUWFwRVplSHkzVUJGTjFvY244?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-05-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Swedbank AB Grows Stock Position in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa0ZOY2ZacEIycFZpVzlmVFpnMWxHem0tRTFibmVqY21xMW5EQ1F0SFNYcWV4MHdQakd6b25sc3pzVW5LUDhhenB1NjVXb0o2WXFJZFhUWHNMV0JHblc4blE0SXItWVVMZDlNeHZuUVdXVGdVUkc0bWJZTnhEYk8zRjNkT25PX3RrQ2lpS0pNbEFUbnk1VndEbWcwREEtNUpCODJQTnZJNGNncEZieS1wMENKV0lOVjktOGRYTlBxeDVfcjBYOHpldFpvd1ZNQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "United Utilities stock (GB00B39J2M42): Water regulator ruling and UK utility backdrop shape the case - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOVdVa3JDVldRbngzd19GX0pDNHZlM1dDYWhlUGhsTGR1NjJTLTFiRW93djdlZHRsU0dRMGYyMjZrb1Mtbm9nWnd6eXJDclAzZEtNNER4Q3RTYmlDbmVRZGlnOGRaZWhzLXJBR09wMEtGN2Q3WmVIbndYaEFMbHlKWVpZSDY0NGp3UjdFalFSSVZmQmwtSm1id2VEUC1PYXdaSk1tb25SWkE5SHdWTEowUmJQQ1dVLUVQamU5OXVubG9QQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 258,
+    "dup_title": 182,
+    "too_old": 63,
+    "gate1_blocked": 3,
+    "gate2_blocked": 5,
+    "passed": 5,
+    "pass_rate": "6.6%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "Can Energy Recovery Inc. (ERII) Overcome the Impact of the Iran War? - Yahoo Finance",
+      "Pentair (NYSE:PNR) And S&P 500: What’s Driving Market Attention? - Kalkine Media",
+      "A.O. Smith names new CFO - BizTimes - Milwaukee Business News",
+      "A O Smith names Carrie Anderson as CFO - MSN",
+      "Mark Harbour Obituary (2020) - Stamps, AR - A.O. Smith Funeral Home - Thomas Street Chapel - AL.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為美國水務相關動態：「pH Sensors Market Growth to Accelerate by 2035 Driven by ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "pH Sensors Market Growth to Accelerate by 2035 Driven by Digitalization and W...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Swedbank AB Grows Stock Position in American Water Works Company, Inc. $AWK -...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

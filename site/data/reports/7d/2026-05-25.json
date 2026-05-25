@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-25",
+  "date_range": {
+    "start": "2026-05-19",
+    "end": "2026-05-25"
+  },
+  "generated_at": "2026-05-25T11:58:15.324700Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "mueller-2026-05-19-001",
+      "date": "2026-05-19",
+      "title": "Reflecting On Water Infrastructure Stocks’ Q1 Earnings: Mueller Water Products (NYSE:MWA) - Yahoo Finance",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 32,
+      "last_week": 35,
+      "week_over_week_change": "-9%",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 34,
+      "last_week": 35,
+      "week_over_week_change": "-3%",
+      "sentiment_this_week": 0.01
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "regulation": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "mueller": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "energy_recovery": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "pentair": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "american_water": {
+      "event_count": 15,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "kurita": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "essential": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "veolia": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "badger": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "ao_smith": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 9
+    },
+    "danaher": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 101,
+        "last": 185,
+        "change_pct": -45.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-19",
+      "event_count": 34,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 32,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 20,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-22",
+      "event_count": 7,
+      "sentiment_avg": -0.14
+    },
+    {
+      "date": "2026-05-23",
+      "event_count": 3,
+      "sentiment_avg": -0.17
+    },
+    {
+      "date": "2026-05-24",
+      "event_count": 2,
+      "sentiment_avg": 0.25
+    },
+    {
+      "date": "2026-05-25",
+      "event_count": 3,
+      "sentiment_avg": 0.17
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-19 ~ 2026-05-25）共 101 則事件，重點為「Reflecting On Water Infrastructure Stocks’ Q1 E...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "史密斯",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "穆勒",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "濱特爾",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

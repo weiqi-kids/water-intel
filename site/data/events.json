@@ -1,5 +1,64 @@
 [
   {
+    "id": "unknown-2026-05-25-001",
+    "date": "2026-05-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "pH Sensors Market Growth to Accelerate by 2035 Driven by Digitalization and Water Quality Mandates - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkZwbG9TSjBfaDNXZU9JN3JtcEJxbjVJNG9UbWV2dDlmdUxGeDU1Q1NoZUpkV0FhcUNvWXc3R1g1Mk01Skc5MXR6UE5oalR0b2Z0Sms2cWQ4X2ItR1NadW9EclVYMmNfdGZadEtNX2",
+    "sources": [
+      {
+        "name": "danaher",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkZwbG9TSjBfaDNXZU9JN3JtcEJxbjVJNG9UbWV2dDlmdUxGeDU1Q1NoZUpkV0FhcUNvWXc3R1g1Mk01Skc5MXR6UE5oalR0b2Z0Sms2cWQ4X2ItR1NadW9EclVYMmNfdGZadEtNX2xJYzNidHNrYnNKN1NMWkJBakhyeDZtUlNBRUxPbnhjLVdhYjYxUEc4WFQ3YlVCNU5Gdm11V2dDSjF5NENIN3FmMWlKbmNuUWFwRVplSHkzVUJGTjFvY244?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-05-25-002",
+    "date": "2026-05-25",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Swedbank AB Grows Stock Position in American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQa0ZOY2ZacEIycFZpVzlmVFpnMWxHem0tRTFibmVqY21xMW5EQ1F0SFNYcWV4MHdQakd6b25sc3pzVW5LUDhhenB1NjVXb0o2WXFJZFhUWHNMV0JHblc4blE0SXItWVVMZDlNeHZuUV",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa0ZOY2ZacEIycFZpVzlmVFpnMWxHem0tRTFibmVqY21xMW5EQ1F0SFNYcWV4MHdQakd6b25sc3pzVW5LUDhhenB1NjVXb0o2WXFJZFhUWHNMV0JHblc4blE0SXItWVVMZDlNeHZuUVdXVGdVUkc0bWJZTnhEYk8zRjNkT25PX3RrQ2lpS0pNbEFUbnk1VndEbWcwREEtNUpCODJQTnZJNGNncEZieS1wMENKV0lOVjktOGRYTlBxeDVfcjBYOHpldFpvd1ZNQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-25-003",
+    "date": "2026-05-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "United Utilities stock (GB00B39J2M42): Water regulator ruling and UK utility backdrop shape the case - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOVdVa3JDVldRbngzd19GX0pDNHZlM1dDYWhlUGhsTGR1NjJTLTFiRW93djdlZHRsU0dRMGYyMjZrb1Mtbm9nWnd6eXJDclAzZEtNNER4Q3RTYmlDbmVRZGlnOGRaZWhzLXJBR09wME",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOVdVa3JDVldRbngzd19GX0pDNHZlM1dDYWhlUGhsTGR1NjJTLTFiRW93djdlZHRsU0dRMGYyMjZrb1Mtbm9nWnd6eXJDclAzZEtNNER4Q3RTYmlDbmVRZGlnOGRaZWhzLXJBR09wMEtGN2Q3WmVIbndYaEFMbHlKWVpZSDY0NGp3UjdFalFSSVZmQmwtSm1id2VEUC1PYXdaSk1tb25SWkE5SHdWTEowUmJQQ1dVLUVQamU5OXVubG9QQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-05-24-001",
     "date": "2026-05-24",
     "companies": [],
@@ -14,6 +73,28 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzFOV2xLOXViMGk3R3NqRzh0NUwxRUx5c252d0d5MnFtc0xOd3ZwWlVVMDR5eVBTMjk1UXNtOVFRb0s2WUlDZ3RUXzh3anZCSnZua3Z4WGZLZXhPMXQ4N1ZtUVFHWEdUcjRwUU9jNXF3ZXFvUmw2WlNDWW5RaVVDX0R2UFp2NnN0Nlktd2dvd1VfaEFvYU9zcGVfcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-05-24-002",
+    "date": "2026-05-24",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "smart_water",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Veolia Environnement S.A. stock (FR0000124141): solid Q1 growth keeps the water and waste leader in - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOLS1rNTYwTUxnWVhCTlExMnhpLUVQM2haazg3eE1fRjdrWFNOVkI3QXh4dlJ0S1puSkd4X2lOQmVPejU1VWRqamJGVlRtNFpjaXFnRHpFNXFfUHhIRk9DaFdLalpoY1NqcWhGVUNUVE",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLS1rNTYwTUxnWVhCTlExMnhpLUVQM2haazg3eE1fRjdrWFNOVkI3QXh4dlJ0S1puSkd4X2lOQmVPejU1VWRqamJGVlRtNFpjaXFnRHpFNXFfUHhIRk9DaFdLalpoY1NqcWhGVUNUVEFpNS1nS09BQ0hEdnd6N21pelg5OHRiS3QydUNaRmtiamI5SDNScFJfNjl4Qzh1Mk1tWVV6OFZsaG5ZZDBJOGFZRUtUczdpMEJ4ampmaXhKLWVZQXM3WUY4?oc=5",
         "type": "rss"
       }
     ]
@@ -197,6 +278,25 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPeHJFaDAyZmNXVWVaT1gwRTF6ZndWQ0QyREZ4Ml9uU2liQXlQeXR2OE15MURVNmJEVTBYcVpWOUI1YXlUWWp6Tmtoc3Bfa1JlS0NGXzlhNGdOTk1ab2ZVaXM0M3dJZ0h2dVNtRVVyVjNFMTYyakRGLWZVdUIxY09aVW9KaE9Ea1B6UkJzY3dlWlR6cnBFZnJfUWNCSC1Mc1JEaFdSUy1zTGktTmZqV1k3U2h3cDdtMVQ3ZzVQZmt0c2xubnlIcmFrdTVWSldoUjZMcW5aS0wzbjhUU0hnOTlJR3hyaTJfNXFyYjB6clMyT05JQzJKamtBRFlHT0FuQUowVlg5M3VQSC0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-007",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Gruppo CAP boosts green infrastructure investments through 2037 - Materia Rinnovabile | Renewable Matter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPc1RXU3hKV0V4WDYzYlNUQVhmWFBWRmZBbVozZnBSbTFaR3laWllucERCZ0hENDRMYkk1Wm5GZmt1N2UzVnJ5VkdoZjhQMjN6ZDlBVjBqNzVWcHBIaFAtQnd0T1pGUU82RWdIVERCUk",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc1RXU3hKV0V4WDYzYlNUQVhmWFBWRmZBbVozZnBSbTFaR3laWllucERCZ0hENDRMYkk1Wm5GZmt1N2UzVnJ5VkdoZjhQMjN6ZDlBVjBqNzVWcHBIaFAtQnd0T1pGUU82RWdIVERCUkY3cjBFejVpcjF2STNPenFzRmZNSlZPNGlqczQ2QkFkVF84OHl4R1RXQjd1NUR4dw?oc=5",
         "type": "rss"
       }
     ]
