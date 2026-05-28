@@ -1,0 +1,13 @@
+{
+  "total_raw": 257,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 2,
+  "gate2_fail": 2,
+  "passed": 19,
+  "gate2_samples": [
+    "Energy Recovery to Participate in Upcoming Investor Conference - 富途牛牛",
+    "Veolia Environnement S.A. stock (FR0000124141): Moroccan regulator clears employee share capital inc"
+  ]
+}

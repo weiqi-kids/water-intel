@@ -1,0 +1,184 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T11:45:09.891372Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-28-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Enceladus Partners Invests in Major Turbine as Water Infrastructure Services Consolidate - citybiz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb245emM0c2hNdnZKcXJVSkVVcWkwZk5VRmFpOWJnZHZObWd1c3lMcmZCYXlQZmx3OE1WYzJjektGT3pRUzFzZVVwVnhLRVl3d0U3SnV0Q1E2UjhERU44ckxjOXF3bHVnQ2lMdGo4VVl0UVctZVlmREdrejVBRXNKRExoZmpkbnM3RlFHWTRCNEVrNXVIaF9tWDFkb2pmQ0lCM0E0WFV5V1ByNTNPLUJTQXREcjJ4d0hBZU9qWnB4WGNBMWxoWHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pentair-2026-05-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pentair plc stock (IE00BLS0VV05): Water technology group after Q1 2026 numbers and dividend update - AD HOC NEWS",
+      "companies": [
+        "pentair"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLUhKbklocVRKOXZnVEt1RG1uTjNmNWdwQlBPeUJyM09ZbVFhWExFQVQ5TzA4cXBuamlDNHJYalFRRVlfUF91U3lBWUhFT0tXS21nVzdsekxaNms3TGIwUDZIQ3dESTJfbFNzVjcwOWhHMXFQb3d2MjZpb09mSGRXS3JFSHFlQWIxYlZncUZzYWVycDlnWjVtMndJMWhPQXdsaklYSm9vSklGeGo2TXZFTG5TQjdqcTJ5VWpCOGZQRzJucGl5?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CFO Transition Raises a Deeper Question About A. O. Smith’s Capital Allocation Priorities (AOS) - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "semiconductor_ultrapure_water",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV1BrOUowTEhCdG1VS19BUlZCMmQ1cXZscXFPM3MyN05wVXVmdGRnSVJjV1c0eDVxcWRaWGF1bGpYTXVwSi1mSUpWR0lTNnBLMXBXRTJRY2lXOUtNT05lZkxBZ05EaXlxZUZkUG5oNXlUSG1HVm8xUnY1MklualZVbXJhMmt2MkxNR2ZYeURmZE5NV3FKZTJWWnFCckVRWWpVRzU1TzhFR1JPMjlDVXJiVHBTUHF4aUNWaGxKdDRENFJ2Rjl0U3dnb0530gHPAUFVX3lxTE9qRUw1N1NWZFVQMk12a1FENkpIZEdwdzRFUW9rb2FnMWtTQjN6cld1NHdXTWtuUWhQYm02S21iTnV2cXh4WTZ6a2JXeV9mSHhISmlydGI2d2FSb3FnQTM2OWVLTG1CX2h5MG1EaHlQemliMGlNVDhYV2pMYjhFNjVTZHJpTVFrYVhYZmxpX0duTnltM1VSeThBN0hxR3ZpUnRxak1KSkFWSkhlSWU5S0E5dTJlWkw5ZFFwd2k3aElHMXBHY0VELTJsWEZfLVJCVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "semiconductor_ultrapure_water": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "pentair",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "semiconductor_ultrapure_water",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 257,
+    "dup_title": 163,
+    "too_old": 71,
+    "gate1_blocked": 2,
+    "gate2_blocked": 2,
+    "passed": 19,
+    "pass_rate": "20.2%",
+    "gate2_block_rate": "2.1%",
+    "gate2_samples": [
+      "Energy Recovery to Participate in Upcoming Investor Conference - 富途牛牛",
+      "Veolia Environnement S.A. stock (FR0000124141): Moroccan regulator clears employee share capital inc"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為濱特爾相關動態：「Enceladus Partners Invests in Major Turbine as Water Infr...」。主要關注主題為財報、水資源產業通用、半導體超純水，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Enceladus Partners Invests in Major Turbine as Water Infrastructure Services ...（財報、資本支出、水資源產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Pentair plc stock (IE00BLS0VV05): Water technology group after Q1 2026 number...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

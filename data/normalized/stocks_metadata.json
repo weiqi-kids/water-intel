@@ -1,78 +1,78 @@
 {
   "mueller": {
     "earliest": "2025-07-18",
-    "latest": "2026-05-22",
-    "count": 211,
+    "latest": "2026-05-27",
+    "count": 213,
     "history_complete": true
   },
   "energy_recovery": {
-    "earliest": "2015-04-06",
-    "latest": "2026-05-22",
-    "count": 2801
+    "earliest": "2015-01-06",
+    "latest": "2026-05-27",
+    "count": 2864
   },
   "xylem": {
-    "earliest": "2015-04-06",
-    "latest": "2026-05-22",
-    "count": 2801
+    "earliest": "2015-01-06",
+    "latest": "2026-05-27",
+    "count": 2864
   },
   "veolia": {
-    "earliest": "2015-04-02",
-    "latest": "2026-05-25",
-    "count": 2851
+    "earliest": "2015-01-02",
+    "latest": "2026-05-28",
+    "count": 2918
   },
   "pentair": {
-    "earliest": "2015-04-06",
-    "latest": "2026-05-22",
-    "count": 2801
+    "earliest": "2015-01-06",
+    "latest": "2026-05-27",
+    "count": 2864
   },
   "ao_smith": {
-    "earliest": "2015-04-06",
-    "latest": "2026-05-22",
-    "count": 2801
+    "earliest": "2015-01-06",
+    "latest": "2026-05-27",
+    "count": 2864
   },
   "danaher": {
-    "earliest": "2015-04-06",
-    "latest": "2026-05-22",
-    "count": 2801
+    "earliest": "2015-01-06",
+    "latest": "2026-05-27",
+    "count": 2864
   },
   "watts": {
-    "earliest": "2015-04-06",
-    "latest": "2026-05-22",
-    "count": 2801
+    "earliest": "2015-01-06",
+    "latest": "2026-05-27",
+    "count": 2864
   },
   "badger": {
-    "earliest": "2015-04-06",
-    "latest": "2026-05-22",
-    "count": 2801
+    "earliest": "2015-01-06",
+    "latest": "2026-05-27",
+    "count": 2864
   },
   "kurita": {
-    "earliest": "2015-04-06",
-    "latest": "2026-05-25",
-    "count": 2739
+    "earliest": "2015-01-06",
+    "latest": "2026-05-28",
+    "count": 2804
   },
   "zhongyu": {
-    "earliest": "2015-04-02",
-    "latest": "2026-05-25",
-    "count": 2711
+    "earliest": "2015-01-05",
+    "latest": "2026-05-28",
+    "count": 2770
   },
   "essential": {
-    "earliest": "2015-04-06",
-    "latest": "2026-05-22",
-    "count": 2801
+    "earliest": "2015-01-06",
+    "latest": "2026-05-27",
+    "count": 2864
   },
   "american_water": {
-    "earliest": "2015-04-06",
-    "latest": "2026-05-22",
-    "count": 2801
+    "earliest": "2015-01-06",
+    "latest": "2026-05-27",
+    "count": 2864
   },
   "etf_pho": {
-    "earliest": "2015-04-06",
-    "latest": "2026-05-22",
-    "count": 2801
+    "earliest": "2015-01-06",
+    "latest": "2026-05-27",
+    "count": 2864
   },
   "etf_cgw": {
-    "earliest": "2015-04-06",
-    "latest": "2026-05-22",
-    "count": 2801
+    "earliest": "2015-01-06",
+    "latest": "2026-05-27",
+    "count": 2864
   }
 }
