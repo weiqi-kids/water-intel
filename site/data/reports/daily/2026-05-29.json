@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:36:04.495994Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "essential-2026-05-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UBS upgrades Essential Utilities stock rating on merger outlook By Investing.com - Investing.com Canada",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU3JIX29XTjBwbjdIYTBwbGhoQW9pdUNieU1QS3hXZWdFVk1xT0NVR043cVRaaVFUZWNpVTQ2OGdaWGJmZ2Y3LS1aODdEUjhZMzk3eGxDaXB5VklHclZURlJIeEJJMnI3b0RFR01Ldk5pZU14T214dEFraFB3NnFDLVhjM29OLTkyR09OdzduYmNlUXlRcXN3U1hNN2ZRQnBXTERfQkJtXzdqM0xDU3M0eEsxMVo1QkNTa2hCZ3hGT1lSUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "essential-2026-05-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UBS Upgrades Essential Utilities to Buy From Neutral, Adjusts Price Target to $43 From $41 - marketscreener.com",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMEtaNWltOHFCTXhpcmlMblhVUFZWWHpBZjJHbTZvLUNTOWI0MjNYb0tMY1ZFTG5LZklfYWtqaURLUHBTbFh2MV91VUk0SFMzcmlmSlJhejgyYkRRTlFNUFE1M1pWOGZRSTFjRXc3Z2N6cUlzOHhZQm5VQ0w4Qm54c1VwY1lsYlpTZ2N1S1RZRldENWY4OGczOVFEQVloa09WVXJIc1NIa3hlYUdYeDFGSFN2OE5DVnhlbXZVQk4wamtIMEtZSE9OWnhLQXJKYm1HMk9hRFU0VQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "essential",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 259,
+    "dup_title": 168,
+    "too_old": 67,
+    "gate1_blocked": 1,
+    "gate2_blocked": 2,
+    "passed": 21,
+    "pass_rate": "23.1%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "The Politics Blocking Syria’s Energy Recovery - The Washington Institute",
+      "Energy Recovery to Participate in Upcoming Investor Conference - 富途牛牛"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為必要公用相關動態：「UBS upgrades Essential Utilities stock rating on merger o...」。主要關注主題為水資源產業通用、財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "UBS upgrades Essential Utilities stock rating on merger outlook By Investing....（財報、展望、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "UBS Upgrades Essential Utilities to Buy From Neutral, Adjusts Price Target to...（水資源產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,47 @@
 [
   {
+    "id": "essential-2026-05-29-001",
+    "date": "2026-05-29",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS Upgrades Essential Utilities to Buy From Neutral, Adjusts Price Target to $43 From $41 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMEtaNWltOHFCTXhpcmlMblhVUFZWWHpBZjJHbTZvLUNTOWI0MjNYb0tMY1ZFTG5LZklfYWtqaURLUHBTbFh2MV91VUk0SFMzcmlmSlJhejgyYkRRTlFNUFE1M1pWOGZRSTFjRXc3Z2",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMEtaNWltOHFCTXhpcmlMblhVUFZWWHpBZjJHbTZvLUNTOWI0MjNYb0tMY1ZFTG5LZklfYWtqaURLUHBTbFh2MV91VUk0SFMzcmlmSlJhejgyYkRRTlFNUFE1M1pWOGZRSTFjRXc3Z2N6cUlzOHhZQm5VQ0w4Qm54c1VwY1lsYlpTZ2N1S1RZRldENWY4OGczOVFEQVloa09WVXJIc1NIa3hlYUdYeDFGSFN2OE5DVnhlbXZVQk4wamtIMEtZSE9OWnhLQXJKYm1HMk9hRFU0VQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-05-29-002",
+    "date": "2026-05-29",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS upgrades Essential Utilities stock rating on merger outlook By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU3JIX29XTjBwbjdIYTBwbGhoQW9pdUNieU1QS3hXZWdFVk1xT0NVR043cVRaaVFUZWNpVTQ2OGdaWGJmZ2Y3LS1aODdEUjhZMzk3eGxDaXB5VklHclZURlJIeEJJMnI3b0RFR01Ldk",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU3JIX29XTjBwbjdIYTBwbGhoQW9pdUNieU1QS3hXZWdFVk1xT0NVR043cVRaaVFUZWNpVTQ2OGdaWGJmZ2Y3LS1aODdEUjhZMzk3eGxDaXB5VklHclZURlJIeEJJMnI3b0RFR01Ldk5pZU14T214dEFraFB3NnFDLVhjM29OLTkyR09OdzduYmNlUXlRcXN3U1hNN2ZRQnBXTERfQkJtXzdqM0xDU3M0eEsxMVo1QkNTa2hCZ3hGT1lSUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "pentair-2026-05-28-001",
     "date": "2026-05-28",
     "companies": [
@@ -60,6 +102,233 @@
     ]
   },
   {
+    "id": "unknown-2026-05-28-004",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "MWA (NYSE) affiliate files Form 144 listing multiple stock‑plan lots for resale - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNdnFnMDMxN0hEeUlMdS1RSldNUmNrZXVQQ1RzT21BUFRHaHgwLXhpSGJUdi1hekRwVmhDYkxxcGwyNWF4ZldyRi13ZmRnMVdZdF9uZkllYmQxSEVyaGRoSm1NNWg1M1R3ZkQtSkRfdV",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdnFnMDMxN0hEeUlMdS1RSldNUmNrZXVQQ1RzT21BUFRHaHgwLXhpSGJUdi1hekRwVmhDYkxxcGwyNWF4ZldyRi13ZmRnMVdZdF9uZkllYmQxSEVyaGRoSm1NNWg1M1R3ZkQtSkRfdVpVRm1BbU5VRHR5R2NKbWdZSjRSR0xJNWp3TTdhMm9aM0N5WTFZaDFJRjJDa2R0eXVuMUowNw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-05-28-005",
+    "date": "2026-05-28",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Energy Recovery Announces Appointment of Alex Buehler as Interim President and Chief Executive Officer - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUmxJa25pMFpJTW1yT0JjOHNrNnlNZ05OamtQejBaZ2lockVqNGlYa1NsTm5DN2ZaX3R3XzZ4RG1sMEVsWUtobm5kRXJJREhlN3plRWV4bDZaZWlkeER3WlZHNkZ0WDhoVzZtcUR1TX",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUmxJa25pMFpJTW1yT0JjOHNrNnlNZ05OamtQejBaZ2lockVqNGlYa1NsTm5DN2ZaX3R3XzZ4RG1sMEVsWUtobm5kRXJJREhlN3plRWV4bDZaZWlkeER3WlZHNkZ0WDhoVzZtcUR1TXZHSDg1dkZHMDluODhDVmNla2ZyeU1iSXVpYmpnX3ZoMGl6TXdmYndIbS1WUTc0OVNsS3ktQUVQZUR6U3hXX19za0ZyLWlLaWVMZHZ1TzZQMnRTbERDVmY0WnZ6ZUVVRV9TSXIxOEdGSmJCRWNpLU1HNkY3R0VjMzVzUXhVTzZSNWo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-05-28-006",
+    "date": "2026-05-28",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Energy Recovery appoints Alex Buehler as Interim CEO after David Moon resigns - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMkJlcHpQVk90cW82NU9DYV9OUmhna29GLTZhUUhwbXZNSEs5ZDBVSHJrSVFib0dsUnp3VGhzTDhLaWY5enhVeEc4aHdmaWQySHJ4b3htaFp6MGFOOUtLNGJTWk5vZlRfUnBUZEtqZk",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMkJlcHpQVk90cW82NU9DYV9OUmhna29GLTZhUUhwbXZNSEs5ZDBVSHJrSVFib0dsUnp3VGhzTDhLaWY5enhVeEc4aHdmaWQySHJ4b3htaFp6MGFOOUtLNGJTWk5vZlRfUnBUZEtqZk41UFFuTVh2ZFJrdmc0NGREM1c0RE5NZUxWM296TTNHM3RFSVdBTmtqVVJFekdqYXVnUjNRTTRBM2RVeDBBMHZtUTRLVzFTcWdfendhdXkycnhFbmlmYTY5OVUwcFV2SHJHSEpnZC13?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-05-28-007",
+    "date": "2026-05-28",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Energy Recovery (ERII) appoints board member Alex Buehler as interim CEO - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQbEtpbC1UOUJZYWVobko4NURWXzN4TDFwNThlaGpVNW5EQmVSX0RfSUhvZmxYaEotUmpYWDRuUUtBVkdteWo5QmlneUtlcHU3RWhmRzZ0cUdvd21EU0M4UUswUTE4ak5fSVlWNUdWck",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbEtpbC1UOUJZYWVobko4NURWXzN4TDFwNThlaGpVNW5EQmVSX0RfSUhvZmxYaEotUmpYWDRuUUtBVkdteWo5QmlneUtlcHU3RWhmRzZ0cUdvd21EU0M4UUswUTE4ak5fSVlWNUdWckRlVXI4UTdMel9BY092UHFUT2k0bWNPVGpoWTVnZ1o5eHZPOW80LUdIOXk1QUxDUU13STM1YmtPeGJFZnlO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-05-28-008",
+    "date": "2026-05-28",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery names Alex Buehler interim CEO - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNbVQwZnY4STRGb3dtcHdlUlJGUmhwV2h0YlRjUlB4U2lRSmpxYzQzRDJUSzFVdkItWHZkSERaYTZTN3FwVXhNWHB1MWhmdWNjdHc2RjZxdlVNdjNHRS1nY0M4eG13eFdsSlpYNy1ZNm",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbVQwZnY4STRGb3dtcHdlUlJGUmhwV2h0YlRjUlB4U2lRSmpxYzQzRDJUSzFVdkItWHZkSERaYTZTN3FwVXhNWHB1MWhmdWNjdHc2RjZxdlVNdjNHRS1nY0M4eG13eFdsSlpYNy1ZNmlaaDZoel8yYXhCb2F1Q09pQ1poMk9Ndk1ybDl1T09nc1FIVEZLZGlxVEhodUhheG9COUtuMFlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-05-28-009",
+    "date": "2026-05-28",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Energy Recovery (ERII) Appoints Alex Buehler as Interim CEO Foll - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2l2eURjNDZGdUxmMzBEeW4zSFlESFc3eFlCdC1vbVdRVE4tY3Z2bVV0UnFyYXJkUFBWX3RRMC1wazdBQTJrcEYzSGxKMTRxTDByVDBydGl1cWZxZExjRzExVXQ0RjFpeWw1elFOal",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2l2eURjNDZGdUxmMzBEeW4zSFlESFc3eFlCdC1vbVdRVE4tY3Z2bVV0UnFyYXJkUFBWX3RRMC1wazdBQTJrcEYzSGxKMTRxTDByVDBydGl1cWZxZExjRzExVXQ0RjFpeWw1elFOal92Qk1QMVIzNDZiclF4UjY2cWFGeVY1emR4dDRxOVF1M3hLMzk5SmRrTmR2NjhNZHpvU2JGUkFTUGI4dlJZMU5FbjloamtkRDZaUklOOUdOT2ZnUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-05-28-010",
+    "date": "2026-05-28",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery announces appointment of Alex Buehler as interim president and chief executive officer - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbjRDUTdIQ05nU2ZZREVFdkozeWtZeThtanZmdzRCcFZBb3I3ZHJReVpvOV9udkVRWUp6bTJyVzFtdW9WbmNKLUhtUGFESTVoaU5Lc3JDMUxGa0x4bmsxM0NJMDJrSUk3WnlidnZCNz",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbjRDUTdIQ05nU2ZZREVFdkozeWtZeThtanZmdzRCcFZBb3I3ZHJReVpvOV9udkVRWUp6bTJyVzFtdW9WbmNKLUhtUGFESTVoaU5Lc3JDMUxGa0x4bmsxM0NJMDJrSUk3WnlidnZCNzh5UG5zTGxYY3VCZGxzZkZ6TXJleDlpbUVUS3RHa3JBZmpoSXNmbUtpMVFfUy1qN0VFbTl4Q3RjSFljOXZ0WXJzQk02Y05ZOGUwekNMR0RYUkZmNjdwU0hCY0tNUTVBbE1GM3VPVXh5S01GUjg1TzJzYWNjRnNYSXlx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-05-28-011",
+    "date": "2026-05-28",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery Announces Appointment Of Alex Buehler As Interim President And Chief Executive Officer - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNaVM3TGNBbnAxbXhtVlZLV0NObEhOZ2JKcnhCekFrV2VScEhTMzB6RHVmZUYwZW9FRk16eThRbjVCV3pGNWZPWXgycGYtektWZ19PVk1QNG0wR0d4dTN2VDJoN0VKa1JMSkJUVmVLWk",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNaVM3TGNBbnAxbXhtVlZLV0NObEhOZ2JKcnhCekFrV2VScEhTMzB6RHVmZUYwZW9FRk16eThRbjVCV3pGNWZPWXgycGYtektWZ19PVk1QNG0wR0d4dTN2VDJoN0VKa1JMSkJUVmVLWkF6WXFxLUdKYzR2SkhKNWticmMyYl8zeE0tNVJDZ1h5Q0pwYnJ0S21FdkUtNzdaT2JRQ3EzdDM1aEw1RFZKUHhiU0g5M1JKeG1YaVhGUXZrZ3ZLNFFYbTl6ci1VcjUwd3dvM0xKT2FpdENuWlRTT2kzQldvWmI3TFdPb0ZrYkw5a1F0TG50cXFXYkQ4ek1BVFpFR2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-05-28-012",
+    "date": "2026-05-28",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings call transcript: AO Smith Q1 2026 misses earnings, stock dips By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjVVUVc1WnJya1lMdFpEQzJ1bWtTcmRZWG94M3dET0pPVUNEWThoS0REUndCd2R3SHI5ZTAycUlNTzN3YXFWa3dNdGVIaUQycGFQNGJkLWFNWHhjNkt1V3hoZl9uVEUxQW9qVnRib1",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjVVUVc1WnJya1lMdFpEQzJ1bWtTcmRZWG94M3dET0pPVUNEWThoS0REUndCd2R3SHI5ZTAycUlNTzN3YXFWa3dNdGVIaUQycGFQNGJkLWFNWHhjNkt1V3hoZl9uVEUxQW9qVnRib1VvaXFjU29XZThZeF9BOWdZMDdUeFJIY014d0JWSGNVVVhMQzRyM2dYM2N1cWttMVZiYVJsbWdqNmJHeEhKOGs3TGRISzhHcFFBRGJYdXVtSzZ6eDh5WWNnXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-05-28-013",
+    "date": "2026-05-28",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2026 State of the Water Industry: American Water Works Association Report - JD Supra",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOdW83NkhSRDktQzJEeGlHUDlmelBVNWhDQmQ0WEt3cVViSzdPRU5HN2hDbHZVNVNvUVMydloyTktTWVZXYl9UenM2dEg2N0hnOEJtaWdvZVl2WndMZHVJVWxETFRDOUozdFQ1dFByYT",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdW83NkhSRDktQzJEeGlHUDlmelBVNWhDQmQ0WEt3cVViSzdPRU5HN2hDbHZVNVNvUVMydloyTktTWVZXYl9UenM2dEg2N0hnOEJtaWdvZVl2WndMZHVJVWxETFRDOUozdFQ1dFByYTlzSVV0a1hLN1hXTTVPblZRUA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-014",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Water Quality Reports Available Online for Iowa American Water Customers – Company Announcement - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVdXY08tY2dmelJIS1BoamhFdTlaTUlZUkFyQm5tNVNBTDNXLXlCSU1na2R4V2xDVl9PNnVRdmV6Z2lxaDRXaWxYek1QUjY2QWliY21zMXAxRnJOQ09YdDBVYzlnU1ZHSGYwdUJkR3",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVdXY08tY2dmelJIS1BoamhFdTlaTUlZUkFyQm5tNVNBTDNXLXlCSU1na2R4V2xDVl9PNnVRdmV6Z2lxaDRXaWxYek1QUjY2QWliY21zMXAxRnJOQ09YdDBVYzlnU1ZHSGYwdUJkR3RSaEtrZFlwM2l0a054TDRtUzJwM0c1OTN5Y24xbVlTbTJoaEg4T3dZbQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-015",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New report: 225,000 Iowans' tap water meets state and federal standards - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNQmlLWUtxcTEweDYzLTZseTA3c1VBZHl6eVdVRWFxeGdrZ2g1M0hZcHlOOGhRLVZqUndXdUdWdUIzOTBNTWpoUkl1cHJnZ0E1S0szMTNNZWRoQm9BMlV0VkVxRVdJM3RKdU5TdkFsXz",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQmlLWUtxcTEweDYzLTZseTA3c1VBZHl6eVdVRWFxeGdrZ2g1M0hZcHlOOGhRLVZqUndXdUdWdUIzOTBNTWpoUkl1cHJnZ0E1S0szMTNNZWRoQm9BMlV0VkVxRVdJM3RKdU5TdkFsXzdMWXpMNHJEWW5yVVJDRGo4WlNBWVY5bWFUX1ZVUi1IdDY2cFZYWVJxaVNidnB0OEJWbFVsUGlRT3VUMzlFZmpFajJlNzc5dkk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-05-27-001",
     "date": "2026-05-27",
     "companies": [],
@@ -93,6 +362,46 @@
       {
         "name": "kurita",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNlo0TGM3clJ6Zk5jZ0Fva05qR0lFZ2JTTFNGWkVidXlaa00tWmxUb0pPTGdnenloUmd5dDA0UlJ4Y0lQZWcyRjdQSDJpWVNCZDQxeEpnbVlDQzVtS2xFVlZvaENPZlgxQTFPTlpobzNPdlRzR2U0WXk3RS1PVjFyd0lpdGJRMi0zMW1tYTFUamROdDhRWXE5Zl93UElzTVhqbkptRVpiM3pYWWhfLXgwMzc0YTZudVJPbEVVY1V3eE1wcEZZV1M2ZjBtMkZ0UDR0VlZxN20xLVpQckhSZXZRSi1ZeWlCSjBYX1Rz0gHrAUFVX3lxTFA2WjRMYzdyUnpmTmNnQW9rTmpHSUVnYlNMU0ZaRWJ1eVprTS1abFRvSk9MZ2d6eWhSZ3l0MDRSUnhjSVBlZzJGN1BIMmlZU0JkNDF4SmdtWUNDNW1LbEVWVm9oQ09mWDFBMU9OWmhvM092VHNHZTRZeTdFLU9WMXJ3SWl0YlEyLTMxbW1hMVRqZE50OFFZcTlmX3dQSXNNWGpuSm1FWmIzelhZaF8teDAzNzRhNm51Uk9sRVVjVXd4TXBwRllXUzZmMG0yRnRQNHRWVnE3bTEtWlBySFJldlFKLVl5aUJKMFhfVHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-05-27-003",
+    "date": "2026-05-27",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lala Bassett Obituary (2025) - Stamps, AR - A.O. Smith Funeral Home - Thomas Street Chapel - Post and Courier",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNeTR2d19VVTFNQ1F4SVJLd3pfa1ZmTWhnODhnOUhmTk5INm9WdVEwdEptNVl4Ymo3UnpCQzBrR3lMRnBDNDFwQ1l2M3BfUEhobzhsUW5SMjZPUHJ5U3JNd01zN0Y4VFdOdUV2NUlQRk",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeTR2d19VVTFNQ1F4SVJLd3pfa1ZmTWhnODhnOUhmTk5INm9WdVEwdEptNVl4Ymo3UnpCQzBrR3lMRnBDNDFwQ1l2M3BfUEhobzhsUW5SMjZPUHJ5U3JNd01zN0Y4VFdOdUV2NUlQRkxHY2ZjOTgybmVIekdhcXhfRzJyek9qMldvSTFXbngyNDJOdVBFWWFCVEFnWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-05-27-004",
+    "date": "2026-05-27",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Billy Boyett Obituary (2023) - Stamps, AR - A.O. Smith Funeral Home - Thomas Street Chapel - Post and Courier",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFZUY3k4aG1jcnRTZXctN0lsMnhyTktFMEVXZU9sWEhOT3pMd1M2WjU3ckxseXMtYko4dW92WUhNNDQ4U3p1dWhhQ2Z6bHFqM0NyR3VvVzlKblRJU2loRXJfbmZVZVdLZlIxNXVGWS",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFZUY3k4aG1jcnRTZXctN0lsMnhyTktFMEVXZU9sWEhOT3pMd1M2WjU3ckxseXMtYko4dW92WUhNNDQ4U3p1dWhhQ2Z6bHFqM0NyR3VvVzlKblRJU2loRXJfbmZVZVdLZlIxNXVGWS1GM2FKd2lIMllnTWVqeGJ6dXVaaElMWUM1OFA3aWVEbC1yb2MxLWFjVENLTQ?oc=5",
         "type": "rss"
       }
     ]
@@ -350,6 +659,81 @@
       {
         "name": "google_news_water",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjhCWWJPcjNfemUweHZBQVVYMTJFajdEVldQaWMybGlwVzlBQmNHRTZRRVpQT0NWbTdONkt0c2dGVmFJSmxsbnVFNWhIb0RQZXVKS0ZmYVh5eDBjb3dncFBRbDhMZVZMTTVBT0R4VHFyZm1Ja2VnNDVCNEY0Tm9Yc3FnY1NXUWItZzViVlpyUHIyNjVFWUM3dVlSbWg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-014",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Has The Recent Slide In A. O. Smith (AOS) Opened A Valuation Opportunity? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOekFmRWRVVGRsQl9pSjBZOWw1TVFwR1lKS3FYM3Rsa0laNFpJY2dvNk1iVWllRFhRQ2lOcDdWZ0xtYklrTEVEbjZtSGRma2l2aE82VW53cXBJbjRxT0h3b2NXT1FnR3d5cUJmLWQ1UF",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOekFmRWRVVGRsQl9pSjBZOWw1TVFwR1lKS3FYM3Rsa0laNFpJY2dvNk1iVWllRFhRQ2lOcDdWZ0xtYklrTEVEbjZtSGRma2l2aE82VW53cXBJbjRxT0h3b2NXT1FnR3d5cUJmLWQ1UFpPaENPR2MtUWhUQjZhVFhMM0dQZUZHLWNwMERQNHIyOGUyVjlSYVB3d01uX2R0N1ZKczFtQnRMb2U0WHdoeENpeVpibGlKMFlPSlg1N1ktUmZldmhpMXpnTlR30gHPAUFVX3lxTE1FajdwYV9odHVoRnFabEV5SzR1dHB6ZXZ0Um5iZUhiUFM3UXFsZUMtVEthSlhCUTNjR3E1aUNGamYyU0dqT0gwQTd2bGx4ZVhaWTBPSWtSajhaM0ItMkx3VWVDRDhQNUlOQ3BkYzdDVnNBUGV0NWJ1M3hQVFluY2xiRGVIcXRySTJySWpnLUZTQzc3SjAtVDd5NlBSOGktbHI0emVISk03dWJKUDhzLVRzT05xNnBzY09PWWZRVEVUX1ZKNXhoSnhmeUdxbDBFRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-05-26-015",
+    "date": "2026-05-26",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Co. stock underperforms Tuesday when compared to competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQnRXYWpBeUZLbWRldkxQWDduYWR0ZGpIMWYwZUg2RXVudlEySE5nUXE2SFFzYmN0QUhvZlJxMUZpM2FPd2JLMURtaTlBekZhakIzSmt6U0gzZ0VqZEw0M0Zad01jUnJJZW9KdUNpOE",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQnRXYWpBeUZLbWRldkxQWDduYWR0ZGpIMWYwZUg2RXVudlEySE5nUXE2SFFzYmN0QUhvZlJxMUZpM2FPd2JLMURtaTlBekZhakIzSmt6U0gzZ0VqZEw0M0Zad01jUnJJZW9KdUNpOEJsOTRBSjNuOUFUT2YzeTVpYWFlekNZYm5QYXNDZ2FvOGVmRElCdUFWOVZFNUJuUE10Tm9RdDAtX0hleTFNQjZjVzF2UFlhM25IdXZ1a1dpNzNkMEZ5RFc4NWlXRHdmTGoxOHpnamVCVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-016",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Nitro water training center backs $90K in sewer fixes - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDF2RW9icjFNTm5TNENIMmJHWUVsektSQ2ZlT1psbXN5RUFFdUREYkptUGVRRnZzeFJCZTNoSElyTnV2cGlQZEdHb3ZvdmhwWmJtNEUwZnBuYnpqaDRab0VsRlJaRzNJZ2VfajIyU1",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDF2RW9icjFNTm5TNENIMmJHWUVsektSQ2ZlT1psbXN5RUFFdUREYkptUGVRRnZzeFJCZTNoSElyTnV2cGlQZEdHb3ZvdmhwWmJtNEUwZnBuYnpqaDRab0VsRlJaRzNJZ2VfajIyU1NKVV9Zc0VTUmo3X1lPd1BKazMyaFhKWjVZUDJQTzBtN25xNjF3bGdYaDRMemItQVFkRi12dUs1X0ZtN3hqUS1XSEZFT3pmbWpIV0NB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-017",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "West Virginia American Water Expands Investment in Nitro with New Training Facility – Company Announcement - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNbFpXTU9zaFFuUDhpVGZYLXo2clRBLU5JM2pycmNsOHZncUtPZ2V0VmtCNWJnZ05ZcVpQU0E0Ym5GeUNHdlJDN1VreGdnc1Q0ZElMQm5mY2NfTnBBTHZQV2FKaWxKSFNPSUNENHpDZz",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbFpXTU9zaFFuUDhpVGZYLXo2clRBLU5JM2pycmNsOHZncUtPZ2V0VmtCNWJnZ05ZcVpQU0E0Ym5GeUNHdlJDN1VreGdnc1Q0ZElMQm5mY2NfTnBBTHZQV2FKaWxKSFNPSUNENHpDZzZDR0FPUUNxZTJVcm9KWnF4NW8xZW1pajMzdmN0ajhtdkwxcFZvZkZOMA?oc=5",
         "type": "rss"
       }
     ]
@@ -673,6 +1057,25 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc1RXU3hKV0V4WDYzYlNUQVhmWFBWRmZBbVozZnBSbTFaR3laWllucERCZ0hENDRMYkk1Wm5GZmt1N2UzVnJ5VkdoZjhQMjN6ZDlBVjBqNzVWcHBIaFAtQnd0T1pGUU82RWdIVERCUkY3cjBFejVpcjF2STNPenFzRmZNSlZPNGlqczQ2QkFkVF84OHl4R1RXQjd1NUR4dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-008",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Thrive, an AECOM-Aurecon joint venture appointed as strategic five-year partner to Greater Western Water to shape future water infrastructure investments - AECOM",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5zQ0dhNzhDNU9LU1AxUHV3ZGw0cWRBeXVFSmxzNDVuWnkwTVBBNUJ4TjdHZjY0OXU4ZEp2akRtZ1l6aEhxb24yemlDSDI0ZjFrM3VCa0s3ME9YUUNKd0hmVTNaR3ZzbXlnU0dfY1pGWE",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zQ0dhNzhDNU9LU1AxUHV3ZGw0cWRBeXVFSmxzNDVuWnkwTVBBNUJ4TjdHZjY0OXU4ZEp2akRtZ1l6aEhxb24yemlDSDI0ZjFrM3VCa0s3ME9YUUNKd0hmVTNaR3ZzbXlnU0dfY1pGWEYtLWVVS3o3M2x5OA?oc=5",
         "type": "rss"
       }
     ]

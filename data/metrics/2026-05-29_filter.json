@@ -1,0 +1,13 @@
+{
+  "total_raw": 259,
+  "dup_title": 168,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 1,
+  "gate2_fail": 2,
+  "passed": 21,
+  "gate2_samples": [
+    "The Politics Blocking Syria’s Energy Recovery - The Washington Institute",
+    "Energy Recovery to Participate in Upcoming Investor Conference - 富途牛牛"
+  ]
+}
