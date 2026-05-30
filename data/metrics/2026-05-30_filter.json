@@ -1,0 +1,12 @@
+{
+  "total_raw": 259,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 57,
+  "gate1_fail": 1,
+  "gate2_fail": 1,
+  "passed": 21,
+  "gate2_samples": [
+    "The Politics Blocking Syria’s Energy Recovery - The Washington Institute"
+  ]
+}

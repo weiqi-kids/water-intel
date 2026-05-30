@@ -1,0 +1,132 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T10:06:48.667380Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ao_smith-2026-05-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Wayne Strange Obituary (2024) - Stamps, AR - A.O. Smith Funeral Home - Thomas Street Chapel - Post and Courier",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNamFmamZ4ajBaQ2lZaFlxOE1DN1ljZUw1bjZlWl9FY1RyRXliTVlBVUQzNnpURXlaZlhCbHVJY2oyUkRMQ0hlc04yNFh2NHBRT3ZzcXVLVmlkMUlyRjlfRmpodmJoLVZLSi1fZXRRREtYUWVCNTRsc1R3WkViUTdReFBIbjZDSUdJMjdlVmhzd1VsdmJlYkVYRlVtYVM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-05-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Eurizon Capital SGR S.p.A. Buys New Holdings in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMklRdGJJMGpLd05HV01WRWpGT0NKeW80SUN4ZjdFZHl4VVAzbmRydGp2WktySmJYdjZQZkV2d0dJdkpDVjR1RTRHT2xCX3JvTjM0aV9sT3RiZWJOLUVLVU1PRTN1LVdtSGFhX18wMS1oSU9nN0tNbUplRElKSFRCdHhWc3lmYVM5RWZXSWFFNGZFcnhqOVpjSjhpWE5FM2FHaFlFc0M1azgtQkZoMGNnb2MzcjBkcWRteFNKV2pKcmdYX2xHRE83a2pxdWxrZGt0WTZGRXJhMVdNQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ao_smith",
+        "count": 1
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 259,
+    "dup_title": 179,
+    "too_old": 57,
+    "gate1_blocked": 1,
+    "gate2_blocked": 1,
+    "passed": 21,
+    "pass_rate": "26.2%",
+    "gate2_block_rate": "1.2%",
+    "gate2_samples": [
+      "The Politics Blocking Syria’s Energy Recovery - The Washington Institute"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為史密斯、美國水務相關動態：「Wayne Strange Obituary (2024) - Stamps, AR - A.O. Smith F...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Wayne Strange Obituary (2024) - Stamps, AR - A.O. Smith Funeral Home - Thomas...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Eurizon Capital SGR S.p.A. Buys New Holdings in American Water Works Company,...（水資源產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
