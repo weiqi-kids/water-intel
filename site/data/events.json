@@ -1,5 +1,26 @@
 [
   {
+    "id": "mueller-2026-05-31-001",
+    "date": "2026-05-31",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products (NYSE:MWA) Given Consensus Recommendation of \"Moderate Buy\" by Analysts - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLURZX21fYkc5bmZkTEk5U2xhYkNGejRhTDNEMVhQb2RjQlNoTXA1WXNEU2owSkhJel9oeENFYllad2hGMndLeGtmdk8tWkl5NjRQUlNDT04xUFVmMXNkWTNzT3F5QnlxMHF6ZjFiQ1",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLURZX21fYkc5bmZkTEk5U2xhYkNGejRhTDNEMVhQb2RjQlNoTXA1WXNEU2owSkhJel9oeENFYllad2hGMndLeGtmdk8tWkl5NjRQUlNDT04xUFVmMXNkWTNzT3F5QnlxMHF6ZjFiQ1I1Q0ZLekpzalk2MzFXOEhfNWw4WFVvMjVONExTZDByR3Jobm1vaWZUWUVVLVV3cG1aeW9CcUtzbkhwYll1Y1VXSVdCVUZPWndzN0x0d0FEX05ybzVMVFV0Ylk2VWN4RmZhbnBnRG9LdTlNZW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ao_smith-2026-05-30-001",
     "date": "2026-05-30",
     "companies": [
@@ -35,6 +56,46 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMklRdGJJMGpLd05HV01WRWpGT0NKeW80SUN4ZjdFZHl4VVAzbmRydGp2WktySmJYdjZQZkV2d0dJdkpDVjR1RTRHT2xCX3JvTjM0aV9sT3RiZWJOLUVLVU1PRTN1LVdtSGFhX18wMS1oSU9nN0tNbUplRElKSFRCdHhWc3lmYVM5RWZXSWFFNGZFcnhqOVpjSjhpWE5FM2FHaFlFc0M1azgtQkZoMGNnb2MzcjBkcWRteFNKV2pKcmdYX2xHRE83a2pxdWxrZGt0WTZGRXJhMVdNQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-05-30-003",
+    "date": "2026-05-30",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery boss Moon moves up retirement date; Buehler named interim president/CEO - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wJBVV95cUxOOVVfbmFjWkpqQ2pQTVpwOXRtc25QRWQ2WWNjck1yQ0FLdzJpcVRvT1hfQ3Nvb0pwWDBSVjB4WGE5eTRKN2E5bTdaSVRCY3Vybks4R1AwY2g3NFZLM1NjbjdIS2FFM2dGV2tNUmJaS0",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOOVVfbmFjWkpqQ2pQTVpwOXRtc25QRWQ2WWNjck1yQ0FLdzJpcVRvT1hfQ3Nvb0pwWDBSVjB4WGE5eTRKN2E5bTdaSVRCY3Vybks4R1AwY2g3NFZLM1NjbjdIS2FFM2dGV2tNUmJaS09STC1mRzIxaUhhNXB0U2p3YXhrMFZFVHdkRkVTay00V2JHVDE5ZkVOV3NVX0lhR3k0anotM0Q2UHZVV2JUM24xX3BQOUZSRDJJbkx0N2Jza2tCSXZBRkZNZ1pNd25mN0ZYZGpUekNzQWtVTHZQZV9LVGQ5ckR1djJhTmZQWmhlb2NxX1k1M0I3YXZNcmhxUUktR3lEWEY1cWJkQ24zY2VpMlZHSWR0cEZuWHF5OTJha3pVLVlFUU4yNWFFU2VVTFBCem42VHY2TTVjQ2FfV2pNNUhCOUNHa2lZUlJaQlVvaUxJbUlXN1FJa2t2Yk40b0VKbzdGbWpkeHoyMnU3NFVJWWVqX0JxSjVJMXh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pentair-2026-05-30-004",
+    "date": "2026-05-30",
+    "companies": [
+      "pentair"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pentair plc stock (IE00BLS0VV05): steady U.S. trading as investors eye water solutions specialist - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1N0N3c5UjlxVGwwaEZGNW1SZXV4ZGJJQnN5a2RJM3djS0lTM0dEcHpxMU4wN2tNc3lOSFFFS0o2aHUzcUVXa0tfOEc4V2RNdTlja1VUSUVDMWUtSGJnTk5OS2ItdnlwN1ZEaWhBbz",
+    "sources": [
+      {
+        "name": "pentair",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1N0N3c5UjlxVGwwaEZGNW1SZXV4ZGJJQnN5a2RJM3djS0lTM0dEcHpxMU4wN2tNc3lOSFFFS0o2aHUzcUVXa0tfOEc4V2RNdTlja1VUSUVDMWUtSGJnTk5OS2ItdnlwN1ZEaWhBbzNGOUJkRHpzWkF5THhBaER0LUVGUnNYekZ1YVludEtVM3Y2VVdEc3AyaEZ2d3lNTTRRLWsxdDVBdjhDWnFXMEpxaWdSdlNSTFlMcTBMM3Qxd0NlN1E?oc=5",
         "type": "rss"
       }
     ]
@@ -350,6 +411,48 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeVh0bUtkTDZ3dWZxdWR5RDd3Zm5NazRFWnp3S0RiQzd5S3NGNkhWTFVVSzNiWVB5VlNOdVdXZDRCR254c3JJUWp6cXI4TXlvQ1lYVkRqbm8yenczR2pOQmRfc2oxZWdveGNUaGwzdmJnUF9ET2VWemsyMlpENVpZMlh0Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-05-29-016",
+    "date": "2026-05-29",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities Price Target Raised to $43.00/Share From $41.00 by UBS - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSm9CR3FyaExmdEgxMWpIMm9tLVdoVGk1MWhab3VzdGU3LUNZN0diS0M2U0UzMWRDZjEyd3J0ZklraFBzYl9kZWxnSlN5RV9GS095cVVkRTVPQlZpMXlRVVZuelNLejlZZFQ5Z21DNG",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSm9CR3FyaExmdEgxMWpIMm9tLVdoVGk1MWhab3VzdGU3LUNZN0diS0M2U0UzMWRDZjEyd3J0ZklraFBzYl9kZWxnSlN5RV9GS095cVVkRTVPQlZpMXlRVVZuelNLejlZZFQ5Z21DNGNqSHNqQ3ktLXlMRjlWMXF3aWZQajJBMFRfSUxSYk9oSzFGcXRZT0FNcnQxNVEwNEhWQVZnOGhSSDh4SElwWTl1VHdTRXpzMWIxTUg5eHhZckNJOXN1WkR5OXFxWGh5Vlg0TEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-05-29-017",
+    "date": "2026-05-29",
+    "companies": [
+      "essential",
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works-Essential Utilities Merger Likely to Close -- Market Talk - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOck8zSGVVVDNjeFNmb1hFMDlMTjVMNXVIUnAyREloamw1MWhVOUw2QTJZdGZsQmdrbFU5RUdFSWdzS05naFJld2ZJQl8yVjJxT05SbDRIX051d0xLVlpsVEU4ek0zcjdtQ0dnUWRkaE",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOck8zSGVVVDNjeFNmb1hFMDlMTjVMNXVIUnAyREloamw1MWhVOUw2QTJZdGZsQmdrbFU5RUdFSWdzS05naFJld2ZJQl8yVjJxT05SbDRIX051d0xLVlpsVEU4ek0zcjdtQ0dnUWRkaEhoaFFZRFdaZktvQldBbGRCZmxUUTFLRXNwREhmOUxvZ3hrc3M4NGlTdDd0SG9yYlZoSXN6ZHl5NHNnYTlkWFVwdzhFMnVtTm1aS3lsZElmeDVZbGRzSmlMeFAzVEhfSmdrbllXM2ltc3NSbS1hbDFETw?oc=5",
         "type": "rss"
       }
     ]
@@ -715,6 +818,26 @@
       {
         "name": "google_news_water",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONm9iU2NjTWFydGZDcmpERXdHa2t4ekxJN3Q3NzQwRmFCa2xxTWhTcDdfZ253R2MxRTdOaVdaZGgzaXJvNGlIUXVwNmZ2eTl1dkRlTzk2ZlVjbmREZGRDUW9KR3RzR1k4d0hwVkZzQjlSWnRhM0Q4UzMtQ1ZBTWt4bWhhODQyelJpMnFKZVctRUEtNmRnbXg3T0Q3V2xqYVhKZWJTN1Zyc1BSS092eUd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-05-28-020",
+    "date": "2026-05-28",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery names Alex Buehler interim CEO By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQTBpdlk0bHByVkRyckRxVk5Ocm8waS01ZE95R21IUnhMX0syN0pOMTRLTnRieXAzQ094dzhYMGhfU2VwaFkyQzBnWEd6NkJMNlVsWUNLUzlMbHlKWjJwQVlEX0dRX19QN0NKdU4tVF",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQTBpdlk0bHByVkRyckRxVk5Ocm8waS01ZE95R21IUnhMX0syN0pOMTRLTnRieXAzQ094dzhYMGhfU2VwaFkyQzBnWEd6NkJMNlVsWUNLUzlMbHlKWjJwQVlEX0dRX19QN0NKdU4tVFNISE5MQVZ4YVZmb3ZnejU0dzZZWHhYQlRJNVJ6Ml83NVQ3Y3lJbmNlMGs5d19DOW1LaHlGX3pBMFc0YzA?oc=5",
         "type": "rss"
       }
     ]

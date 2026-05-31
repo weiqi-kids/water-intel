@@ -1,0 +1,107 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:21:49.252817Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-05-31-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mueller Water Products (NYSE:MWA) Given Consensus Recommendation of \"Moderate Buy\" by Analysts - MarketBeat",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLURZX21fYkc5bmZkTEk5U2xhYkNGejRhTDNEMVhQb2RjQlNoTXA1WXNEU2owSkhJel9oeENFYllad2hGMndLeGtmdk8tWkl5NjRQUlNDT04xUFVmMXNkWTNzT3F5QnlxMHF6ZjFiQ1I1Q0ZLekpzalk2MzFXOEhfNWw4WFVvMjVONExTZDByR3Jobm1vaWZUWUVVLVV3cG1aeW9CcUtzbkhwYll1Y1VXSVdCVUZPWndzN0x0d0FEX05ybzVMVFV0Ylk2VWN4RmZhbnBnRG9LdTlNZW8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 258,
+    "dup_title": 187,
+    "too_old": 62,
+    "gate1_blocked": 2,
+    "gate2_blocked": 1,
+    "passed": 6,
+    "pass_rate": "8.5%",
+    "gate2_block_rate": "1.4%",
+    "gate2_samples": [
+      "The Politics Blocking Syria’s Energy Recovery - The Washington Institute"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為穆勒相關動態：「Mueller Water Products (NYSE:MWA) Given Consensus Recomme...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mueller Water Products (NYSE:MWA) Given Consensus Recommendation of \"Moderate...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "穆勒為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
