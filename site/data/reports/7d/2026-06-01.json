@@ -1,0 +1,144 @@
+{
+  "date": "2026-06-01",
+  "date_range": {
+    "start": "2026-05-26",
+    "end": "2026-06-01"
+  },
+  "generated_at": "2026-06-01T13:44:47.351067Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "essential-2026-05-26-003",
+      "date": "2026-05-26",
+      "title": "Is Veolia Environnement (ENXTPA:VIE) Pricing Its Essential Infrastructure Role Fairly After 21% Annual Gain? - simplywall.st",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 7,
+      "last_week": 32,
+      "week_over_week_change": "-78%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 8,
+      "last_week": 34,
+      "week_over_week_change": "-76%",
+      "sentiment_this_week": 0.0
+    },
+    "semiconductor_ultrapure_water": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "smart_water": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "pentair": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "essential": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "ao_smith": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "american_water": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "mueller": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 74,
+        "last": 104,
+        "change_pct": -28.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-26",
+      "event_count": 18,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-05-27",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-28",
+      "event_count": 21,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-29",
+      "event_count": 22,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-30",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-31",
+      "event_count": 2,
+      "sentiment_avg": -0.25
+    },
+    {
+      "date": "2026-06-01",
+      "event_count": 2,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-26 ~ 2026-06-01）共 74 則事件，重點為「Is Veolia Environnement (ENXTPA:VIE) Pricing It...」。水資源產業通用、財報、資本支出為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "濱特爾",
+        "reason": "本週有 1 則相關事件，建議持續追蹤動態。"
+      },
+      {
+        "company": "必要公用",
+        "reason": "本週有 2 則相關事件，建議持續追蹤動態。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

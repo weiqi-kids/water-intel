@@ -1,0 +1,159 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:44:47.237433Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-01-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "California American Water plans $277 million infrastructure investment for 2026 - Smart Water Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "smart_water",
+        "earnings",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS0s3NFpLQ3Z4dHM3Q21nVTNhTExleEFTbFNCOGFYUTVSdmRkM0owdFVqZmVpRXdUbTNkejRyUU9KSF9UU0NXVGMxN3kwVlFSM3Z6bzEzOFFNSFV2amthdzhxdkRXUzFkbjZ1T0ZneVJoN1gxWWliS2Y3ZThJcFVZN2ZNMUFWcGs5YXctYWNEOFBmOVZ1RXdmdWdmX3phQXpjYVJ0ZnpNdzg1UHlkM2RQblFxOXpLOTF3eUFjQjN5cW5vUGxqSTdza054a9IB0AFBVV95cUxQX0lhOVE1ek1STFYyNG14MjRPSi1yZUhhTzRyVU14R1F3Rk1yOTM4SjdUd29mUEc5NjJQdk1RNTVIZkJlQnB0MHRybEpWaEhFMUtKUmVsY0V4a01fdWV2OGk0SDVkQ2pmOUdBYVI5Y09DVGQ3Qnd3ZDdiOVhqbEV3YzRDRFJlTHNRUkx1Znl5cXVFdXJRT3ZxNUtKdmtvaWUxVDROVl9mVXZkMHJnbFhPZUI3UDYxOEVWVE9fbDBiazBJRnJKbUN4TXVxU3J6MDBf?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-06-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Reaves W H & Co. Inc. Sells 275,000 Shares of American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTF95RHIxZlJKMG5QYk8wbjM2R1NSaXJNbmxyT1VkMWEwYS12dms1RDh4MG1yM240UnlLdndrLXZJVmhwR0RZbDlmaVZHcTJRdTFtRmlfaVNzV0RKc2ZXX20tU20zRFJPVHVOTk1RT0p4bmFiWlo4ZXZEV1dBUG9peWp2Z1NWbXVtenZkRFp0UjhWTF9SaEJ2NmVnVlZObGZfdG9JWjgzNWItVHZSb2paWmlLc1VVNjh1QnRTTWtPMnVqZU5kOW9rM2tEa3RYSVQtYmpGMA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "smart_water": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "smart_water",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 259,
+    "dup_title": 177,
+    "too_old": 68,
+    "gate1_blocked": 2,
+    "gate2_blocked": 2,
+    "passed": 10,
+    "pass_rate": "12.2%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "The Politics Blocking Syria’s Energy Recovery - The Washington Institute",
+      "Veolia Environnement SA (VEOEF) Stock Price, News, Quote & History - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為美國水務相關動態：「California American Water plans $277 million infrastructu...」。主要關注主題為水資源產業通用、智慧水務、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "California American Water plans $277 million infrastructure investment for 20...（智慧水務、財報、資本支出、水資源產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Reaves W H & Co. Inc. Sells 275,000 Shares of American Water Works Company, I...（水資源產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

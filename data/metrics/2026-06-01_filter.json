@@ -1,0 +1,13 @@
+{
+  "total_raw": 259,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 2,
+  "gate2_fail": 2,
+  "passed": 10,
+  "gate2_samples": [
+    "The Politics Blocking Syria’s Energy Recovery - The Washington Institute",
+    "Veolia Environnement SA (VEOEF) Stock Price, News, Quote & History - Yahoo Finance"
+  ]
+}

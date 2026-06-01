@@ -1,5 +1,46 @@
 [
   {
+    "id": "american_water-2026-06-01-001",
+    "date": "2026-06-01",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Reaves W H & Co. Inc. Sells 275,000 Shares of American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTF95RHIxZlJKMG5QYk8wbjM2R1NSaXJNbmxyT1VkMWEwYS12dms1RDh4MG1yM240UnlLdndrLXZJVmhwR0RZbDlmaVZHcTJRdTFtRmlfaVNzV0RKc2ZXX20tU20zRFJPVHVOTk1RT0",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTF95RHIxZlJKMG5QYk8wbjM2R1NSaXJNbmxyT1VkMWEwYS12dms1RDh4MG1yM240UnlLdndrLXZJVmhwR0RZbDlmaVZHcTJRdTFtRmlfaVNzV0RKc2ZXX20tU20zRFJPVHVOTk1RT0p4bmFiWlo4ZXZEV1dBUG9peWp2Z1NWbXVtenZkRFp0UjhWTF9SaEJ2NmVnVlZObGZfdG9JWjgzNWItVHZSb2paWmlLc1VVNjh1QnRTTWtPMnVqZU5kOW9rM2tEa3RYSVQtYmpGMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-002",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "smart_water",
+      "earnings",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California American Water plans $277 million infrastructure investment for 2026 - Smart Water Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNS0s3NFpLQ3Z4dHM3Q21nVTNhTExleEFTbFNCOGFYUTVSdmRkM0owdFVqZmVpRXdUbTNkejRyUU9KSF9UU0NXVGMxN3kwVlFSM3Z6bzEzOFFNSFV2amthdzhxdkRXUzFkbjZ1T0ZneV",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS0s3NFpLQ3Z4dHM3Q21nVTNhTExleEFTbFNCOGFYUTVSdmRkM0owdFVqZmVpRXdUbTNkejRyUU9KSF9UU0NXVGMxN3kwVlFSM3Z6bzEzOFFNSFV2amthdzhxdkRXUzFkbjZ1T0ZneVJoN1gxWWliS2Y3ZThJcFVZN2ZNMUFWcGs5YXctYWNEOFBmOVZ1RXdmdWdmX3phQXpjYVJ0ZnpNdzg1UHlkM2RQblFxOXpLOTF3eUFjQjN5cW5vUGxqSTdza054a9IB0AFBVV95cUxQX0lhOVE1ek1STFYyNG14MjRPSi1yZUhhTzRyVU14R1F3Rk1yOTM4SjdUd29mUEc5NjJQdk1RNTVIZkJlQnB0MHRybEpWaEhFMUtKUmVsY0V4a01fdWV2OGk0SDVkQ2pmOUdBYVI5Y09DVGQ3Qnd3ZDdiOVhqbEV3YzRDRFJlTHNRUkx1Znl5cXVFdXJRT3ZxNUtKdmtvaWUxVDROVl9mVXZkMHJnbFhPZUI3UDYxOEVWVE9fbDBiazBJRnJKbUN4TXVxU3J6MDBf?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-05-31-001",
     "date": "2026-05-31",
     "companies": [
@@ -16,6 +57,27 @@
       {
         "name": "mueller",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLURZX21fYkc5bmZkTEk5U2xhYkNGejRhTDNEMVhQb2RjQlNoTXA1WXNEU2owSkhJel9oeENFYllad2hGMndLeGtmdk8tWkl5NjRQUlNDT04xUFVmMXNkWTNzT3F5QnlxMHF6ZjFiQ1I1Q0ZLekpzalk2MzFXOEhfNWw4WFVvMjVONExTZDByR3Jobm1vaWZUWUVVLVV3cG1aeW9CcUtzbkhwYll1Y1VXSVdCVUZPWndzN0x0d0FEX05ybzVMVFV0Ylk2VWN4RmZhbnBnRG9LdTlNZW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-05-31-002",
+    "date": "2026-05-31",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Assessing American Water Works (AWK) Valuation After Recent Weak Share Price Performance - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ0MwYS13LUtMa2pCV2Q2Sy1wLVRqMFVXTXNSWGxDd3JZTVJSdi1iZ0JWWGx1UkI4bk9VaW4wak9rbGdIMDRELXhRWGV6MGFYWUlwQWFTTjNESlgxVk00N2l0dGZQay1YeC14aHNKRT",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ0MwYS13LUtMa2pCV2Q2Sy1wLVRqMFVXTXNSWGxDd3JZTVJSdi1iZ0JWWGx1UkI4bk9VaW4wak9rbGdIMDRELXhRWGV6MGFYWUlwQWFTTjNESlgxVk00N2l0dGZQay1YeC14aHNKRTBPWGNaSlRqRjBxVkhFRlBoTy1GblJtQzVNMTd6eDAwQ05jdXVPUHJ1WkV1UHN0ZzJWVGpqWW1DM1hLUFhyMXZaa19VVE5NUkpqVngwa3QyNGZaNzZYMC1jalRaeEthNE8tTGtz0gHYAUFVX3lxTE1lbmVkNVprWUJJU2YxWGhjNXc4VWtiWXJ3R2wzd0EyZXlDUUpYRnJLWDZnMHBYaWJkNm82RkZubWlKNktBVldHSFVfZURINEM2VDRaaUZsa0I4UUIwR2Z3cjZ6Zl9VU2l3eTltcldrQzlpUUFCdmtZTmNRT1E5QW9QUWpVanFJWWJrbko3bmVOR28wNDUwa2VaQzVLUlhqdHlLWUNoajZfOHY1UHhtOG16XzZwLTBTN0poMDNxYlZqdEthQzB2TnFZdjJpbEJmUjVNM282OGFWOQ?oc=5",
         "type": "rss"
       }
     ]
@@ -96,6 +158,27 @@
       {
         "name": "pentair",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1N0N3c5UjlxVGwwaEZGNW1SZXV4ZGJJQnN5a2RJM3djS0lTM0dEcHpxMU4wN2tNc3lOSFFFS0o2aHUzcUVXa0tfOEc4V2RNdTlja1VUSUVDMWUtSGJnTk5OS2ItdnlwN1ZEaWhBbzNGOUJkRHpzWkF5THhBaER0LUVGUnNYekZ1YVludEtVM3Y2VVdEc3AyaEZ2d3lNTTRRLWsxdDVBdjhDWnFXMEpxaWdSdlNSTFlMcTBMM3Qxd0NlN1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-05-30-005",
+    "date": "2026-05-30",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ilmarinen Mutual Pension Insurance Co Purchases Shares of 31,000 American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMkRaOTJTVVBKQ2xSN0ZRb0hSMkdGb0FORFZUN0xLZmZhQmZtT1ZLcmE5YkZtaUc4cjQtdEJjS1lwYU9FZXFsNVpYSEtsbHpEbUZibG1rSVpBWUVrT21YZXhpWTJPRkZtNlRoeXV4VF",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMkRaOTJTVVBKQ2xSN0ZRb0hSMkdGb0FORFZUN0xLZmZhQmZtT1ZLcmE5YkZtaUc4cjQtdEJjS1lwYU9FZXFsNVpYSEtsbHpEbUZibG1rSVpBWUVrT21YZXhpWTJPRkZtNlRoeXV4VFkyOXozbkJTYjNnSzBPRnZOb0o1UDJnX3F3ZmtVSFd6cjNWSnEtRVFDSHVLLTRvQkJXMWQ4bW1PT1lCRzFjSUZGaDc0emJ5ako5RG9BSmgyYWR3aENkeWFLNEVjVzNWY3A4LUNmSkdzcXptTFNTQk1ydjBsRUpYYklVYUlobkJ4Ql9udm8?oc=5",
         "type": "rss"
       }
     ]
@@ -453,6 +536,107 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOck8zSGVVVDNjeFNmb1hFMDlMTjVMNXVIUnAyREloamw1MWhVOUw2QTJZdGZsQmdrbFU5RUdFSWdzS05naFJld2ZJQl8yVjJxT05SbDRIX051d0xLVlpsVEU4ek0zcjdtQ0dnUWRkaEhoaFFZRFdaZktvQldBbGRCZmxUUTFLRXNwREhmOUxvZ3hrc3M4NGlTdDd0SG9yYlZoSXN6ZHl5NHNnYTlkWFVwdzhFMnVtTm1aS3lsZElmeDVZbGRzSmlMeFAzVEhfSmdrbllXM2ltc3NSbS1hbDFETw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-05-29-018",
+    "date": "2026-05-29",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "WTRG News | ESSENTIAL UTILITIES INC (NYSE:WTRG) - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Bc2J6ZHdFOU42eTFyT1Vpa3cwNk01dDE3dkpBeU1lQ2pDMDVyMWR6TnJod2VPMU54OWhkZXJSZFZvTHdqX0FVblRPMlNpMVVrSFE1b1ktb3VPTGs?oc=5\" target=\"_blank\">WTRG",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Bc2J6ZHdFOU42eTFyT1Vpa3cwNk01dDE3dkpBeU1lQ2pDMDVyMWR6TnJod2VPMU54OWhkZXJSZFZvTHdqX0FVblRPMlNpMVVrSFE1b1ktb3VPTGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-05-29-019",
+    "date": "2026-05-29",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS upgrades Essential Utilities (WTRG) - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPc21ZaDZ0c3M5ZWJQNTk1Unc5SVE2MVJQVlViSi16cmNVU3I2M2ZlZkZKdGtoU2ZHYjVnb3Rkam5WS3lCLUFBcUkteUZlbk5BWnVTdmJ1dkVzbGVHYWtvSmd5aDItazRyZHdvQUNRcT",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc21ZaDZ0c3M5ZWJQNTk1Unc5SVE2MVJQVlViSi16cmNVU3I2M2ZlZkZKdGtoU2ZHYjVnb3Rkam5WS3lCLUFBcUkteUZlbk5BWnVTdmJ1dkVzbGVHYWtvSmd5aDItazRyZHdvQUNRcTNMQXp6dGRxcnJVSjlxcHI1STVaNmZxNE94TkYzcWxFRVVsUHFkQlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-05-29-020",
+    "date": "2026-05-29",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why American Water Works (AWK) is a Great Dividend Stock Right Now - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNTUljU0lQQXUtS1l1ZjVNckdscTFZY1FxTXNpODVlWHNKM2NXbnhlVGZhNFRhUEJ0VFZRSHJOUkdfTjVkR0pWRmNIdmRlOEU2Tm8yVjRONHZielA1cERHVUppbWpZbDd3Ukd2eUxiOW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTUljU0lQQXUtS1l1ZjVNckdscTFZY1FxTXNpODVlWHNKM2NXbnhlVGZhNFRhUEJ0VFZRSHJOUkdfTjVkR0pWRmNIdmRlOEU2Tm8yVjRONHZielA1cERHVUppbWpZbDd3Ukd2eUxiOWFwQkhwdFNQdmdVNnFsWV9aNERieXJ6bGhSdTJ3ek90WVNzWkM5U3R0cg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-021",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS upgrades American Water stock rating on regulatory progress - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTE5Oai1ZZUtnVGJoZ0xGNEdvZU5vQ1VraUY0cU1HSTZLZkpWRk1pTVo3VmM1SV9HaUE5cDBhSFJyekt6NEpQRW1oXzJPMjFWUVFaRThhNzZOZWpwdnBuLUE2NFh6d2daaFk3cW5Caj",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTE5Oai1ZZUtnVGJoZ0xGNEdvZU5vQ1VraUY0cU1HSTZLZkpWRk1pTVo3VmM1SV9HaUE5cDBhSFJyekt6NEpQRW1oXzJPMjFWUVFaRThhNzZOZWpwdnBuLUE2NFh6d2daaFk3cW5CajF5T1ZINXhLNkdTOFVjcXJIR2xQZjlYOVZJMDlxc3V1bmxPeEEyWFFXTHNHd1kxOVlZOXh3ckFPOGVrUGhEYkh5eXJ0R1otWjFsUTFjVE1uM2I?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-05-29-022",
+    "date": "2026-05-29",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works (AWK) Down 4.7% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXM5R3BEd0lqTHFTNGhDQk1ySzZTYWhZVUVud3RqMUtEVXA1dTd4ME5FWjRGS1NBTnF4OWtsejZUay0yRWw5MkVDMy1hc2ttTTgzcGQ4WjNBT0xoRlNnRGkzUzUyTmxOaXRkTnBGLT",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXM5R3BEd0lqTHFTNGhDQk1ySzZTYWhZVUVud3RqMUtEVXA1dTd4ME5FWjRGS1NBTnF4OWtsejZUay0yRWw5MkVDMy1hc2ttTTgzcGQ4WjNBT0xoRlNnRGkzUzUyTmxOaXRkTnBGLTcza1ozZWM2WGhQY2VZeXZFSEppTURNb3pkT3IxMjNjbzFHeFdER3Z4QS13?oc=5",
         "type": "rss"
       }
     ]
@@ -838,6 +1022,26 @@
       {
         "name": "energy_recovery",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQTBpdlk0bHByVkRyckRxVk5Ocm8waS01ZE95R21IUnhMX0syN0pOMTRLTnRieXAzQ094dzhYMGhfU2VwaFkyQzBnWEd6NkJMNlVsWUNLUzlMbHlKWjJwQVlEX0dRX19QN0NKdU4tVFNISE5MQVZ4YVZmb3ZnejU0dzZZWHhYQlRJNVJ6Ml83NVQ3Y3lJbmNlMGs5d19DOW1LaHlGX3pBMFc0YzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-05-28-021",
+    "date": "2026-05-28",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Material Evaluation and Charging–Discharging Characteristics of Packed-Bed Cold Energy Recovery Units - Wiley Online Library",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9oLW1aWkRfeEFQSkFNWUw1MUhFTlVIZk5XaEQ1TFV6SVZPcVpXRW5VNUZGUllxY1VwOHNUd1YtLS0xZW83Q3Z6NWlfZERLRGU4QkcyLURTQjN5dEdWcHVSUTlZeTUxWm5CVDhN?oc=5\"",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oLW1aWkRfeEFQSkFNWUw1MUhFTlVIZk5XaEQ1TFV6SVZPcVpXRW5VNUZGUllxY1VwOHNUd1YtLS0xZW83Q3Z6NWlfZERLRGU4QkcyLURTQjN5dEdWcHVSUTlZeTUxWm5CVDhN?oc=5",
         "type": "rss"
       }
     ]
