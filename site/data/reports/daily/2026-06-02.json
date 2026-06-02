@@ -1,0 +1,232 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T12:12:20.293475Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-02-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Wexford Set to Benefit from Major Water Infrastructure Investment - South East Radio",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWE5HemNldExVMElVMWNxSXdRcXFMM1Vjc2owZXJJT0hYVzZRTmx2aWpaclRvTzFhc1hiQm9FX3RhMjBMOWplXzRIa1ZPbTdTV2RrbHlnZnFpeDdfeXJVTEF6ZHNXZmxJV0hQZGdKQUs0c1dCTlBUQWdMS3d1czNzQ1cydkZ6MWJTMW1VV2FHNzRTWDhxcHJiUHFHREdRbHk3QWlBWWNVT0lZVko5RHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-06-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Works Company, Inc. $AWK Shares Acquired by Nomura Asset Management Co. Ltd. - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORnVYbHM3S1Fkb05MeXNKSXJnWGJZZHIyZzk1SEUtemh2a0sxYVZVd0lzeW55OHdtOHBlRG5ZSVZ1UzVPQ1ZpcklLYnNhLVpqejdmREozQmc0ZHB4dlE1NzFtRUhtZkhsY3Y2dzVSWU84M0JybjZGYWFrSmJPSDZLSzFKZmVkbXFzZkpPMFY4dDRWUEplRWhnQ1hEell3RnlXY2VOelBTamNOcUgyN282bi1namYtZ2FqTHh5TUR5Zng1enBHVjRDanZzeTY1RjNFckh4c2hCMjdOR1ExRmIzTA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-02-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Completes Purchase of Nexus Water Group Systems in Eight States - Finviz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSnJsU3dndzdENkdTTGVIc2xhOGt0RS1QQmJydmZpdHNCN2JUSmQ2RTJzc1psRnI2VTk1UjVvRlhfT01EZDFVMkNSXzQ0VXd5NldEcTY1YVBsbGNWTGdlYU05emRVUXE0dkJ0Q3hweVFJSWtwWTc4Z0RMa3o4VTREQXlsdUVabS16cEMyeVRKXy1RVVN3MllLQ0dMbFBpTUE4X2xFTHdJc2hZMDcxaUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-02-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water completes $315 million acquisition of Nexus Water Group systems across eight states - Smart Water Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "smart_water",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUTdJWWFHMXloVUl2eWhsSTR4Q2c2OXN4eThWYWFVZlZFdWtKb3Q5M3V1SUxPUzI2eklNUlNoVWlQZWN4TXB5d0xKUnVqbm1McGdyTmwwSnFRcGVtQmNNZnk0OXc2ZUlfWW9YQmZ1Qk1ZMm1kdXJDYTFSYnZxbTdxWHhJYnhMX2hhOVdNNFBkY0d5VGprRTJvTkREVHhhWFpNYXZnaHBPYU9oanY1Q3JCek5GbDRwTkhITVNpWlFoR3RzeFNKWm9DUC0td9IB0AFBVV95cUxPM1IxaWttVWRSS3NsYk9vejJHV2Rwd3U3ZU1zX3hrWXl1cFlhZDFIcEVkRHRqLWJfZVptNUhxVmN5QnBFX0d0UU41ay1XVFQxRXZTOFoteWo3LVRzb2RsZjl5aURIaGFiaVhmc19UWjZLY0RPZHJGMG1VeUV4Q1IzSHpJcWdSUWcxbHUyVEJOZnNHRy1xaTVMRWdyYnNrekozc0hoZFg3V21zQnMwZ1pkU25Scy1la045d1F6eHVTdkdNVThTUW5CRng4SUtRU0M0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_water-2026-06-02-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Norges Bank Makes New $337 Million Investment in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPemRBQU9YTXBJQnk5M0RVMEJkVDBVZjZneUFWanM2M21ITVF3OWdJOERwdTYtMHNtSnBEWWRjVkxIWmluY2RjeG9oQ3hCRGlySHhVTjNQaDhpNzNBczBheFMwWjJKaDZCWnlNSzRrZzdmT1Q4UFAtV3JmWEh2ejZxWjRGNjBta1JYREtCVF9PNWpwMWg0X3dmdTljMWY1RV9valNLYkVCLXp3Z2NJY3pLcTFWNTQ0V1d6Zm9WeFJYaVg2Tzc3djVOOEwwUXZDWTFFcnVVQjhCWjltNHYyRlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "smart_water": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "smart_water",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 259,
+    "dup_title": 169,
+    "too_old": 58,
+    "gate1_blocked": 1,
+    "gate2_blocked": 1,
+    "passed": 30,
+    "pass_rate": "33.3%",
+    "gate2_block_rate": "1.1%",
+    "gate2_samples": [
+      "The Politics Blocking Syria’s Energy Recovery - The Washington Institute"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為美國水務相關動態：「Wexford Set to Benefit from Major Water Infrastructure In...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Wexford Set to Benefit from Major Water Infrastructure Investment - South Eas...（財報、資本支出、水資源產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "American Water Works Company, Inc. $AWK Shares Acquired by Nomura Asset Manag...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
