@@ -1,5 +1,62 @@
 [
   {
+    "id": "unknown-2026-06-04-001",
+    "date": "2026-06-04",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "A Look At A. O. Smith (AOS) Valuation After Analyst Downgrades And Softer Q1 Outlook - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOQzJpcmR1ejA3TzkzQVhBeDFvV0FBcnhGOUhZMVVCTjlSc0xDb01xN1JOYlp5SDRGdXVISEdFR1VtaW9kMnlxREk2S3E2ZTRIM3BYcE94MnRQY1dZbGhxOFd1Mk0ycks2Q1JxMFlORX",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQzJpcmR1ejA3TzkzQVhBeDFvV0FBcnhGOUhZMVVCTjlSc0xDb01xN1JOYlp5SDRGdXVISEdFR1VtaW9kMnlxREk2S3E2ZTRIM3BYcE94MnRQY1dZbGhxOFd1Mk0ycks2Q1JxMFlORXpvTm5faDB5cnRCamV4NEdQeFgwWXd0b0FpWnhqSVdkVWtrS2FZS2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-04-002",
+    "date": "2026-06-04",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Is Guidance Cut And Downgrades Reshaping the Demand-Driven Investment Case For A. O. Smith (AOS)? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPb05Nbi1tSk1qNXFadkV4X2F5a0JyUnBvX1pHcm8tSnhmYzRDNmJCUXFIbk9mUmhiTXY3R0RXcmtTMVlTWGRva3B2bWpJZDZ4WUJNNFNUM3luejlkaWVuTlYxbTZhYVp3S3B0dTlBa3",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb05Nbi1tSk1qNXFadkV4X2F5a0JyUnBvX1pHcm8tSnhmYzRDNmJCUXFIbk9mUmhiTXY3R0RXcmtTMVlTWGRva3B2bWpJZDZ4WUJNNFNUM3luejlkaWVuTlYxbTZhYVp3S3B0dTlBa3gtc2hCMThsb3h0QTZwNy1TaVhfS0NiNVJVUnpyZm5nVG5LRGFuOWp3RmZwM2NPNWZHX3c2NmIzaWlBS2ROejBSN3JjZ3RYa3hWVWJmSy1GZ0Exek5NbEJZNHJn0gHPAUFVX3lxTFBsMzFhUl9BbFFhNG05UnlCUkZfV0cwQmhsc1huQXRYRWsxWHcxY2RIQXRBTGxqbHVIVjlxZkRLcnFDVGFSQUtCM1VDV2s2UHp2bGNCUFBORHFLS2tGRVoyWHcxT1RNQl9INGotUnJiZTBDRzhlZVhZLWx2dGY4UWZIRXZmakktVk9nZk5ILWtJM3ZOeldKU1dPR2N2X0FVZEIyVjdRVTJxX2hpSnIxckhpLXlBRE0zeE81QzlmRm5uYmxKam5tRmtkajBrZzAySQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-06-04-003",
+    "date": "2026-06-04",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AO Smith (AOS) Reiterated at Buy by Stifel - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXNoVUVFaktna21YNVg0b0JCTVA5UXVoRWtTUHY1RUdCMExxQ2NfY2kwOWlkYlJMYlNUZEw5b0VhUUJnVTJJeTBMUFdadFlZc2ZGUnVvNlFlZVM4QVhjNFdsQ2ZFMHZ5S3NaU0h2LT",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXNoVUVFaktna21YNVg0b0JCTVA5UXVoRWtTUHY1RUdCMExxQ2NfY2kwOWlkYlJMYlNUZEw5b0VhUUJnVTJJeTBMUFdadFlZc2ZGUnVvNlFlZVM4QVhjNFdsQ2ZFMHZ5S3NaU0h2LTBFbC12VldPb25ncjZCbnY2TUlXRG1NalNkZXpXRXNWZVBKV0szTzNZZDE0TzZlYWFCM1VENW5wNmF4N3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-06-03-001",
     "date": "2026-06-03",
     "companies": [
@@ -116,6 +173,82 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc2VCZnMwR2VlelR3NlZMdC1pTXNhVWYzdDBhMW5BREFCc29aTFFWWmxBWHBVRmlpRTVyaS1ZOXNRZnV3bGJnb3p4YW1NUnR3WF9uTHRyLWVrd1RtcDNkNTl3R0JtU0NvVlk4NHRLeTZCVVpVTkJ2Rm9hMTQ3OEY1bDRzTVpTRWdHeUFXeWtxVGliM0lKaUpkXzJYOVF1S2ZG0gGmAUFVX3lxTE9oUW9TWl9mYU9fU0U5WDZWbUlHbmduX0dVelpxTWo2cUZEeXpQRmVCTy1xNVAtMnFTUVAxcXltbklkUU04M0IxRno3ZzFZWjFaakNnXzBDMUl1M3N6MllYMTVGV2tLNTBtUUtXcWVrcXRtVXpOXzJSVlBTc2JGWmUzdVVIMTI5OFRuLVV1X3FMSDhpNTVKLTlHTk11Rk5QUGllekZSQUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-007",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Continues Commitment to Advancing Utility Resilience; Achieves Utility Resilience Goal Five Years Early - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPeVptaFpqM1Brb1JTYnFQdFRZM1Z5bzFZekJEZDRtZ0FvbHRTS3FQWkhjWHREdkpvV1NiVzJ2RkJVRkpKV2xZQ19XXzAtdnpvb20tZ2pLbXl2bXItUkI1eVFmQWcwNlV0TlRJUGZLeF",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeVptaFpqM1Brb1JTYnFQdFRZM1Z5bzFZekJEZDRtZ0FvbHRTS3FQWkhjWHREdkpvV1NiVzJ2RkJVRkpKV2xZQ19XXzAtdnpvb20tZ2pLbXl2bXItUkI1eVFmQWcwNlV0TlRJUGZLeFdUZ0dKbnUzSHJrNnRleHVTVklDZUhZcjQwd1luSkZ5ZTAtaXdRc05hZXBKSFliUzJMbjlNMURWOXh2OVlSbVZ1YW1DYzVNU2pPOWhHN3hYUGhSUXI2SFlKNzNKZXNmOEcwS21qOWlsRlRtZ2pjQlluY05PcEpEQWJaZS1TVEhFTFRjMElBTGlLcUJzaFB0MWVyWVRj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-008",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Achieves Resilience Goal Ahead of Schedule - Intellectia AI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1dfSkk1UDRCQmRZMU9HZ2NKU0dQVDZYMGlzYm54d2V1ekYxTWdmTGdVQzdtY1Vvb0laNnUyMEVaSzVYUy1GWjZKYVhMd0R1ZGkzSUUxcF9mczBuc25RcU9GVTRoT2g5ZmJJaHM3eT",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1dfSkk1UDRCQmRZMU9HZ2NKU0dQVDZYMGlzYm54d2V1ekYxTWdmTGdVQzdtY1Vvb0laNnUyMEVaSzVYUy1GWjZKYVhMd0R1ZGkzSUUxcF9mczBuc25RcU9GVTRoT2g5ZmJJaHM3eTQzb0YteklKWWxZN1RpeE1sQnVEMUFvdzk0dlh0YjJ3WXF3VTgxalE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-009",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water to pour $48B into stronger systems for extreme weather - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQbkdKT0FYeFBRY2JLcDlKMmNMQUxRTjRHa2Vna3BpNmxodkxqbUxiSXFIM3JGbkZFVTJsMXdkMFpOc244Tjd1Y09ueUg1dWMyZ3N4OVluYllsS0RSOHpsVFFta0dRQ3dUeXc5SnFEbG",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbkdKT0FYeFBRY2JLcDlKMmNMQUxRTjRHa2Vna3BpNmxodkxqbUxiSXFIM3JGbkZFVTJsMXdkMFpOc244Tjd1Y09ueUg1dWMyZ3N4OVluYllsS0RSOHpsVFFta0dRQ3dUeXc5SnFEbGZFdDBsblREbWtxOEx1M3BLbFRIeG10QTdxamphUF9DM1A3VE9vZ3BMckh0bTdsakhsRGRTQkVEYVRpYkMwbVZIZWdYcVIwcVlGR2Fob0hn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-010",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "White Wolf Hybrid Capital Invests in AccuCast to Support Water Infrastructure Expansion - citybiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPSE9JbFR3RVMySS1YaFZUTG5aeERIUGJ4S1N2bHJnMHpud2p1WVVZWW1jU2FnOC1vZTNLRS16QS00XzRsS0hVR0g0b21meGliSDdCXzQ2ejBzOGRIM05fXzd5cnZ3RzNZcVZhOXdOa3",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSE9JbFR3RVMySS1YaFZUTG5aeERIUGJ4S1N2bHJnMHpud2p1WVVZWW1jU2FnOC1vZTNLRS16QS00XzRsS0hVR0g0b21meGliSDdCXzQ2ejBzOGRIM05fXzd5cnZ3RzNZcVZhOXdOa3kwUmMzVVptU1dRWi1xZEZYaDhhZkt2Wk1uV0RrRU8zNjhNUU1mMlBlSEJmaXlaeklobEVVU3lhWHVZYnhSa2lmWTByMDJRczNja3pYZTJMWjQ3Qy1H?oc=5",
         "type": "rss"
       }
     ]
@@ -437,6 +570,27 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjRqLUQ2LWd6LUN3MHNGbjVKT2QwYmtHWEFCUDlrZnktdXhqd2xtb0FRUXo2eWVxd0ZBdjBfamhjbmFDMjFrdjFXYWs3M0ZvSHhtVm9YQ3ZGRjV6ajE5Z0pSSEF0ZnpGcmszRExNWk9QQkpVZmtlcTh4LUJNWWV2czRVWTVWekw3TFBlWk4wS2o4S2NmV2gwX21yd1VTNXBKWXBxajVEVnhocVJPMTd4ZHdYdGxtZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-06-02-017",
+    "date": "2026-06-02",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries Reports Early Progress on ¥35 Billion Share Buyback - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMWlmVGRHWjNwRnZOampqdkVTYi04Qy1RN0NMYnJvSDQ4OUNDNUg1XzJBTHljT0JZSGN4YXQ1bHBYRTNBSXg3dDdzbmdnczZRdWRkY201RC1xa1NhdC10S0tMWTcwbk5zc0FpajVBSz",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMWlmVGRHWjNwRnZOampqdkVTYi04Qy1RN0NMYnJvSDQ4OUNDNUg1XzJBTHljT0JZSGN4YXQ1bHBYRTNBSXg3dDdzbmdnczZRdWRkY201RC1xa1NhdC10S0tMWTcwbk5zc0FpajVBSzZKek0zbkZ6NkpDWUdjWWFIX2VrbTl6Q25SdXlDNklKb3lFRWtRSV9lNFRYaE5wTmpjdE1Oc3FlOGVIbmd3VmpuaW52bHpRelFpb0QwMTdFR3RWOHRlQ3B5aWJOMGpEc1h1VThwOGszbXhfeE5ibWJyYTNTMGw2ZThVdm9YdmxjQWRKNWk1cEE?oc=5",
         "type": "rss"
       }
     ]
@@ -880,6 +1034,83 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY2g5Uld3N1dkNkgzZUxRcko0cFVLaUZ4TU5pUUdCVTExQlFKamVHd3NxUEJ5cXlJQ1dGOU1FUEFaUEVLaXpibEdqV1J6TnhEdC03cW80TU5mQmFiWDZyRWwzWFhzc3JwQndvVDNwb0RjdzliMUowVFpRZGFxbV9aMEZiZmhxaG04b2xsQnNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-024",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Completes Purchase of Nexus Water Group Systems in Eight States - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUo4OUNvWUNnQWQ3NFE1c05McTBHMGtraVpKN3k1ejdDd1lXTXViT2dzbkVrWGt6REpLaVl3UDMxU19JcEgtSEY4aWhxdDZRcm5TMlN3b1VjT0txSG5jSGhlbU11RVJyN19Ra3d5X0",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUo4OUNvWUNnQWQ3NFE1c05McTBHMGtraVpKN3k1ejdDd1lXTXViT2dzbkVrWGt6REpLaVl3UDMxU19JcEgtSEY4aWhxdDZRcm5TMlN3b1VjT0txSG5jSGhlbU11RVJyN19Ra3d5X01oQWNsQlo2dEwtSnR6clhTNGRxN0VJYjE4ME5wUkozbVpPSnYyT044dndaMmFsblpmNXdjVVBsOW5sclp1MlpTRzhrdzRCallxLTRSWnpIb0k3NmREb0c0VEltQk54T2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-025",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kentucky American Water Completes Purchase of Two Water Utility Systems, Part of Nexus Water Group Systems - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZDBvRkNxbVltLU9fN1pYQnlUZFVoSjZZTkh3cVdtNDdwc3pXYzVPMjQ3N3YtX09jcGw2aDlrOTFQYXZmSGNrUEtDdzZoU3Vsblhkbk1keVROanpJZ0U4a1BsZnBUS2U0WlctSVhfRn",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZDBvRkNxbVltLU9fN1pYQnlUZFVoSjZZTkh3cVdtNDdwc3pXYzVPMjQ3N3YtX09jcGw2aDlrOTFQYXZmSGNrUEtDdzZoU3Vsblhkbk1keVROanpJZ0U4a1BsZnBUS2U0WlctSVhfRnFxeW5yelV2VHQ5Tk9XQkZVckQ1R1F5Y05DNHYyNUFjXzNRTVdJNERVTzVZMVVsZjdGcHlLWThwTEw1QjJEM2N5WHVMNHVGems3NlNBYWluRi1CT3pMVWp0TjROVG91QV9UeDJ0NldlbXJxYlY0RTFaQVEtaXhKcEJwbExuaExTR0FHcEk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-026",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "wastewater_treatment",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Virginia American Water Completes Purchase of Colchester Utilities Wastewater System, Part of Nexus Water Group Systems - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOcjlyc0xGX2pxd1dEemVTTGcxNmJpZ1l5dndnN1VWNlZQLWNHTkxOOXpWLWVBQllueENSTzNvX0xKVWVyblRmMm1Zd2JubVFNRzg3dS0wWmN5N045X3ZFc3BnU3lKekRvUFE1TlV3Zl",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOcjlyc0xGX2pxd1dEemVTTGcxNmJpZ1l5dndnN1VWNlZQLWNHTkxOOXpWLWVBQllueENSTzNvX0xKVWVyblRmMm1Zd2JubVFNRzg3dS0wWmN5N045X3ZFc3BnU3lKekRvUFE1TlV3Zl8wYmJuUnN0UmFMdFVTejRPNnZIY0I2aW9laTdCZ1I2aUVYSHA0bXJjSkpXSkMwZGlBejNlS2F3djNoMkNVR3VWTzNqWVdXeURpN3RiN3hOYzEzcGVrNlg2QmloTHFJblRaUURKekFsQUlnZFBmVFV0N29uRVJqOEw1M3ZTZWpsbFk0VFE0MlJRekJ6Vm5MSVJMSUcwXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-06-01-027",
+    "date": "2026-06-01",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works stock hits 52-week low at $121.27 - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmJfc08yNFNsQXp4TG9tN3NjVWZacTdGOWEwY3MzX3ZWclpjcFFZZWNyQjVOWjRFSE9ZUlNzNlJyc0NWb2tIV2R1ZHR5bjFYWmpVQWhTSUtYclZkaWZjc1hVUi1GdXRzSGpLbFhIbF",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmJfc08yNFNsQXp4TG9tN3NjVWZacTdGOWEwY3MzX3ZWclpjcFFZZWNyQjVOWjRFSE9ZUlNzNlJyc0NWb2tIV2R1ZHR5bjFYWmpVQWhTSUtYclZkaWZjc1hVUi1GdXRzSGpLbFhIbFE0eTdQWFB5OVdkakFIR0EyRkVVMGZSWXY2OVJIMHN3MlZON2JuclZaOHBsbEhyY1RZOEh3NDNJWVVuR2tv?oc=5",
         "type": "rss"
       }
     ]

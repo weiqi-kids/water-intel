@@ -1,0 +1,144 @@
+{
+  "date": "2026-06-04",
+  "date_range": {
+    "start": "2026-05-29",
+    "end": "2026-06-04"
+  },
+  "generated_at": "2026-06-04T11:21:28.928861Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-06-01-002",
+      "date": "2026-06-01",
+      "title": "California American Water plans $277 million infrastructure investment for 2026 - Smart Water Magazine",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 17,
+      "last_week": 9,
+      "week_over_week_change": "+89%",
+      "sentiment_this_week": -0.03
+    },
+    "earnings": {
+      "this_week": 17,
+      "last_week": 11,
+      "week_over_week_change": "+55%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "smart_water": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "regulation": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "essential": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "ao_smith": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "american_water": {
+      "event_count": 7,
+      "sentiment_avg": -0.07,
+      "rank": 1
+    },
+    "mueller": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "veolia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 88,
+        "last": 62,
+        "change_pct": 41.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-29",
+      "event_count": 23,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-30",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-31",
+      "event_count": 3,
+      "sentiment_avg": -0.17
+    },
+    {
+      "date": "2026-06-01",
+      "event_count": 27,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-02",
+      "event_count": 17,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-06-03",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-04",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-29 ~ 2026-06-04）共 88 則事件，重點為「California American Water plans $277 million in...」。水資源產業通用、財報、展望為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "美國水務",
+        "reason": "本週出現 7 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "穆勒",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

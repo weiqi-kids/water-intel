@@ -1,0 +1,149 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T11:21:28.790276Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Look At A. O. Smith (AOS) Valuation After Analyst Downgrades And Softer Q1 Outlook - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQzJpcmR1ejA3TzkzQVhBeDFvV0FBcnhGOUhZMVVCTjlSc0xDb01xN1JOYlp5SDRGdXVISEdFR1VtaW9kMnlxREk2S3E2ZTRIM3BYcE94MnRQY1dZbGhxOFd1Mk0ycks2Q1JxMFlORXpvTm5faDB5cnRCamV4NEdQeFgwWXd0b0FpWnhqSVdkVWtrS2FZS2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ao_smith-2026-06-04-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AO Smith (AOS) Reiterated at Buy by Stifel - StreetInsider",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXNoVUVFaktna21YNVg0b0JCTVA5UXVoRWtTUHY1RUdCMExxQ2NfY2kwOWlkYlJMYlNUZEw5b0VhUUJnVTJJeTBMUFdadFlZc2ZGUnVvNlFlZVM4QVhjNFdsQ2ZFMHZ5S3NaU0h2LTBFbC12VldPb25ncjZCbnY2TUlXRG1NalNkZXpXRXNWZVBKV0szTzNZZDE0TzZlYWFCM1VENW5wNmF4N3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Guidance Cut And Downgrades Reshaping the Demand-Driven Investment Case For A. O. Smith (AOS)? - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb05Nbi1tSk1qNXFadkV4X2F5a0JyUnBvX1pHcm8tSnhmYzRDNmJCUXFIbk9mUmhiTXY3R0RXcmtTMVlTWGRva3B2bWpJZDZ4WUJNNFNUM3luejlkaWVuTlYxbTZhYVp3S3B0dTlBa3gtc2hCMThsb3h0QTZwNy1TaVhfS0NiNVJVUnpyZm5nVG5LRGFuOWp3RmZwM2NPNWZHX3c2NmIzaWlBS2ROejBSN3JjZ3RYa3hWVWJmSy1GZ0Exek5NbEJZNHJn0gHPAUFVX3lxTFBsMzFhUl9BbFFhNG05UnlCUkZfV0cwQmhsc1huQXRYRWsxWHcxY2RIQXRBTGxqbHVIVjlxZkRLcnFDVGFSQUtCM1VDV2s2UHp2bGNCUFBORHFLS2tGRVoyWHcxT1RNQl9INGotUnJiZTBDRzhlZVhZLWx2dGY4UWZIRXZmakktVk9nZk5ILWtJM3ZOeldKU1dPR2N2X0FVZEIyVjdRVTJxX2hpSnIxckhpLXlBRE0zeE81QzlmRm5uYmxKam5tRmtkajBrZzAySQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ao_smith",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 180,
+    "too_old": 65,
+    "gate1_blocked": 2,
+    "gate2_blocked": 1,
+    "passed": 12,
+    "pass_rate": "15.0%",
+    "gate2_block_rate": "1.2%",
+    "gate2_samples": [
+      "Barclays Sticks to Its Buy Rating for Veolia Environnement (0NY8) - The Globe and Mail"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為史密斯相關動態：「A Look At A. O. Smith (AOS) Valuation After Analyst Downg...」。主要關注主題為財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "A Look At A. O. Smith (AOS) Valuation After Analyst Downgrades And Softer Q1 ...（財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "AO Smith (AOS) Reiterated at Buy by Stifel - StreetInsider（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
