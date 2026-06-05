@@ -1,0 +1,108 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:34:18.841316Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-06-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia’s Stakeholders Assembly Calls for Accelerated Uptake of Water Reuse to Strengthen Water Security - Business Wire",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTkhQR2JneEtoT0paUlcwQk9rbXlJSGc3UFlLU0VtcVFHamY2VFV1QXUtSUpSY21BWkRDdUtZTks2dndONjBhRjh4RzljWTRITHdVbERLY0cyTzNUQjRMMUl1T1plRDVwNndlWkduYzhjekdyY011UHp6QUpDYzhEbUJSRjNscmtnRnVVNENHV2RabGpZVlJVUTVMMEQ5bjg1M0paSFo0Z0h1ZFlSVEY4OTJVMk5tN1NGU0p2WFFVNVl4VGZZX051VXZJU3U5ZnNaOElmM0Q2ak9qZDNEcVh2NG9HMTRiMUlOOTljVzVBdTg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 182,
+    "too_old": 57,
+    "gate1_blocked": 2,
+    "gate2_blocked": 2,
+    "passed": 17,
+    "pass_rate": "21.8%",
+    "gate2_block_rate": "2.6%",
+    "gate2_samples": [
+      "Barclays Sticks to Its Buy Rating for Veolia Environnement (0NY8) - The Globe and Mail",
+      "Watts Named One of Newsweek’s World’s Greenest Companies 2026"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為威立雅相關動態：「Veolia’s Stakeholders Assembly Calls for Accelerated Upta...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Veolia’s Stakeholders Assembly Calls for Accelerated Uptake of Water Reuse to...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "威立雅為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

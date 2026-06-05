@@ -1,0 +1,13 @@
+{
+  "total_raw": 260,
+  "dup_title": 182,
+  "no_date": 0,
+  "too_old": 57,
+  "gate1_fail": 2,
+  "gate2_fail": 2,
+  "passed": 17,
+  "gate2_samples": [
+    "Barclays Sticks to Its Buy Rating for Veolia Environnement (0NY8) - The Globe and Mail",
+    "Watts Named One of Newsweek’s World’s Greenest Companies 2026"
+  ]
+}
