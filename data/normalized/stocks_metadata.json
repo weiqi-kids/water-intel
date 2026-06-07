@@ -6,73 +6,73 @@
     "history_complete": true
   },
   "energy_recovery": {
-    "earliest": "2012-10-22",
+    "earliest": "2012-07-24",
     "latest": "2026-06-05",
-    "count": 3424
+    "count": 3487
   },
   "xylem": {
-    "earliest": "2012-10-22",
+    "earliest": "2012-07-24",
     "latest": "2026-06-05",
-    "count": 3424
+    "count": 3487
   },
   "veolia": {
-    "earliest": "2012-10-18",
+    "earliest": "2012-07-20",
     "latest": "2026-06-05",
-    "count": 3484
+    "count": 3548
   },
   "pentair": {
-    "earliest": "2012-10-22",
+    "earliest": "2012-07-24",
     "latest": "2026-06-05",
-    "count": 3424
+    "count": 3487
   },
   "ao_smith": {
-    "earliest": "2012-10-22",
+    "earliest": "2012-07-24",
     "latest": "2026-06-05",
-    "count": 3424
+    "count": 3487
   },
   "danaher": {
-    "earliest": "2012-10-22",
+    "earliest": "2012-07-24",
     "latest": "2026-06-05",
-    "count": 3424
+    "count": 3487
   },
   "watts": {
-    "earliest": "2012-10-22",
+    "earliest": "2012-07-24",
     "latest": "2026-06-05",
-    "count": 3424
+    "count": 3487
   },
   "badger": {
-    "earliest": "2012-10-22",
+    "earliest": "2012-07-24",
     "latest": "2026-06-05",
-    "count": 3424
+    "count": 3487
   },
   "kurita": {
-    "earliest": "2012-10-23",
+    "earliest": "2012-07-25",
     "latest": "2026-06-05",
-    "count": 3347
+    "count": 3409
   },
   "zhongyu": {
-    "earliest": "2012-10-19",
+    "earliest": "2012-07-23",
     "latest": "2026-06-05",
-    "count": 3319
+    "count": 3382
   },
   "essential": {
-    "earliest": "2012-10-22",
+    "earliest": "2012-07-24",
     "latest": "2026-06-05",
-    "count": 3424
+    "count": 3487
   },
   "american_water": {
-    "earliest": "2012-10-22",
+    "earliest": "2012-07-24",
     "latest": "2026-06-05",
-    "count": 3424
+    "count": 3487
   },
   "etf_pho": {
-    "earliest": "2012-10-22",
+    "earliest": "2012-07-24",
     "latest": "2026-06-05",
-    "count": 3424
+    "count": 3487
   },
   "etf_cgw": {
-    "earliest": "2012-10-22",
+    "earliest": "2012-07-24",
     "latest": "2026-06-05",
-    "count": 3424
+    "count": 3487
   }
 }

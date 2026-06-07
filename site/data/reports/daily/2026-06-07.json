@@ -1,0 +1,133 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T10:34:15.607782Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-06-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Fiduciary Management Inc. WI Invests $75.40 Million in Mueller Water Products $MWA - MarketBeat",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVzdXaTN2Q0VaeXhWQUd0RUlnWmozeEcwYzhkMkxVcW1LODJ6bEppQlZpcVJ1cW5EYjZoWFZDc1hfYzhreUxJT2lLQ2JMLTdKQVV6MXJsYlYxOUk5a3k5VERoczczbUZsVG9SVUxqNWQ4cy1LZUpieFg0TkI0YUJJazFfdFdVaUhnZmpyRkpHOUpyRk81d2Z4UXpEVG40dkY4RXp4cEp1Ung3c1BvTGpNSm5Nb2pmS2VjQmdCWWVMWWxVZ3JJM0dPUlFfV0thdXpETDRzaDBB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Revenue per share of A. O. Smith Corporation – XETR:3SM - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXVBV21yOFkwSHB2T2pyZkxmbmhuNUhKNEd0SUNoRE1HV1RNM2dDVWJkYndRWnR2ekVjYTktNWQ4UlpydXdzanpLYzQweXQ5Y2YxeW5QejlWejN1VWc1WDdsSFVxVDhIY1dHMGkxSDZZdFpLaDhDQmN0U1RWUHhuQVBObHZDdVg5XzgwOVZZNmxZdlFJQnhNRTBTRXQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 181,
+    "too_old": 63,
+    "gate1_blocked": 2,
+    "gate2_blocked": 6,
+    "passed": 8,
+    "pass_rate": "10.1%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "1 Cash-Heavy Stock on Our Watchlist and 2 Facing Challenges - StockStory",
+      "Energy Recovery director awarded 18,094 shares | ERII Insider Trading - Stock Titan",
+      "Energy Recovery (ERII) awards 22,316 common shares to director Tondreau - Stock Titan",
+      "Barclays Maintains VEOLIA ENVIRONNEMENT(VEOEF.US) With Buy Rating, Raises Target Price to $47.61 - M",
+      "Barclays Sticks to Its Buy Rating for Veolia Environnement (0NY8) - The Globe and Mail"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為穆勒相關動態：「Fiduciary Management Inc. WI Invests $75.40 Million in Mu...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Fiduciary Management Inc. WI Invests $75.40 Million in Mueller Water Products...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Revenue per share of A. O. Smith Corporation – XETR:3SM - TradingView（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
