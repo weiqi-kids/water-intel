@@ -6,73 +6,73 @@
     "history_complete": true
   },
   "energy_recovery": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-06-05",
-    "count": 3487
+    "count": 3549
   },
   "xylem": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-06-05",
-    "count": 3487
+    "count": 3549
   },
   "veolia": {
-    "earliest": "2012-07-20",
-    "latest": "2026-06-05",
-    "count": 3548
+    "earliest": "2012-04-23",
+    "latest": "2026-06-08",
+    "count": 3612
   },
   "pentair": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-06-05",
-    "count": 3487
+    "count": 3549
   },
   "ao_smith": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-06-05",
-    "count": 3487
+    "count": 3549
   },
   "danaher": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-06-05",
-    "count": 3487
+    "count": 3549
   },
   "watts": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-06-05",
-    "count": 3487
+    "count": 3549
   },
   "badger": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-06-05",
-    "count": 3487
+    "count": 3549
   },
   "kurita": {
-    "earliest": "2012-07-25",
-    "latest": "2026-06-05",
-    "count": 3409
+    "earliest": "2012-04-26",
+    "latest": "2026-06-08",
+    "count": 3470
   },
   "zhongyu": {
-    "earliest": "2012-07-23",
-    "latest": "2026-06-05",
-    "count": 3382
+    "earliest": "2012-04-24",
+    "latest": "2026-06-08",
+    "count": 3446
   },
   "essential": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-06-05",
-    "count": 3487
+    "count": 3549
   },
   "american_water": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-06-05",
-    "count": 3487
+    "count": 3549
   },
   "etf_pho": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-06-05",
-    "count": 3487
+    "count": 3549
   },
   "etf_cgw": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-06-05",
-    "count": 3487
+    "count": 3549
   }
 }

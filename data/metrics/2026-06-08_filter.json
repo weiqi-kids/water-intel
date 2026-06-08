@@ -1,0 +1,16 @@
+{
+  "total_raw": 260,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 2,
+  "gate2_fail": 6,
+  "passed": 13,
+  "gate2_samples": [
+    "Energy Recovery director awarded 18,094 shares | ERII Insider Trading - Stock Titan",
+    "1 Cash-Heavy Stock on Our Watchlist and 2 Facing Challenges - StockStory",
+    "Energy Recovery (ERII) awards 22,316 common shares to director Tondreau - Stock Titan",
+    "Barclays Maintains VEOLIA ENVIRONNEMENT(VEOEF.US) With Buy Rating, Raises Target Price to $47.61 - M",
+    "Barclays Sticks to Its Buy Rating for Veolia Environnement (0NY8) - The Globe and Mail"
+  ]
+}
