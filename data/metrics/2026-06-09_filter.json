@@ -1,0 +1,16 @@
+{
+  "total_raw": 260,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 0,
+  "gate2_fail": 5,
+  "passed": 17,
+  "gate2_samples": [
+    "More Efficient Fans for Energy Recovery From: Greenheck - Industrial Equipment News",
+    "Energy Recovery director awarded 18,094 shares | ERII Insider Trading - Stock Titan",
+    "Energy Recovery (ERII) awards 22,316 common shares to director Tondreau - Stock Titan",
+    "Barclays Maintains VEOLIA ENVIRONNEMENT(VEOEF.US) With Buy Rating, Raises Target Price to $47.61 - M",
+    "Watts Named One of Newsweek’s World’s Greenest Companies 2026"
+  ]
+}

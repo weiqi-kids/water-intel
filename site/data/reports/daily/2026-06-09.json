@@ -1,0 +1,182 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T11:24:06.305717Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_water-2026-06-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Erste Asset Management GmbH Raises Stake in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRVVVWU1PLVVNWFpBenFkYVNydmlDYllzTXExUDlVUUE0ejY4U3lWNlhHRDJoYUJ4V1dIc1FjNDRLT0RNQ1JmczlhT2FxNEJKOFJpUkE1UEFrU2p2b0Z3LVF2TjhXMkcwYXB6cjRzbzc5VzNpUGtJM3o5T0RTQ2dCXzk2MkU4ZE1rNWl2MlpkMzl4ODRCbjFqYm5oTUtuNl9GZlZuNm4zbk9hUkZ2ZFFhYk9kek9QMDFpUWFJU19IeWlEM2tvXzFoZWNMb0M3bzBUeEJ0alREZUY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-06-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Grants Highlight Community Impact And Valuation Context For AWK Investors - Yahoo Finance",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHFDTW1mdWFqRGljV0ZYX0VNRV8xdVVvUzg0MmpVbVhITm5xMUt4c0MzWEhoUl9haGtQOUdZR283RHBhQ25oYXNOUlc0QUZiTTZzYjVLUHVSNkdLZXdUWW1ZNmZxTm9nMjdObjFIUk9SdFFBd3VTaVlXN1NQaXptWkFwVFl3YWdaTVNIMXpDaTg1T1RyMExDR1JoeElNZVVYanI2NTA2RE9MZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "veolia-2026-06-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Veolia Launches its 2026 Employee Share Ownership Plan with up to €300 Matching - Idéal Investisseur",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRUZHU2pYVW9ibDAwLTVET29DVHB4MUhkN080eFJTX1M4SDV1RDI4QnJVX0huVGFUbHNhTGFSZFNjQjUyTF85T00taEg1M0xMcE40bDQwMHdxbVFXTzh4bWtOU1Rib1Vncy02djIzdE0wRWMtTTh1cS1qV1VrUzBQcTZ4U2F0cGtzZ3dKMHBrSDl6anpISTItZDlfWXAxSHJSUElrby1Obk1NSXZwOHJpUzlGaHhpcmZ6OFdYdjBVcUt3OTlsaVNvUE1lY3VSamNRN2NfYzB5RQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_water-2026-06-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Water Works Company, Inc. (AWK) Stock Price, News, Quote & History - Yahoo Finance",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aNXZGMEpHZld4TUJybTR3VUVINGdiS0FZTTJ6Rlo0Z2o0dlY3aURrQkx3ODVYSGdiZTZISnhGZDA5Yk50VXlRQmhNdUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 3
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 174,
+    "too_old": 64,
+    "gate1_blocked": 0,
+    "gate2_blocked": 5,
+    "passed": 17,
+    "pass_rate": "19.8%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "More Efficient Fans for Energy Recovery From: Greenheck - Industrial Equipment News",
+      "Energy Recovery director awarded 18,094 shares | ERII Insider Trading - Stock Titan",
+      "Energy Recovery (ERII) awards 22,316 common shares to director Tondreau - Stock Titan",
+      "Barclays Maintains VEOLIA ENVIRONNEMENT(VEOEF.US) With Buy Rating, Raises Target Price to $47.61 - M",
+      "Watts Named One of Newsweek’s World’s Greenest Companies 2026"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為美國水務、威立雅相關動態：「Erste Asset Management GmbH Raises Stake in American Wate...」。主要關注主題為水資源產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Erste Asset Management GmbH Raises Stake in American Water Works Company, Inc...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "American Water Grants Highlight Community Impact And Valuation Context For AW...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
