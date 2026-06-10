@@ -1,0 +1,153 @@
+{
+  "date": "2026-06-10",
+  "date_range": {
+    "start": "2026-06-04",
+    "end": "2026-06-10"
+  },
+  "generated_at": "2026-06-10T11:44:26.765948Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-06-04-012",
+      "date": "2026-06-04",
+      "title": "American Water Participates in EEI 2026 Keynote on Power, Water and Resilient Infrastructure - marketscreener.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 17,
+      "last_week": 18,
+      "week_over_week_change": "-6%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 6,
+      "last_week": 1,
+      "week_over_week_change": "+500%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 17,
+      "last_week": 19,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": -0.01
+    },
+    "capex": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "smart_water": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "regulation": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "ao_smith": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "veolia": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "mueller": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "xylem": {
+      "event_count": 1,
+      "sentiment_avg": -0.25,
+      "rank": 5
+    },
+    "essential": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "american_water": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 92,
+        "last": 111,
+        "change_pct": -17.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-04",
+      "event_count": 19,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-06-05",
+      "event_count": 15,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-06",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-07",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-08",
+      "event_count": 17,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-09",
+      "event_count": 20,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-10",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-04 ~ 2026-06-10）共 92 則事件，重點為「American Water Participates in EEI 2026 Keynote...」。賽萊默情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "賽萊默",
+        "reason": "本週情緒偏負面（-0.2），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "穆勒",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "美國水務",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
