@@ -1,0 +1,16 @@
+{
+  "total_raw": 260,
+  "dup_title": 180,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 1,
+  "gate2_fail": 8,
+  "passed": 6,
+  "gate2_samples": [
+    "More Efficient Fans for Energy Recovery From: Greenheck - Industrial Equipment News",
+    "Vanuatu Strengthens Disaster Recovery Governance Through Consultation of Housing, Energy and Recover",
+    "Energy Recovery (ERII) awards 22,316 common shares to director Tondreau - Stock Titan",
+    "Energy Recovery director awarded 18,094 shares | ERII Insider Trading - Stock Titan",
+    "Veolia Environnement S.A. stock (FR0000124141): Analyst upgrades and solid price performance draw fr"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T12:15:45.263467Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_water-2026-06-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is American Water Works (AWK) Pricing In Too Much Stability After Recent Share Price Weakness? - simplywall.st",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY3RRVzNxY2lpU3BqYVI5d2s4S3l3ajJoR2hkRFE5X2drYjZvUk1vSW1zSW9KbUFZaXhXVnYtblJIQWFjaEVVQTR2NXZlSEFaYURCaVpXNHBmUVZiXzJSb3l1ZlVTRjJ3a0JPWFZqSjNYei0tcW1NaUVmNnp5UXVVV0RWLS0zOExoRk8wNHNWeW83M3ptRUdaaDlvQlZYczdJZTU4eUpCaW5pNTJwUFdySVFIZGNXd2ktRlo2ZEc5QnRFN21GY2Z6aXlDX1d5emlPaTg00gHYAUFVX3lxTE02VzRXMWJwYjhHdG83NldwTWJEUFBxOVFicGZUNXVqaWlES2NqdDFTM1FtQ3h0aEwybjl4VTFVOXVBS0d0TEdVUHBYY3BQUTZqTHN5RmxwalU4dmFzN3AtQ01zcXpHQzNfY19CRlA1ckh5UkItMl9OX1dIeGg2YVJXQmdScGpHUzVnTWRTckNPZlJ4bS0xdXJiRHVIS0Y2dEdjVjRqSkZYcHlLR0NHbUxacmhkdGRIMzFKTUdoQ3lzWGl2RUlBQlNHcE5iZGJrQjc3XzY2Y2xDSA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-06-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Bank AG Reduces Stake in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV1JwTmVIckVZdU5WZTJ5WVo4UGxfZUtlcXliSFJhUkZJdEtnaks0V3lDTHhWNFlJbUUyQ2l6c2diQ09qUkhQS01ja3hSWFdmUi14YmFLakxVMTFmaG10UUF5ZUVnWl9ocDRoZlBuSlVDRENndjNjNWpnMzUySXVaM25WcUtXNXJZOHlUZklIMFNPcEczRWxzZFRqRXpZS1NObDUtckl6OERNZEI4eHRUbjhURHc0bWZTMEQzcFJXWUFfNWQ0VkE5b2dLUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 180,
+    "too_old": 65,
+    "gate1_blocked": 1,
+    "gate2_blocked": 8,
+    "passed": 6,
+    "pass_rate": "7.5%",
+    "gate2_block_rate": "10.0%",
+    "gate2_samples": [
+      "More Efficient Fans for Energy Recovery From: Greenheck - Industrial Equipment News",
+      "Vanuatu Strengthens Disaster Recovery Governance Through Consultation of Housing, Energy and Recover",
+      "Energy Recovery (ERII) awards 22,316 common shares to director Tondreau - Stock Titan",
+      "Energy Recovery director awarded 18,094 shares | ERII Insider Trading - Stock Titan",
+      "Veolia Environnement S.A. stock (FR0000124141): Analyst upgrades and solid price performance draw fr"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為美國水務相關動態：「Is American Water Works (AWK) Pricing In Too Much Stabili...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Is American Water Works (AWK) Pricing In Too Much Stability After Recent Shar...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Deutsche Bank AG Reduces Stake in American Water Works Company, Inc. $AWK - M...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
