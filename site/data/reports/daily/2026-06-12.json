@@ -1,0 +1,158 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T11:49:31.034565Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-06-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia launches new employee share ownership plan - employeebenefits.co.uk",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjlNMEM2OE84X3BpSm5WOUtNenUwdW90azBpOW9ZRF9wXzV5dVZoN0RrZkl4V2NidG5NaXN6dlhDSVFrSElXM21sTmdTa3A3aEg2NlRIU3E2Q2pLVmpDWHd3NmJqTWJfd3QwRVpDMV9yOWUxZDZjLVNycWZNakVUc016NGVGeVpkNzVDZU85cFpMZFlpTkw0THN0bVd0c2swXzlv?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Coca Cola And Two Quiet Dividend Growth Engines For Inflation - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdllsbkh6RWxBbEFnS1p6RDZqQ2tKNktUSHRKNmFyLWg5dmZ2V2pTVVlOQnRJamppS1VNNThWbWJZeTNfSlU3M19FMkZKU0diaDB2bkphWUI4c2prU2ZaVFlGMGI0QXF4VVozN1RUZDFhbkowNE5JcnFBbk1CeTM5TUYtMlB4MTB1dU9wZnBLWE1kQnlWUE1WcnB3cFJ0cVp2ejJUNUhhTHBtRlVUeGdXdU03YWhCd3NSaE5pckJJejExYmVaSUxoekdB0gHPAUFVX3lxTFBWMXZuZGYyOVlRWWVXeWxEc1hyT3A4R0luaTlSTDBQN25ta1hTR1czeEt2NUEzWGRFWWtQdXhoUXE0OU9WcmRwNjR1ZXg5VXJPWUhadUxyWFh2T3pYRXBIU0M5Ulk1aGxGcmk0R1NERGUzMFQwbmd3QWVHZHQzZVBydmlBT3k5c2lyVmUzWXllckN2TlJvckt0RGtmWjhBdWh1by1mekI4VHd6U25Sck1nMnZwMU9LbWVCSTZhb1AwdExNUElmNHBkZlZTTzBqcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "essential-2026-06-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Essential Utilities: More Attractive Ahead Of Merger (Rating Upgrade) - Seeking Alpha",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT3hQbndiUXZhLUZNZDdCcFpmaGpEUDA0VmY0ZTBSTy1BYXQyRVFzQzhodEZYcHBVZV9DM2plYWtKZDdfYVJrNmFWSHBFNFlCbWhZQmVERC1iZGVCYk1VdzB3X2hGZVZlUDh0ZkhvSmkyazlvSGRGcl9lUjhIeDd5NnFLNHV1eWpNajlQZWI5WlVhd1gzQUxrcmVyeWd2Wmxwdnc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "essential",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 167,
+    "too_old": 71,
+    "gate1_blocked": 2,
+    "gate2_blocked": 6,
+    "passed": 14,
+    "pass_rate": "15.1%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "More Efficient Fans for Energy Recovery From: Greenheck - Industrial Equipment News",
+      "Biochar’s hidden electron power could unlock cleaner pollution control and energy recovery - EurekAl",
+      "Energy Recovery director awarded 18,094 shares | ERII Insider Trading - Stock Titan",
+      "Energy Recovery (ERII) awards 22,316 common shares to director Tondreau - Stock Titan",
+      "Oppenheimer Adjusts Price Target on A. O. Smith to $75 From $80, Maintains Outperform Rating - marke"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為威立雅、必要公用相關動態：「Veolia launches new employee share ownership plan - emplo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Veolia launches new employee share ownership plan - employeebenefits.co.uk（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Coca Cola And Two Quiet Dividend Growth Engines For Inflation - simplywall.st（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

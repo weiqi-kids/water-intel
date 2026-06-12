@@ -1,0 +1,16 @@
+{
+  "total_raw": 260,
+  "dup_title": 167,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 2,
+  "gate2_fail": 6,
+  "passed": 14,
+  "gate2_samples": [
+    "More Efficient Fans for Energy Recovery From: Greenheck - Industrial Equipment News",
+    "Biochar’s hidden electron power could unlock cleaner pollution control and energy recovery - EurekAl",
+    "Energy Recovery director awarded 18,094 shares | ERII Insider Trading - Stock Titan",
+    "Energy Recovery (ERII) awards 22,316 common shares to director Tondreau - Stock Titan",
+    "Oppenheimer Adjusts Price Target on A. O. Smith to $75 From $80, Maintains Outperform Rating - marke"
+  ]
+}
