@@ -1,0 +1,16 @@
+{
+  "total_raw": 260,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 2,
+  "gate2_fail": 5,
+  "passed": 11,
+  "gate2_samples": [
+    "Biochar’s hidden electron power could unlock cleaner pollution control and energy recovery - EurekAl",
+    "More Efficient Fans for Energy Recovery From: Greenheck - Industrial Equipment News",
+    "A. O. Smith (AOS) Stock After Recent Rebound Is The Current Price Attractive? - simplywall.st",
+    "Oppenheimer Adjusts Price Target on A. O. Smith to $75 From $80, Maintains Outperform Rating - marke",
+    "Why Is Danaher Drawing Attention Among Bluestock Indices Trends? - Kalkine Media"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T10:36:08.261432Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_water-2026-06-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cohen & Steers Inc. Reduces Position in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWG9yd0xSQ0RFOUNKSmhDN256YU5DMHpsOGlFei1SZ0hoQkJ1MjZ2Nld6QkQtZ25ITUhCZkpIcFJtZTJLeHlVeWJsWjl3NDRaQ3dFQjlLTmtBZDNYendpWFJUUWhGcmcwX0hZWTFublBERVhxd05zWVplakk1UVJoQkZMX19TOGlsYkJlMmNJVnNKYTR1MnNwRXZyR3daZW5tSmFkRG8tLUstR0dmSTlBMGl0NDVmQ0tHZ19OclF5dDF1SkJwVFhYelRkdXBPNGs?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "World Optical Absorbance Biosensors - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYl85N0dtdDhZNUd0N09IN2hxSVRpazlLOENFckRyTnBRLXViTzl3UnlyV05qQjUxSFZuc2RxYi0tR1hnWjE4NDdNd2FSZGtBZjJCQnZLS0NzaElKWDl1bU80RnpiUUxMYzRjNnVkQUliNjNhZ1hiallBVC1aSmZmazBjMW1rWE53bzBITGRQOGNiTGhHbHhkR2l3d2drNV9HTDl6OXcySlZoc19kR2FQMlhUSF9wTEJLUmxkUlBmNkNvcDY3VEpfRFVFQldSWUVobU53bklWemdOTWhuYkhzajBnOFdhTkxzTG5F?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 177,
+    "too_old": 65,
+    "gate1_blocked": 2,
+    "gate2_blocked": 5,
+    "passed": 11,
+    "pass_rate": "13.3%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "Biochar’s hidden electron power could unlock cleaner pollution control and energy recovery - EurekAl",
+      "More Efficient Fans for Energy Recovery From: Greenheck - Industrial Equipment News",
+      "A. O. Smith (AOS) Stock After Recent Rebound Is The Current Price Attractive? - simplywall.st",
+      "Oppenheimer Adjusts Price Target on A. O. Smith to $75 From $80, Maintains Outperform Rating - marke",
+      "Why Is Danaher Drawing Attention Among Bluestock Indices Trends? - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為美國水務相關動態：「Cohen & Steers Inc. Reduces Position in American Water Wo...」。主要關注主題為展望、財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Cohen & Steers Inc. Reduces Position in American Water Works Company, Inc. $A...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "World Optical Absorbance Biosensors - Market Analysis, Forecast, Size, Trends...（展望）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
