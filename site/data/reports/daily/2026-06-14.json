@@ -1,0 +1,160 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T10:53:12.325153Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_water-2026-06-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ally Financial Inc. Invests $1.57 Million in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM29LdGNDUHpFOW1HODFyYzllQ1hiR05vU2RZQ1dpSWFueWZxZEVlZVB3ZFN1b2dvUlotNmF1RkdWY2tZanlfNFQzcllNZHBUSmVXUFFVMGdfRVFEc1BkcWlBZlEtRVlNeFpXamlJcndIWTFzU1hUX3BXeTFsdC1uWnNqWkNGZl85MWZtR1RKNVdILXI4T0ZHN0xvOXN3eVJ0dEllUC1mTExvQnY2Y2k3NzR2d2otRFd2UFRsaXdOSExWUC1HWTdnaTIxbHRLbENJRVJMLUN3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-06-14-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Entropy Technologies LP Acquires 25,576 Shares of American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX3lHbjQ2Qmg4TlI4WG5RRXZrNVhWeDRvRm1ib2d0R21rMzBPVHA4NDN2SDVMQm00TUZSX1V0M1ZnVlBzSGpBci1ESTF6dEdudFIwenZNZDZSR3hjX3pTMDZ5Y1U1OHYtVWtxY05hc3JXV0J5anFMbWV3TWNRbXRONFBCdWV2bm5kX0pPbmxCNEl4Skg5QXJaNWhPWE5YSmVMQUQyVFR0RXp0M0RiWTdDb2x0Wm1JVWt0ZUJGYUwwaHdzMWd5bFhEUmNYaUc3dF9oZUdiS1J6MFhEbmU0dm9Z?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "energy_recovery-2026-06-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Budanov met Paul Sutter to promote science led energy recovery - mezha.net",
+      "companies": [
+        "energy_recovery"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1VDFWQnEzVjlEVVpqamF6eXBibmw1WTYwaWhzZ2xNalZjRlRQV1FLekNBcFJKTVVJaF84Z0FCaHI4blphN2t5dnpzOW9Bd2REbWMyRG1sWnVEZjVMdnZRYlRwRVA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 2
+      },
+      {
+        "id": "energy_recovery",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 171,
+    "too_old": 72,
+    "gate1_blocked": 2,
+    "gate2_blocked": 6,
+    "passed": 9,
+    "pass_rate": "10.1%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Biochar’s hidden electron power could unlock cleaner pollution control and energy recovery - EurekAl",
+      "More Efficient Fans for Energy Recovery From: Greenheck - Industrial Equipment News",
+      "A. O. Smith (AOS) Stock After Recent Rebound Is The Current Price Attractive? - simplywall.st",
+      "Oppenheimer Adjusts Price Target on A. O. Smith to $75 From $80, Maintains Outperform Rating - marke",
+      "Why Is Danaher Drawing Attention Among Bluestock Indices Trends? - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為美國水務、ERII相關動態：「Ally Financial Inc. Invests $1.57 Million in American Wat...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Ally Financial Inc. Invests $1.57 Million in American Water Works Company, In...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Entropy Technologies LP Acquires 25,576 Shares of American Water Works Compan...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -6,9 +6,9 @@
     "history_complete": true
   },
   "energy_recovery": {
-    "earliest": "2011-02-02",
+    "earliest": "2010-11-04",
     "latest": "2026-06-12",
-    "count": 3863
+    "count": 3924
   },
   "xylem": {
     "earliest": "2011-10-13",
@@ -17,63 +17,63 @@
     "history_complete": true
   },
   "veolia": {
-    "earliest": "2011-01-31",
+    "earliest": "2010-11-02",
     "latest": "2026-06-12",
-    "count": 3931
+    "count": 3993
   },
   "pentair": {
-    "earliest": "2011-02-02",
+    "earliest": "2010-11-04",
     "latest": "2026-06-12",
-    "count": 3863
+    "count": 3924
   },
   "ao_smith": {
-    "earliest": "2011-02-02",
+    "earliest": "2010-11-04",
     "latest": "2026-06-12",
-    "count": 3863
+    "count": 3924
   },
   "danaher": {
-    "earliest": "2011-02-02",
+    "earliest": "2010-11-04",
     "latest": "2026-06-12",
-    "count": 3863
+    "count": 3924
   },
   "watts": {
-    "earliest": "2011-02-02",
+    "earliest": "2010-11-04",
     "latest": "2026-06-12",
-    "count": 3863
+    "count": 3924
   },
   "badger": {
-    "earliest": "2011-02-02",
+    "earliest": "2010-11-04",
     "latest": "2026-06-12",
-    "count": 3863
+    "count": 3924
   },
   "kurita": {
-    "earliest": "2011-02-07",
+    "earliest": "2010-11-09",
     "latest": "2026-06-12",
-    "count": 3775
+    "count": 3834
   },
   "zhongyu": {
-    "earliest": "2011-02-08",
+    "earliest": "2010-11-10",
     "latest": "2026-06-12",
-    "count": 3748
+    "count": 3806
   },
   "essential": {
-    "earliest": "2011-02-02",
+    "earliest": "2010-11-04",
     "latest": "2026-06-12",
-    "count": 3863
+    "count": 3924
   },
   "american_water": {
-    "earliest": "2011-02-02",
+    "earliest": "2010-11-04",
     "latest": "2026-06-12",
-    "count": 3863
+    "count": 3924
   },
   "etf_pho": {
-    "earliest": "2011-02-02",
+    "earliest": "2010-11-04",
     "latest": "2026-06-12",
-    "count": 3863
+    "count": 3924
   },
   "etf_cgw": {
-    "earliest": "2011-02-02",
+    "earliest": "2010-11-04",
     "latest": "2026-06-12",
-    "count": 3863
+    "count": 3924
   }
 }

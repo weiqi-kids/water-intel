@@ -1,5 +1,65 @@
 [
   {
+    "id": "energy_recovery-2026-06-14-001",
+    "date": "2026-06-14",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Budanov met Paul Sutter to promote science led energy recovery - mezha.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1VDFWQnEzVjlEVVpqamF6eXBibmw1WTYwaWhzZ2xNalZjRlRQV1FLekNBcFJKTVVJaF84Z0FCaHI4blphN2t5dnpzOW9Bd2REbWMyRG1sWnVEZjVMdnZRYlRwRVA?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1VDFWQnEzVjlEVVpqamF6eXBibmw1WTYwaWhzZ2xNalZjRlRQV1FLekNBcFJKTVVJaF84Z0FCaHI4blphN2t5dnpzOW9Bd2REbWMyRG1sWnVEZjVMdnZRYlRwRVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-06-14-002",
+    "date": "2026-06-14",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ally Financial Inc. Invests $1.57 Million in American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM29LdGNDUHpFOW1HODFyYzllQ1hiR05vU2RZQ1dpSWFueWZxZEVlZVB3ZFN1b2dvUlotNmF1RkdWY2tZanlfNFQzcllNZHBUSmVXUFFVMGdfRVFEc1BkcWlBZlEtRVlNeFpXamlJcn",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM29LdGNDUHpFOW1HODFyYzllQ1hiR05vU2RZQ1dpSWFueWZxZEVlZVB3ZFN1b2dvUlotNmF1RkdWY2tZanlfNFQzcllNZHBUSmVXUFFVMGdfRVFEc1BkcWlBZlEtRVlNeFpXamlJcndIWTFzU1hUX3BXeTFsdC1uWnNqWkNGZl85MWZtR1RKNVdILXI4T0ZHN0xvOXN3eVJ0dEllUC1mTExvQnY2Y2k3NzR2d2otRFd2UFRsaXdOSExWUC1HWTdnaTIxbHRLbENJRVJMLUN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-06-14-003",
+    "date": "2026-06-14",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Entropy Technologies LP Acquires 25,576 Shares of American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX3lHbjQ2Qmg4TlI4WG5RRXZrNVhWeDRvRm1ib2d0R21rMzBPVHA4NDN2SDVMQm00TUZSX1V0M1ZnVlBzSGpBci1ESTF6dEdudFIwenZNZDZSR3hjX3pTMDZ5Y1U1OHYtVWtxY05hc3",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX3lHbjQ2Qmg4TlI4WG5RRXZrNVhWeDRvRm1ib2d0R21rMzBPVHA4NDN2SDVMQm00TUZSX1V0M1ZnVlBzSGpBci1ESTF6dEdudFIwenZNZDZSR3hjX3pTMDZ5Y1U1OHYtVWtxY05hc3JXV0J5anFMbWV3TWNRbXRONFBCdWV2bm5kX0pPbmxCNEl4Skg5QXJaNWhPWE5YSmVMQUQyVFR0RXp0M0RiWTdDb2x0Wm1JVWt0ZUJGYUwwaHdzMWd5bFhEUmNYaUc3dF9oZUdiS1J6MFhEbmU0dm9Z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-13-001",
     "date": "2026-06-13",
     "companies": [],
@@ -34,6 +94,86 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWG9yd0xSQ0RFOUNKSmhDN256YU5DMHpsOGlFei1SZ0hoQkJ1MjZ2Nld6QkQtZ25ITUhCZkpIcFJtZTJLeHlVeWJsWjl3NDRaQ3dFQjlLTmtBZDNYendpWFJUUWhGcmcwX0hZWTFublBERVhxd05zWVplakk1UVJoQkZMX19TOGlsYkJlMmNJVnNKYTR1MnNwRXZyR3daZW5tSmFkRG8tLUstR0dmSTlBMGl0NDVmQ0tHZ19OclF5dDF1SkJwVFhYelRkdXBPNGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-003",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "World Chemical Oxygen Demand Test Kits - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSXhOazlIdGs5MHhVZEFkY3NPVVFQcHJHdzZieTdGZU51dTI0dXJRZWpKUm9rWXAtcV9iM2o4LXJuOUdBdGRteHdQMXFwdXpUYS12UVdQZ2tzQ01rWGJVN05MY0FvUXl3Z0lIM3NBeE",
+    "sources": [
+      {
+        "name": "danaher",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSXhOazlIdGs5MHhVZEFkY3NPVVFQcHJHdzZieTdGZU51dTI0dXJRZWpKUm9rWXAtcV9iM2o4LXJuOUdBdGRteHdQMXFwdXpUYS12UVdQZ2tzQ01rWGJVN05MY0FvUXl3Z0lIM3NBeE9hbmd3SVIzWTc0WXQxOGZsMHJtdWdYY01DcEpjUUZuMTVuTi1UNG9OM2pJSGRXMUJJekItSWJycHhKbGdyMnprNGIxem5zdnlOUnR6TlNKeEZ3Y3ZjX0xDUlJ1Zjc0eGNDRThkNmI3SHFrRW1lZ0otQUtPMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-06-13-004",
+    "date": "2026-06-13",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Recent Regulatory And Infrastructure Progress Altering The Investment Case For American Water Works Company (AWK)? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcTBxVHpPU2F4OFRLUTQ0TDN3NFM1N0JHUnpXdFRLSjluTFVUQ2E3WXAzX2ZEckFXb1hUeG51ZUswdXZ4ZGxkUmZ2ZTlmaW5SOHdLV19GRUE2OFVtbWZlblo0Z2l3UDJRU0NJQXdoT3",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcTBxVHpPU2F4OFRLUTQ0TDN3NFM1N0JHUnpXdFRLSjluTFVUQ2E3WXAzX2ZEckFXb1hUeG51ZUswdXZ4ZGxkUmZ2ZTlmaW5SOHdLV19GRUE2OFVtbWZlblo0Z2l3UDJRU0NJQXdoT3lyZGdMdm90Zmxsa2NlUVpkbDlKeThXUFNmbjlIVDg3M1R4Znp6SG5YbHRJTS1LdkNXVG1ndkc1Si1VYnpOSHIyeEQ4aVpMQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-06-13-005",
+    "date": "2026-06-13",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Victory Capital Management Inc. Has $341.33 Million Position in American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNXzVMZS1DSHUyVi1Vb2p3bkphLTFMSDNYaU14N2J3aFl0THNfc19uRWxVa1JXaTNZbGMzYnE3dUdzdTVlbDFfb3ptUVpDVC1FR2xpYTBKQ3duX1NPb01IRGd6c2QzQ21TYm1NbWtFYz",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNXzVMZS1DSHUyVi1Vb2p3bkphLTFMSDNYaU14N2J3aFl0THNfc19uRWxVa1JXaTNZbGMzYnE3dUdzdTVlbDFfb3ptUVpDVC1FR2xpYTBKQ3duX1NPb01IRGd6c2QzQ21TYm1NbWtFYzk1cHp5X2hneGsyQ3UwZEFQZFNlUmxlRE85QlpCNGJ2VFVrdkFOcE1ZSjU5MXM3d0pQRDExZUFtTVNfRndSOGR2NWhPZnowX0t0cnVhUTBnQVdwLVlmOHVfaE9SSlRnY2VVMzNURERfaGlLdi1kbE9YRGwxUTByU090QWREQ01BUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-006",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "United Utilities Group PLC Stock (GB00B39J2M42): Dividend-focused water utility in investor focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdHV0VVYzR254QzZaMnRlbGotSS1Jd0MyYnAtUk1mTzN3QWhNeTBNNlNrRlNsVkZpaFRnN2xWYWlwOXFsUDZBUVB6OEpGMWRwRjFESFZWYUJtOGxMVWFkajRzYXlMWGtoOE5TQm5vV2",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdHV0VVYzR254QzZaMnRlbGotSS1Jd0MyYnAtUk1mTzN3QWhNeTBNNlNrRlNsVkZpaFRnN2xWYWlwOXFsUDZBUVB6OEpGMWRwRjFESFZWYUJtOGxMVWFkajRzYXlMWGtoOE5TQm5vV2VUWnVpMWNOX3puLXBSQzQ5b2ZUMklvQ0FrcEVhelctYmlleTRPQ1hUSDhyeWNVVG5VRzRhUjlvZklGNTFTblhtWVBXNHlvejlXZmhBTUZwNmRXeC1aZEE?oc=5",
         "type": "rss"
       }
     ]
@@ -216,6 +356,27 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkxxVlpwWHFiQUVVR1M5YkxrQ1VYc2hHdGwxejRTR0VyRlROakNhMktMcm5lVGJ5bXVqM2hqcm1DTXNMdEM4UGVjZVF4ZzFPR1NUQmhMTURldE9UUUY4ZmUwVmlGdE9nb0ZQYTdRTUlFMkZ6QzNIakI4S2J4Z2JYcGdSdWVlTWxtcG91Q214dk82dDBOSlFtS3h2Yw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-06-12-010",
+    "date": "2026-06-12",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Stock: Is AWK Underperforming the Utilities Sector? - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmxkMkJfcG5NT3BoZFI3d0xXNjFneEtQeFpHLUpTNnQyOHhfSkREaElLc0VFUXlhaEdHd3lwLU9mRlp3NTlfUVp3OGxTVFJxYmY4eUJ6Yk5FcVlQOWxGZ182SWtQNWU3WEdLYVIzNE",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmxkMkJfcG5NT3BoZFI3d0xXNjFneEtQeFpHLUpTNnQyOHhfSkREaElLc0VFUXlhaEdHd3lwLU9mRlp3NTlfUVp3OGxTVFJxYmY4eUJ6Yk5FcVlQOWxGZ182SWtQNWU3WEdLYVIzNERiZV91XzJWUE1OcE10a3U0UVFoZFNiYjRJeERrX2VJNDJhS0FHaGhfNzQ4Tm5BUTI4MU1RcWk5aHZVQUp0QXZkUTY1dnI?oc=5",
         "type": "rss"
       }
     ]
@@ -1120,6 +1281,24 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOEdvOWZPMTUya3ZxWnkwTHNpb3JrZmZfcEhBSC1zeUt5bUd2MnJFSXhBT2ZMel9aSnE1OFB6U0RSdjBYZDF5RnUtTTcwbTlkcmRKNXJVQ2x4ZUhrcU95YjNXbW9SQzh5V2V6OXBneHdkYWQyOEJXOEJYc09fNjdveXJOeS01T25UYnVfUVdMa2w1ZENMY1laRTFsWmw4aHdEOUNKbFZ5dHZUNXFpYWRCU1M5TlRCM2I4bmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-06-09-025",
+    "date": "2026-06-09",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Veolia Launches a New Employee Stock Ownership Plan Offered to 180,000 Group Employees - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORF9LUnIxakVUMnVPWkVybUhOVC1GMW9WZVJZaS1iYjZCeWt1ZF9pSnBDMV9ZVkdXaEp2dE42N1FSRWl2VXA0THRoZXI5WTRTYlFrSWZFMl9EUGVkaEhQZk9JOC1aakRkZ1ZRalQwSX",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORF9LUnIxakVUMnVPWkVybUhOVC1GMW9WZVJZaS1iYjZCeWt1ZF9pSnBDMV9ZVkdXaEp2dE42N1FSRWl2VXA0THRoZXI5WTRTYlFrSWZFMl9EUGVkaEhQZk9JOC1aakRkZ1ZRalQwSXMyV0tpVkUzSURNT2VQUUJhV1ZISE5xZmw4Uk5nRTRxOGpkR1FkUHBxbmthNzFaTXdfSDFSV3AwNnI?oc=5",
         "type": "rss"
       }
     ]
