@@ -1,5 +1,26 @@
 [
   {
+    "id": "unknown-2026-06-15-001",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "smart_water",
+      "earnings",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Water Utilities Shift to Collaborative Delivery Models Amid Infrastructure Pressures - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ3hxdU4teUxfazA4UkZycFhTMWZUaHRrUXJWTDFST1FZRkRWVGFjNm9Sd0dtbC1XQzBEWGcwVE5hZXBZVmhlRE1WcXVsUURLUUFWbW51VUJXYzlSQkpudlFkWmhKLU9fWVpGWktOTy",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ3hxdU4teUxfazA4UkZycFhTMWZUaHRrUXJWTDFST1FZRkRWVGFjNm9Sd0dtbC1XQzBEWGcwVE5hZXBZVmhlRE1WcXVsUURLUUFWbW51VUJXYzlSQkpudlFkWmhKLU9fWVpGWktOTy0zYnF2MHhvVzg3OW82NDJOdG1LRGVOT3UwMkM3U1g5TzE3MFVLRnhodHgwanlTdU5EOFlVdTRiWjc2RHRyYXluNDF3QkQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "energy_recovery-2026-06-14-001",
     "date": "2026-06-14",
     "companies": [
@@ -639,6 +660,27 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb3J6d0RmVzNOTHRRNHFENnVuSEVObHlCN2dlalc5NmR4eWpHY0JfSkI5aXJ5VTJyaDFJTUcxdWZsT2o0SjdYQTdBY1MwdGJTRkxGck1TUHlEWG5XRmthalZQWnBTSEQ4Z2o3cENoRGk5WVBqbE1pV3hNUUlSdnlIWjN4eFZoOG1Tc1ZqRzR3MWY0OWFBYWJUcg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-06-11-014",
+    "date": "2026-06-11",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BofA Securities Adjusts American Water Works Price Target to $133 From $134 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdXY2bkQwMTNocm45QnBsTHFsYUdFcXd2R09vcmFfSkVEaUs5eHNaLUhBSk1HczdWeFNsdlltcldycDk4TVB6eEFtYVoxNi1yRlY0WDQycEV4OFZlaHB2RlhKTExVeENLUTdBSTZDTE",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdXY2bkQwMTNocm45QnBsTHFsYUdFcXd2R09vcmFfSkVEaUs5eHNaLUhBSk1HczdWeFNsdlltcldycDk4TVB6eEFtYVoxNi1yRlY0WDQycEV4OFZlaHB2RlhKTExVeENLUTdBSTZDTEw2bVJvWkJaZk9HWE5IZkZSNWt1ZDZDSktNR0lOczFUdXJrNGZfWUo0eWZXNUxaQU1TMmZDSzcyQ1Y4d1pWbkZVeS1UazRqQmF0aGJwLWIwRmRrcWla?oc=5",
         "type": "rss"
       }
     ]

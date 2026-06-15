@@ -1,0 +1,135 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T14:34:25.115631Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-15-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Water Utilities Shift to Collaborative Delivery Models Amid Infrastructure Pressures - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "smart_water",
+        "earnings",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ3hxdU4teUxfazA4UkZycFhTMWZUaHRrUXJWTDFST1FZRkRWVGFjNm9Sd0dtbC1XQzBEWGcwVE5hZXBZVmhlRE1WcXVsUURLUUFWbW51VUJXYzlSQkpudlFkWmhKLU9fWVpGWktOTy0zYnF2MHhvVzg3OW82NDJOdG1LRGVOT3UwMkM3U1g5TzE3MFVLRnhodHgwanlTdU5EOFlVdTRiWjc2RHRyYXluNDF3QkQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "smart_water": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "smart_water",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 171,
+    "too_old": 79,
+    "gate1_blocked": 2,
+    "gate2_blocked": 6,
+    "passed": 2,
+    "pass_rate": "2.2%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Biochar’s hidden electron power could unlock cleaner pollution control and energy recovery - EurekAl",
+      "More Efficient Fans for Energy Recovery From: Greenheck - Industrial Equipment News",
+      "A. O. Smith (AOS) Stock After Recent Rebound Is The Current Price Attractive? - simplywall.st",
+      "Oppenheimer Adjusts Price Target on A. O. Smith to $75 From $80, Maintains Outperform Rating - marke",
+      "Why Is Danaher Drawing Attention Among Bluestock Indices Trends? - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為智慧水務、財報、資本支出相關動態：「Water Utilities Shift to Collaborative Delivery Models Am...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Water Utilities Shift to Collaborative Delivery Models Amid Infrastructure Pr...（智慧水務、財報、資本支出、水資源產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

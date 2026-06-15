@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-15",
+  "total_events": 1,
+  "by_company": {},
+  "by_topic": {
+    "smart_water": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "capex": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "industry_general": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
