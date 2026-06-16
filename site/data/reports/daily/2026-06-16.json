@@ -1,0 +1,244 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T13:00:41.883084Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-16-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "New water main project, SJW Group’s pipeline replacement tackles aging infrastructure - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMVFhV1BSMG55emtVMEFJa0NfQ21OQ2pnMWVMTS1ZWklfazA1Z0FIejRXWTI3NURxcGdDcWhiQzk3RU05YWRkbHNkbHgxOTJ1M0IyU3NSa0JNZGJyMERqZ1Yyc2RhRmZ6dDNJTkJoWWQxTkVpVzVZVGJWazhvY091eF80V3RNd3VRRDM5bDdjbWFDOWszRXdiWTBFbklKWlZqZzBSbVo2RVpRT1JySVNaVC0yUk42NUZmSFU3ZkI0RFFuQ1VWdFZ3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mueller-2026-06-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Brown Advisory Inc. Sells 238,949 Shares of Mueller Water Products $MWA - MarketBeat",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaUg3Y0RLTFlZbEQ3VDFFbVhuVWsyVjRfZ2FtUTRoUlFJeHhJWXNvZmNTbzBDU2tlcnBsN0UtSnNYVzVGVnJBdlBrVlRUNWs4VXFsaGlpWmxKZEZzWHhJVFE0eFYtT1hGbFFjdXFZZE5NTVpEZXVuWUc4bWFQWF9xamJNWnc4TDctUW12WnA1aE53cE5VT1lfM1N5UUZqSWhSZFljWFlPd2Frc2dpSlVfZHNNbnZFTVZwUTNWRFd6TzZRYXh2WDltbQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ao_smith-2026-06-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A.O. Smith Century U6520, 5\" Split Capacitor Unit Heater Motor - 1075 RPM 115 Volts U6520 - aviglianonews.it",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTGkzUzR1MGhpWjdJZVJWYVFlNEtBVWstZWVRdEZ5SXRreTJocUotWWtQdWk1Q3ZjbENaTHY4MW5hTFRITXlVQTlMTmVlQ1RTSFgwbjl2TTF0aUF0dWNodnF6REF4TzhZVE9fS1o3RXl6UW5idmlpNEZMdFU2YlFQeFlqRVJjekRLS1c1VlVWSHNRV0dQcXc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-16-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "HVAC and Water Systems Stocks Q1 Recap: Benchmarking Northwest Pipe (NASDAQ:NWPX) - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOREl3R0dabkZ2THp3ci1fc3lqa1MybXhEOTYtamY2dXp5alBWRDNPUkxXM2N6OUdPYmFlRnJZV0xFYVY0c0lZdU9zTXFqZ1RyLXBUM1BUc1pGSXdjUzBHRTRCS05xbVd6NkN2RmJMTHBnNThBOUhqMnNHY0IyZ3R5YlpHSmp5ZGdwZkNJUjgxZ3dYY1ExekdrSGt1NXI4Q1RsTFpJYkFETU1vcTlCU3dDUnNKY21wODg3YUR4aVdYNmZwekZGSHRXQmxCZklEVHhNdnhSTzR3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_water-2026-06-16-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "New financing push, American Water Works Military Services unit focuses on base resilience - AD HOC NEWS",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUF83NlhBTnRKSDdrc0gxak96ZUtVWkFaclYweGpudWdLU29WaE4zaWlXZmRCSy1hbWhDQVhMTV90aVp3X2pKN1BBaXhkYkRDVkpzT3J0MnVBWEdqWkZ0eExoZF9iUGdTMEFJckh2dEY5elVPOS0wend0ZUVsd0Q5TUVHallRZDNscWVJNnN0R3kwbEdTaGRYSnliNmVwbjRyYkl0Q3hJUHJWcmoyT215ZXZ2VGpzWnpYeDJNR3pGdF9xd01CWW5KRXNpeV8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 1
+      },
+      {
+        "id": "ao_smith",
+        "count": 1
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 266,
+    "dup_title": 159,
+    "too_old": 81,
+    "gate1_blocked": 1,
+    "gate2_blocked": 6,
+    "passed": 19,
+    "pass_rate": "17.8%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "IMF Chief Warns Energy Recovery To Take Time After US-Iran Ceasefire - Barron's",
+      "Biochar’s hidden electron power could unlock cleaner pollution control and energy recovery - EurekAl",
+      "A. O. Smith (AOS) Stock After Recent Rebound Is The Current Price Attractive? - simplywall.st",
+      "Why Is Danaher Drawing Attention Among Bluestock Indices Trends? - Kalkine Media",
+      "Danaher Corp. Stock (US2358511028): shares in focus after quiet trading week - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為穆勒、史密斯、美國水務相關動態：「New water main project, SJW Group’s pipeline replacement ...」。主要關注主題為水資源產業通用、財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "New water main project, SJW Group’s pipeline replacement tackles aging infras...（財報、資本支出、水資源產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Brown Advisory Inc. Sells 238,949 Shares of Mueller Water Products $MWA - Mar...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

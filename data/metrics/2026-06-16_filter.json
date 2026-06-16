@@ -1,0 +1,16 @@
+{
+  "total_raw": 266,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 1,
+  "gate2_fail": 6,
+  "passed": 19,
+  "gate2_samples": [
+    "IMF Chief Warns Energy Recovery To Take Time After US-Iran Ceasefire - Barron's",
+    "Biochar’s hidden electron power could unlock cleaner pollution control and energy recovery - EurekAl",
+    "A. O. Smith (AOS) Stock After Recent Rebound Is The Current Price Attractive? - simplywall.st",
+    "Why Is Danaher Drawing Attention Among Bluestock Indices Trends? - Kalkine Media",
+    "Danaher Corp. Stock (US2358511028): shares in focus after quiet trading week - AD HOC NEWS"
+  ]
+}
