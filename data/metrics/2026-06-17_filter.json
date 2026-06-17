@@ -1,0 +1,16 @@
+{
+  "total_raw": 275,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 3,
+  "gate2_fail": 6,
+  "passed": 16,
+  "gate2_samples": [
+    "Biochar’s hidden electron power could unlock cleaner pollution control and energy recovery - EurekAl",
+    "Privatization and Energy Recovery: Venezuela and General Electric Sign a Historic Agreement to Resto",
+    "- Cyprus Shipping News - Cyprus Shipping News",
+    "A. O. Smith (AOS) Stock After Recent Rebound Is The Current Price Attractive? - simplywall.st",
+    "Danaher Corp. Stock (US2358511028): shares in focus after quiet trading week - AD HOC NEWS"
+  ]
+}

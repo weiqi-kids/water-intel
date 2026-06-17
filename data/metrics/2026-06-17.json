@@ -1,0 +1,29 @@
+{
+  "date": "2026-06-17",
+  "total_events": 5,
+  "by_company": {
+    "mueller": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "industry_general": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
