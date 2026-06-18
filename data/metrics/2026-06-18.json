@@ -1,0 +1,33 @@
+{
+  "date": "2026-06-18",
+  "total_events": 6,
+  "by_company": {
+    "mueller": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "energy_recovery": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "guidance": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

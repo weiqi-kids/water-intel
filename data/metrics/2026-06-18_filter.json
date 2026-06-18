@@ -1,0 +1,16 @@
+{
+  "total_raw": 274,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 4,
+  "gate2_fail": 10,
+  "passed": 18,
+  "gate2_samples": [
+    "IMF warns energy recovery to take time after US-Iran war - Euractiv",
+    "Privatization and Energy Recovery: Venezuela and General Electric Sign a Historic Agreement to Resto",
+    "Biochar’s hidden electron power could unlock cleaner pollution control and energy recovery - EurekAl",
+    "Energy Recovery Inc (ERII) Institutional Confidence - TradingKey",
+    "Energy Recovery Inc (ERII) Technical Analysis: Support, Resistance, Indicators & Moving Averages - T"
+  ]
+}
