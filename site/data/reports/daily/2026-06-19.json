@@ -1,0 +1,174 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T12:14:50.208652Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ao_smith-2026-06-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "'Forever chemicals' at former A.O. Smith/Tower site to undergo cleanup - Milwaukee Journal Sentinel",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ01VMzBFdWx3MnpiNGx6NDYtYUhsMUg2QURVcDdzUXpJS2tPM2dtcXlaTWx3TVdQdVUtTWpiTkQ3Q2FzZ1lQUUR3SVVzM3JPWVJhX2dyVzJCclc5NmZvY21sckxhaWpUNGpaOHhTMjJxYlFFY05lSnRmbl9LaVNXdTJxeFE0Z2wzLWJUeEg3emM2aE5jekR3YjZDQmdtRHEtTVpERUI0MnNTV3poRjVvQnFIMnZvTjZMRFRfWFhVcWhEMGYyNEEweWpyTXZ4SW45V2VPc2NnbVlBQWJqM2N6R0dUdnA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Reflecting On HVAC and Water Systems Stocks’ Q1 Earnings: Trane Technologies (NYSE:TT) - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYWV2S0l0QWFYd1dtVDVXcmpaRFZoSkJIZXdncTV5aGh0TlVwMlNIbWlPN1NMWlFYdlVoT1BxMHlfbzJvdm9PM1N6bnJFc25fZ2MxMmJTVHIzTUFVY3ktTFM0bWdiaW13ZzliWTZZWHZLd1lkdEVfSWROb3lsVXZvVjlsMTRLWk9YLWw0TVlDV05fRURnMDIxbWpqMGdqdTBYbEtZUl9WV2FsMUowV0g3R1Q0MWpUVXlfX3pUcXN6V2lfeDdCZHVfUjlWUG9neXRKNmFvQUx2Z0RDLTQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mueller-2026-06-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Mueller Water Products (MWA) Turns Leak Detection Into a Capacity Story for Stressed Water Systems - Yahoo Finance",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "smart_water",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWWlsWTduS0hVM2hjZi1aM2NNZnlnXzlDRTdpM0NPeDBhUkdLcEFkc25pZEQxekdQZUZRMXhfRWlpRUh1eXpabUU2VC1QTk1sRi04OTNVOG9NaFVXdlFuRkZxZWR4c0NTUmU2SmlNajlVMTBkSE1MMlZPZWVWUHpIUFFtVzNEM1ZXcWxYN2J0SW5UVkJGdGdYdTctNk43UQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "smart_water": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 1
+      },
+      {
+        "id": "ao_smith",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "smart_water",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 275,
+    "dup_title": 163,
+    "too_old": 81,
+    "gate1_blocked": 3,
+    "gate2_blocked": 6,
+    "passed": 22,
+    "pass_rate": "19.6%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "Energy recovery director Colin Sabol buys $99,267 in company stock By Investing.com - Investing.com ",
+      "Privatization and Energy Recovery: Venezuela and General Electric Sign a Historic Agreement to Resto",
+      "IMF chief warns energy recovery to take time after US-Iran ceasefire - Jordan Times",
+      "A. O. Smith (AOS) Stock After Recent Rebound Is The Current Price Attractive? - simplywall.st",
+      "Danaher Corp. Stock (US2358511028): shares in focus after quiet trading week - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為穆勒、史密斯相關動態：「'Forever chemicals' at former A.O. Smith/Tower site to un...」。主要關注主題為水資源產業通用、財報、智慧水務，市場情緒中性。",
+    "signals": [
+      {
+        "text": "'Forever chemicals' at former A.O. Smith/Tower site to undergo cleanup - Milw...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Reflecting On HVAC and Water Systems Stocks’ Q1 Earnings: Trane Technologies ...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

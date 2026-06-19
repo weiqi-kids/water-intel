@@ -1,5 +1,65 @@
 [
   {
+    "id": "mueller-2026-06-19-001",
+    "date": "2026-06-19",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "smart_water",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Mueller Water Products (MWA) Turns Leak Detection Into a Capacity Story for Stressed Water Systems - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPWWlsWTduS0hVM2hjZi1aM2NNZnlnXzlDRTdpM0NPeDBhUkdLcEFkc25pZEQxekdQZUZRMXhfRWlpRUh1eXpabUU2VC1QTk1sRi04OTNVOG9NaFVXdlFuRkZxZWR4c0NTUmU2SmlNaj",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWWlsWTduS0hVM2hjZi1aM2NNZnlnXzlDRTdpM0NPeDBhUkdLcEFkc25pZEQxekdQZUZRMXhfRWlpRUh1eXpabUU2VC1QTk1sRi04OTNVOG9NaFVXdlFuRkZxZWR4c0NTUmU2SmlNajlVMTBkSE1MMlZPZWVWUHpIUFFtVzNEM1ZXcWxYN2J0SW5UVkJGdGdYdTctNk43UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-06-19-002",
+    "date": "2026-06-19",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "'Forever chemicals' at former A.O. Smith/Tower site to undergo cleanup - Milwaukee Journal Sentinel",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ01VMzBFdWx3MnpiNGx6NDYtYUhsMUg2QURVcDdzUXpJS2tPM2dtcXlaTWx3TVdQdVUtTWpiTkQ3Q2FzZ1lQUUR3SVVzM3JPWVJhX2dyVzJCclc5NmZvY21sckxhaWpUNGpaOHhTMj",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ01VMzBFdWx3MnpiNGx6NDYtYUhsMUg2QURVcDdzUXpJS2tPM2dtcXlaTWx3TVdQdVUtTWpiTkQ3Q2FzZ1lQUUR3SVVzM3JPWVJhX2dyVzJCclc5NmZvY21sckxhaWpUNGpaOHhTMjJxYlFFY05lSnRmbl9LaVNXdTJxeFE0Z2wzLWJUeEg3emM2aE5jekR3YjZDQmdtRHEtTVpERUI0MnNTV3poRjVvQnFIMnZvTjZMRFRfWFhVcWhEMGYyNEEweWpyTXZ4SW45V2VPc2NnbVlBQWJqM2N6R0dUdnA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-003",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Reflecting On HVAC and Water Systems Stocks’ Q1 Earnings: Trane Technologies (NYSE:TT) - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYWV2S0l0QWFYd1dtVDVXcmpaRFZoSkJIZXdncTV5aGh0TlVwMlNIbWlPN1NMWlFYdlVoT1BxMHlfbzJvdm9PM1N6bnJFc25fZ2MxMmJTVHIzTUFVY3ktTFM0bWdiaW13ZzliWTZZWH",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYWV2S0l0QWFYd1dtVDVXcmpaRFZoSkJIZXdncTV5aGh0TlVwMlNIbWlPN1NMWlFYdlVoT1BxMHlfbzJvdm9PM1N6bnJFc25fZ2MxMmJTVHIzTUFVY3ktTFM0bWdiaW13ZzliWTZZWHZLd1lkdEVfSWROb3lsVXZvVjlsMTRLWk9YLWw0TVlDV05fRURnMDIxbWpqMGdqdTBYbEtZUl9WV2FsMUowV0g3R1Q0MWpUVXlfX3pUcXN6V2lfeDdCZHVfUjlWUG9neXRKNmFvQUx2Z0RDLTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-06-18-001",
     "date": "2026-06-18",
     "companies": [
@@ -114,6 +174,241 @@
       {
         "name": "google_news_water",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNzEzVWNDLUtkdGFZMUZsR3dvVlNDNVlpbENnd2lmOGpTS1ROU2w5OVRQSkJKbFl4N3RnYUMtQ0ZqODhCRi1kaEFVVVpNQ1pUZGJmbHBELUJ6Q2dTeVY3T2RxS1JEcG1NYk5aNDZtclFRMUdhZFRpZ0xVMmp3emRiWWpoVHpuU1VyOXNLTEktNy1aSkE5U184Zno3ZVlPZVNWQXFJRGtzSlpia1htelNTdHAxN1J3QzU3c1VxMG80SHEzei1tYkpFaHJpYVQ2TW1wcjhDVTU2eWFmZVV5a0o0NUdBMENmQllmZ0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-06-18-007",
+    "date": "2026-06-18",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Todd P. Helms to Depart Mueller Water Products as SVP & CHRO; Will Serve as Senior Advisor - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc0p3aTE1QUllTmdQVmNCQUJOamdISFJvRG1tZGR5QlFxSFVFOU5Vd3Z1ZTZMR1I2M185RW1BbFdHRGMzMXJQbzl1X1R4MDY1UTlSUlZqY2hxd2M5Ukp5Vmh2Y1pwcWd4SDA1bkN0OG",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc0p3aTE1QUllTmdQVmNCQUJOamdISFJvRG1tZGR5QlFxSFVFOU5Vd3Z1ZTZMR1I2M185RW1BbFdHRGMzMXJQbzl1X1R4MDY1UTlSUlZqY2hxd2M5Ukp5Vmh2Y1pwcWd4SDA1bkN0OGZDZ0lYc19MRFFDdWNFcFhiN1I4NWlGRTVBLUc3c18tUzg5MDJuRVcxUHdSUGUtT0R1VmhVNXJ4cUtVWWM3S2xBZ2x4TnlTTkN5NVRhcFdleXZMeU9acW83NHE2QzhqN0RPYVVfbGdwY1RmeG9tVVptbUl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-06-18-008",
+    "date": "2026-06-18",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water (MWA) HR chief Todd Helms to exit, stay briefly as advisor - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQaXBFemRKdXRrdnhtWF9idmd1cXBiVlJERlhNZnBVbW9pVFhzU1ZscmZ5dUZWbFZ0Vm5hZnhTRG1LOUN1QzNHQy1CODVTeDQ0RU9EeEdGNk1sNUxOTWhyQ055SUFPYXFBeG00SzdOVT",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaXBFemRKdXRrdnhtWF9idmd1cXBiVlJERlhNZnBVbW9pVFhzU1ZscmZ5dUZWbFZ0Vm5hZnhTRG1LOUN1QzNHQy1CODVTeDQ0RU9EeEdGNk1sNUxOTWhyQ055SUFPYXFBeG00SzdOVTRCMXFnc0RmSmMyUFBpUTVVMl9DWTloTC1peTRVdjVQamdONHp6SU5DSVBtQW1lZHBKT2JFcWwweGNQWVZuQndHMkNFbTE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-06-18-009",
+    "date": "2026-06-18",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products, Inc. Announces Resignation of Todd P. Helms from Senior Vice President and Chief Human Resources Officer, Effective September 1, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUjdaQjRwUENhUkpvRUFsUkpzaFN2R0RHQnN3MnpkdFp4YlFLYWJlbmhOVWd4SXRqZ2pFYUtnUHY2Rnh6ZTl6b2N3RjcxMThfSFNMeklHUkdHajRSQU83NEJGb0ItUzJLZUd0eE1TYU",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUjdaQjRwUENhUkpvRUFsUkpzaFN2R0RHQnN3MnpkdFp4YlFLYWJlbmhOVWd4SXRqZ2pFYUtnUHY2Rnh6ZTl6b2N3RjcxMThfSFNMeklHUkdHajRSQU83NEJGb0ItUzJLZUd0eE1TYUNIM0RkN0xTbnRpOE91SHZ1c0tmUUpKNllpR09jMTQwcFNoMzZ2bkRYaGx0TGNpdi0zYWp0aW9tY2hNenlZSTFlMFgtRm5vMUdhclJtaFJZMk1ld3dUVlBleDZHNEhRdzk5bUR2QzVmQ01VaFdHeXF6aGlWbmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-06-18-010",
+    "date": "2026-06-18",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products announces departure of senior HR executive - Investing.com UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQQndGUjhnUUpqdXhYUlM2WWRpSl9yak9ZRy1RRUZGU2xVMHNpZjUwejFpd2tWRkZvYV8xckhpVFEtelIwSC05clRqTXNSa2JZdkx4NWRlbXhPMDdMeFFicEZEa1VPR0xRMGIwTGxLQn",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQndGUjhnUUpqdXhYUlM2WWRpSl9yak9ZRy1RRUZGU2xVMHNpZjUwejFpd2tWRkZvYV8xckhpVFEtelIwSC05clRqTXNSa2JZdkx4NWRlbXhPMDdMeFFicEZEa1VPR0xRMGIwTGxLQndCTTRVUElNY1hKUjhTeXVFZjNnRUtGTkx6NXRNQlpkUmEzTUFpcHRhWVJEX1pORDVvYkJYR3cxdzBCOHpEbXlxQ05EUTBsbG5pWVdNT05CbmlnME9VZTVjWUFpYXI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-011",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Does Renewed Analyst Support and Institutional Buying Recast A. O. Smith’s (AOS) Resilience Narrative? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQbkJVcUFxVXFfcmpGRC1NX085S1BDbTJjMmc0R3ZlVFZRcU9LZnRHSVJJVVpuaUhmRFI3aDhxbEJrWF85YUhfVmRRRWhTVkpZOVlWWDZJaDZ2WndMN3ZwSDVodWhpYTJQR0tOQmFpS3",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbkJVcUFxVXFfcmpGRC1NX085S1BDbTJjMmc0R3ZlVFZRcU9LZnRHSVJJVVpuaUhmRFI3aDhxbEJrWF85YUhfVmRRRWhTVkpZOVlWWDZJaDZ2WndMN3ZwSDVodWhpYTJQR0tOQmFpS3VqcWV5YmNhT1R3TUNKbzg5YVF5RDZMeFlpdGFUNGxfTS1mMkRxS3pweG9EMUZib1JaX2tON2JFc1pJWEtFRldaQlFZRkJ3bFJDRms3YU5FOEc5OXdET1lhUlNR0gHPAUFVX3lxTE4ybTlZek04N3d2RXd6R0h0RWozZW9mQ3F3Tzg2S1JxRUxXaE5LbWZ1c1FRMzYweHJxdHhub21FWW41YlRqdmxJbTAxTUxqd3U5UmFMS2JvZEJpdGhOejEyWE9RRXNUZUowOUwwRmphQzZDWGpDTkhRZUxJaU1YbHdXOTM2UXFIbHFUQ3FUYWNmbDBtYjN2UVU3dndCUlFZMFdKUUhUczdocG1nVTlQdmFROGNjaDVEcTlZR2NhS2lkQmYyZUFIZ2F6c1c5ZFJSMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-06-18-012",
+    "date": "2026-06-18",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A.O. Smith Corp (AOS) Stock Down 3.9% -- Now Undervalued? GF Sco - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2xYMmU4bWN4TmJla3hxN3FpZFE5b3pxc0FBNzRlOG5VcHFhWEdCTGpzVU8zVmNMeWM4SWU1Y0RJQzhKMFVuTXd6SHllVnR2enpxaW5oRTVjVWpLMFV2QTBwVm9QeHpUUENabzE0VU",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2xYMmU4bWN4TmJla3hxN3FpZFE5b3pxc0FBNzRlOG5VcHFhWEdCTGpzVU8zVmNMeWM4SWU1Y0RJQzhKMFVuTXd6SHllVnR2enpxaW5oRTVjVWpLMFV2QTBwVm9QeHpUUENabzE0VUpuVFdCT0MtbVV2bU9RYmp0MEJSWnd0VXVkV2gtVWY1anJidUJRV2hFMVBLX1h4ZnlWdThlVjJBclBOcjE0TnhxMlJCOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-06-18-013",
+    "date": "2026-06-18",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities Inc (WTRG) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBYekF0UHByelJGTDNJTVlYekg3LS1qdXI2MWtELUo5UmdjV05yNnMzUkhmeFZwYnNKZ1pnd01TWEh5ZUZlemVQeEpxWkJkdDl2cUlneFJFajJKWmxjcEJVekNpa2xodlhGWHN1Qk1n?o",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYekF0UHByelJGTDNJTVlYekg3LS1qdXI2MWtELUo5UmdjV05yNnMzUkhmeFZwYnNKZ1pnd01TWEh5ZUZlemVQeEpxWkJkdDl2cUlneFJFajJKWmxjcEJVekNpa2xodlhGWHN1Qk1n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-014",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Provides Tips for Conserving Water This Summer – Company Announcement - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNSVRMS3FCcUF3Z2MyWHZqTXZya2dWRmJ3VWViOTJHdHhiaG04SWt2SEF2YkJzSXhhVXV1ZEtSUXNkUHFyT2xnREw5dkJiM25sTXlNSzI0c0JNU2VnU3BaLVI2cTlTaUFjTnhEZzBkWk",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSVRMS3FCcUF3Z2MyWHZqTXZya2dWRmJ3VWViOTJHdHhiaG04SWt2SEF2YkJzSXhhVXV1ZEtSUXNkUHFyT2xnREw5dkJiM25sTXlNSzI0c0JNU2VnU3BaLVI2cTlTaUFjTnhEZzBkWkNlc0c0WUlyckpwYXZXUzctNVVWbk1jUldnNmdkU3I0RFBRRWxMSkpaSw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-06-18-015",
+    "date": "2026-06-18",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Stock - Virginia unit settles rate case below original ask - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3A4UXBSY0R4Q2xIdUtOVlN5cG1wTHZScWlrRnl5Zl9HMXduREpLR016bkNqZ0FfbjJYbkY4d0IzRXBYS1BoRTAtXzZFVHdEV2JHS3Bzb2NqQWFmSm5fVVhIc2JaT3dWcHBMX216NH",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3A4UXBSY0R4Q2xIdUtOVlN5cG1wTHZScWlrRnl5Zl9HMXduREpLR016bkNqZ0FfbjJYbkY4d0IzRXBYS1BoRTAtXzZFVHdEV2JHS3Bzb2NqQWFmSm5fVVhIc2JaT3dWcHBMX216NHNSd2lULWpVNTJndDhSSkYwQVNwbDdVeDZyVmQxQzVwTW5KM0t1cTUzV3FYb3dZQVRmWVllRzVNaUQ3Y0ZwUmsycDJWM1Q2LVBUeF9tLTIxOG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-016",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California American Water Encourages Customers to Practice Wise Water Use as Hotter, Drier Summer Conditions Approach – Company Announcement - FT.com - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2V2MThxS2RwTi1TVWhRTzV4OXlhUkx6cmpTN0FjZFpkNzZLakVVU1BtcGw0TGZLczdwQWRCdklET1kza3BiOTRNNlF2ODB3YkN3WGktZDItMFBUVldKVGRHanl6cXc5OERwZlNiTU",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2V2MThxS2RwTi1TVWhRTzV4OXlhUkx6cmpTN0FjZFpkNzZLakVVU1BtcGw0TGZLczdwQWRCdklET1kza3BiOTRNNlF2ODB3YkN3WGktZDItMFBUVldKVGRHanl6cXc5OERwZlNiTUFBZ1JfTWZpUXBzRFp5Z1R2b1NURnphcFlZdGdaZDF3TUZ0cnJNSzJocw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-017",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "smart_water",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "World Non-Ionic Polyacrylamide - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNem1JM0hHb1hZUWpybTA2NkV4bUp1M0FxUWt5Y1hsell6RjRUYnZWeWpMY0hTZF9aMmlueXluRHJHSWdCMGF2REJ0OFNGaVBzR2JkcHhJRkJ4NzBZUHVvcmFYNjZwYVk3TUNGcDdCd3",
+    "sources": [
+      {
+        "name": "google_news_water",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNem1JM0hHb1hZUWpybTA2NkV4bUp1M0FxUWt5Y1hsell6RjRUYnZWeWpMY0hTZF9aMmlueXluRHJHSWdCMGF2REJ0OFNGaVBzR2JkcHhJRkJ4NzBZUHVvcmFYNjZwYVk3TUNGcDdCd3p6NVVIS2xvdmh5U1VTdnN0aGxWOFBIT3BEdU9ENDBySTVUNXV6YmV3YnhFVGF5VXhSUVd0cC13VzZtaUsxUEVkd1FsTVV5VWE3akZpdXlYNHF3SFlXWUtFSXVkeE16YWdBVHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-018",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "How Water Infrastructure Can Drive Economic Growth - Water Online",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUlDQ1Q1NkN4ZlpWSzhrSDA0dm1YeENia2NKVEFMOHBtTVlKUnJ6U2t1MjlEcnp4bXdKV0lvRll5RWZDejNKc3VoMEJucnlvYlFIdFI3R0xqS3hsOUZsVW1fY2NjQXF6VXpfZUowN0",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUlDQ1Q1NkN4ZlpWSzhrSDA0dm1YeENia2NKVEFMOHBtTVlKUnJ6U2t1MjlEcnp4bXdKV0lvRll5RWZDejNKc3VoMEJucnlvYlFIdFI3R0xqS3hsOUZsVW1fY2NjQXF6VXpfZUowN0YtQlF2N3M2dFdJSzFmQmRrc2ZBeFdXZXBaUmtoZS14X0Y?oc=5",
         "type": "rss"
       }
     ]
@@ -373,6 +668,26 @@
       {
         "name": "essential",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoM0N3VGhhU0huSTZxSDQxcWo1NnlVa2NhM0NfQndPc1hTN3k1WUtSQnRadTVSS0xmT2x1aXNPQjBxRmZDSTQyWGVzUVYyWHFHVEJSc3lRc2VPaFQzNy1iMXc4WEpqMzVGNmZVbjZENmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-06-17-014",
+    "date": "2026-06-17",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Rate Hikes & Acquisitions Drive AWK's Growth Despite Regulatory Risks - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNG1PWm9mYnRWTFd3cW5hcWdKY1kySF90ZVJOajRfcFRBS3d2T1lXSkFRa1F6NjhSZkVZbkhyY01fbEhwOFViLXIxNHVXZkgxdDRzZlJhUUpTaWk5SklyWnp6Y0ZrcXVPZWpyNlNveV",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNG1PWm9mYnRWTFd3cW5hcWdKY1kySF90ZVJOajRfcFRBS3d2T1lXSkFRa1F6NjhSZkVZbkhyY01fbEhwOFViLXIxNHVXZkgxdDRzZlJhUUpTaWk5SklyWnp6Y0ZrcXVPZWpyNlNveVZrTHl6ZEJvNWZ6Q1M1OEhUQUxncEZmcThOTjBhTjRpN2Q4ZmE0VklIMmlxcFJRdVFOSWszdjRPRlo4c01pd2czNE9OTDZCaHF1cndLRmZzQTU?oc=5",
         "type": "rss"
       }
     ]
@@ -739,6 +1054,125 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcFc1N3pSeWROZnU2T04zS3ZxTEs1MldtRXdrUjJGSXpZdzhoOGFsaUdfWUpyWmRGSGt4RWNzb1M4MUlOQ0EtYW1KaHF3aWtzNTFURzl1bTRLOTFGZXAyb2tMVVdwRmotdi1aRUh1SVNGRWVuNWNDT1Y0MlZmNWpFczBHNEU1VUlWbV9PZEZRc0JGUGJfbTdFeW14MThSSkVyM3NVMUl2NkxDSGdndEFYc3pJYkZSdWp2V2lpVURLT2dpQTFWUm8wX2VLQ25pRWZ0aHN4cExUVzd1cGE1aVNFRlFKcFhQbUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-06-16-020",
+    "date": "2026-06-16",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ceasefire deal lifts Hormuz blockade but energy recovery lags - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdVhxUWgxbVk0RDAwZTZtbnlyUU44QmlJZHprOFFRWEZ4ZlBwN3VRYTA2VU9UWVpFSFJOUTFwNzBlLVkyQ0hDemlWMFRmVDBFRENOdHB5bmZOemg3SElXUWtjXzJFeUlZMjhRSkVidT",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdVhxUWgxbVk0RDAwZTZtbnlyUU44QmlJZHprOFFRWEZ4ZlBwN3VRYTA2VU9UWVpFSFJOUTFwNzBlLVkyQ0hDemlWMFRmVDBFRENOdHB5bmZOemg3SElXUWtjXzJFeUlZMjhRSkVidTdzY2FFT3VBSjlydHR2b2p1VFhISVVjUXhHUGNYUzJvWHhYMjRNZlFBTE5Ib1hCcXl3Wm5VUWw1TlFOQ0ZGWFRXSkxwUVpibG9keS1BU0lHaGF1TE96aVhhOG9VdDJ3ZDZHNEk4eTZyT1doQThFSlVCSVNBdi1adTFJdUdkUllKLTVDLUV0VEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-021",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "World Conductivity Measurement Systems - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOR0JScVpBOTQxYVZNd3h1bFFFUGVKNkY5YkU2SWJ5YnIxODlUblROVi1GSHQtZVp2MHl0RmVPbWdyTW5OcE1IWEcyM1hDeFVaZXZJNzQtbVpvdXEyb3Jobk02WktOa05BVWJ5OW1fQ1",
+    "sources": [
+      {
+        "name": "danaher",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOR0JScVpBOTQxYVZNd3h1bFFFUGVKNkY5YkU2SWJ5YnIxODlUblROVi1GSHQtZVp2MHl0RmVPbWdyTW5OcE1IWEcyM1hDeFVaZXZJNzQtbVpvdXEyb3Jobk02WktOa05BVWJ5OW1fQ1NoWExQUkFoUkZjNmFEbEhHNWkxMDBSUkF0Vkh5eWQ0WHNqTUVQUFNyX3dLVDhYaXBscnlhd0x4bm9HVmd6blZpUk5JeWEzNGxJUmxGS2VBWld2M0p2em1DMlVVRHpxTDJMT0R5YXQ3NWFsTXNTRWRRZnVkS2lzQjA3N3daNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-06-16-022",
+    "date": "2026-06-16",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Essential Utilities Inc (WTRG) Earnings Forecast: Future EPS & Revenue Growth Estimates - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1FcGpRd19lZ29BSEo2TXBIQVBodktpNXVPWktpUHZNWTFfTFNRSVlCSEdtSVZ3bl84bE1RSUFSd05Iak5xTUJQWTVCVlYyWHhGbUFUTU1hM3dFc1U1TmQ0M19DLVhGTDQ1WnpaNWRqYw",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FcGpRd19lZ29BSEo2TXBIQVBodktpNXVPWktpUHZNWTFfTFNRSVlCSEdtSVZ3bl84bE1RSUFSd05Iak5xTUJQWTVCVlYyWHhGbUFUTU1hM3dFc1U1TmQ0M19DLVhGTDQ1WnpaNWRqYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-06-16-023",
+    "date": "2026-06-16",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities Inc (WTRG) Technical Analysis: Support, Resistance, Indicators & Moving Averages - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ob0VJWGp5MnlEa0hqZ1NadklyaGNfRmhFQ3FzdVVtZTFFR3VYNGtfeVozWVJpRW1hREJ6NnAtNFdlWmtDdnNYYmVsSkgza2c0TkN6bDFickU0T2dsQWY2R2xMX3otZmtqSHFXU2lnNU",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ob0VJWGp5MnlEa0hqZ1NadklyaGNfRmhFQ3FzdVVtZTFFR3VYNGtfeVozWVJpRW1hREJ6NnAtNFdlWmtDdnNYYmVsSkgza2c0TkN6bDFickU0T2dsQWY2R2xMX3otZmtqSHFXU2lnNUM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-06-16-024",
+    "date": "2026-06-16",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities Inc (WTRG) Valuation: PE, PB & Fair Value Analysis - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9vN1BzZEg0WTkxdVFmT214R0NTRmp3ejA4aE9OLXlpVng0N3FfdU96N01MMnV0aXJGWHJqcUI2RVdqWHZYcHBwWjVOOTQyY3JvdzA5MU16ZlRGdnZMZVJwWUVrdk5oR0tVZk05Vy1udk",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vN1BzZEg0WTkxdVFmT214R0NTRmp3ejA4aE9OLXlpVng0N3FfdU96N01MMnV0aXJGWHJqcUI2RVdqWHZYcHBwWjVOOTQyY3JvdzA5MU16ZlRGdnZMZVJwWUVrdk5oR0tVZk05Vy1udkVpdkNhT2VhekpkOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-025",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Provides Expertise at 2026 MACRUC Annual Education Conference – Company Announcement - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNeHA3YjluZnRaU2lybjFpWjFBaC1WSEFnRFp2LWdsOHYyVURwaTdqVWhYRU1kQ3o5eHdQX1VvZWMxLTB1dUxJbXd3VER4UXRWY05YaDZGQnNscXNLZFJINmpiMHVzZmwzT2FSYlYxRk",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeHA3YjluZnRaU2lybjFpWjFBaC1WSEFnRFp2LWdsOHYyVURwaTdqVWhYRU1kQ3o5eHdQX1VvZWMxLTB1dUxJbXd3VER4UXRWY05YaDZGQnNscXNLZFJINmpiMHVzZmwzT2FSYlYxRk1pLWdfRWVQRUtfV3U2bjRqTk56NkJFZDRoall5aWdNX2xNWG13VHhXOQ?oc=5",
         "type": "rss"
       }
     ]
