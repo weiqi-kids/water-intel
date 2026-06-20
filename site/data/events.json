@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-06-20-001",
+    "date": "2026-06-20",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "World Single-Use Filter Housings - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxObDNaQnhSVEJlZjRLNDdGMVhxbXhIcFVpbXA2WVd5X2JFZDZmZ2pqQUo1SWdNaEN4Vi1HNzZPUmhwaTV1Uktqa1VjOVRBbWxTS2hMTUNpZFB3aGRwSlIwVWRuRE5pSWlFalFQbUxUSF",
+    "sources": [
+      {
+        "name": "google_news_water",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObDNaQnhSVEJlZjRLNDdGMVhxbXhIcFVpbXA2WVd5X2JFZDZmZ2pqQUo1SWdNaEN4Vi1HNzZPUmhwaTV1Uktqa1VjOVRBbWxTS2hMTUNpZFB3aGRwSlIwVWRuRE5pSWlFalFQbUxUSFVybnhDZnRNb3Rfb0hpOWhOTGM2NnFhTV9LUk9DR1FVQ0ExeU5OQTVZbC1JSC1fVllodmhQbmtFUDlsbk1qVVliOWtIaXptZm82VVgteXhLaEJlaUZMWTUzQnpQeTNhb2RsUkVWeGJXLWF4UThmaU9DMWJUaUhpOHRW?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-06-19-001",
     "date": "2026-06-19",
     "companies": [
@@ -55,6 +73,88 @@
       {
         "name": "ao_smith",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYWV2S0l0QWFYd1dtVDVXcmpaRFZoSkJIZXdncTV5aGh0TlVwMlNIbWlPN1NMWlFYdlVoT1BxMHlfbzJvdm9PM1N6bnJFc25fZ2MxMmJTVHIzTUFVY3ktTFM0bWdiaW13ZzliWTZZWHZLd1lkdEVfSWROb3lsVXZvVjlsMTRLWk9YLWw0TVlDV05fRURnMDIxbWpqMGdqdTBYbEtZUl9WV2FsMUowV0g3R1Q0MWpUVXlfX3pUcXN6V2lfeDdCZHVfUjlWUG9neXRKNmFvQUx2Z0RDLTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-06-19-004",
+    "date": "2026-06-19",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Alberta supports Ukraine’s energy recovery - CEEnergynews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE83Z2F1RHRmb0N6UDRmRnVFMzYxTGRGWWJuN20yRUpvSHdubUdWdUx4WnBkNlQybFNiRktvbU5xNmE4ZElvUUUxSFJTb1NyUVJ6cUdOMS1aQlVsZjV6WlNQc0Q0WnZna2wtT2xZQ25iYj",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83Z2F1RHRmb0N6UDRmRnVFMzYxTGRGWWJuN20yRUpvSHdubUdWdUx4WnBkNlQybFNiRktvbU5xNmE4ZElvUUUxSFJTb1NyUVJ6cUdOMS1aQlVsZjV6WlNQc0Q0WnZna2wtT2xZQ25iYjZmOFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-06-19-005",
+    "date": "2026-06-19",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Did Rising Institutional Ownership and Mixed Forecasts Just Reframe Essential Utilities' (WTRG) Infrastructure Story? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR1p1WmY1aDAyY2w2RC1CNEZrVTg1NGx1LWFTeTVoUzYxZFlfODdIZ0ZuYVdhdmRudHFZS3owMHlmR2FTQ3lmcklTeE9VZVBUWUZsaWtjenBnMW5YblBMN2RiR0V2eFp2Tm9Pd3ktMk",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR1p1WmY1aDAyY2w2RC1CNEZrVTg1NGx1LWFTeTVoUzYxZFlfODdIZ0ZuYVdhdmRudHFZS3owMHlmR2FTQ3lmcklTeE9VZVBUWUZsaWtjenBnMW5YblBMN2RiR0V2eFp2Tm9Pd3ktMkc1WjFadkRfaTNleHNIZm9yNG1SZHJZNHlTa1hmV2JOZ3BaUmZ4TFBOdW9OX3ZTWmlGWFBIa3BPOHpoZVRPbi0wUVM3VEdraGZVNlZNYkxnUWZwcFd1UXhvUDdhQURSTDN6NVZGNm1xUdIB1wFBVV95cUxNR1p1WmY1aDAyY2w2RC1CNEZrVTg1NGx1LWFTeTVoUzYxZFlfODdIZ0ZuYVdhdmRudHFZS3owMHlmR2FTQ3lmcklTeE9VZVBUWUZsaWtjenBnMW5YblBMN2RiR0V2eFp2Tm9Pd3ktMkc1WjFadkRfaTNleHNIZm9yNG1SZHJZNHlTa1hmV2JOZ3BaUmZ4TFBOdW9OX3ZTWmlGWFBIa3BPOHpoZVRPbi0wUVM3VEdraGZVNlZNYkxnUWZwcFd1UXhvUDdhQURSTDN6NVZGNm1xUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-006",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois American Water Reminds Motorists to Move Over for Safety - Finviz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQXzBCNE45SnBRd0NSMUxHXzN4MlQ3WEtMUkJxcmhGOS1nTWY3MVgtSVNXQnE4UWtyQktyMGF3V09CM1otMjhJcFllRWhoaDVIYXJuSmlJdUdXQklVLUJMU1hxYkZWODFRZVFodVBPUX",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQXzBCNE45SnBRd0NSMUxHXzN4MlQ3WEtMUkJxcmhGOS1nTWY3MVgtSVNXQnE4UWtyQktyMGF3V09CM1otMjhJcFllRWhoaDVIYXJuSmlJdUdXQklVLUJMU1hxYkZWODFRZVFodVBPUXRXT3FpNDdhc1pGd3BUeW1GRGxjaVdlS3RyTkNMMDBfODg0eVJoRloxbXo4MHk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-007",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kentucky American Water Upgrading Water Infrastructure in Owen County Through Nearly $3 Million Investment - Finviz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTWhXbTdTU2h2bXBjb05mSmJkQlo5RXB2a2d4UGxWaUdGOXZiVzlWOXExZ1M4Wk81WGRWNy14SUhjRkVvZXBxR1hDRVFtYjBxZlZCbnN4RERNYW5IY0ZVT0JYa1o5enBkZlptZG9yal",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTWhXbTdTU2h2bXBjb05mSmJkQlo5RXB2a2d4UGxWaUdGOXZiVzlWOXExZ1M4Wk81WGRWNy14SUhjRkVvZXBxR1hDRVFtYjBxZlZCbnN4RERNYW5IY0ZVT0JYa1o5enBkZlptZG9yallwUkp2UVoxMTRkQ3lMcHNnSHFIQ1htWWlkSW9ndVZxZ0pWXzBROEJTRk1lY2NlVG5uU3BxRkZSZ3RqUmY2d2VjQ0lrVE1HRGo2Q3lybTFIeFBCNmE0SndBdlhubXhNb2NDdkE?oc=5",
         "type": "rss"
       }
     ]
@@ -409,6 +509,25 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUlDQ1Q1NkN4ZlpWSzhrSDA0dm1YeENia2NKVEFMOHBtTVlKUnJ6U2t1MjlEcnp4bXdKV0lvRll5RWZDejNKc3VoMEJucnlvYlFIdFI3R0xqS3hsOUZsVW1fY2NjQXF6VXpfZUowN0YtQlF2N3M2dFdJSzFmQmRrc2ZBeFdXZXBaUmtoZS14X0Y?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-019",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California American Water Encourages Customers to Practice Wise Water Use as Hotter, Drier Summer Conditions Approach - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUFB1bE80NE83XzV3OEVDQjBPT0puYkRTeW1ZZVpKNldJQ3R4MWhWRVNuQUR6WkRKZmZoN1VPeFM2OGpDY0NaTzhfMzlDMkFYTW5iZXNhN3lING5MMFQ3Ny1ULXVpaERzSTN1M1h3Z2",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUFB1bE80NE83XzV3OEVDQjBPT0puYkRTeW1ZZVpKNldJQ3R4MWhWRVNuQUR6WkRKZmZoN1VPeFM2OGpDY0NaTzhfMzlDMkFYTW5iZXNhN3lING5MMFQ3Ny1ULXVpaERzSTN1M1h3Z2VTLXFpYmxDeWF6T21YanBYeFVZZDVRMU9TNTdoZm85THBGY2c3ODV4ZXNsd01nTi1zMDdEck1vMGp2bTVJS1Ata2p4X29oeDlNOWNsbUFwc3FHcW05cHpaTXVBNkZUMFFfYUZrM1FLbVYtZzJrOGVrRXhVXzJ2T2Y2OFB6WGZuVndvemlDWG1JblJ2b2Q?oc=5",
         "type": "rss"
       }
     ]
@@ -1178,6 +1297,25 @@
     ]
   },
   {
+    "id": "unknown-2026-06-16-026",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "semiconductor_ultrapure_water",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why is Thames Water in so much trouble? - BBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qUEhNZWR0eDZzTnE1c2o3OVdLRlE1NDBTUE41ZkNCby15ZFRFN3ZGSzNRNG1aRTM5VW5ia0ZKUnRVUGRxRHZmUHlpbmcyaUpWdGk2YldqS3dIdw?oc=5\" target=\"_blank\">Why i",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qUEhNZWR0eDZzTnE1c2o3OVdLRlE1NDBTUE41ZkNCby15ZFRFN3ZGSzNRNG1aRTM5VW5ia0ZKUnRVUGRxRHZmUHlpbmcyaUpWdGk2YldqS3dIdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-15-001",
     "date": "2026-06-15",
     "companies": [],
@@ -1445,6 +1583,26 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZTlJSVZqTm1nb0hKQ0tJOTIyUE1jcnJ1VndmY3lQQS1SNG0zb3hjRllhYVp4WWNJaEN3WFU1YlpweVBvXzFubHBaemw2MEFuSHRVaGZIV3V2b2N3OGJya2lSSDRiY1RsNE5NTE1KSUhYdUZUUThJZTNZQlhSV2tlSHJiWTE0LThyQ2tzZFF0U05XbjNDNmNFRFJueFV2QjRfd1hJdUFBLWVtWmgxOXRJOXhYTlhTUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-015",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "World Hydrogen Hardness Testers - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNd3hmNVZaMkNIOC05UjdiVVVfbDFFUlc2NTFZYjBxZ1ViTUd0LS1GTDNUTko5eHZXOUxmMFd3dzVsQmFKMGVlamhkVktCSjJIdVZyQ0ZoaDR3RFo3OW9YMFhkSlB4V3JGWW9vbkNMY2",
+    "sources": [
+      {
+        "name": "danaher",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd3hmNVZaMkNIOC05UjdiVVVfbDFFUlc2NTFZYjBxZ1ViTUd0LS1GTDNUTko5eHZXOUxmMFd3dzVsQmFKMGVlamhkVktCSjJIdVZyQ0ZoaDR3RFo3OW9YMFhkSlB4V3JGWW9vbkNMY200Qmw3ZXdjc1F4bUs0bU84d0dzUWdQT3NIT0VxWWVTMFQ4RU54Nk1xV2RyaXhrWDZ1cXNxc05jMWRpN0RIUVhXMi1rZUZoQzlSRmx5cWszMUhfN2Ff?oc=5",
         "type": "rss"
       }
     ]

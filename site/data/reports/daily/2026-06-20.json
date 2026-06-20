@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T10:37:34.860185Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "World Single-Use Filter Housings - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObDNaQnhSVEJlZjRLNDdGMVhxbXhIcFVpbXA2WVd5X2JFZDZmZ2pqQUo1SWdNaEN4Vi1HNzZPUmhwaTV1Uktqa1VjOVRBbWxTS2hMTUNpZFB3aGRwSlIwVWRuRE5pSWlFalFQbUxUSFVybnhDZnRNb3Rfb0hpOWhOTGM2NnFhTV9LUk9DR1FVQ0ExeU5OQTVZbC1JSC1fVllodmhQbmtFUDlsbk1qVVliOWtIaXptZm82VVgteXhLaEJlaUZMWTUzQnpQeTNhb2RsUkVWeGJXLWF4UThmaU9DMWJUaUhpOHRW?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 255,
+    "dup_title": 166,
+    "too_old": 72,
+    "gate1_blocked": 3,
+    "gate2_blocked": 6,
+    "passed": 8,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "IMF warns energy recovery to take time after US-Iran war - Euractiv",
+      "Privatization and Energy Recovery: Venezuela and General Electric Sign a Historic Agreement to Resto",
+      "Energy recovery director Colin Sabol buys $99,267 in company stock - Investing.com UK",
+      "Myron Caudle Obituary (2022) - Stamps, AR - A.O. Smith Funeral Home - Thomas Street Chapel - Post an",
+      "Danaher Corp. Stock (US2358511028): shares in focus after quiet trading week - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為展望相關動態：「World Single-Use Filter Housings - Market Analysis, Forec...」。主要關注主題為展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "World Single-Use Filter Housings - Market Analysis, Forecast, Size, Trends an...（展望）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
