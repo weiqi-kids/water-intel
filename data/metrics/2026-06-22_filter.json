@@ -1,0 +1,12 @@
+{
+  "total_raw": 274,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 6,
+  "gate2_fail": 1,
+  "passed": 13,
+  "gate2_samples": [
+    "Watts Releases its 2025 Sustainability Report"
+  ]
+}
