@@ -6,9 +6,9 @@
     "history_complete": true
   },
   "energy_recovery": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-22",
-    "count": 4422
+    "count": 4485
   },
   "xylem": {
     "earliest": "2011-10-13",
@@ -17,63 +17,63 @@
     "history_complete": true
   },
   "veolia": {
-    "earliest": "2008-11-14",
-    "latest": "2026-06-22",
-    "count": 4501
+    "earliest": "2008-08-18",
+    "latest": "2026-06-23",
+    "count": 4566
   },
   "pentair": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-22",
-    "count": 4422
+    "count": 4485
   },
   "ao_smith": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-22",
-    "count": 4422
+    "count": 4485
   },
   "danaher": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-22",
-    "count": 4422
+    "count": 4485
   },
   "watts": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-22",
-    "count": 4422
+    "count": 4485
   },
   "badger": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-22",
-    "count": 4422
+    "count": 4485
   },
   "kurita": {
-    "earliest": "2008-11-21",
-    "latest": "2026-06-22",
-    "count": 4316
+    "earliest": "2008-08-25",
+    "latest": "2026-06-23",
+    "count": 4377
   },
   "zhongyu": {
-    "earliest": "2008-12-03",
-    "latest": "2026-06-22",
-    "count": 4293
+    "earliest": "2008-09-04",
+    "latest": "2026-06-23",
+    "count": 4357
   },
   "essential": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-22",
-    "count": 4422
+    "count": 4485
   },
   "american_water": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-22",
-    "count": 4422
+    "count": 4485
   },
   "etf_pho": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-22",
-    "count": 4422
+    "count": 4485
   },
   "etf_cgw": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-22",
-    "count": 4422
+    "count": 4485
   }
 }

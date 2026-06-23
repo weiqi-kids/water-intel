@@ -1,0 +1,13 @@
+{
+  "total_raw": 271,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 10,
+  "gate2_fail": 2,
+  "passed": 23,
+  "gate2_samples": [
+    "Two-Stage Rankine Cycle Configurations Increase Energy Recovery at LNG Terminals - geneonline.com",
+    "Veolia Environnement SA Convertible Issue Size EUR 400 Mln, Says Bookrunner - TradingView"
+  ]
+}
