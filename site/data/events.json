@@ -1,5 +1,81 @@
 [
   {
+    "id": "unknown-2026-06-24-001",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Recharge explained: An F101 beginner’s guide to energy harvesting in F1 - Silverstone",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmI3VUh1WjBXaC14eXpCMkxRdzBsVUxwakNWaExMY3J6Tk9wMEdxd1dWMFBGY0s1MU9sb1g3bWl5Q29YZS1FbnZDTUxjNlRVYUt5SF93Y3hHb2NiY3J2YXExN3d5N0ItLW5MWlFLSl",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmI3VUh1WjBXaC14eXpCMkxRdzBsVUxwakNWaExMY3J6Tk9wMEdxd1dWMFBGY0s1MU9sb1g3bWl5Q29YZS1FbnZDTUxjNlRVYUt5SF93Y3hHb2NiY3J2YXExN3d5N0ItLW5MWlFLSlN3QkE3WElDVUxhRW1PRlpSem9OQi1uZmIwYUV2R0VDV3JWbXlvczRGMTMwaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-06-24-002",
+    "date": "2026-06-24",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works earns national quality awards, shares trade steadily on NYSE - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOUnpjM3lqS0g0LUZHSU9CM2psbFY0YkkyUGRENHdMVUlZQ2t4TEZPTW9wTzBaM3RiY0VBajJxNjZuNWN6YzdYUVNZWU1iUmNVVHRPRWxIZEJMeko2YTBaT3ZlNlloQTZGaE4yZUstdE",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUnpjM3lqS0g0LUZHSU9CM2psbFY0YkkyUGRENHdMVUlZQ2t4TEZPTW9wTzBaM3RiY0VBajJxNjZuNWN6YzdYUVNZWU1iUmNVVHRPRWxIZEJMeko2YTBaT3ZlNlloQTZGaE4yZUstdEdaY2lUVjJPNkR4WXpBdVdxWlVDRXhpQXNrNkRHUnpZUFhGV08tbTVicXVWRUdKbWxCWGRLR2VGRnBWc01MYTY1NXdfV1VPUngxc1BVYnBidHBoSEVUa2RuZUhOVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-003",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California State Lands Commission Approves Slant Well Lease Application for Monterey Peninsula Water Supply Project - Finviz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWEgyMlN0R3I1aGR0cGlIZU9MTUFtcEhFTjZ0OW85MkJncUcyUHUwaDVLVGpWLWVTT0tYVGV2TmVFNTQ4YlBiRm1xSExDdXVid2V2N3FSTDVmdUhtcjd2TjQwSHpJSHUxd1EyZ1l6ej",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWEgyMlN0R3I1aGR0cGlIZU9MTUFtcEhFTjZ0OW85MkJncUcyUHUwaDVLVGpWLWVTT0tYVGV2TmVFNTQ4YlBiRm1xSExDdXVid2V2N3FSTDVmdUhtcjd2TjQwSHpJSHUxd1EyZ1l6ejBELU9NOXFtdTM3by0wSnlJY3JJcFJzNDNRSm16cFhvTFRlS2R1d3laUVhHUGIxcllHVkk0dkk1Zmo1ak5wUXhuVE0xNk00OTk1N3BocHBkV25KMGhMMWtyMTRMT180V3ZQTDRtTGlIV0xjbmZyMnI4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-004",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "World Antiscalant Concentrates - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeXF3ajdNQ0FicktCckttcFV6dVdXMHAxbzM0T2VlN1hOYk5GVGdrMXVLVkdCV0NNR2ZzaXJBQWp0czY1blJQNHBrcEF2NXVqTnhKWC1VS0hyYzJyNWFPTkFaWVZ0OUplc3VsbVFIWU",
+    "sources": [
+      {
+        "name": "google_news_water",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeXF3ajdNQ0FicktCckttcFV6dVdXMHAxbzM0T2VlN1hOYk5GVGdrMXVLVkdCV0NNR2ZzaXJBQWp0czY1blJQNHBrcEF2NXVqTnhKWC1VS0hyYzJyNWFPTkFaWVZ0OUplc3VsbVFIWUVRR0lCam5sS3NSVW55dDkxMGk1MTA2T2NscXNsYXhEb0pUcEFVajlLN0lOWnZVcEdLUjFUeGZOV2RJRWswU2R3dkJWM3JlMVpKWFM2a0xIakw3ZWN5V0c1dzdwb2lHNk54eTI5LXVHbmk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-06-23-001",
     "date": "2026-06-23",
     "companies": [
@@ -108,6 +184,397 @@
       {
         "name": "ao_smith",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNklrWUl3MWgzRGRWd2V2c3VmaG5DcmJlU3NreHBSbGtOdF9fT0h2bllBcXFIODBCWUUwUU9CaHdIdVRSVndkZG5VUGhlRkZ5Q2FocUNsSzdDajN1eFVXLW1lZU5qbXpWNkZWWUwtcFE0ZUZka25zb2ZRSk5HUEhkZ3dNVFZfX1EwYTkxQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-06-23-007",
+    "date": "2026-06-23",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 Big Reasons to Love Mueller Water Products (MWA) - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPc294MnJDLUNsYXF2c01YRW9yWnYxT2NBZHpmY1lJT0c2Zk5YdnFlZHZSZkVjbTVJWEtVZ2J4Y3pmXzdjeXBBSUNTLV81d0prcWxGYlVsOEpHX2RFeWZVWTdFZDRSMzh3ZFNoWnJEb1",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc294MnJDLUNsYXF2c01YRW9yWnYxT2NBZHpmY1lJT0c2Zk5YdnFlZHZSZkVjbTVJWEtVZ2J4Y3pmXzdjeXBBSUNTLV81d0prcWxGYlVsOEpHX2RFeWZVWTdFZDRSMzh3ZFNoWnJEb1FUNVNXQ21acUlMTkFqYUY1eGtJbnFDekM3b1d5WG5hUXd1M2N5SFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-06-23-008",
+    "date": "2026-06-23",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery (ERII) Proxy filing Summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9GSHBYeFdKd0dzTlI3ZzBFOWhfVm5vaWdvQ2cta0JYMWZ1TDZWMTNXaUR0Y2U2LW00bjUtLVM4X2ZNMkdBSFFQUEstOFV2T1VTYUI1MDRiV1FyUnZ2QkxlTWM1cHA1UUF1MHNNRmxwS1",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GSHBYeFdKd0dzTlI3ZzBFOWhfVm5vaWdvQ2cta0JYMWZ1TDZWMTNXaUR0Y2U2LW00bjUtLVM4X2ZNMkdBSFFQUEstOFV2T1VTYUI1MDRiV1FyUnZ2QkxlTWM1cHA1UUF1MHNNRmxwS1Vsd2dVM3FubnlfZ2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-06-23-009",
+    "date": "2026-06-23",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery (ERII) Q3 2024 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE13REI5QVFDRW5WcVlqX3g2ejBCYjg1UlJLeGtROXg0YldWZ2p4RzItSmZMUDB2dGRXQ1pOTUxHWWM2NzlvLUlQbXVHY0NjcERHdWctSHp0aHlrN3RZMW5sSjlta2pOc3UtZFdnTFBvRF",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13REI5QVFDRW5WcVlqX3g2ejBCYjg1UlJLeGtROXg0YldWZ2p4RzItSmZMUDB2dGRXQ1pOTUxHWWM2NzlvLUlQbXVHY0NjcERHdWctSHp0aHlrN3RZMW5sSjlta2pOc3UtZFdnTFBvRFZpUzdCdHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-06-23-010",
+    "date": "2026-06-23",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery (ERII) Q4 2025 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9Kb2NIUThyaHZhWTNwSjBFR0dwZ01HUzZOTmpfdFh6dXB3SW1WWGc2WFJPYjhWZUh6ZjBQbllvTHBDOVZSVmtjY0Q1a0g1WDhlQmU2SGVHaC1XQk1yUGttR244Z1hISmNVbVBONFBIcX",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Kb2NIUThyaHZhWTNwSjBFR0dwZ01HUzZOTmpfdFh6dXB3SW1WWGc2WFJPYjhWZUh6ZjBQbllvTHBDOVZSVmtjY0Q1a0g1WDhlQmU2SGVHaC1XQk1yUGttR244Z1hISmNVbVBONFBIcXZFYUlDaWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-06-23-011",
+    "date": "2026-06-23",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery (ERII) Q4 2024 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1EX1JKTkFDQjdXYlZkSWtmNGdyemYxbTdKV3lfbVdXUk1kYWh5Z0dzbjNFQVNiZGl2eHV3Nmg1aEI3NWxJOGtZM2x5Y0xDVksxSU03NVFWQTVnME53cUpieEp4ZDBmWFMyM1VRUjdLck",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EX1JKTkFDQjdXYlZkSWtmNGdyemYxbTdKV3lfbVdXUk1kYWh5Z0dzbjNFQVNiZGl2eHV3Nmg1aEI3NWxJOGtZM2x5Y0xDVksxSU03NVFWQTVnME53cUpieEp4ZDBmWFMyM1VRUjdLckxmTFRrTHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-06-23-012",
+    "date": "2026-06-23",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery (ERII) Q1 2025 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBkY1dHVGRHZ2dmUDZIRU5PZllEY0xPNjZkekRDT1EyV3h1c0dnRU82SWh0MC1DTV8wVzEyY0JpbmtEM3RXUld4LXh0VkpvQkRCeHhvSmVFRmxfR2loUU14WjRlczhnejlqZ0NyY1JLRC",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkY1dHVGRHZ2dmUDZIRU5PZllEY0xPNjZkekRDT1EyV3h1c0dnRU82SWh0MC1DTV8wVzEyY0JpbmtEM3RXUld4LXh0VkpvQkRCeHhvSmVFRmxfR2loUU14WjRlczhnejlqZ0NyY1JLRC1iZTduVHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-06-23-013",
+    "date": "2026-06-23",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Futures Contracts for Veolia Environnement - Dividend Futures - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWRlenU3RWk3aEtoeko1Mzk3NnpJTHRsb0FwN0tvZVk1b1pNN28zSU5ZWEZ2MUZkVlp4elAtR25oLUZ6S3NLZlZLRGtGejRyR2lwNzVtMFVyODVYaTd1QmFTSmEtQnpMeE9rUTJtMU",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWRlenU3RWk3aEtoeko1Mzk3NnpJTHRsb0FwN0tvZVk1b1pNN28zSU5ZWEZ2MUZkVlp4elAtR25oLUZ6S3NLZlZLRGtGejRyR2lwNzVtMFVyODVYaTd1QmFTSmEtQnpMeE9rUTJtMURENEt2T2w3VWprZTV1eDJYYWtsZEVnQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-06-23-014",
+    "date": "2026-06-23",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "BGV and Veolia launch strategic partnership in infrastructure, energy, and waste management in Ukraine - Rubryka",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcF93cVlXNE8tT3N5OHVSX1JoNXh5bERYU2ZtTnQ1VnRMa0psUWhQaFNacG91clVVamFVeFlqWURuTEtDTjdaZWxPaElYYlNjOXlvX1RCbjltV21QUk5rOEROZTF0Nkt5bmJiLWloX3",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcF93cVlXNE8tT3N5OHVSX1JoNXh5bERYU2ZtTnQ1VnRMa0psUWhQaFNacG91clVVamFVeFlqWURuTEtDTjdaZWxPaElYYlNjOXlvX1RCbjltV21QUk5rOEROZTF0Nkt5bmJiLWloX3NwVi1KRXFsSkFsdmJsd0hoeFVvWUIwYkxOd3RiQXBCS3JEMV90aGtudUZzck5MWWg4Nk1jRnFlb1Z5T053TVVLZ2xDSDNNTnFEWlpqNUNQN3Rfa3VwMmNIalBoV3lWLWtWdndtVk5OLVhhbjBHQlctOEw4WXZJel9MRmxfRUk2dVptdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-06-23-015",
+    "date": "2026-06-23",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Block Trade Veolia Environnement SA Convertible Transaction Will Price At 0. 75% Coupon, Says Bookrunner - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOdHB1NzFvZVpKeHpfeHUxeDQ1ZnJ4anhVWGZJMlNMaGxnUUVtR3RyNkc3NjRRNVJTZ08tYWtVLVVaTnJDR2w3QnlCaGQyZmZydm5yTnczb2Y3LXRvR1drSWowckhuLXN3TG44a3lUej",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdHB1NzFvZVpKeHpfeHUxeDQ1ZnJ4anhVWGZJMlNMaGxnUUVtR3RyNkc3NjRRNVJTZ08tYWtVLVVaTnJDR2w3QnlCaGQyZmZydm5yTnczb2Y3LXRvR1drSWowckhuLXN3TG44a3lUejJDQWIxeGJzamgycXVYV0toNW4xTS15Y3ctdkhuNHVrT2hiWkI2U0lQazBDY1llWDAwN3ltZnBOckc5UWlqOElYZy1LRU91d1lLQnFHMU96U1NWM1JaNnlFNV82MmZxaGVoNXVnNmZmYUg4bHY4OS13Vk9VeEFMWUZkQjFZZWVBb1FkazJrZ0FIbDZsc0Z5Vlpp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-06-23-016",
+    "date": "2026-06-23",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Veolia launches a €400m synthetic convertible bond offering - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOSk50TUFLcEZNbUdWd2s0RFNIWENndEliZzVxU2xCemRCSGZzTjBoN01jUHhfQmt3V05oUnhualZNcFN6cFFObGFjNDhSNFNRY2JhRTJseTlhUVpkWER2MGVLMzljMmw0dWxNbDdpLU",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSk50TUFLcEZNbUdWd2s0RFNIWENndEliZzVxU2xCemRCSGZzTjBoN01jUHhfQmt3V05oUnhualZNcFN6cFFObGFjNDhSNFNRY2JhRTJseTlhUVpkWER2MGVLMzljMmw0dWxNbDdpLUwxMjlKS1pRT3UxOEJ0TU54MjJCTm16OGEwak5Xb255SXdYVjJmNE1heVRXOGE1a0RqYlVDcmUwb1hxWGE0bkVHQjBFUXdtdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-017",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith CEO Stephen Shafer Handed Additional Role of Chairman - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNa2s4bWJfak9vWFpYOE1UTHlDQlBBWW5NODlFOFFkYXBzMkF5MmRJay1KNzd3eUhRYlNWUDdkNmplX1FxVHB0QnpFQ3dBVVU0bmhXdEFsNlNTeDdKazJtR0NxTzNZVlB1QmY2Z2NzbU",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa2s4bWJfak9vWFpYOE1UTHlDQlBBWW5NODlFOFFkYXBzMkF5MmRJay1KNzd3eUhRYlNWUDdkNmplX1FxVHB0QnpFQ3dBVVU0bmhXdEFsNlNTeDdKazJtR0NxTzNZVlB1QmY2Z2NzbUg4V1pyQldwNFhNSk9WTWo3MmlkRWxnVGJBTU50aU0ya1YwckIxai1mLVVKWDM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-06-23-018",
+    "date": "2026-06-23",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water and Essential Utilities proposed $40B merger continues progression - ROI-NJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSF9ldm5GZlg5YUlibGVyNmttWTZ5S0g4TzFuNWFMX1JrUWJrRE5XUV9qLVN6dTkzbW5NM0Z6bDJoYlFOS1NWU2pIWnVULXNkc0ItM1JNaXdlXzZtc3hHbkh3VWhIa0NBWHh5OVJiX1",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSF9ldm5GZlg5YUlibGVyNmttWTZ5S0g4TzFuNWFMX1JrUWJrRE5XUV9qLVN6dTkzbW5NM0Z6bDJoYlFOS1NWU2pIWnVULXNkc0ItM1JNaXdlXzZtc3hHbkh3VWhIa0NBWHh5OVJiX1pZN0ZOcnpqV3Jsc2stT3QxT1ZpcC01Q2lIT0lLU0lJczNuTkhPY0dZd3ozdmZzZHZhZGE4NWRLUGpXSFh0UWM5Q2wyR1diTDhCel9PYXd2YTZxTEN6bHBGODJNc2x6TzRYNnNxWElfQzU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-06-23-019",
+    "date": "2026-06-23",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "smart_water",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Virginia regulators back American Water and Essential Utilities merger - Smart Water Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOU0hJMHJ3bXh2SHFscUczclQwZzVvWEdjRjIxRmtuWTM0dGlRSEprUVRRMzJsVjc1OHFoN1AyZk1xWUFKbVc3NG8yMHctdHNXRFV2eXlpUmZ1SndsTjdUWXRkTWlWd2RRR2ozYi1FRn",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU0hJMHJ3bXh2SHFscUczclQwZzVvWEdjRjIxRmtuWTM0dGlRSEprUVRRMzJsVjc1OHFoN1AyZk1xWUFKbVc3NG8yMHctdHNXRFV2eXlpUmZ1SndsTjdUWXRkTWlWd2RRR2ozYi1FRnBXR2lnQllUYmZycWRqV1psdlNFRG9HNU45aE9KcU5vbDJyQXJqZi1WVDEyMDIzUUM3eWJZZmtFaXJNTjlXRVNtbFV6dVBod000cktibXRSVGZHdV8xUHfSAcsBQVVfeXFMT0R5bTkwbnFFTEtmOWl2NTU0a0pQZnQ1YWpHRGgwc2lmVEhjNkFpVERqaThMSjVMVTF3RU5CN2dseGdUTVBWV2NLZlNRSWFXbkhoMUdfT0dPckFjaHBfaXN6amxNQWMzTWwxTy1tckdIR0Nza2hna3dkZ3g0RXo3N3lZb3dFUW8yS3l1YWt1OU9PS0Rhb1ppZ0QyaHQwV0hhbjhmWkpPeTFSYVZDclpsMi1aYk1OamdDc0dlek94MTQ4cGVkXzlRVjh0UHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-020",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "wastewater_treatment",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "27 American Water Drinking Water Treatment Plants Earn National Recognition by Partnership for Safe Water - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTjlzZ29EVDN3RmxaWVBiN0tNZkhxa3hVNDJNUzlVeGVrUEpRekVJRE9mWjVkdi1LWjBpRGFjcTFBbTlHTjhkbjhTMXBsRnJSdWdSRC1zZFkzaDl2Sm5icWF4d0tSbWlBU2RLWTRHaG",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTjlzZ29EVDN3RmxaWVBiN0tNZkhxa3hVNDJNUzlVeGVrUEpRekVJRE9mWjVkdi1LWjBpRGFjcTFBbTlHTjhkbjhTMXBsRnJSdWdSRC1zZFkzaDl2Sm5icWF4d0tSbWlBU2RLWTRHaG1LLVRIckoxMHR2ZlpjOGpDVG95TVFBWmZrWEpOZ2djMDBWREtRQmxwNDFJMlVGODdwMzVrQ09XWDZyczRQd1N2NFhkeXFnQklZZjJwREhWaWplZUdvZFQxUGxaLW1ESzN0N05IejlBcnBZQ3pMbjE3a3JOMUZFQUhOaVh0TEZhcHAxbUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-021",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Charitable Foundation & Illinois American Water Launch 2026 Hydration Station Grant Program on National Hydration Day - Finviz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxORlhlQnNNQmRpcUtfbkFoREpjbWY1eV9uR2dhbklOMjFhWDlTWHg2alZBUWJxMU5Oc3NqQTE0ZUtWVFV6Y1NSYTJ2MWpKN0E2RnNKQjZkaEJqWkFZUGpQV2F1MUhKU2UwcUZteHJZR2",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORlhlQnNNQmRpcUtfbkFoREpjbWY1eV9uR2dhbklOMjFhWDlTWHg2alZBUWJxMU5Oc3NqQTE0ZUtWVFV6Y1NSYTJ2MWpKN0E2RnNKQjZkaEJqWkFZUGpQV2F1MUhKU2UwcUZteHJZR2dHRGhpUVlUbUMydHR6XzNnUFlEUklVSXFNVkRhTHN4a2NfZmcxQnZQNTFSN3Z4dlVYRnY5bTJlcTZnV3JQSy1xLUplTlhDSWg5Zml6NjdsMF9mT0xRQl9wTkh3d1gxZ2dXcmxvR0NkRWFOMTJPRUdDb1cwM3AtMU1HM0hvUzJRbVRnanc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-022",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water's plants earn top water-quality honors in six states - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalAyN2pNNS1OX2Q0MDlnRWVndnBMWUJfMHJSS2lfaWFSYkRWNmV1RXpfVHByTm9teU05U3lucW1pUS1Xc2hnVDBJSU5KY2h4bXllOEFLckswY0xTNEMyaTZLZXg1ZDhuOG9hQmJQVW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalAyN2pNNS1OX2Q0MDlnRWVndnBMWUJfMHJSS2lfaWFSYkRWNmV1RXpfVHByTm9teU05U3lucW1pUS1Xc2hnVDBJSU5KY2h4bXllOEFLckswY0xTNEMyaTZLZXg1ZDhuOG9hQmJQVWNYLWtXdGhidlhJc25FUnBEdXJncWpIMmU3OVU4dXpVV1FMenR1cDZ6ajRacWRsZzBxNUZpN0hMZWVybUJpbGpnVG9pcW5DVktZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-023",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "wastewater_treatment",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tap Water You Can Trust: Five Missouri American Water Drinking Water Treatment Plants Earn National Recognition - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZGtSeE5Kc2NlamU3bTNiM3Q4Q3NFemp2b0lXUEtuQTFqWEFudEVNa1hBckFXeW55bjJTMzZjMnRJbEx0OUdYaHRKa2dlUnM5QVE1Z0RaQzB0aXEwLU5vdWRzTW5kQkdacFptdllLMW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZGtSeE5Kc2NlamU3bTNiM3Q4Q3NFemp2b0lXUEtuQTFqWEFudEVNa1hBckFXeW55bjJTMzZjMnRJbEx0OUdYaHRKa2dlUnM5QVE1Z0RaQzB0aXEwLU5vdWRzTW5kQkdacFptdllLMW5pVG50elVvUGJSSGpCUkZKLXhkQS02dzFtWXVCUVNjUDJQMG1NMXdkX2NJZGlLYmpGYk1lRUV6YndscnVXVjdISE5Sbkd0SkhkenN3UDJZcHJycy1WLXNvdXdXY1BYd3hfSVMtbkJ4ajE2UlVMRkEyZGZMRHMzSjQzRldLdHpPMEtmX3NyT0xtd3pR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-024",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Two Indiana water plants win 25-year national awards for water quality - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0g3akN6WUVvaTcyc0lJeFpKQ3dTLTVySVE4VXl3NW54STV1NElTWU9ZOFZpNTk5UkxZV081bXN4N3Iyb2haTGFlcWROWXhsa1Nka1pyWXlYQmZ0SUcxLUNyMEZYQUZHQWItTGIxZC",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0g3akN6WUVvaTcyc0lJeFpKQ3dTLTVySVE4VXl3NW54STV1NElTWU9ZOFZpNTk5UkxZV081bXN4N3Iyb2haTGFlcWROWXhsa1Nka1pyWXlYQmZ0SUcxLUNyMEZYQUZHQWItTGIxZC1wTFg1dDhIc0dJQURFZV96RDZ4WXg1REs1enZ5SmRHQS1nRVBVUGlWX1c2WG8teFk1MnBHVk1HQ3Q0MnUxTmFRWWJrMy1INDdaeGRUTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-025",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "wastewater_treatment",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "25 Years of Consistent Excellence: Indiana American Water Treatment Plants Earn National Recognition - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOWdBT25NWHVReWlfaVZCeWlISEI3RjMzRmRsUUZDLUVISlhMcEREZFFMRWpUX0NXcEgtcFQxUDZZTmxDdzlKWkllTTI3QllIZDUzSHd5Y2RzQzQzRXI2TnZGc2lrbXJMdkdMVXZ1a2",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOWdBT25NWHVReWlfaVZCeWlISEI3RjMzRmRsUUZDLUVISlhMcEREZFFMRWpUX0NXcEgtcFQxUDZZTmxDdzlKWkllTTI3QllIZDUzSHd5Y2RzQzQzRXI2TnZGc2lrbXJMdkdMVXZ1a25Hc1pXZ0d4elB2bklZMGhjQmhoc1A1VGVZWmpFbExpYkF5cnZ2dUdPY0dUNVpvMk1UNUNmalBGNGhIeGl0cU1LUmxlek52X1pYWElTWk54d2o2WjItc0hjNGl5Mk1jYk9XclVVdWFmSE1VT0FkeHNPZE5wT014Wm9LNi00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-026",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Five Missouri water plants win national recognition for tap water quality - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQNE9ncDdXRU0zNlpzLXh1aHFLbGpGN05Tc3EwVHI4OEhjVk1OWmZkcm5kdFAyYkhpNFZTaUl2c2p4QVAydjJoVUxtTzFwRXRNVXMzdWV3LUVGUlpUM21BSnQ5UG9CMmhmUmNGZUZ3Sk",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNE9ncDdXRU0zNlpzLXh1aHFLbGpGN05Tc3EwVHI4OEhjVk1OWmZkcm5kdFAyYkhpNFZTaUl2c2p4QVAydjJoVUxtTzFwRXRNVXMzdWV3LUVGUlpUM21BSnQ5UG9CMmhmUmNGZUZ3Sk1vdUptVERlRnA1ZExlek52VzQyOXZFc1FtREhtNzdWMlhZSTUtVnBnZDZocEh2NjBDWU9XOXpXVHdDeVBEMk1veE45SUF3bVU3QXdVUW1R?oc=5",
         "type": "rss"
       }
     ]
@@ -502,6 +969,27 @@
     ]
   },
   {
+    "id": "essential-2026-06-22-021",
+    "date": "2026-06-22",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water, Essential Utilities receive Virginia merger approval By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOOENQMFVuSTJkWG0yUkRyVjZsT3FXa0xsMjJDVkctQU9xZlhaSTNUa3NmX1VPanVaMnNjSnduQ296ZjRIb2dPVmVYWXVwTVBhd192bGdQWkQwQUNXWm43Mm11N0NfTW8wR0VxYWhkUT",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOENQMFVuSTJkWG0yUkRyVjZsT3FXa0xsMjJDVkctQU9xZlhaSTNUa3NmX1VPanVaMnNjSnduQ296ZjRIb2dPVmVYWXVwTVBhd192bGdQWkQwQUNXWm43Mm11N0NfTW8wR0VxYWhkUTBVT3JFTEh4Q1NrNm42VzhhLW1lTFNLMk1YSkE2cm9HTnFncXowZ2kxTUk5N254aXAzS1BEN2xORWQ3YlpiM1pOQi1vYmQ1OWxSUkZhdzFJem1xVDVGZ1dz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-06-21-001",
     "date": "2026-06-21",
     "companies": [
@@ -581,6 +1069,26 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWFfRlU3WWlscTdmSEdXaXdZODB6ZUFNWW9UWlgydXN1c18xX3BvRndfQlphZGwxZ3lTNzR6cC0xR0FBZUZIcUdFQlpKOURCNGFybkZZRVhPVmVxZTRSZ2NNTTVHZHJEZmhCSk5pbWVMUTcxTFpsZTdwVk14SFNocjR6dFVmSlRnRGp4alNRMDVsOVdfcFQ0WC12MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-06-21-005",
+    "date": "2026-06-21",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Stock - Sunday background on the Japanese water specialist - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQNk1NZmZDNlpsT1NGZkVrdW1xcURnc1hzUkJMa0tIWEhpYXVGLWktUzBDRzN2ZE54OURWY1NrUUpqZ1dxMm5ob2JraHNkRHJMVGtsTldiQ0VpUGE5TlVXTGZEd0N4MlBPM25hRzhHZz",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNk1NZmZDNlpsT1NGZkVrdW1xcURnc1hzUkJMa0tIWEhpYXVGLWktUzBDRzN2ZE54OURWY1NrUUpqZ1dxMm5ob2JraHNkRHJMVGtsTldiQ0VpUGE5TlVXTGZEd0N4MlBPM25hRzhHZzdEei13T2JNWklTVVRnLWFuczdjbzR4TE9IaVlkOF9sT3dQSnNycVpMMEF4RWlJQUNFSjd6LUR2SG93RXpKU082bk93aVFTR0dKY2VfSTFRNA?oc=5",
         "type": "rss"
       }
     ]
@@ -679,6 +1187,27 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mbW9VZ1V5UWFfTmxmUlN4Z1p0Vk9SMkt6b242ZXpUTFpRWF9HMGJCOGtNVW5faTdxb3JuR09XOVBUY09IYVFEYlpZNy1LNHpGNjZHRU9KQ3BRMmVZZFBKdWVURk13S01tS1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pentair-2026-06-20-006",
+    "date": "2026-06-20",
+    "companies": [
+      "pentair"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pentair Stock - Long-term strategy and water business model - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQUTh2eXNZNFVFTzlrd2dwaVVBdXM1WHpFVjI1ZWlYRkktajNhdHN4ZnNmTDhVdU93ekRucjV0WWNlbkc1V0l3VnpfT2NEV0ZWbS1aN3VWU1ZOWTBBb3d0VHNTN085ZHRhSEFqaTc3al",
+    "sources": [
+      {
+        "name": "pentair",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUTh2eXNZNFVFTzlrd2dwaVVBdXM1WHpFVjI1ZWlYRkktajNhdHN4ZnNmTDhVdU93ekRucjV0WWNlbkc1V0l3VnpfT2NEV0ZWbS1aN3VWU1ZOWTBBb3d0VHNTN085ZHRhSEFqaTc3alNreVd5VW9kMm9hVno4SWJ2SHNFNGQ3dVJhSzBZTkpsMmVEaE9raXVaTXpta2tFWVBBOHAxSmZSYjFySDVFWkFheTgtYThQZ3c?oc=5",
         "type": "rss"
       }
     ]
@@ -1351,6 +1880,27 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbnV5bVVvZWNxNG55bFVuZUJYNk1jcHJrSS1BQlRSZTdyaTAtQTRxLVV4MHZMQnpNM0ZzcHl1b1RCQ2Y0d00wY0t6Z20wV1k5SFpVd3pYQTRlZnJsc0dpQnZOTk5qR3UyYW40U3NkekVmZ2RMVUFrRFl2R3ZTdWpJOGVPc2t2UHNqZHpUVUZWemdXd084cU04d0pDRTdCTHJqZTV0Zi1TZHFNSlQxNjdrT2FTQTJoYkV4b2pWaVJ2aE5ZVWxjaXV3OEkzeU5hV1FqdjNkQ0lzaEk0cXNJcG9aUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-06-18-025",
+    "date": "2026-06-18",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products, Inc. Announces Depart of Todd P. Helms from Senior Vice President and Chief Human Resources Officer, Effective September 1, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUjdaQjRwUENhUkpvRUFsUkpzaFN2R0RHQnN3MnpkdFp4YlFLYWJlbmhOVWd4SXRqZ2pFYUtnUHY2Rnh6ZTl6b2N3RjcxMThfSFNMeklHUkdHajRSQU83NEJGb0ItUzJLZUd0eE1TYU",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUjdaQjRwUENhUkpvRUFsUkpzaFN2R0RHQnN3MnpkdFp4YlFLYWJlbmhOVWd4SXRqZ2pFYUtnUHY2Rnh6ZTl6b2N3RjcxMThfSFNMeklHUkdHajRSQU83NEJGb0ItUzJLZUd0eE1TYUNIM0RkN0xTbnRpOE91SHZ1c0tmUUpKNllpR09jMTQwcFNoMzZ2bkRYaGx0TGNpdi0zYWp0aW9tY2hNenlZSTFlMFgtRm5vMUdhclJtaFJZMk1ld3dUVlBleDZHNEhRdzk5bUR2QzVmQ01VaFdHeXF6aGlWbmc?oc=5",
         "type": "rss"
       }
     ]
