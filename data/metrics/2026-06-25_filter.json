@@ -1,0 +1,15 @@
+{
+  "total_raw": 273,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 5,
+  "gate2_fail": 4,
+  "passed": 19,
+  "gate2_samples": [
+    "Two-Stage Rankine Cycle Configurations Increase Energy Recovery at LNG Terminals - geneonline.com",
+    "Energy Recovery (ERII) Investor Day 2024 Summary - Quartr",
+    "Energy Recovery (ERII) 15th Annual Midwest IDEAS Investor Conference Summary - Quartr",
+    "Energy Recovery (ERII) AGM 2026 Summary - Quartr"
+  ]
+}
