@@ -1,0 +1,16 @@
+{
+  "total_raw": 273,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 8,
+  "gate2_fail": 6,
+  "passed": 19,
+  "gate2_samples": [
+    "Energy Recovery (ERII) awards interim CFO 18,518 common shares - Stock Titan",
+    "Form 4 Energy Recovery Inc For: 25 June By Investing.com - Investing.com Canada",
+    "Two-Stage Rankine Cycle Configurations Increase Energy Recovery at LNG Terminals - geneonline.com",
+    "Energy Recovery (ERII) Investor Day 2024 Summary - Quartr",
+    "Energy Recovery (ERII) 15th Annual Midwest IDEAS Investor Conference Summary - Quartr"
+  ]
+}
