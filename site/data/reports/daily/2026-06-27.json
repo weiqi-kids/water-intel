@@ -1,0 +1,217 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T10:16:36.380045Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-06-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of MUELLER WATER PRODUCTS – NYSE:MWA - TradingView",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnA5akpZMUczdm9xenBZbEJXVjdadDM3b2stOUlCdUdZbEdfazBSRHhNWHR5dXY5ZGxCdzVoM1h4OUthMHlQVktZTE4ySmlEa2E4RW9xelpOUHg3ZEtZRW9PdmdYRFUwUEZzUHFua2plOC1lSFJCdEVLWXh1SzRRTi1LUHBMdnRSai1acVRyYlViS0c1bjl6aXZsWHFBZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ao_smith-2026-06-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A.O. Smith updates its long-term strategy, shares in the U.S. mid-cap water sector - Ad-hoc-news.de",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUGIwR0tZSHZobGFYQ19tSnVlSTdBQ2psWUFNcjZLaWNhbXJROEVmZzl6RDVYYjJEUUY4YmxqNE92VE9MbF9nb1o3bEZ0T1pyQVRyRF9YbldJaW5yYVJOS2RJWFVQOWU2a25PU1A0OWFHUE9oMzdxUkliZE5KOC1YV2VCNS1SM0xCZ1IzeEZGNlRyUjR4RzJ2TnBtMlh6blZ1bjEtZEpUUk16UDE2Q2pjc1p2VTFwS0Y3S3JfREJuN05BeWM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_water-2026-06-27-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Enterprise value to EBITDA forward of American Water Works Company, Inc. – NYSE:AWK - TradingView",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHlUZ3JpNzNLdTl3OWFsN09XXzFEbkVfb3lvVGF1UFVJeTQ3X0pVTkk3NFM3aXItcXUtVkRISGtLWHJ0WkdZaFAwUXNOTGhiVVdkSlQ4OEVYYzh0dWw1dUx0WkZ2RmdNNklXRjZaZWxsMmJROG4wekE3LUNZMkE2RVhPWEpsSkxRTU1PMHZIeE5aNmhIQl82NEc3WGV0eFFHVGM2bGFfT0ZMQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mueller-2026-06-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mueller Water Products, Inc. Class A Actuals & Estimates (LS:A0J2LX) - TradingView",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3ZjaTNMazdfMlkyT1I5UUxNOUhQYy10ZnJpOG54UndxbDkwMGp6M01ES0JFTGJVQTBqV2lkUGJhMUx2VFdzdGhLUk94bnJaN2U5SVctVmFRdktfSXFYZkdIY0ItcnlkYnVvSTlWWW1GcWhHMF80TllhTGp2R2xNR2pnYngzby01enJ3TkJyQWZjWVplQ0VqQUVuaVU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "essential-2026-06-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enterprise value to EBIT forward of Essential Utilities, Inc. – NYSE:WTRG - TradingView",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUtwRlp2QS10SmFwTVdjTHhxS1BBWTcxRXFnLU1ibnI1LXBNVmtJQnJpd2VYT1Z6d29iLWJrLV9uOFFCTE13dzY2UF9wOXoycEJPVTRaWWwtaUp2VHQwa3dKTGtrMmN3RGhyekZYQmdyUmlBQWRNeUQwMjgwcFNuMi1kUXVLZThtd3lKd0Rsei1fN25FcFZ4ZU5Rb1l0UTZuRnlsLWJNWlk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 2
+      },
+      {
+        "id": "essential",
+        "count": 2
+      },
+      {
+        "id": "ao_smith",
+        "count": 1
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 273,
+    "dup_title": 151,
+    "too_old": 88,
+    "gate1_blocked": 5,
+    "gate2_blocked": 8,
+    "passed": 21,
+    "pass_rate": "17.2%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "ERII Investor Notice: Johnson Fistel Investigates Energy Recovery, Inc. - GlobeNewswire",
+      "Energy Recovery (ERII) awards interim CFO 18,518 common shares - Stock Titan",
+      "Form 4 Energy Recovery Inc For: 25 June By Investing.com - Investing.com Canada",
+      "Energy Recovery (ERII) Investor Day 2024 Summary - Quartr",
+      "Energy Recovery (ERII) 15th Annual Midwest IDEAS Investor Conference Summary - Quartr"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為穆勒、必要公用、史密斯相關動態：「Price to earnings forward of MUELLER WATER PRODUCTS – NYS...」。主要關注主題為水資源產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Price to earnings forward of MUELLER WATER PRODUCTS – NYSE:MWA - TradingView（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "A.O. Smith updates its long-term strategy, shares in the U.S. mid-cap water s...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
