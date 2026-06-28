@@ -1,5 +1,87 @@
 [
   {
+    "id": "veolia-2026-06-28-001",
+    "date": "2026-06-28",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to EBITDA forward of Veolia Environnement SA – DUS:VVD - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTG55RjVkU0FiVlJqTUZuWFZZNDRvRkU0WTZXdVUyVmx2bE9NUVdjQzZBVGxsa2xoS0dzVHdVNmJ0cTdjeEFybUhFT2sxTVQ2TlJfaW4xZnZMNV8tWjd6Sms2Vzg5R0VJX1pKUmlPaX",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTG55RjVkU0FiVlJqTUZuWFZZNDRvRkU0WTZXdVUyVmx2bE9NUVdjQzZBVGxsa2xoS0dzVHdVNmJ0cTdjeEFybUhFT2sxTVQ2TlJfaW4xZnZMNV8tWjd6Sms2Vzg5R0VJX1pKUmlPaXh6dnU1THRBVGZ1eUFaeGZpUzN5Zzg2dHJ5QTdzSmhrR3ViYmhEd1ZiRUh4cTJUMHFpZlBwQ1FkUjA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-06-28-002",
+    "date": "2026-06-28",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to sales forward of American Water Works Company, Inc. – NYSE:AWK - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOc09CT2ZMeUx6amlPalMtVVBzMXVSdGRsLXdwVnMtcW5KSXNsRlFfQVVYUS1aWFVFVUF1MUJCTEU3OUFGeUptOWFEdWpsYVczYUlYZ1dJSjFEaDJiRFhrOV9Udm85QVZCRmQ4dVY5em",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc09CT2ZMeUx6amlPalMtVVBzMXVSdGRsLXdwVnMtcW5KSXNsRlFfQVVYUS1aWFVFVUF1MUJCTEU3OUFGeUptOWFEdWpsYVczYUlYZ1dJSjFEaDJiRFhrOV9Udm85QVZCRmQ4dVY5emlmZmI5RTFHVVZ0cXN5SnFtNEpzc1Z0YUJUdy1Ibk1VMnRyYTFKQjlHOEln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-06-28-003",
+    "date": "2026-06-28",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OP Asset Management Ltd Acquires Shares of 20,083 American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS3UyWGx2b1J5TGx2TDRCS2JucmpON2ZHVUZlVWtrb0hEMk9tZi1LU0dtYmFIOFA3UmRLVWJTbDhvQVNuaUNqbl9BeVhuUHMtajhfaUtjZXVxRVdhcUNXeU1UX2owU3Z2V0xiRHFIU1",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS3UyWGx2b1J5TGx2TDRCS2JucmpON2ZHVUZlVWtrb0hEMk9tZi1LU0dtYmFIOFA3UmRLVWJTbDhvQVNuaUNqbl9BeVhuUHMtajhfaUtjZXVxRVdhcUNXeU1UX2owU3Z2V0xiRHFIU1FKQnl1djcxM2pjdldGbDVEMHIzLVptNkRrUEI1OE9kbHJMRERRNE9qV01tYlRDZ01PR05RUFlFeWYxaDkwbFNxYVN4eG12UTNQX2R6a1R5dFBUYldyOXdhMkc0LTFtZ2hQWkdQY3dzMnlXc2N1eVhr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-06-28-004",
+    "date": "2026-06-28",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company, Inc. $AWK Shares Sold by ABN AMRO Bank N.V. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDc0N2hsdUU4VjVQSjRMSTBzU21STFJ6UmVJbzJxY3B0RUtfanhIT0hJeGQ3eUhqa3VDcnF2TlB6YlpQcmxTSFl6ekI1eDhGN19FdVVnVk43Q2JOUlJ4ZGhtbmE1ZEFvcWppaWdrcE",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDc0N2hsdUU4VjVQSjRMSTBzU21STFJ6UmVJbzJxY3B0RUtfanhIT0hJeGQ3eUhqa3VDcnF2TlB6YlpQcmxTSFl6ekI1eDhGN19FdVVnVk43Q2JOUlJ4ZGhtbmE1ZEFvcWppaWdrcEI4bDkyY0lNdkZuOV9ieG5NZENscEVpOTFMRjNaNzNrZk1adFZJRmlqT3VERk56Q0lydVFsTUpfZGNIM2M0djFNQkxjWGE0T25BOG9WQ3JFWkRMN1dlMDUtdA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-06-27-001",
     "date": "2026-06-27",
     "companies": [
@@ -118,6 +200,127 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHlUZ3JpNzNLdTl3OWFsN09XXzFEbkVfb3lvVGF1UFVJeTQ3X0pVTkk3NFM3aXItcXUtVkRISGtLWHJ0WkdZaFAwUXNOTGhiVVdkSlQ4OEVYYzh0dWw1dUx0WkZ2RmdNNklXRjZaZWxsMmJROG4wekE3LUNZMkE2RVhPWEpsSkxRTU1PMHZIeE5aNmhIQl82NEc3WGV0eFFHVGM2bGFfT0ZMQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-06-27-007",
+    "date": "2026-06-27",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products, Inc. Class A Actuals & Estimates (NYSE:MWA) - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPdEVmQWVERE1mdURoMTBqV1lzYl93MUxHSVVRVzQySWVxTlBxMkR6SEIzMERzNUNsdEFPMkE3T0xmYWpaVWJxRzB4VXUzdGd1YXNKNWVHTnM0QmZsOTBMUlE5YU9DQUpyWTU0c0RTLV",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdEVmQWVERE1mdURoMTBqV1lzYl93MUxHSVVRVzQySWVxTlBxMkR6SEIzMERzNUNsdEFPMkE3T0xmYWpaVWJxRzB4VXUzdGd1YXNKNWVHTnM0QmZsOTBMUlE5YU9DQUpyWTU0c0RTLVNqUWwxY3d5RVZySGhkbEVkSmZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-06-27-008",
+    "date": "2026-06-27",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Number of shareholders of Mueller Water Products, Inc. Class A – LSX:A0J2LX - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEZYaFk1TTVvUGxaMURCdlJQaE1iaVZfTUg0NTZhRlFMY0RTdjAtRWVCM2hEbDBGWWhpRVROZmpvV2JSMHE5eEdkZkZ4Smo3d2lPZ0NXOEx3aXQyQ0JYZFJfSHVocUJIODA1MDFUZz",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEZYaFk1TTVvUGxaMURCdlJQaE1iaVZfTUg0NTZhRlFMY0RTdjAtRWVCM2hEbDBGWWhpRVROZmpvV2JSMHE5eEdkZkZ4Smo3d2lPZ0NXOEx3aXQyQ0JYZFJfSHVocUJIODA1MDFUZzJzZV9JNWtRa0pGdmFTcHpoU2V5MTdrQmxSUnBjUlA4OUNKOEphY2hPWGs4LUlDcGVxcDJ4dFJR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-06-27-009",
+    "date": "2026-06-27",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products, Inc. Class A Actuals & Estimates (GETTEX:JT5) - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPNlNXb2ZtYkZIcHRSb3dRM0hjd3dDQ2U4bzJXdFNFaGR0M0tIbUZWTGJ0ZWtoMG44MUxHaDlJNjcyd2RfWnI5QVpoMExPMFJxYUZNSThGakZwNHZaejR4U1FOaDhSR045VUFFaUVsZV",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNlNXb2ZtYkZIcHRSb3dRM0hjd3dDQ2U4bzJXdFNFaGR0M0tIbUZWTGJ0ZWtoMG44MUxHaDlJNjcyd2RfWnI5QVpoMExPMFJxYUZNSThGakZwNHZaejR4U1FOaDhSR045VUFFaUVsZVFqc2VJNl9lcV9WdGRrV0VOVW1YdEgyWkh5N0NHaWJRQXlYOWlzYS16ZjVDdi1RWGRBMlZr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-06-27-010",
+    "date": "2026-06-27",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities: Snatch Up This Dividend Champion Now - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPMnl3WEVZUGlGOGVkTzFtRTRFS2JYWFFseUpDUEtKT2puNjRZWlA1dGR5ZFNpaE5kZWNITHl6aEJLTjdva3o3RHI5TEVrZmc1MzZlSVVtS2JLQlY4Tlh1Ynlqcl80SHVFLVlBNF9VZV",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMnl3WEVZUGlGOGVkTzFtRTRFS2JYWFFseUpDUEtKT2puNjRZWlA1dGR5ZFNpaE5kZWNITHl6aEJLTjdva3o3RHI5TEVrZmc1MzZlSVVtS2JLQlY4Tlh1Ynlqcl80SHVFLVlBNF9VZVVub0I3WUoxV015bXVmZzh4S0VPb0pfY2hueVlZY21BY3lHV3JteExzMGZfT0xaZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-06-27-011",
+    "date": "2026-06-27",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to sales forward of Essential Utilities, Inc. – NYSE:WTRG - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPZVl4Tk0tUHJVNkpJcDV1UFpqamlWMHk4ODg0aUlBdFRteDh0aTFrVnN3NzlYZVE0ZUt2c2tFTXNpcTJyYy1oVmtCNUduVmM5MVoybkxsM1hZNnE3aW9HSU12UmVudnpJN0k1NmFzaG",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZVl4Tk0tUHJVNkpJcDV1UFpqamlWMHk4ODg0aUlBdFRteDh0aTFrVnN3NzlYZVE0ZUt2c2tFTXNpcTJyYy1oVmtCNUduVmM5MVoybkxsM1hZNnE3aW9HSU12UmVudnpJN0k1NmFzaGRNSTlrcGRkcEhlTlVqSzNmQzVDRUlaNmNTc1J0Tnc0MGgzaHpNQjlIRXZ5NA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-06-27-012",
+    "date": "2026-06-27",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities: Snatch Up This Dividend Champion Now (NYSE:WTRG) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVNXU2NJR0NET282TWdzOEI5OVdoajJtUldnUUVTZXR2eHFfd1VKSy1PajVmWDJDdG1xNjg1Y0w0aXE1Qzh1OFJQbldsTmdCTXdNM2pBQVl6MlI1Q09RTmtReGppclNqdmdMb3dtbH",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVNXU2NJR0NET282TWdzOEI5OVdoajJtUldnUUVTZXR2eHFfd1VKSy1PajVmWDJDdG1xNjg1Y0w0aXE1Qzh1OFJQbldsTmdCTXdNM2pBQVl6MlI1Q09RTmtReGppclNqdmdMb3dtbHNnUXhxNHJIWTNmVFRyTklmcHBnb3pfMXpMaTBwRXVIZ1Mzdm5qcVl2VHlnVnExeGpwREdhNFNjakRfbF9xMWt0YjFNazY2cHZfSGFBS1ZfNDRJM1E?oc=5",
         "type": "rss"
       }
     ]
@@ -454,6 +657,47 @@
     ]
   },
   {
+    "id": "essential-2026-06-26-018",
+    "date": "2026-06-26",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to book forward of Essential Utilities, Inc. – BX:A2A - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnR3Y3dpeUNZemtDY01xUkRRandNMnl5UkhvVHlja2R4LTducTRZSTZXR0lSUHZfZHlENTRheFJHckxranVpSUFMRHBBZjhCVWt4OC1UVVZxcDlMQkk3X2dyQmE2OGVydzZXdnJWRW",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnR3Y3dpeUNZemtDY01xUkRRandNMnl5UkhvVHlja2R4LTducTRZSTZXR0lSUHZfZHlENTRheFJHckxranVpSUFMRHBBZjhCVWt4OC1UVVZxcDlMQkk3X2dyQmE2OGVydzZXdnJWRWhnSnl4RHlMN1JEN2hyRmRrN0ZUdUpCd3piWVM1bk1qdnR4NWRPZ3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-06-26-019",
+    "date": "2026-06-26",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company, Inc. $AWK Shares Sold by SG Americas Securities LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT2ZVUUQtM2Z2Q2J6cmhlNWJiX1BWSUswVEJjakNjcUFqV2w0bDJZbmlRTUx4UXJaZnY3XzdSZG9taUxwdXFFUUZtOWVkSW9Ib05IdFpCQUNwT2RvNjFncXZEYXFLSTF3Z2Nyd1U2cE",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT2ZVUUQtM2Z2Q2J6cmhlNWJiX1BWSUswVEJjakNjcUFqV2w0bDJZbmlRTUx4UXJaZnY3XzdSZG9taUxwdXFFUUZtOWVkSW9Ib05IdFpCQUNwT2RvNjFncXZEYXFLSTF3Z2Nyd1U2cEN5UHpmbjRDMl9IZHNmNkJjQ0x0ZGNMOTFOZDhWWGhObG5LNHRSWFJBZnlPUUpzOHVFUVJfcURoV2NhR2ZKR1FuYWZmQ1BwMG16TGg4Wkk4TjNudHFmWWdSVlQ2UnE3ZUhraUxkYVVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "energy_recovery-2026-06-25-001",
     "date": "2026-06-25",
     "companies": [
@@ -744,6 +988,43 @@
       {
         "name": "kurita",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0xCSHc5c0Z2cDZzcUpRV1dqNll2TXRlRmxTVjhnRVItd2xyRjFRbFZIeHRYQW5tVDRNclF1SWliTWZFZ19LVkF1c2NRUTlzMDRwU200X3VSd2xKUTlqWko5UHU1NmhmSmZ1WFNlbkw2TVU0VGFfVUNHanJLRS01WGNzVy01R2t2WmcxckY3bkdnVm9maHdhSkd3cE1tMk5HWl90SnI0U1J4UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-25-016",
+    "date": "2026-06-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "VIE Forecast — Price Target — Prediction for 2027 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9OczJzcGQ0Q3VaUnZNTjhScnRkcy1md1VlTkVqdjBWN2pDUGEtX1dtOW1Pd3FsY1hoLThUalItSGExbjZOMEpSNDBiZnRDNHIzMmIyczVOeE5UN2QzQXFhTTAyeElpVU44R2ZDalF0ZG",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OczJzcGQ0Q3VaUnZNTjhScnRkcy1md1VlTkVqdjBWN2pDUGEtX1dtOW1Pd3FsY1hoLThUalItSGExbjZOMEpSNDBiZnRDNHIzMmIyczVOeE5UN2QzQXFhTTAyeElpVU44R2ZDalF0ZG9QREllUXhNMEdWTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-25-017",
+    "date": "2026-06-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "1,4-Dioxane - Washtenaw County",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE45MTNWVWhUNHVJdjVDM2FzMEhmUFlRQ3I5djRpVHRham5xSm5LMGRsOE9pSmVrZUtxNUM2aUs5UkdheUxFZ1VnTXRicFM?oc=5\" target=\"_blank\">1,4-Dioxane</a>&nbsp;&nb",
+    "sources": [
+      {
+        "name": "danaher",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45MTNWVWhUNHVJdjVDM2FzMEhmUFlRQ3I5djRpVHRham5xSm5LMGRsOE9pSmVrZUtxNUM2aUs5UkdheUxFZ1VnTXRicFM?oc=5",
         "type": "rss"
       }
     ]
@@ -1071,6 +1352,45 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORkFuOTZhWkszN3F6NVhrSkJwcTBERXJhN29XWlpkX1c5RDY5R0VNY3dMTHFadGVEVzh2YlJtRGh0Y1VzcFFLQUNuWUpEN0RENVJ0ckRidzJUb2ZMaVVSM3RLSDBvQ0RvcVgteWZqRmJ0cXJTTHcxbnNkVEg3c0ZaWUF4U01HZnctRU5KNlY0dmRDVHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-06-24-018",
+    "date": "2026-06-24",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Veolia Environnement - Forbes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQclpXNmxULUhfTVM4Nmd3ZGt1eGNUWWszbExCS2FTMzdISlpaSHQzZE5LS2JjVG4zcWdJM0lTbHplbW1MWlkteGJaaER2WU5GRG1ZRUxUdFlTcnNEc2pjTVd0dEI?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQclpXNmxULUhfTVM4Nmd3ZGt1eGNUWWszbExCS2FTMzdISlpaSHQzZE5LS2JjVG4zcWdJM0lTbHplbW1MWlkteGJaaER2WU5GRG1ZRUxUdFlTcnNEc2pjTVd0dEI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-06-24-019",
+    "date": "2026-06-24",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities (WTRG) director granted 3,666 shares of stock - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQkV1cHlSYTZWeURTZmZKVy1ydGNUQVI2T0dxcGh5Rmx5cDdKb3poeWNGcnlidFFfYU1iRnNpZzhUSEtBUVpMeVFjR1RqTUlVbE5wYmNBZXVWLTJxVXhweDRRRlp0RHNJUEhlV0xqQW",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQkV1cHlSYTZWeURTZmZKVy1ydGNUQVI2T0dxcGh5Rmx5cDdKb3poeWNGcnlidFFfYU1iRnNpZzhUSEtBUVpMeVFjR1RqTUlVbE5wYmNBZXVWLTJxVXhweDRRRlp0RHNJUEhlV0xqQWZQTUZfRndINjZWTndlbG13OVc4NlBqVHZVZXYxYzNMcXBYQmJoUzhhMnJ3eWFBemkzWWJIYzU1Q3YzakdBQ1dSNjVaV2hlN3p0?oc=5",
         "type": "rss"
       }
     ]

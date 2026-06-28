@@ -1,0 +1,186 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T10:32:05.683411Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-06-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Enterprise value to EBITDA forward of Veolia Environnement SA – DUS:VVD - TradingView",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTG55RjVkU0FiVlJqTUZuWFZZNDRvRkU0WTZXdVUyVmx2bE9NUVdjQzZBVGxsa2xoS0dzVHdVNmJ0cTdjeEFybUhFT2sxTVQ2TlJfaW4xZnZMNV8tWjd6Sms2Vzg5R0VJX1pKUmlPaXh6dnU1THRBVGZ1eUFaeGZpUzN5Zzg2dHJ5QTdzSmhrR3ViYmhEd1ZiRUh4cTJUMHFpZlBwQ1FkUjA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-06-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to sales forward of American Water Works Company, Inc. – NYSE:AWK - TradingView",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc09CT2ZMeUx6amlPalMtVVBzMXVSdGRsLXdwVnMtcW5KSXNsRlFfQVVYUS1aWFVFVUF1MUJCTEU3OUFGeUptOWFEdWpsYVczYUlYZ1dJSjFEaDJiRFhrOV9Udm85QVZCRmQ4dVY5emlmZmI5RTFHVVZ0cXN5SnFtNEpzc1Z0YUJUdy1Ibk1VMnRyYTFKQjlHOEln?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_water-2026-06-28-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Works Company, Inc. $AWK Shares Sold by ABN AMRO Bank N.V. - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDc0N2hsdUU4VjVQSjRMSTBzU21STFJ6UmVJbzJxY3B0RUtfanhIT0hJeGQ3eUhqa3VDcnF2TlB6YlpQcmxTSFl6ekI1eDhGN19FdVVnVk43Q2JOUlJ4ZGhtbmE1ZEFvcWppaWdrcEI4bDkyY0lNdkZuOV9ieG5NZENscEVpOTFMRjNaNzNrZk1adFZJRmlqT3VERk56Q0lydVFsTUpfZGNIM2M0djFNQkxjWGE0T25BOG9WQ3JFWkRMN1dlMDUtdA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_water-2026-06-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OP Asset Management Ltd Acquires Shares of 20,083 American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS3UyWGx2b1J5TGx2TDRCS2JucmpON2ZHVUZlVWtrb0hEMk9tZi1LU0dtYmFIOFA3UmRLVWJTbDhvQVNuaUNqbl9BeVhuUHMtajhfaUtjZXVxRVdhcUNXeU1UX2owU3Z2V0xiRHFIU1FKQnl1djcxM2pjdldGbDVEMHIzLVptNkRrUEI1OE9kbHJMRERRNE9qV01tYlRDZ01PR05RUFlFeWYxaDkwbFNxYVN4eG12UTNQX2R6a1R5dFBUYldyOXdhMkc0LTFtZ2hQWkdQY3dzMnlXc2N1eVhr?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 3
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 273,
+    "dup_title": 155,
+    "too_old": 88,
+    "gate1_blocked": 6,
+    "gate2_blocked": 8,
+    "passed": 16,
+    "pass_rate": "13.6%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "ERII Investor Notice: Johnson Fistel Investigates Energy Recovery, Inc. - GlobeNewswire",
+      "Energy Recovery (ERII) awards interim CFO 18,518 common shares - Stock Titan",
+      "Form 4 Energy Recovery Inc For: 25 June By Investing.com - Investing.com Canada",
+      "Energy Recovery (ERII) Investor Day 2024 Summary - Quartr",
+      "Energy Recovery (ERII) 15th Annual Midwest IDEAS Investor Conference Summary - Quartr"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為美國水務、威立雅相關動態：「Enterprise value to EBITDA forward of Veolia Environnemen...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Enterprise value to EBITDA forward of Veolia Environnement SA – DUS:VVD - Tra...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Price to sales forward of American Water Works Company, Inc. – NYSE:AWK - Tra...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
