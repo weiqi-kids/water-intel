@@ -1,0 +1,16 @@
+{
+  "total_raw": 274,
+  "dup_title": 185,
+  "no_date": 0,
+  "too_old": 60,
+  "gate1_fail": 6,
+  "gate2_fail": 9,
+  "passed": 14,
+  "gate2_samples": [
+    "ERII Investor Notice: Johnson Fistel Investigates Energy Recovery, Inc. - GlobeNewswire",
+    "Energy Recovery (ERII) awards interim CFO 18,518 common shares - Stock Titan",
+    "Energy Recovery (ERII) 15th Annual Midwest IDEAS Investor Conference Summary - Quartr",
+    "Energy Recovery (ERII) Investor Day 2024 Summary - Quartr",
+    "Price to book forward of Veolia Environnement – OTC:VEOEY - TradingView"
+  ]
+}
