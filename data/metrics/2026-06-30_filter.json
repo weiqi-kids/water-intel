@@ -1,0 +1,16 @@
+{
+  "total_raw": 275,
+  "dup_title": 172,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 6,
+  "gate2_fail": 7,
+  "passed": 15,
+  "gate2_samples": [
+    "Energy Recovery, Inc.(NasdaqGS: ERII) added to Russell 2000 Value Benchmark - marketscreener.com",
+    "Form 4 Energy Recovery Inc For: 25 June By Investing.com - Investing.com Canada",
+    "Morgan Stanley Maintains VEOLIA ENVIRONNEMENT(VEOEF.US) With Buy Rating, Raises Target Price to $44.",
+    "Price to book forward of Veolia Environnement SA – EURONEXT:VIE - TradingView",
+    "Pentair opens the weekend with a steady strategy view, shares on NYSE tracking peers - AD HOC NEWS"
+  ]
+}
