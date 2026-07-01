@@ -1,0 +1,271 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T11:30:20.431117Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-01-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Victorian water utilities cleared to invest billions in infrastructure - Utility Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU3pTWldEYmlNcURKSmlkMll5a2F6VzM5aDJEU2NfQm1uU0hnTkhJRzRzRXpTNENlR1BRYkZmRkQ4S25oMzFMQ2NSQmJ4Sm0wRkIzeTVLYlBRMEFHZTJ0MGNQOEc2ZjNxZE52U2RhTDVfUUF0Y3hLSi1mQlpaVVpZN01SdDVzYzRwVm1hTzBIdGNUaWl5VmNfTzNuRUZVRDFXQkdaeQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mueller-2026-07-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "MLI i2O Pressure Management Valve from Mueller Water Products - Smart retrofit tool targets U.S. wat - AD HOC NEWS",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSk5hTDY1RmxYU2dONzZmWlZLYmw3RkwwcWp1anZTLWFfMVNnU3pEdGtUQ01yMVNjN0lhVzV3NHZEYjNtYjBwcHlmVjlaVmc1LXZHZmRXWW9KQXcySFBsbHFNczA3U2hoNGQ4U19DQXhJVnltQnh0aGRsS1lqRHEzXzJMVDNCLTkwd2thVEd2dk5qTmZpcDQyOFhfcTdUbzgyRVpTTGs5VU44ZlpnbmdXakNCbDdPNzBiUEM0cVVDcFNvYkNW?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "veolia-2026-07-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia MBR Pack from Veolia Environnement - modular wastewater upgrade for US plants - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "wastewater_treatment",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeEV5VDBjWjR4Q3YtLUVtUEduc2JoQWgwa2ZxQkZSVjFjeVlpOWItUUcxR3lzdTlXelEwcWs4c3Y5azhSRktUY1pSb3I2Q0F2djEwWWxxbEN6R0s0b3JhVmxHeVd6TW5XT0c0VFlISm9kU3ZNUHU0RmJiVDZZdktxem1JZHNybDN1andPal9IVVBETk9LWmpiTDdZdVU0MGRXQ0JhYlhuWXg5bEZqSEY0a2ZObk5FY3F1UEJkMTNDTzhBZEc4UW53bzlEZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pentair-2026-07-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pentair Everpure EF-3000 from PNR - under-sink water filter quietly shapes a niche market - AD HOC NEWS",
+      "companies": [
+        "pentair"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSDRkMl9GVjZqYU04d0U1eV9NQ1hISUVFTTR4TElWY2ZUdm1ON3Z3TXAyMC10OE1wVnl4bVRvTHBwUUZQaEFCaElfd3lxenpZbVZONG9DUWhYcUMwN00xQ21udGFrQzl6NW0xdHVCVkdSeEtiVG9RRlR1OUVVbWlERlRXSnpSaUtMTndSWjQ1S3BXbmFkZmdKREVuTDNlSmJWRm5PUXVYRVFMTGcxT0hSOWRqMWRlMGJQOTY0dE44eXB3eTlXZ25QTEQzMA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mueller-2026-07-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Louisiana State Employees Retirement System Purchases Shares of 69,400 Mueller Water Products $MWA - MarketBeat",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaG1MWlBfYW9NbklOYlJqeG9meXBabTRvbDJnbDc5Y193MUtuTXM0WlJvSmcxRzQ0aVd3MlhBVjh2TjZuc2h6dzN4bnhlUERPZXJJSkc1NTdLSkxpZWc2dU9mTG1pZUJGaHFySGRmcmNHNW1WSEJLdG1lakljeXFxQjlvQTRKOXROcFlpVVdmREg3TG1hMWlTWXpsQ0N5aUVldVFxLTBnd1BzRXBTLUlvRUIzZWFsZW81TFhqQXJPWWhFckNfakZDUk8wSmNqdXZOb1o4OTgyZ3NYc0J2b2ZIcVc5bEdBZGxhNDU2ZXFR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "wastewater_treatment": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "water_scarcity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 2
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "pentair",
+        "count": 1
+      },
+      {
+        "id": "kurita",
+        "count": 1
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "wastewater_treatment",
+        "count": 1
+      },
+      {
+        "id": "water_scarcity",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 165,
+    "too_old": 64,
+    "gate1_blocked": 5,
+    "gate2_blocked": 6,
+    "passed": 20,
+    "pass_rate": "21.1%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "ERII Investor Notice: Johnson Fistel Investigates Energy Recovery, Inc. - GlobeNewswire",
+      "Energy Recovery (ERII) awards interim CFO 18,518 common shares - Stock Titan",
+      "Price to book forward of Veolia Environnement SA – EURONEXT:VIE - TradingView",
+      "Pentair opens the weekend with a steady strategy view, shares on NYSE tracking peers - AD HOC NEWS",
+      "A. O. Smith (AOS) Reshapes Leadership, Is The Stock Undervalued? - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為穆勒、威立雅、濱特爾相關動態：「Victorian water utilities cleared to invest billions in i...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Victorian water utilities cleared to invest billions in infrastructure - Util...（財報、資本支出、水資源產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "MLI i2O Pressure Management Valve from Mueller Water Products - Smart retrofi...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "廢水處理話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

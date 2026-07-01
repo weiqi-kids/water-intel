@@ -1,0 +1,16 @@
+{
+  "total_raw": 260,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 5,
+  "gate2_fail": 6,
+  "passed": 20,
+  "gate2_samples": [
+    "ERII Investor Notice: Johnson Fistel Investigates Energy Recovery, Inc. - GlobeNewswire",
+    "Energy Recovery (ERII) awards interim CFO 18,518 common shares - Stock Titan",
+    "Price to book forward of Veolia Environnement SA – EURONEXT:VIE - TradingView",
+    "Pentair opens the weekend with a steady strategy view, shares on NYSE tracking peers - AD HOC NEWS",
+    "A. O. Smith (AOS) Reshapes Leadership, Is The Stock Undervalued? - simplywall.st"
+  ]
+}
