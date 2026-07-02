@@ -1,0 +1,16 @@
+{
+  "total_raw": 260,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 59,
+  "gate1_fail": 4,
+  "gate2_fail": 7,
+  "passed": 19,
+  "gate2_samples": [
+    "ERII Investor Notice: Johnson Fistel Investigates Energy Recovery, Inc. - GlobeNewswire",
+    "Energy Recovery, Inc.(NasdaqGS: ERII) added to Russell 2000 Value Benchmark - marketscreener.com",
+    "Price to book forward of Veolia Environnement SA – EURONEXT:VIE - TradingView",
+    "Pentair opens the weekend with a steady strategy view, shares on NYSE tracking peers - AD HOC NEWS",
+    "A. O. Smith (AOS) Reshapes Leadership, Is The Stock Undervalued? - simplywall.st"
+  ]
+}
