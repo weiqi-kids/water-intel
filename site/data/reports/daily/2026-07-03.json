@@ -1,0 +1,133 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T10:45:13.065560Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_water-2026-07-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Louisiana State Employees Retirement System Makes New Investment in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVEFzaXd1VEVObmpMR1lobk41RDgxckZxeDFKWmxSYkJpUWZLVUNJaV9fd3RIdkNQTVJyWTZ2LUZ2Q210and1MnEwcHhlTUM5ZTMtQzhlZHE0MmVYMnVrOTJYaWdXSHYzSWpfTmVKblVRN1ZRandOOHpvZU1YT09mN08xbjl4TjJxQzdlZmlUbEQxUThwcEtKbGNQYlJ4V1VNRFRocFVOTk03WnJqRXFBc2pJRzRVSTgtSzdDNHN0SGFPTGViZi0yUUNMTmczSkV5V0ZBZWwxVnVIREZyZnJ3WjRCY3Q3aE9QcnFpOFBsQmxoTHFPLVFjSQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-07-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fideuram Intesa Sanpaolo Private Banking S.P.A. Increases Stock Holdings in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxON2VGV1BwSmF0Z2JtUVJ0THZPTF9TdVY0Vzhma2czR2ZaZURRZjdIU3VVMkt1OTgxU1N1bXlPQUFkeTh2enZicnNXckRScVBES01sZm8ySWltTld1bU5xeHk1S1B6LUwyLVlFcGhieUQ5Ym11QUVrMzludUxZUmhqdzZpa2tpaTdqdlByNXNRUDBhS3kyRjduakZyeWtYeDFiMEZfVjVlZXZPbkY4b1lnZ2UwYkN2TkFzOGdOay1Zb00zSzVZRWlnVFk5M2lQZXdOUmo2Y2dMbnVrangtZjM5MXJqX05nalBuQXB0OWJJbThWNUduTjBSNWVSbmV1bms?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 259,
+    "dup_title": 168,
+    "too_old": 61,
+    "gate1_blocked": 5,
+    "gate2_blocked": 8,
+    "passed": 17,
+    "pass_rate": "18.7%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "Global Decentralized Ventilation System Market Research Report 2026-2031 - GlobeNewswire",
+      "Energy Recovery, Inc.(NasdaqGS: ERII) added to Russell 2000 Value Benchmark - marketscreener.com",
+      "ERII Investor Notice: Johnson Fistel Investigates Energy Recovery, Inc. - GlobeNewswire",
+      "Price to book forward of Veolia Environnement SA – EURONEXT:VIE - TradingView",
+      "Pentair opens the weekend with a steady strategy view, shares on NYSE tracking peers - Ad-hoc-news.d"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為美國水務相關動態：「Louisiana State Employees Retirement System Makes New Inv...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Louisiana State Employees Retirement System Makes New Investment in American ...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Fideuram Intesa Sanpaolo Private Banking S.P.A. Increases Stock Holdings in A...（水資源產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

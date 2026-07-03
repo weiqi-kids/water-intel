@@ -1,0 +1,16 @@
+{
+  "total_raw": 259,
+  "dup_title": 168,
+  "no_date": 0,
+  "too_old": 61,
+  "gate1_fail": 5,
+  "gate2_fail": 8,
+  "passed": 17,
+  "gate2_samples": [
+    "Global Decentralized Ventilation System Market Research Report 2026-2031 - GlobeNewswire",
+    "Energy Recovery, Inc.(NasdaqGS: ERII) added to Russell 2000 Value Benchmark - marketscreener.com",
+    "ERII Investor Notice: Johnson Fistel Investigates Energy Recovery, Inc. - GlobeNewswire",
+    "Price to book forward of Veolia Environnement SA – EURONEXT:VIE - TradingView",
+    "Pentair opens the weekend with a steady strategy view, shares on NYSE tracking peers - Ad-hoc-news.d"
+  ]
+}
