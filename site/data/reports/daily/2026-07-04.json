@@ -1,0 +1,184 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T10:19:47.750254Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_water-2026-07-04-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Works holds steady. Investors wait for a fresh catalyst. - Ad-hoc-news.de",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWlvRWpZUjdFTlZpV3Bra29pdWVkUVI4UFRkbEtSd2dUb0trcjVuNDg2ck9zTFJCWTVlODdqdlkwOWVIbTI5eWdGMEltNnRfVlhoR1Y3OVppSC1Ra3p2NnpWNHptR3NhQXVFSDh2R1hrQXlJYXNQcWdPV2EycDhnbWZJcHN6eC0tUWdHT2RDbWktdnU4VGVoZHJwaTBPQ3lWdzU5NzBrVUJhUmlhR0RkR3QxMVhKeHExNDU4REtkcW56VkkwSEpn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-07-04-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Fjarde AP Fonden Fourth Swedish National Pension Fund Increases Stake in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZ3hJQ3R3S3A5R1h5cXN6djhIaXZNQTlnX2dZbkFYN0N4M09GQW9teWtLUFVJZzdrWGhUSE9uc0haQnNESU12bHNPVm9FTnBxRE1MWVJ1RVVVNXlYQWZMRU9lbW1LYml4Y09sR1h0RDNpVzFqY1hOT19IalkweUVIWEtnWjVGU0hfc1FBWHQtZC14Vkd5WUhtNFZVRGY4alJUcG45S3Q1dVhZS0lnQkFnZGVuUnAtandXZkdZUmwzRWVVWGFlTUQ5X18zWlhpRzg2TUR0VWF5VzEycW05QW1Ib3RtZGZLR0FPa2JnZ2o5QkhyT0xKaFdCOHJ3cVFEYU0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ao_smith-2026-07-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A.O. Smith Corp. explores growth opportunities in water heating and treatment - Ad-hoc-news.de",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWThNTlo3S1pLSGxDUkNSV3F4T3ZoYTdrRnFwcFRZV2VBeU54b3hlYnVsZUFLRVVscEdYV1NMbWhPV3c5V0cwMVlhUWprdjVZaUc3VlBZc0I0YTV5SG0yd1JjTjNUR202elVvVHlZVnFOWVFRenBFN3FQNlBxN1FWZHdiYU9Rb3hidEhZQklLXzVvQkJMYV9wYmZOd00yYlNlNmxteDBGT3FNNFRiNjBwc1pxcmFEZlhvdnN4RFhJZmtKdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_water-2026-07-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Keybank National Association OH Sells 8,333 Shares of American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON1dDMEhJbnBlZk9hRGhJRkxyZk1QT1NWNnl1QURESmRqbGkweE1nSVVLWGxfZ1dnR2lzTnFZamxiaFhGM3Y3Ri1UWmlaNy1zUFJiSEFzSEV6MXdGRGxNUXM1R0tLdU5vX1pMU2tjUDJ1QWZ2VVJKbXQxcldVc3JRc1E0NC10NTNxOGxqVzhNSE0xNGtVNHBjaG9lVmVtRXFPY1JJclZnMWVIQzc3LXRBNFdmWmloN1FCa3prSG04RE8tQl9LVUhJd1BFUHJoTWc4aktubFdleGZjemFFb2xSVTQxRVg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 3
+      },
+      {
+        "id": "ao_smith",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 259,
+    "dup_title": 165,
+    "too_old": 67,
+    "gate1_blocked": 3,
+    "gate2_blocked": 7,
+    "passed": 17,
+    "pass_rate": "18.1%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "4 Top Growth Stocks Worth Buying Under $100 Today - The Globe and Mail",
+      "Global Decentralized Ventilation System Market Research Report 2026-2031 - GlobeNewswire",
+      "Energy Recovery, Inc.(NasdaqGS: ERII) added to Russell 2000 Value Benchmark - marketscreener.com",
+      "Price to book forward of Veolia Environnement SA – EURONEXT:VIE - TradingView",
+      "Pentair opens the weekend with a steady strategy view, shares on NYSE tracking peers - Ad-hoc-news.d"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為美國水務、史密斯相關動態：「American Water Works holds steady. Investors wait for a f...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "American Water Works holds steady. Investors wait for a fresh catalyst. - Ad-...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Fjarde AP Fonden Fourth Swedish National Pension Fund Increases Stake in Amer...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

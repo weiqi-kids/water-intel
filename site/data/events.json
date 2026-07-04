@@ -1,5 +1,87 @@
 [
   {
+    "id": "ao_smith-2026-07-04-001",
+    "date": "2026-07-04",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "A.O. Smith Corp. explores growth opportunities in water heating and treatment - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWThNTlo3S1pLSGxDUkNSV3F4T3ZoYTdrRnFwcFRZV2VBeU54b3hlYnVsZUFLRVVscEdYV1NMbWhPV3c5V0cwMVlhUWprdjVZaUc3VlBZc0I0YTV5SG0yd1JjTjNUR202elVvVHlZVn",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWThNTlo3S1pLSGxDUkNSV3F4T3ZoYTdrRnFwcFRZV2VBeU54b3hlYnVsZUFLRVVscEdYV1NMbWhPV3c5V0cwMVlhUWprdjVZaUc3VlBZc0I0YTV5SG0yd1JjTjNUR202elVvVHlZVnFOWVFRenBFN3FQNlBxN1FWZHdiYU9Rb3hidEhZQklLXzVvQkJMYV9wYmZOd00yYlNlNmxteDBGT3FNNFRiNjBwc1pxcmFEZlhvdnN4RFhJZmtKdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-04-002",
+    "date": "2026-07-04",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Keybank National Association OH Sells 8,333 Shares of American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxON1dDMEhJbnBlZk9hRGhJRkxyZk1QT1NWNnl1QURESmRqbGkweE1nSVVLWGxfZ1dnR2lzTnFZamxiaFhGM3Y3Ri1UWmlaNy1zUFJiSEFzSEV6MXdGRGxNUXM1R0tLdU5vX1pMU2tjUD",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON1dDMEhJbnBlZk9hRGhJRkxyZk1QT1NWNnl1QURESmRqbGkweE1nSVVLWGxfZ1dnR2lzTnFZamxiaFhGM3Y3Ri1UWmlaNy1zUFJiSEFzSEV6MXdGRGxNUXM1R0tLdU5vX1pMU2tjUDJ1QWZ2VVJKbXQxcldVc3JRc1E0NC10NTNxOGxqVzhNSE0xNGtVNHBjaG9lVmVtRXFPY1JJclZnMWVIQzc3LXRBNFdmWmloN1FCa3prSG04RE8tQl9LVUhJd1BFUHJoTWc4aktubFdleGZjemFFb2xSVTQxRVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-04-003",
+    "date": "2026-07-04",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works holds steady. Investors wait for a fresh catalyst. - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWlvRWpZUjdFTlZpV3Bra29pdWVkUVI4UFRkbEtSd2dUb0trcjVuNDg2ck9zTFJCWTVlODdqdlkwOWVIbTI5eWdGMEltNnRfVlhoR1Y3OVppSC1Ra3p2NnpWNHptR3NhQXVFSDh2R1",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWlvRWpZUjdFTlZpV3Bra29pdWVkUVI4UFRkbEtSd2dUb0trcjVuNDg2ck9zTFJCWTVlODdqdlkwOWVIbTI5eWdGMEltNnRfVlhoR1Y3OVppSC1Ra3p2NnpWNHptR3NhQXVFSDh2R1hrQXlJYXNQcWdPV2EycDhnbWZJcHN6eC0tUWdHT2RDbWktdnU4VGVoZHJwaTBPQ3lWdzU5NzBrVUJhUmlhR0RkR3QxMVhKeHExNDU4REtkcW56VkkwSEpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-04-004",
+    "date": "2026-07-04",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Fjarde AP Fonden Fourth Swedish National Pension Fund Increases Stake in American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZ3hJQ3R3S3A5R1h5cXN6djhIaXZNQTlnX2dZbkFYN0N4M09GQW9teWtLUFVJZzdrWGhUSE9uc0haQnNESU12bHNPVm9FTnBxRE1MWVJ1RVVVNXlYQWZMRU9lbW1LYml4Y09sR1h0RD",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZ3hJQ3R3S3A5R1h5cXN6djhIaXZNQTlnX2dZbkFYN0N4M09GQW9teWtLUFVJZzdrWGhUSE9uc0haQnNESU12bHNPVm9FTnBxRE1MWVJ1RVVVNXlYQWZMRU9lbW1LYml4Y09sR1h0RDNpVzFqY1hOT19IalkweUVIWEtnWjVGU0hfc1FBWHQtZC14Vkd5WUhtNFZVRGY4alJUcG45S3Q1dVhZS0lnQkFnZGVuUnAtandXZkdZUmwzRWVVWGFlTUQ5X18zWlhpRzg2TUR0VWF5VzEycW05QW1Ib3RtZGZLR0FPa2JnZ2o5QkhyT0xKaFdCOHJ3cVFEYU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "american_water-2026-07-03-001",
     "date": "2026-07-03",
     "companies": [
@@ -36,6 +118,191 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxON2VGV1BwSmF0Z2JtUVJ0THZPTF9TdVY0Vzhma2czR2ZaZURRZjdIU3VVMkt1OTgxU1N1bXlPQUFkeTh2enZicnNXckRScVBES01sZm8ySWltTld1bU5xeHk1S1B6LUwyLVlFcGhieUQ5Ym11QUVrMzludUxZUmhqdzZpa2tpaTdqdlByNXNRUDBhS3kyRjduakZyeWtYeDFiMEZfVjVlZXZPbkY4b1lnZ2UwYkN2TkFzOGdOay1Zb00zSzVZRWlnVFk5M2lQZXdOUmo2Y2dMbnVrangtZjM5MXJqX05nalBuQXB0OWJJbThWNUduTjBSNWVSbmV1bms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-07-03-003",
+    "date": "2026-07-03",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products (MWA) On Aging Water System Demand And A Fair Value Gap - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUmFhZlRGeDNKeWVobE1BWk9MQjlqU29xVWx6ZFBKTnA2cHhYOExCZEFkQUVkQTZQT3A1VGxhcjE0aC1hemlicy0zVW5pSEV6aEI3dnBGZjc3aE4wcjRaY2s5akJES1k3X0VMUG1Pcz",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUmFhZlRGeDNKeWVobE1BWk9MQjlqU29xVWx6ZFBKTnA2cHhYOExCZEFkQUVkQTZQT3A1VGxhcjE0aC1hemlicy0zVW5pSEV6aEI3dnBGZjc3aE4wcjRaY2s5akJES1k3X0VMUG1PczhCSzRXMWY4MEQzQUFObEdrVDBOcVA0Zm5PNzh6TzlqSkdqWjh1YUhpQjNZX3Fsc0FpQzdMajVRWm9vUFh6a2k2VWxwdjQ1aFVkRWxDdUJyS2V2MEh1MFBqdWFqdjFTWVZYcjNhZ2pNWU9Nd9IB3wFBVV95cUxOV0ZpcWJYZUVCMDMwckdpMERGS1Rfa1NnREFJNG9pSzY0TjJvUzR0N1hRUDRMamFwcWRkRG1Na2gwV3ZSdmFSM215SGgtRFJUejZLY1lqVjc2ZlotX2otcUJ0U3lhaGpDd1BRSDdId2I5VnRkMEs1bGlZVVUzUHFyakJXdDY0czVXd1ZYRlMxRTl6a2k2b19TWmVWcGZNdTJrUHdERzlmVDZXZ1JUeG1NM1o2cHRkdzR1aEpHSWJ5bWtEQmprRGx0ZGNvWlBqYVRsRTVOZnBiMlFlNnp6Sl84?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-07-03-004",
+    "date": "2026-07-03",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MWA - Mueller Water Products Inc Latest SEC Filings - Finviz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ua0hoVG1GMXJCaTBnUDV2OVdnWjFhRi1uZlByNWp2dGdsbEZoc3VlMksza3Y5Mk8zZk9tX0Zub3pzWGJiaktBVEdCOXRySHZIM21xRzdqampzYnVaaWZCYk5tcGVfdDB0?oc=5\" tar",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ua0hoVG1GMXJCaTBnUDV2OVdnWjFhRi1uZlByNWp2dGdsbEZoc3VlMksza3Y5Mk8zZk9tX0Zub3pzWGJiaktBVEdCOXRySHZIM21xRzdqampzYnVaaWZCYk5tcGVfdDB0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-07-03-005",
+    "date": "2026-07-03",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Water Infrastructure Stocks Q1 In Review: Energy Recovery (NASDAQ:ERII) Vs Peers - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSy1qZzVPWFBDM29GZWVsdUdQbjJxdjJUT0owRVdaU1JwSHViZVJKOG1vYjVJTElfWElqZjhTWGRBQkFfUExzeGxCa1ZfaVlWMVY1Q2NVUmdxTnpvX3NkYnl5OXY1UV9mQm83c1VQc0",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSy1qZzVPWFBDM29GZWVsdUdQbjJxdjJUT0owRVdaU1JwSHViZVJKOG1vYjVJTElfWElqZjhTWGRBQkFfUExzeGxCa1ZfaVlWMVY1Q2NVUmdxTnpvX3NkYnl5OXY1UV9mQm83c1VQc0hSQ25mbHJzdTlKREh4aU00MWloZGhQTVpxMmFFeklZclJWV1VZajQzOHNDN1p2QS0tTGZhUVp0RFp0bUpNZ1pwNUluVTNMOVFHRFY4dEtHeXp6Zzk0UWQ1eU9EaWtPSGpVLWdIdA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-07-03-006",
+    "date": "2026-07-03",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "wastewater_treatment",
+      "smart_water",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery secures five new wastewater contracts in India - Smart Water Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjdLMGVmeHZ6eXcwU29JTUx2TEppek1KWmx2N1I3TVd0OFQtTnpLUEk2SEgzZG5Pa1U0dDdsT1puZUQtbk1WaWxjNVlnYmNuQnpVVGFzNGNMVVhPd2dTVno5THVUTzdUaVc0dWxWQm",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjdLMGVmeHZ6eXcwU29JTUx2TEppek1KWmx2N1I3TVd0OFQtTnpLUEk2SEgzZG5Pa1U0dDdsT1puZUQtbk1WaWxjNVlnYmNuQnpVVGFzNGNMVVhPd2dTVno5THVUTzdUaVc0dWxWQmZYLWViUmZyOEswLUdBTjJqUGRkSF9zbTlENXBTa3lpR2dzNnpPU0oxSXcxd0JiV1FRZ2czN05tRmRXRlJneF9MSU92T2ZyeHpPNlpGQdIBvAFBVV95cUxQWjdLMGVmeHZ6eXcwU29JTUx2TEppek1KWmx2N1I3TVd0OFQtTnpLUEk2SEgzZG5Pa1U0dDdsT1puZUQtbk1WaWxjNVlnYmNuQnpVVGFzNGNMVVhPd2dTVno5THVUTzdUaVc0dWxWQmZYLWViUmZyOEswLUdBTjJqUGRkSF9zbTlENXBTa3lpR2dzNnpPU0oxSXcxd0JiV1FRZ2czN05tRmRXRlJneF9MSU92T2ZyeHpPNlpGQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-07-03-007",
+    "date": "2026-07-03",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement steady on long-term utility demand - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNamdSdk1WdXlESllJWUt5SHFqVGswR1R1eEtRclAtbzdEZURqeXRDY1lhRTdoZzBuZ1YybkJxbDNya3RBbVdndHdHQ19XazBzaUNXbUFWeWk5cWdiTDg2SzVueHNfX1V5V041WEVDbW",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamdSdk1WdXlESllJWUt5SHFqVGswR1R1eEtRclAtbzdEZURqeXRDY1lhRTdoZzBuZ1YybkJxbDNya3RBbVdndHdHQ19XazBzaUNXbUFWeWk5cWdiTDg2SzVueHNfX1V5V041WEVDbWVBRkE5c25vRmhhUFd2cGk4Nk4yeTB0SFdBLWdXNUpHa0ppbTZkZ3c4NkVROWQ2UXVsRC1ZVHpPUUs5SWFTRi0yUXR5aGQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pentair-2026-07-03-008",
+    "date": "2026-07-03",
+    "companies": [
+      "pentair"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pentair stock leans on water demand. Investors watch the business mix. - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQUEdGUzJxenJjTmk3WVRWV0l4c3RPc1JIYU9ic1VReC11T1NrREZzQlBjSHQ3NVhiTm56cTd1WjdYaHVjQUtMamRDRlEyU09wTWZ4MzJKeHJlX0p4NGpqaG02X2xOeU1TVmRpNXBpVH",
+    "sources": [
+      {
+        "name": "pentair",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUEdGUzJxenJjTmk3WVRWV0l4c3RPc1JIYU9ic1VReC11T1NrREZzQlBjSHQ3NVhiTm56cTd1WjdYaHVjQUtMamRDRlEyU09wTWZ4MzJKeHJlX0p4NGpqaG02X2xOeU1TVmRpNXBpVHJLc0xJMjE3RG0xT2d2MGw4VGdIM1kwTmxwMHVQS2tpYk9KVzBBdnBxX2x1Um9YZVJ6R0dqcTRZV2RHNlVRdDVScVh6b3NJckNHcXJPNVgxcTk3b3ROemc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-009",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "semiconductor_ultrapure_water",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Refined Anthracite Filters Market Growth Driven by Ultrapure Water Demand Through 2035 - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVXZkb1NkcWlNYTVXVjRJdDh6TWtGaWszSFh1MlhMMFFlLWZlTHRKWWpTSE81amtyZHhVcWx3QWYzZHNuMUhmNHdvR01EX3dGcW8wemR2VGRuSENJUGFVQmwzQVF6alZEX19IcUZBbU",
+    "sources": [
+      {
+        "name": "google_news_water",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVXZkb1NkcWlNYTVXVjRJdDh6TWtGaWszSFh1MlhMMFFlLWZlTHRKWWpTSE81amtyZHhVcWx3QWYzZHNuMUhmNHdvR01EX3dGcW8wemR2VGRuSENJUGFVQmwzQVF6alZEX19IcUZBbUVCczlZMDZaWk54XzZUR2tiaHI4YjVRUkNoOGpqeFZ1d19fSEhHa1hmZl9IMWtFVHlzUm1ER0FIdWk2Ulh3ZTd4Q0g4UXkyWTNRZzNwSzBFa3lRN2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-010",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "desalination",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "G-Chem Aquacare: Moving forward with reverse osmosis - Farmers Review Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQWGJ1ZnBVbGdnRGRwX2JSMXFkX3FmUzB2bktfQ1pBREVTSXZmZGFZODlNekNmU0ZTc3MwWDNWTUd3YklRdUE5eEprQ09SdWdRTVhiRy14S0J5cTRtUVFMNmIwUmVlbmpMZ3ByeEZSWD",
+    "sources": [
+      {
+        "name": "google_news_water",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWGJ1ZnBVbGdnRGRwX2JSMXFkX3FmUzB2bktfQ1pBREVTSXZmZGFZODlNekNmU0ZTc3MwWDNWTUd3YklRdUE5eEprQ09SdWdRTVhiRy14S0J5cTRtUVFMNmIwUmVlbmpMZ3ByeEZSWDV6VFc1SHVvdGFEQ1FDWGVOTUdwdDQ3c0hOYnFRYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-011",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "semiconductor_ultrapure_water",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Ready to Use Mixed Bed Resin Market Growth Driven by Ultrapure Water Needs Through 2035 - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMTdZalBDLV9wTVctQ2Q2VHBzLXJ4MW9xWlM1cWRWQ3FzaGlWUXZ3Wjgxc09WYVJydHNiSXF5aFN0WDZKYS1qNzU0LU5rYUh4SXhzdF9iRjItWWZYQ1gtZXpJal9mX1ZVVW9rTWRnSk",
+    "sources": [
+      {
+        "name": "google_news_water",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMTdZalBDLV9wTVctQ2Q2VHBzLXJ4MW9xWlM1cWRWQ3FzaGlWUXZ3Wjgxc09WYVJydHNiSXF5aFN0WDZKYS1qNzU0LU5rYUh4SXhzdF9iRjItWWZYQ1gtZXpJal9mX1ZVVW9rTWRnSkZxNldFM1pqVndPU2ZpS1lTWDF0OF9uVnNSN2hyUjJ3M2dfMlFpWXRsZERHYWwtbDVMMng4M1JqV0h0VU9JWWNTSDBNd1BkVU9JUHducFl1M2tLX09JV1J6VUtSUlBnUmhqdjRzb2pnUHlNQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -352,6 +619,66 @@
       {
         "name": "google_news_water",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUGpwQkJoM2ViTHdsazZmQjFPc2NyU28telAzY0xseVZKX09OTjdGcmhSVmlQNk1UcF9KSnRvVmFRaWpaZXVIRFYzNWNWcTZxZzNuUFFMWGR5aEszNXlyNFRSajNXVjBMZlg2Q2hFOHVxUXdlMG5CXzBSUlo2Q2p2X2JUOWk5cWJpZEdyQ0lEbjlSR2xUMEZSaGFWcEU0UFZjbDljZkpHZzJvSVo0NGpxUG9tOF9LVjd0UHVJTl9pVUpsTTVVZXQ5S0RhUUVONm4zS0V6RmpORi0wZ0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-07-02-017",
+    "date": "2026-07-02",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Water Infrastructure Stocks Q1 In Review: Energy Recovery (NASDAQ:ERII) Vs Peers - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ0plc0lJTWlWNXJwUERFNjNQNTd4R0NXTk9TVUhaUldieHNuMjZHSHRjMFpmMWlVWlA1WDZSa3hhLXJpX0ZSOFJ5aTFLdnFlRDJqcXNobjRkN2lMdGRpbjVIdV9wdzBlSWw2T25FMX",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ0plc0lJTWlWNXJwUERFNjNQNTd4R0NXTk9TVUhaUldieHNuMjZHSHRjMFpmMWlVWlA1WDZSa3hhLXJpX0ZSOFJ5aTFLdnFlRDJqcXNobjRkN2lMdGRpbjVIdV9wdzBlSWw2T25FMXgzSWFCeXFlRFg1WEhiMzhvVElQR25iX0tGRS1waHd4dV9Ncjk4dExSdjJiZUQwamJSZU9rLWJicG1qWF9SWWlmeTBKdEdXQnhLYW9Hb2JTTk1ZUlNlaUFaRTNfMFFhTDlX?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-07-02-018",
+    "date": "2026-07-02",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Jan Elizabeth May Obituary (2026) - Stamps, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel - Legacy obituary",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5LUkJ6RGVGOXB3TmMtUXFlWlRsNDFtVUN6bkdlVHl5VzZwR2RDY3l3TC1hX3dib1Z5OS14ZkxuQ2xNTFQySTBUQU1JUHBUaXdjVF9oSDNIQUdmZXpxZ192TlprQzdiZXpHYjlxSXN1Nk",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LUkJ6RGVGOXB3TmMtUXFlWlRsNDFtVUN6bkdlVHl5VzZwR2RDY3l3TC1hX3dib1Z5OS14ZkxuQ2xNTFQySTBUQU1JUHBUaXdjVF9oSDNIQUdmZXpxZ192TlprQzdiZXpHYjlxSXN1NkpvYkF4WVpBT0Vn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-07-02-019",
+    "date": "2026-07-02",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Kurita and Membrane Group India Establish Kurita Membrane India Pvt. Ltd. for Semiconductor Industry in India - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZlhrVjVNWE1WTXFNdjJBUDVydXkxel93cW01cnZ3YXhmWHhpblJTUDZmRXV0b3M1OXlJTkV6MVJ1OEl2LWpaVTF1UDFZZERkVm1ST1I4a2o3YVh6RGUzRzRqRnZiWWNhTEQwcWxHST",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZlhrVjVNWE1WTXFNdjJBUDVydXkxel93cW01cnZ3YXhmWHhpblJTUDZmRXV0b3M1OXlJTkV6MVJ1OEl2LWpaVTF1UDFZZERkVm1ST1I4a2o3YVh6RGUzRzRqRnZiWWNhTEQwcWxHSTQxQjVLWndFcklNZkZfRkVqLVdVdTMycWx4MkxLbndQWkdabTNfaTlEenoyQW1aZEswZDl2dnE3UThpbUI2ajJ3cGEzeVZpOHZfbGhqMjZFRFdPWTl1SnNGMjFJTFptRXV5aUF2b185VENGRUdSQS1rMG5aYVlpcDF6eldhcGluRGh3ZWNLZEFKUXI0c2lvWTI4eV8yUVlQc0dtbG8?oc=5",
         "type": "rss"
       }
     ]
@@ -1092,6 +1419,24 @@
       {
         "name": "mueller",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVkxkSjhsT3ZrZEhBa1JzQ0VtMkFTTWctOUdxcWVFbWMzX3FuN3M5czhCc0FOeEpveEpnNUNPNkkwX1RuUVYxSHNHVkkxR0RoUG9RNWVtTmxmeFcxNWNjTU0yaVdubTVTY0ZuZ2ZrWlRaanRzZC0xZ2Q3Ql9ZdkZkS19oLXdQMENYYkFTX1BITUJHc1FOYU95MWJKVGlDbmNROTc0WFNCb29IdVY2LUtCRGVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-06-30-017",
+    "date": "2026-06-30",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Kurita and Membrane Group India Establish Kurita Membrane India Pvt. Ltd., a Joint Venture to Cater to the Semiconductor Industry in India - Environmental XPRT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMURTSDJvLURLeVd3S3F3amtTejlLOWxDSkpYMkxNb09xS2xCckRwMC1CSjhFMnpyQnp3cHJPSG0yY2xvRjdHMHZOVGJEejM5d1VBWEhzMkRuYmh0ZDl1alFmQkJqS090a0lfQllDYn",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMURTSDJvLURLeVd3S3F3amtTejlLOWxDSkpYMkxNb09xS2xCckRwMC1CSjhFMnpyQnp3cHJPSG0yY2xvRjdHMHZOVGJEejM5d1VBWEhzMkRuYmh0ZDl1alFmQkJqS090a0lfQllDYnZYVDkyWWdUQXZxSVRqTWpUblpOaDA4TTZNSGctX0lrRHp1RWlnbEh6V1pUMEpxNER5OVBVeHZnbWd5eGZRTUZSZUF1ZmRfTHIyWHRaMWl2ZC1rRUtCdzFTQmRZeFA3NDVrMERUMUVQblhTTkVvYjljUFRYQzk?oc=5",
         "type": "rss"
       }
     ]

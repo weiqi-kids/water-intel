@@ -1,0 +1,16 @@
+{
+  "total_raw": 259,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 3,
+  "gate2_fail": 7,
+  "passed": 17,
+  "gate2_samples": [
+    "4 Top Growth Stocks Worth Buying Under $100 Today - The Globe and Mail",
+    "Global Decentralized Ventilation System Market Research Report 2026-2031 - GlobeNewswire",
+    "Energy Recovery, Inc.(NasdaqGS: ERII) added to Russell 2000 Value Benchmark - marketscreener.com",
+    "Price to book forward of Veolia Environnement SA – EURONEXT:VIE - TradingView",
+    "Pentair opens the weekend with a steady strategy view, shares on NYSE tracking peers - Ad-hoc-news.d"
+  ]
+}
