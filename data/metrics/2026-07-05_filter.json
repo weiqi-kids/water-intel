@@ -1,0 +1,12 @@
+{
+  "total_raw": 259,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 61,
+  "gate1_fail": 6,
+  "gate2_fail": 1,
+  "passed": 14,
+  "gate2_samples": [
+    "A. O. Smith (NYSE: AOS) CFO receives 32,060 RSUs vesting in 2032 - Stock Titan"
+  ]
+}

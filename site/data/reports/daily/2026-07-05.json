@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T10:23:33.386001Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-07-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "If You Invested $1,000 in Veolia Environnement (VEOEY) - Stock Titan",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45Q1o5ZE1NTVdFQXRUb2JyWmQtS3JtbHQxeUdWMVM0UDFzeVhVNExjdXZiemE5TWd6emZrc2lJYkRUR3g5bmtmang4T19oSVQ0YWlPZ1htNlVqS2NxcW5ka3ktQ0VDbHM1b3B0YjZqaw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ao_smith-2026-07-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The ProLine XE Commercial Electric Water Heater. A.O. Smith Corp. leans on high-efficiency hot water - AD HOC NEWS",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSzg4TDN1bUN2Z0VUQjFqeHhWeGxSU1duVHNVQkdQTHRGZVE3MjgxOURERGdrWXlKV0dMdW55elp0a2c0Wm05SjQtRFZqejE0UWl4N1RudzJ1MGk2T203eDNORjhzQ1RnWnhOX3lVamlqVzgxRjc5ek1SR3RFU0k3MDBFSWlkdWhUWXhXWFZ3MllobnZ3OS1hVlNXYWZ1U1cybmhTbUk0cTZBU2Y0RnZfaC1WdVYxQW14Ri1FdDRKdmplUUx6MTNPcFZB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ao_smith-2026-07-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A.O. Smith Corp. focuses on water technology as investors weigh long-term demand - AD HOC NEWS",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX1hYckQzZzZrVXB4NnBFRFg2bGdQamF4TnpGcWRUYVJmT0Y0RFR6Q3B2OFpUX2Ixa214a3F5OTR0STZQWjhHTm1CQWVzQVhlZk1qbXhGSlNzY2JfeTR4LUNhVWhkeUN3YURTeTVwVjhrNlhvN2xmRW1tUm9GTllXSHBNMlFmejd2NUZOQU15eHVkOEhQT2g0WExDUU1XYk14MENrdWVjY1psZGFCNVNlMlpzOVJ3WDYzWDIxVTJpZUphNzV6Y0ZuTUhn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ao_smith",
+        "count": 2
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 259,
+    "dup_title": 177,
+    "too_old": 61,
+    "gate1_blocked": 6,
+    "gate2_blocked": 1,
+    "passed": 14,
+    "pass_rate": "17.1%",
+    "gate2_block_rate": "1.2%",
+    "gate2_samples": [
+      "A. O. Smith (NYSE: AOS) CFO receives 32,060 RSUs vesting in 2032 - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為史密斯、威立雅相關動態：「If You Invested $1,000 in Veolia Environnement (VEOEY) - ...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "If You Invested $1,000 in Veolia Environnement (VEOEY) - Stock Titan（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "The ProLine XE Commercial Electric Water Heater. A.O. Smith Corp. leans on hi...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
