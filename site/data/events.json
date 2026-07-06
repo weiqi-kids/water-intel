@@ -1,5 +1,248 @@
 [
   {
+    "id": "mueller-2026-07-06-001",
+    "date": "2026-07-06",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SG Americas Securities LLC Decreases Position in Mueller Water Products $MWA - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWnVzazRPRmZfc2VIeDJKZmhJR1ZXeHR0SW5ZY3Q2anZEcWhXbHBPNG80TlFyX1VtUXRrTXNtS1lTUEh3Y0lKSWRLYk9DRnRhV2RxSElCWkRuVFBjLUxmUUxiU3NiOXZBZGJSOG9lbm",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWnVzazRPRmZfc2VIeDJKZmhJR1ZXeHR0SW5ZY3Q2anZEcWhXbHBPNG80TlFyX1VtUXRrTXNtS1lTUEh3Y0lKSWRLYk9DRnRhV2RxSElCWkRuVFBjLUxmUUxiU3NiOXZBZGJSOG9lbmZCSVVjUFlQaUJZQmFIamZVZENwNHRRaXYwclJPTmlHcVRpcVEtZU43eGI2em9MMWd4NldNSkMta0xRbGY5X1BqeU1IX0FwUEhVbXlpYjFSeE5XMDU3bTZsWnA3cFloQXNRb2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-07-06-002",
+    "date": "2026-07-06",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to sales forward of Energy Recovery, Inc. – MUN:5E2 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPNm4xQzh5MXQ0bEVSVUV3bDIxZWRhdFQ3NGNicGY2dUhDdlRBd0tsV0p5LUJwMDd0RkFxLWZseGtvMExwTHpVY3lpSTQxQTU4bDJiZVQ4WllJZ0ptUEdZUUNRMnBJN0c4ZmhvSG8xeW",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNm4xQzh5MXQ0bEVSVUV3bDIxZWRhdFQ3NGNicGY2dUhDdlRBd0tsV0p5LUJwMDd0RkFxLWZseGtvMExwTHpVY3lpSTQxQTU4bDJiZVQ4WllJZ0ptUEdZUUNRMnBJN0c4ZmhvSG8xeWRyQ3otNFlBc2ZTc2RhRVVCWjVudjRDTVJVNDAwUm9RNFhCRDZBeUYtWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-07-06-003",
+    "date": "2026-07-06",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "wastewater_treatment",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery Secures New Wastewater Treatment Projects Across India - megaproject.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWU4xQlE4WG5neVhfREdqRG1DbElqSHUxeXhrLXBmWXQ0QlVWZXJuTE9PU0JJLW1XX3VrZ0xvS0JmcGNWbVRMRTZRVVZMX3RfUE5xUG5ZQlAwUlVhNG13UDExU2h1NUxQWjh3X1hGNE",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWU4xQlE4WG5neVhfREdqRG1DbElqSHUxeXhrLXBmWXQ0QlVWZXJuTE9PU0JJLW1XX3VrZ0xvS0JmcGNWbVRMRTZRVVZMX3RfUE5xUG5ZQlAwUlVhNG13UDExU2h1NUxQWjh3X1hGNEVJbUtWTFdTZThKWkYwSndESHR1SUVkdjZvUG9vbzN5UmtmVWViNXNCTWFWNzRQUEFGUVlqNnJtM2Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "watts-2026-07-06-004",
+    "date": "2026-07-06",
+    "companies": [
+      "watts",
+      "energy_recovery"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "From waste to watts: energy recovery plant goes live - E.ON Energy",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMFFVLTFXcHBaOXJoaDNRZUI3QkJMZklUMV9mZmpBRmNTVEJlVk4wVVA5UGxYLVpuUXRuM2pzSjMtRjFxMHRnSUU1ZWZLdktaSndscmVvY2tKSV9mNlY3RVpkMUN0QzA4Rm1yV09ObV",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMFFVLTFXcHBaOXJoaDNRZUI3QkJMZklUMV9mZmpBRmNTVEJlVk4wVVA5UGxYLVpuUXRuM2pzSjMtRjFxMHRnSUU1ZWZLdktaSndscmVvY2tKSV9mNlY3RVpkMUN0QzA4Rm1yV09ObVpfWWdNRi10MGhENjB6Sk5rOGNTc3BpcllKNlRB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pentair-2026-07-06-005",
+    "date": "2026-07-06",
+    "companies": [
+      "pentair"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pentair plc strengthens water solutions business as investors eye long-term demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYTRhTlNtQUdqRERseHFFZkJNRlRCVnpQX0hfa1p3YTBmalRiV0FxVE5FRGhrYmFWd21kSmc4UjdwNHVCT0t4b1lKMk1Sd0s1UUk1RWgwNFFiLUVneWttNjRfUFZYeXhzcXg0bmQ5TE",
+    "sources": [
+      {
+        "name": "pentair",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYTRhTlNtQUdqRERseHFFZkJNRlRCVnpQX0hfa1p3YTBmalRiV0FxVE5FRGhrYmFWd21kSmc4UjdwNHVCT0t4b1lKMk1Sd0s1UUk1RWgwNFFiLUVneWttNjRfUFZYeXhzcXg0bmQ5TEtRc05zaWxaSVFnUENEazU4MWQxVjRMaDEtNDU5a04xNVFmVnVkQzktZVRrM090cEdlYjVfdnJ1RFlRS0VxLWFNaHVmMlR6UndscE1CRXRVQWY2UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-07-06-006",
+    "date": "2026-07-06",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Voltex ALV from A.O. Smith Corp. - hybrid water heater pushes efficient home hot water - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQUXNjS1EyUThuZXh5REt3QXFsb2xFemh5SGtidThJYzJ4TUNNVFR0TlB2Tld0SEpFUVNmZkhiRGFoVXNsUmFEaVBxbVRkWDFuYWg3dTZoUmxrZXhGN1QtdmtCMVQwTDVfRXF0VnhWWG",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUXNjS1EyUThuZXh5REt3QXFsb2xFemh5SGtidThJYzJ4TUNNVFR0TlB2Tld0SEpFUVNmZkhiRGFoVXNsUmFEaVBxbVRkWDFuYWg3dTZoUmxrZXhGN1QtdmtCMVQwTDVfRXF0VnhWWGMzSTU2X3N6N1NlRVhlRkNCZUktcW8xRnVhMlFHWWlzdVRyTTQ3OG53LU1BZXF0OVZ5eFh0VGFsUUxXUnROSDdEU21fY0J0V1haa1VBQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-06-007",
+    "date": "2026-07-06",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith Corp steady on water heating demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGFSLWhsbzJaLTFTaUZnSzJvMWxwMEFKTDVFTHlLeExjOG40OUtZMXl3cDQ3aEN0UjE2cWNHUml6MWExOW9lUGtnZDJhU09Hc280TzUyZ2lXeC0zQXRoT1E3NG1hNWQyRGRSby1LZD",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGFSLWhsbzJaLTFTaUZnSzJvMWxwMEFKTDVFTHlLeExjOG40OUtZMXl3cDQ3aEN0UjE2cWNHUml6MWExOW9lUGtnZDJhU09Hc280TzUyZ2lXeC0zQXRoT1E3NG1hNWQyRGRSby1LZDVfTE45NTNFTm81XzFkaG9nZUUwak9abzlzdjExRkNUSDhqdVNLa2ExandRUVZrTG94T1JoVVZvRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-07-06-008",
+    "date": "2026-07-06",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "smart_water",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A.O. Smith Corp. highlights water heating expertise amid broader sector trends - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNUmNuSnE2dlVGQnp2UVNsZkQ0a2E3S05RWm5fMkp6U1V0UlJMMGR1WFZmM29oSU1TZXlVOUV2QlVxWmtvalNrZUxZR0kyaHc3QkM1eHZjR0l4TzdDVGNiaTFFR28tTExIRU1ta1d0aG",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUmNuSnE2dlVGQnp2UVNsZkQ0a2E3S05RWm5fMkp6U1V0UlJMMGR1WFZmM29oSU1TZXlVOUV2QlVxWmtvalNrZUxZR0kyaHc3QkM1eHZjR0l4TzdDVGNiaTFFR28tTExIRU1ta1d0aGNYOVl1NE5CV0pSU3ltYjlYR3JLQmRzQkxfZG0yZ0VsbXQtTGxYVDY3ZFY1RzZoMGJQT2ZtYU4zQ2lkdmhtZEljS3J3SXNQaDVSbTVKT0FkYXlPai1LSF9Z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-06-009",
+    "date": "2026-07-06",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hsbc Holdings PLC Increases Stock Position in American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc1puVEV2Y2djbUh1OUstZmJDXzUtRUlwTDN4SldIbmgwOEVMOHZrYlUzbDRaMWNsNU1HNkJFbXp6SHpleUdoVktycU9sLVltOHZTYTFHV1pWZm90RmJTU1luLVEzUGc5NGhlTTV0ZT",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc1puVEV2Y2djbUh1OUstZmJDXzUtRUlwTDN4SldIbmgwOEVMOHZrYlUzbDRaMWNsNU1HNkJFbXp6SHpleUdoVktycU9sLVltOHZTYTFHV1pWZm90RmJTU1luLVEzUGc5NGhlTTV0ZThCZ0hqSVFzZkFwVlRqQzNScDExZE93bnBXSTNXVHFFa2NFdDRwZVVFZHZ2d1lINjZQWXZ4dlZjeDBVeFYxQ3RnaktYRS1Od1EtdmFlQS1BLTZvaUdfZ2JjTEpSWjAyZnNlaEZ6ckFNd2I5eGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-06-010",
+    "date": "2026-07-06",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elevation Point Wealth Partners LLC Acquires 7,798 Shares of American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxORVcyV3FkdHZobmdRZ0dEODRfQXN0VW9qZk8wVjRmc2x4cHUybEdNbDdCRVF6SkFZMXhkM0s0YUFtWmZwUnZ0QU16VGhwVTRYSWFFOXBNemxmVWtPNWdUWnhteUV3bmFIWklmZTNtLX",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORVcyV3FkdHZobmdRZ0dEODRfQXN0VW9qZk8wVjRmc2x4cHUybEdNbDdCRVF6SkFZMXhkM0s0YUFtWmZwUnZ0QU16VGhwVTRYSWFFOXBNemxmVWtPNWdUWnhteUV3bmFIWklmZTNtLXYyQkRYS3hiTkYzUnBEMnJRSDE2ODlmaFRxeDV3eVJGVXVhdVJYOXZOUjFIYUszUkJHTXFSYnA2SWtFODNBZDlUa0JpTGx4R0hlWExzblBucGl6MlNVenNtc3lnSUJWSkJEa3ctMm5UZWRvZ19UcnByUG9hWWN3RkJ0ZjV2OHZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-06-011",
+    "date": "2026-07-06",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "American Water Works focuses on regulated growth as a defensive utility - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPQTBsMUVCemlSOHlSLXh6TXE2OGNCVTNMd2xyeTZSQWhaQkVzTFpSaXVWeGtvTDQ4YnR0cjdIQV84ZFducGx5RHdvVlVTTTNON0tUaGNmeWJKeTFvc0gyUExiUVlxNVN5bXlFMEhOSz",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQTBsMUVCemlSOHlSLXh6TXE2OGNCVTNMd2xyeTZSQWhaQkVzTFpSaXVWeGtvTDQ4YnR0cjdIQV84ZFducGx5RHdvVlVTTTNON0tUaGNmeWJKeTFvc0gyUExiUVlxNVN5bXlFMEhOSzh4dk80NlVwWnhLNmxnLTl2TjVIWGh0eTF1aTNyRS1GbzFmR1dTZVYtRWthUUNmRVpJTDk5RDBXSHR3S05IR3VaclpHYmRIekttS3pBbGRyakZmaFA3VWMzMUZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-06-012",
+    "date": "2026-07-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "United Utilities updates investors on operational progress as regulatory and sector issues shape exp - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQLXBUcGo2dk9kUjBrMkhLdWJXZFNfanRkcmdVNENIbVFCRTdiSzA1ZmQyMWtyeHlSeG5tOEVCa3U4NjB5Vk14NnRLVVcwYjNIMGZIRThKVGJMdjgtM21ETFBQbVVBVS1mbzVDeHVBZT",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLXBUcGo2dk9kUjBrMkhLdWJXZFNfanRkcmdVNENIbVFCRTdiSzA1ZmQyMWtyeHlSeG5tOEVCa3U4NjB5Vk14NnRLVVcwYjNIMGZIRThKVGJMdjgtM21ETFBQbVVBVS1mbzVDeHVBZTFwdWdhZ1NqbUluV2FReWxZRVVMYnJuOHhLNlZPYXpRQmk0dUo2VmJza0hZNkhHMWtQOVNMUkYzWUd2YmVYTjROOGpxMFdKaVVKN28xMmdTSVQxRGY0OUhrWHNMYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "veolia-2026-07-05-001",
     "date": "2026-07-05",
     "companies": [
@@ -57,6 +300,68 @@
       {
         "name": "ao_smith",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX1hYckQzZzZrVXB4NnBFRFg2bGdQamF4TnpGcWRUYVJmT0Y0RFR6Q3B2OFpUX2Ixa214a3F5OTR0STZQWjhHTm1CQWVzQVhlZk1qbXhGSlNzY2JfeTR4LUNhVWhkeUN3YURTeTVwVjhrNlhvN2xmRW1tUm9GTllXSHBNMlFmejd2NUZOQU15eHVkOEhQT2g0WExDUU1XYk14MENrdWVjY1psZGFCNVNlMlpzOVJ3WDYzWDIxVTJpZUphNzV6Y0ZuTUhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-07-05-004",
+    "date": "2026-07-05",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Technical Analysis of Veolia Environnement - Dividend Futures (EURONEXT:VI8M2031) - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPY0cybmNnUUMtX2pMTmhYZ3ZEMXhablJGNjRvckhnb1RxY2Z5ZnVGamdUUFJsZUwwMGFyLTNoejZXalJIdmh2Uk80eHE0SVNtODJGa1Z0alBnMmNpaG1raFpRUmZONnQ4R0VJTGhJc0",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY0cybmNnUUMtX2pMTmhYZ3ZEMXhablJGNjRvckhnb1RxY2Z5ZnVGamdUUFJsZUwwMGFyLTNoejZXalJIdmh2Uk80eHE0SVNtODJGa1Z0alBnMmNpaG1raFpRUmZONnQ4R0VJTGhJc0E1VnlqY2tfRUtGSUc0RnZuUkdOWjh1anc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-05-005",
+    "date": "2026-07-05",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Does Missouri's US$1.6 Billion Rate Request Reshape the Bull Case for American Water Works (AWK)? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNXRXbm9wZ2hZZS1WaHBtdDNFLUpfdTRkNmdUUTdPQi15cUlaaUJZWVpFTDBJV3l0TVo5NmxmQjhUZVdPZ1FCbHQ1UGdhVDJMeGlVOE9TTGQtVy1YQVh5VUQ2S2VtNlpYMGJqb0tKbk",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNXRXbm9wZ2hZZS1WaHBtdDNFLUpfdTRkNmdUUTdPQi15cUlaaUJZWVpFTDBJV3l0TVo5NmxmQjhUZVdPZ1FCbHQ1UGdhVDJMeGlVOE9TTGQtVy1YQVh5VUQ2S2VtNlpYMGJqb0tKbkxsRkVCcnFNSTc3bzJYa24xOTU4T3BtQkRGd2I1VXd2WEhpZXV6djllSlpmYll0SEJUN0VVVmlBWkFLVkZXMEdDbENoS0J4NGtVd2h1ekI4TGVxV3FkU0dNWHp2UjB5Tld0MHlz0gHYAUFVX3lxTE1LbGRob25UUDU4UU5pa0xYVW1tZDJXQmpKV2s5TXB0Y3hCX3I0a3A4Tmh5MVNFaEIyQzZtU3BMeFdUTmYtelNRNXJ4TDl6UmM4SG93RlZzWEVzby1FVm54cU5FNXNHM0tJdjRpYURRMUxVQnRGU09QRmxmRXZLSzYzUXhKWUlFdGlYd1U4VURZaklfVzg3OU1vMnc0VG1FUjdfVXgzU2tNdDFrSXlpUlJDWFhibnNMZTV6R1JleVNlX0VPSlRhYlR3LWIxVFFyRWVveWg4a3B3Rw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-05-006",
+    "date": "2026-07-05",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "smart_water",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works focuses on regulated utilities amid stable demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNblFzRVgtM0haaUM3dkRoT0F6VC1LZkI4TmNlTElpMm1KQk5GY1RzMzVhNUx4dHhsQlpCckd6c1RzMmtfbS1fUjFTRW9OMGNPNlM0bFV0V0ZFTlhVVHB0eTNDbUxvWVBVeFduR01ZUW",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNblFzRVgtM0haaUM3dkRoT0F6VC1LZkI4TmNlTElpMm1KQk5GY1RzMzVhNUx4dHhsQlpCckd6c1RzMmtfbS1fUjFTRW9OMGNPNlM0bFV0V0ZFTlhVVHB0eTNDbUxvWVBVeFduR01ZUWQxcE9jak5WSGlUT1BzQzNTTHF6SmJQOUpzajhlc0JvajBuWW44NDRXUEZzVXMxajZVaElmaWZUSTRaZW1KUEkyZkt3UXdha3lqUlFUa3M0ZnpSdjNIWmdCUw?oc=5",
         "type": "rss"
       }
     ]
@@ -512,6 +817,27 @@
       {
         "name": "pentair",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUEdGUzJxenJjTmk3WVRWV0l4c3RPc1JIYU9ic1VReC11T1NrREZzQlBjSHQ3NVhiTm56cTd1WjdYaHVjQUtMamRDRlEyU09wTWZ4MzJKeHJlX0p4NGpqaG02X2xOeU1TVmRpNXBpVHJLc0xJMjE3RG0xT2d2MGw4VGdIM1kwTmxwMHVQS2tpYk9KVzBBdnBxX2x1Um9YZVJ6R0dqcTRZV2RHNlVRdDVScVh6b3NJckNHcXJPNVgxcTk3b3ROemc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-015",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Industrial Water Infrastructure Market Size & Forecast, 2026-2035 - Global Market Insights Inc.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaTIyaVlSZGt4eDFER1ZWUWZxTTJuTW9wUllnMlliWEdHdlI5X1hUa18tZDR0RXRSakxic2dCOXFHclduMk5MRGRROWhwd3lvUmdjZ2VHa1JQS3U2czRoQ1RhSmVsSXFsdzZtUjNwc1",
+    "sources": [
+      {
+        "name": "google_news_water",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaTIyaVlSZGt4eDFER1ZWUWZxTTJuTW9wUllnMlliWEdHdlI5X1hUa18tZDR0RXRSakxic2dCOXFHclduMk5MRGRROWhwd3lvUmdjZ2VHa1JQS3U2czRoQ1RhSmVsSXFsdzZtUjNwc184QVJDOGs0RnJ2b0NoU2YtbDM3V3liNzlPb0g4?oc=5",
         "type": "rss"
       }
     ]
@@ -1351,6 +1677,44 @@
     ]
   },
   {
+    "id": "unknown-2026-07-01-022",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Missouri American Water files rate request for infrastructure - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOeE00TzJBdkptbDdHcVVQdTBHcmtjY29XdEI2clBWV19lT2Q0eXdlMlVVc1pwMWYwSTYtUnBlTWl4Tmgwd0NvZmNJSE1Md3A0TDl5a08zN3lXakhwanpRSlZPLS1VV3poaTlKSkJXVV",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeE00TzJBdkptbDdHcVVQdTBHcmtjY29XdEI2clBWV19lT2Q0eXdlMlVVc1pwMWYwSTYtUnBlTWl4Tmgwd0NvZmNJSE1Md3A0TDl5a08zN3lXakhwanpRSlZPLS1VV3poaTlKSkJXVVdmTVhhX1c4MEZhdl94WFdQSkV5ZTBGdFNRa0stdmd3WUFjbHFCelE1WTc5R0NORzhycWJPWEljRm1pbnZCRkQteVVoTnRhRDVsWFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-023",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Missouri American Water Files Rate Request Driven by Approximately $1.6 Billion in Investments to Provide Safe, Clean, Reliable and Affordable Service - Finviz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVjhUSU0wekxhX2NZcWREeWRZNWplMjhjUjZpMVB5ZVFBYjgtT3IwWnVrNWdXWGZJeUFwWjkzY1BkWnI2dFFBUlFfUFVtYWFwajJUYWNid0duMlNyWlV5V1dQeWRrTlB1UlhNeWlHWV",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVjhUSU0wekxhX2NZcWREeWRZNWplMjhjUjZpMVB5ZVFBYjgtT3IwWnVrNWdXWGZJeUFwWjkzY1BkWnI2dFFBUlFfUFVtYWFwajJUYWNid0duMlNyWlV5V1dQeWRrTlB1UlhNeWlHWVFkMjhBQkJZOEJPTWxaWl8ydFJ0cWl5ekE1SDZxMjU3QTJwYVp0amx4QkxxZWVUMDRNRy1WZExTcUtLM216MmRhSEY0LUpYV0dqRmo2bG9Rdk5Jd1dBbnBnaXZtdF9aNFkwLUlTcjZlQlZEZGpUWklZdVl6aHB5OS1RampxZVZoNmpSRTFRQzMzR0RWRUlNbzF4Um1lQ21UVXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-06-30-001",
     "date": "2026-06-30",
     "companies": [
@@ -1727,6 +2091,26 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeEM5ZDNIelNfWVlDV09CUE9DV244d0lBOEVucThkYzJOcFNGQ0FaNFNIam5JU1JvOWVpMGxOMElhRDR3ZDV1M1RlSDN5Qi1kOTNkNEVCcnFLWVFBTnN0NDNNRmN0S2s3cXpRUjFTWnI0alUyLUJkUy1MdEtLQnpTR3hLSVpLOTc1Vi1yV2V0ME1zRFFOdzJHbkdFV1ZsWmpIQnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-06-30-020",
+    "date": "2026-06-30",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Determination of the Share Reference Price of Veolia Environnement’s Shares, the Initial Conversion Price and the Initial Conversion Ratio of the €400 Million Non-Dilutive Cash-Settled Convertible Bonds Due 2032 - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxPS0NvaWpqZFJlMGNNOWF3dU1rTXBIVk5CRUR1Q3U3enNsOEc2dkg0ZXhVRFJRaTJSNkNfU1pRN2ZDay1YaS1hNDRvVGFabUhYbDJieFBYX0lJajROYlVrSnlKWjJ1LUpYZ2Z1bVRBQm",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPS0NvaWpqZFJlMGNNOWF3dU1rTXBIVk5CRUR1Q3U3enNsOEc2dkg0ZXhVRFJRaTJSNkNfU1pRN2ZDay1YaS1hNDRvVGFabUhYbDJieFBYX0lJajROYlVrSnlKWjJ1LUpYZ2Z1bVRBQmJnZDVXcEZWYXlwNzVRZ1JWTTNxVF82VWlkbDBhS1JZSmJDaFdWUU1VUm1HRTdTeDdmTnl0SjIyRjZGR2VpLUVMMm1XMmFIc2JuTl9UQlhtY0pUZGZNeW9uUGJZRkNPNG1NVXR2RkVUVDBtejkzcXc3djA2S1MzTXVkYWF1M0c5OFVMeEFhZ2NCZTJ4X1otcDZ0WlN3ZWR6bFlEZ0ZlemhnaURKRDkyMW92NkRPY1NkNUtUdEQ1MGs2Z1YzRmJTM05CelYzWlpGWVpuVURHNEItdmtYQUVKZmtaVy1YaVIwN3g2b205NHlOeWxxVWtiZUVaaGZ4cFRheWJWSU1MamRNTmcwS1hzZHRKWHo0RmFKWnZ1NEtqdjJFNmR3?oc=5",
         "type": "rss"
       }
     ]

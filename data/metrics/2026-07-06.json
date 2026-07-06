@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-06",
+  "total_events": 12,
+  "by_company": {
+    "mueller": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "energy_recovery": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "watts": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pentair": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ao_smith": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "american_water": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": 0.14
+    },
+    "industry_general": {
+      "count": 10,
+      "sentiment_avg": 0.1
+    },
+    "wastewater_treatment": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "smart_water": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
