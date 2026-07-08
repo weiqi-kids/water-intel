@@ -1,0 +1,15 @@
+{
+  "total_raw": 259,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 8,
+  "gate2_fail": 4,
+  "passed": 20,
+  "gate2_samples": [
+    "Pre-Conditioned Air Energy Recovery Market: Growth, Segments & Major Competitor Analysis - EIN News",
+    "Evergreen Combines Energy Recovery With Single-point Exhaust - Canadian Consulting Engineer",
+    "Energy Recovery approves new $25M share repurchase program; shares up - MSN",
+    "A. O. Smith (NYSE: AOS) CFO receives 32,060 RSUs vesting in 2032 - Stock Titan"
+  ]
+}

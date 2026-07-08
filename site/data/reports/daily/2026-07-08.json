@@ -1,0 +1,200 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:26:10.248377Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-07-08-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Veolia Environnement focuses on global water and waste services. Long-term infrastructure demand sup - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdlZhVk9lOFUxbTdLd1ZXTUJCOVEwTEFCcVJrcDVfMEx2YWtxbDExVC0xMnl5NmZwMWlFU1g5YnByZzNMSlJmbWFiM09jc3NvVHhTSlhoS1U0VnN4Q0Z4NHBZNGl3WXpSeGNkZ3NxQnJ5R01wbnRYUjk5QWZHbDhZVEMzTnhPOTR6WGxodDJBaEIyUG9BZjRMRTFZSnRUd2hURjhtQU91OHRsLUNRWV9aODBwVUVhb21keUhUZ0hCQTZNUExyMHRZXzJzQU8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-08-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "United Utilities Group balances regulation and infrastructure investment. Water utility faces long-t - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "industry_general",
+        "regulation"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN2RKSkNXYW5NMFU0MzVOZ0Y1eC1CZTVSTy1Gd3BhenpGTGtWd2NXMzFxN2FZbC1RMkpWN0pWU1pIM3lsLWk4amhJRk5EdXBJaHBVekVnaGt3ZUk1MDdNQkVvUXRKN1JvR2RvX1hRY3JUVXRWTW1HTkdjVGgxc21mYnU5M0t0NUxJOFdyLTJ0QmJza2tCdnVDbnRKVjNiX3lKRGlNdDBEZDRlZjI4SUVnVk10N0Q0dFNYS0dzQzQ5M2VJeUdMMVJDTV9Kcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "kurita-2026-07-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Touchstone Partners advises Membrane Group on joint venture with Kurita Water Industries - Bar and Bench",
+      "companies": [
+        "kurita"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdmpmNGN4WGZ1N1ZubHFIclZRNmZvblpRWDJhVERyWVVmRUZTb2dOUThkVVM1VnNBSVNpckhWUnR4aHF6ZlpneEd2OVBHVXdJZ3l6U0s0eXdYU25wWWJ4MnFaaUFVdEd1RWhTVFdRMXdNV283Ym9Kc3FSSWxVZ2MySGY5WGhjNlF2TWZudnlGNUFaZEptc1ZOVVZuNVlTRkl5SzNoOTZfTnprX2t2SUxrZ2pwWG16N002aTAyMHZGc2dGYnEtdmc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_water-2026-07-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Implied volatility surging for American Water Works stock options - MSN",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUR5a2tmd1VPQkRHTk4xOVdxNHJZSVFrbDJLczhPaGdtTXVPUDZ1b2VscXFFdjNVdVRHMWlxSTFob3dGNzJGT0NFSE95YkZNVS1HbFUwYm1rTEtiU1V4WDJCX1VVM09sbVQweXJYZFNxR2NyYjJkR2hsVWYwYUFOS2dWZ29lUXJjTFBNWmdIU1RUTkRaVW1tUTFwZzdvYlJ2RWJWTW5TM2ZxQVV0aEYxaTdEQUswbVk1Nkxj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "regulation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "kurita",
+        "count": 1
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "capex",
+        "count": 2
+      },
+      {
+        "id": "regulation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 259,
+    "dup_title": 158,
+    "too_old": 69,
+    "gate1_blocked": 8,
+    "gate2_blocked": 4,
+    "passed": 20,
+    "pass_rate": "19.8%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "Pre-Conditioned Air Energy Recovery Market: Growth, Segments & Major Competitor Analysis - EIN News",
+      "Evergreen Combines Energy Recovery With Single-point Exhaust - Canadian Consulting Engineer",
+      "Energy Recovery approves new $25M share repurchase program; shares up - MSN",
+      "A. O. Smith (NYSE: AOS) CFO receives 32,060 RSUs vesting in 2032 - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為威立雅、栗田、美國水務相關動態：「Veolia Environnement focuses on global water and waste se...」。主要關注主題為水資源產業通用、資本支出、法規，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Veolia Environnement focuses on global water and waste services. Long-term in...（資本支出、水資源產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "United Utilities Group balances regulation and infrastructure investment. Wat...（資本支出、水資源產業通用、法規）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
