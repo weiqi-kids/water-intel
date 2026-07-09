@@ -1,0 +1,15 @@
+{
+  "total_raw": 258,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 5,
+  "gate2_fail": 4,
+  "passed": 38,
+  "gate2_samples": [
+    "Pre-Conditioned Air Energy Recovery Market: Growth, Segments & Major Competitor Analysis - EIN Press",
+    "Evergreen Combines Energy Recovery With Single-point Exhaust - Canadian Consulting Engineer",
+    "The Capital Group Companies exceeds 5% of Veolia's share capital - marketscreener.com",
+    "A.O. Smith Corp (AOS) Shares Fall 3.0% -- What GF Score of 81 Te - GuruFocus"
+  ]
+}

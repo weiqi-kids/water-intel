@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-09",
+  "total_events": 12,
+  "by_company": {
+    "veolia": {
+      "count": 6,
+      "sentiment_avg": 0.17
+    },
+    "pentair": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ao_smith": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "american_water": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": 0.14
+    },
+    "semiconductor_ultrapure_water": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 7,
+      "sentiment_avg": 0.07
+    },
+    "smart_water": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "wastewater_treatment": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
