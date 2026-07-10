@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T11:12:39.481995Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "EU updates rules on waste recovery shipments to Switzerland - environment.ec.europa.eu",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYm1VVTVwNWRJU2VPdGw4d3ZzOVZkb0FTMUprQkVpV1NUUmlIMjFwS2E0OFZLODUxdExQRkNVbVZOQWgzZXNUSDIxeV9XemZ5UXRGa0R1VG5UeWJIWVlRSFVjQVVJZGtoaWJHWmltbjBfSjZhcUhWQzBEVkdZREpud2taa3Ywc0hLUGlRcFVZU3Q1T281OWFpcS1OZ1FhWEFKaUZ1ZllqMjE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A. O. Smith Marks 30 Years of Cyclone Commercial Water Heaters with New FLEX Enhancements - Contractor Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTkRkZUstVi0xWGVXZFRvRXhZdHd3VG41M1lIZnhBZUNXZERkdHJlTUFYVlFRWm9RYnZxcFFZZHdXS2FNSjdZdXczSEhxOFFHdWZGQ2l1dmhsRnBoZEVOWjN3VGsybjZfYWE0UHFZeU5BTUJRVkZXZUxNSkFFam8yT0lobDRCMkY0TTFBWXNHYWk4RjM5N1VlZjdveXA1X0lyX3FmNTdhQkdEV1cyUUJ3a2F1R2ZDZXpic29jWmlkYlR4c291OFZGeU9iempPa0FpMTY4ZWFqNE0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_water-2026-07-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Water Works Company (AWK) Could Be 4% Undervalued As $48b Plan Takes Shape - simplywall.st",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVHE4UFVWYm9pVkNEbE53MEF0ZGJDS1F4bXFObkE3S0xtNWFRN05wUHJfWWhXMTJLYl9iai1LQXpTczlvdDhSeXdmVXlTSDFlalZXTGxnbHh0M1pscDNHODNVeFZDR3dWbXEzRTljOWZsaUd5M2FIS0FPUW83ZG1IUEFSRHMtYlRrOEVHSExBVUVtZUNFbXJMY3NNMUU4T3BRVnBQRmdPVVBhSzdVTzNmbFgtZUlqc0g4czdTVTRrVDhkakdINzVLXy04OUdUTFdJS01R0gHYAUFVX3lxTE1OTm5tdnVwME1rclJpN2ZZbjFYaGZLTHZyWTh6MkxVRi1hWERIbFY0LUp3OHFzMXpsX2dsOW1hdUJvRDZOUklGRVpELTNRMWVtMndpODl1TGhITDdBZEdFbHVTemdSYkowa2FjU016ZExWeVBmdXUyMFQtYWppMnFteHRBYjJpMjU2b0JqanFQbHMxQkcxU1ctZVB5SEZBeUhKdEQtc0Z0VFJjTGw3dk15X0cyREtFZ0FDUFlwYk9XOW5RZmFMQUJQX1VLN2xxd3RqXzR3dFQxNQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 259,
+    "dup_title": 175,
+    "too_old": 61,
+    "gate1_blocked": 0,
+    "gate2_blocked": 4,
+    "passed": 19,
+    "pass_rate": "22.6%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "Pre-Conditioned Air Energy Recovery Market: Growth, Segments & Major Competitor Analysis - EIN Press",
+      "Evergreen Combines Energy Recovery With Single-point Exhaust - Canadian Consulting Engineer",
+      "The Capital Group Companies exceeds 5% of Veolia's share capital - marketscreener.com",
+      "A.O. Smith Corp (AOS) Shares Fall 3.0% -- What GF Score of 81 Te - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為美國水務相關動態：「EU updates rules on waste recovery shipments to Switzerla...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "EU updates rules on waste recovery shipments to Switzerland - environment.ec....（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "A. O. Smith Marks 30 Years of Cyclone Commercial Water Heaters with New FLEX ...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
