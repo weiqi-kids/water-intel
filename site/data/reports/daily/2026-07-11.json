@@ -1,0 +1,134 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:44:31.647432Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pentair-2026-07-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pentair stock reflects steady water solutions demand - ad-hoc-news.de",
+      "companies": [
+        "pentair"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnVQTFRjWnFfZk9MT1VYMUR2OUFrVElJcVI2LWdwUGJBbnFlbjZoRDFzNUFTLXpQcnNYYWFBb3RqbUlWN2M1TGdyeWxRTVJPMHAzVTlSUDEtMUhUWWw5dmUxRnVuX3QxRlFLV0tyRi1RQ24zTmxvYVFWQW84cEJUYjBVMDhuaGwydGZtWTNuNnFhbmVUbmFCdEdZMWJ5RTNzUnJxb1NERWJoS3QtOFN3WA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Brings Industry Expertise and Forward-Looking Solutions to ACE26 - AOL.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTXdKRjJNUVZTMTNJME8yNVV5MFlqOW9HREM4Vjc0c1JYNkZZME1mOEhmc1dBd0dUanBNWDBSWExiTXNlVXBvLXRDeWF1Uk5ZUGxXZlIta1lUR18yWDBjbWh1cjR0UXJtcmVqSFozU1BLdzV3RHpsY19aX2ozakR2am5lb2wyUzRwa1Q2TA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "pentair",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 259,
+    "dup_title": 167,
+    "too_old": 65,
+    "gate1_blocked": 0,
+    "gate2_blocked": 5,
+    "passed": 22,
+    "pass_rate": "23.9%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "Pre-Conditioned Air Energy Recovery Market: Growth, Segments & Major Competitor Analysis - EIN News",
+      "Evergreen Combines Energy Recovery With Single-point Exhaust - Canadian Consulting Engineer",
+      "The Capital Group Companies exceeds 5% of Veolia's share capital - marketscreener.com",
+      "A.O. Smith Corp (AOS) Shares Fall 3.0% -- What GF Score of 81 Te - GuruFocus",
+      "Danaher stock reflects diversified health care tools business context - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為濱特爾相關動態：「Pentair stock reflects steady water solutions demand - ad...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Pentair stock reflects steady water solutions demand - ad-hoc-news.de（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "American Water Brings Industry Expertise and Forward-Looking Solutions to ACE...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
