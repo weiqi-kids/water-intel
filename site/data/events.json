@@ -40,6 +40,67 @@
     ]
   },
   {
+    "id": "energy_recovery-2026-07-11-003",
+    "date": "2026-07-11",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Energy Recovery, Inc. – HAN:5E2 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVhfaWF6UU5xVGFGRnYzWjNVYUM4cTdfTUhHSy1PWF9VQVpfN1prRDUyVW1XTUpHZmhZQlViTzRmWGtNM1FGSkFMb2JKR012SDlwcThBRFRiRThPNmd6bTd6UXNGOTdvcDJRX1Q4ZF",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVhfaWF6UU5xVGFGRnYzWjNVYUM4cTdfTUhHSy1PWF9VQVpfN1prRDUyVW1XTUpHZmhZQlViTzRmWGtNM1FGSkFMb2JKR012SDlwcThBRFRiRThPNmd6bTd6UXNGOTdvcDJRX1Q4ZFhqNjBjX3Z4Wmhhb0FQYTJGVmN6SWNWb0w2WjN2cHV3WThQNGxvRC0ybkJXOXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-07-11-004",
+    "date": "2026-07-11",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AWR stock holds steady as Essential Utilities stays in focus - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQl9LdVNRaENrelBTR0Nha0VhbFY1MUVweHRVUDFxYjJIbmJ2Q0xoZ2Zhb0FPaUIxb1lqcnVxX2VlY1ExZXVZT2xjanRZTktPUUlVbXBCMnp1Y3QzcGpsNkJpR3FHc3NGbHlwdHRubi",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQl9LdVNRaENrelBTR0Nha0VhbFY1MUVweHRVUDFxYjJIbmJ2Q0xoZ2Zhb0FPaUIxb1lqcnVxX2VlY1ExZXVZT2xjanRZTktPUUlVbXBCMnp1Y3QzcGpsNkJpR3FHc3NGbHlwdHRubi1XdVJTdy1heXNHS0NsYU5xendKYWZGR2kxeWMxb3J2aVlvZDJPMmxpU0s1czVvU09HSkk1QXFGd2xITHZwWVQyT2NIakZueEtUMnVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-11-005",
+    "date": "2026-07-11",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company, Inc. $AWK Shares Sold by Candriam S.C.A. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQjBpdFRzRzJKSzE4OEVvY1ZSb1BpM0lkRW1lNlJHVzBfbWZOX3hNRUV4LTl0MUVSQ2pMMGp1c2tpR0pfdDVCMmZiU1pXZkxIV3Q1aVY4ZzEzd3pTV3ByNHBaVzRCOHplS0tuMUlEX0",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQjBpdFRzRzJKSzE4OEVvY1ZSb1BpM0lkRW1lNlJHVzBfbWZOX3hNRUV4LTl0MUVSQ2pMMGp1c2tpR0pfdDVCMmZiU1pXZkxIV3Q1aVY4ZzEzd3pTV3ByNHBaVzRCOHplS0tuMUlEX0hvaXpUWmRvNm53bjhHNVRlT1NmMXRSMm1jekxPeV92YXpPSE1xNGVxU2ZHcUhONFV2WlRkeEpwN0thZWFHcGNuUTdxcXdIS0hZZWJYVXVFQnFRelk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-10-001",
     "date": "2026-07-10",
     "companies": [],
@@ -771,6 +832,27 @@
       {
         "name": "kurita",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNnJ3MW8zZkRYYXh4RThuX25WQ3pqRE1oeHFZcVJmVHRueWVmblMtcnRKSkxQZXVBR0NCTGZlckl4b0hEMG5rNUotQlFvenRVN2M1Q3ZGS0ExT3AzQTRwM0p3VEF4OHpnLWNyRjlqemlKZjd3RVA3M3pKeFBBQmxRTUhGaTlkOEgzaEVUSkFyMXEtOVg2cmdLYlFEeHFPUXNudUtFVU1mZjlnanpoZ2ljVHBfRC1naFZlWms0LWdkWHQzMkVhbTlHeVMyRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-09-027",
+    "date": "2026-07-09",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What to Expect From American Water Works’ Next Quarterly Earnings Report - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOMEQ3Q0Rfc2xMMVM5dzAxRm05YjR3M3hBSVpKaWEzZTh5S1lGSFRQbGZPVUdUdENBVnZ3QTBFNjE1STdIWU1HSnRlWnlBMUt0Sk9mMGxwSDNWaWQyb3lNejBtUV8ySlpfN2V2SzNCOE",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMEQ3Q0Rfc2xMMVM5dzAxRm05YjR3M3hBSVpKaWEzZTh5S1lGSFRQbGZPVUdUdENBVnZ3QTBFNjE1STdIWU1HSnRlWnlBMUt0Sk9mMGxwSDNWaWQyb3lNejBtUV8ySlpfN2V2SzNCOEU2VmYxMFNlTjJITmpXTUlvSmotVGhpY3RPTHFGTFpwampmUG41enAxWmFnQnpCUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2172,6 +2254,26 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNblFzRVgtM0haaUM3dkRoT0F6VC1LZkI4TmNlTElpMm1KQk5GY1RzMzVhNUx4dHhsQlpCckd6c1RzMmtfbS1fUjFTRW9OMGNPNlM0bFV0V0ZFTlhVVHB0eTNDbUxvWVBVeFduR01ZUWQxcE9jak5WSGlUT1BzQzNTTHF6SmJQOUpzajhlc0JvajBuWW44NDRXUEZzVXMxajZVaElmaWZUSTRaZW1KUEkyZkt3UXdha3lqUlFUa3M0ZnpSdjNIWmdCUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-05-007",
+    "date": "2026-07-05",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "North America Filtration and Separation Equipment Market Size, 2035 - Global Market Insights Inc.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOQnZjQUUyX3d1ampGaFZPQ3RpV1JBRk5KZjNoRzJJTUQwc2dudVhETFJER3BteVlkRWpVem1GWGdLX3lTUEt1TDBuZDFKc2Z5WGwwbjgwbkQzcG1EeUdPanU4VmQ4WUtRX1NMQ0tkWE",
+    "sources": [
+      {
+        "name": "pentair",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQnZjQUUyX3d1ampGaFZPQ3RpV1JBRk5KZjNoRzJJTUQwc2dudVhETFJER3BteVlkRWpVem1GWGdLX3lTUEt1TDBuZDFKc2Z5WGwwbjgwbkQzcG1EeUdPanU4VmQ4WUtRX1NMQ0tkWEs5eUJBajFlbi1hZHB4QV9ocHdwbzZHd0xNUHl6eGRKdkhHRkpTMnQ0eExRb0p5ZW5KdENv?oc=5",
         "type": "rss"
       }
     ]
