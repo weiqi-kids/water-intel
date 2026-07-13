@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-13",
+  "total_events": 6,
+  "by_company": {
+    "pentair": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "ao_smith": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "american_water": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "semiconductor_ultrapure_water": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "industry_general": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "guidance": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "wastewater_treatment": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
