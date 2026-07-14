@@ -1,5 +1,81 @@
 [
   {
+    "id": "mueller-2026-07-14-001",
+    "date": "2026-07-14",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Candriam S.C.A. Trims Position in Mueller Water Products $MWA - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkpQQ2ZWaE9OU05SVUpja1RUVXgtcFVHaS1CUHh4Ni1YWDgyb2h3N0I2NC1vM0FWM1BGTlNfR0h5V1BucF9TcDNfLS1UbWdfRXFTZ1dIdkh3SGtfOEh3Um1QSWV4VmhIS0ZaNng4WV",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkpQQ2ZWaE9OU05SVUpja1RUVXgtcFVHaS1CUHh4Ni1YWDgyb2h3N0I2NC1vM0FWM1BGTlNfR0h5V1BucF9TcDNfLS1UbWdfRXFTZ1dIdkh3SGtfOEh3Um1QSWV4VmhIS0ZaNng4WVBzRkwtMDg5SThwMnlwZzFLM04wV3I4aHVEUXZFMVVKcXViV3BZcjZWNWlfQ0JSOEt6VUFHUXFMN1pqNjJ2SllyYjNqN1AxTWFrLUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-002",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FR1321041 Bond Risk Profile - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE4xUzJraWc1c0c5cXM5bW1VRWpVcm9vQUlWYkY0TzZIY2NDSmFYWmdQQ3VJX205eFdFbHBxT0N3U2FRZ1lGODd1d05jRHlyZ2JNTUhNdjNLTHZVTGFUZWZVdlQzS1E3ak85SFQtaGlidl",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xUzJraWc1c0c5cXM5bW1VRWpVcm9vQUlWYkY0TzZIY2NDSmFYWmdQQ3VJX205eFdFbHBxT0N3U2FRZ1lGODd1d05jRHlyZ2JNTUhNdjNLTHZVTGFUZWZVdlQzS1E3ak85SFQtaGlidlMwdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-003",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FR14010IP Bond Coupon Profile — Rate & Payments - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE0tTVo3T0ExQ2JvYnN0SmJVYVBGSFVSOWF5dko1M3ZCa2hjTVpSWGFCNmxocjlQRkw3Z2pJMENwWWlYZVZKMG9PMjd2Y2k5RGlXY2c3WjNESUljV3VSc0RmZjlvQVIzc0NXXzVhb0lxeU",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tTVo3T0ExQ2JvYnN0SmJVYVBGSFVSOWF5dko1M3ZCa2hjTVpSWGFCNmxocjlQRkw3Z2pJMENwWWlYZVZKMG9PMjd2Y2k5RGlXY2c3WjNESUljV3VSc0RmZjlvQVIzc0NXXzVhb0lxeUlfSFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-004",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "United Utilities stock reflects the regulated water story for long-term investors - Ad Hoc News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPaC1mTzdjZVFTUkw2OElvY0Q1UUxrOVRjaC0zanRaMVJTa1JGcTFRZGE5bVNIem4xMmlYLWVxQUJzYzlTQk9IR0M1TkNremc3cjBTdG00R1F1Y3FxQ0JzMHVJVzZmcnFJMUFJWk9DZE",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaC1mTzdjZVFTUkw2OElvY0Q1UUxrOVRjaC0zanRaMVJTa1JGcTFRZGE5bVNIem4xMmlYLWVxQUJzYzlTQk9IR0M1TkNremc3cjBTdG00R1F1Y3FxQ0JzMHVJVzZmcnFJMUFJWk9DZERfR2hucVFfdXd5alVydE9pMVJ3WExrcDB3WFdrN0V4RU9jY1JOdXRwWGFSaGtsOFVhMWJNN3hJbHRqdl9XN1NDRnMyc3dmTk1raDFBNzVCYWJkclIxT3Y5Z2xR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "pentair-2026-07-13-001",
     "date": "2026-07-13",
     "companies": [
@@ -126,6 +202,238 @@
     ]
   },
   {
+    "id": "energy_recovery-2026-07-13-007",
+    "date": "2026-07-13",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "John Mitchell Joins Energy Recovery Board of Directors - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbXFsOW1VOHp4dGV0dU9wRUszWG5iNTh3dlFUanRlSmtoUUdFQmpJM3AzNmd3YUo0Q2Vrc29YcHFnc0R6N2NoMzhJaWxVUzNUenEteXNPM0ZzcFJiWVZSVnlIUGRoVWxPOE5ZZFNoM3",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbXFsOW1VOHp4dGV0dU9wRUszWG5iNTh3dlFUanRlSmtoUUdFQmpJM3AzNmd3YUo0Q2Vrc29YcHFnc0R6N2NoMzhJaWxVUzNUenEteXNPM0ZzcFJiWVZSVnlIUGRoVWxPOE5ZZFNoM3ZHTzMweGhkaWpqakRpT28waWdlNzlaVzRSZzF4MFk1Rnk4OWhJZ0NBREloMU5LSmpqTkRTU3pkdng1blBZeWE3Mw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-07-13-008",
+    "date": "2026-07-13",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery Appoints John Mitchell to Board of Directors - citybiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxON0ZfTWFfdkhBSmppYU5jSGJHU1VFOVlNdDhFbko1MlBoMlVvUFlLQ1NTNThBc2EwRVBwRlFWRkxiY3F6SF9fZUx0SGF0eS10RVdoRjY4eV91ZE02dGw4ZllrdTJZZ0FLVTlRbU44cn",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON0ZfTWFfdkhBSmppYU5jSGJHU1VFOVlNdDhFbko1MlBoMlVvUFlLQ1NTNThBc2EwRVBwRlFWRkxiY3F6SF9fZUx0SGF0eS10RVdoRjY4eV91ZE02dGw4ZllrdTJZZ0FLVTlRbU44cnVWVzRQMk5fbEpyVEdzelV2OWdpaC16S2wybmw1NEZGUW45UmRsRk1OeERIWjVuZ0xW?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-07-13-009",
+    "date": "2026-07-13",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Energy Recovery (Nasdaq: ERII) appoints John Mitchell to Board of Directors - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOejgwR3JSVFhrd1lELWhhM0lFQzZ6SWdONlREdmh5VkxYRmhwMW1wVlFYZUZ3bDJidGFERWVzcHpvNDB3bjlubExwTEhVekY5ajVRZUxtTmI4dXZURkFzYzRzVy1jZmpQeko1OU00M0",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejgwR3JSVFhrd1lELWhhM0lFQzZ6SWdONlREdmh5VkxYRmhwMW1wVlFYZUZ3bDJidGFERWVzcHpvNDB3bjlubExwTEhVekY5ajVRZUxtTmI4dXZURkFzYzRzVy1jZmpQeko1OU00M0RhcW5DTGNDREpoRlZiMjlRMzJaanNmVDJUYXdRVHowa0NTUVF5akxMMkZtQS05WXNidjFBM21wdU1YR2NJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-07-13-010",
+    "date": "2026-07-13",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery Announces Appointment of John Mitchell to Board of Directors, Effective July 13, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTFRMbS14LU1IVDZwYUhtMmxaUV95dTExUEQ5cUdYTWI1ZkRpNzBSaWJrUWZxQmx0SjFoQ3BFQnBTQlZ1MW9CNFRPMF96dVZqSXNzVFpuLU01eUM3bWY2bWZXQVNXMnFOVWJRNEZ1YW",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTFRMbS14LU1IVDZwYUhtMmxaUV95dTExUEQ5cUdYTWI1ZkRpNzBSaWJrUWZxQmx0SjFoQ3BFQnBTQlZ1MW9CNFRPMF96dVZqSXNzVFpuLU01eUM3bWY2bWZXQVNXMnFOVWJRNEZ1YWx2dnZOTUxSWll5SkFFWnBFejdsUjEyaFRaV2FncTVIM3BwQ0RBb2F4dFVzOUJsNGtGU1ZfVC1vRkNLYnJkZGF2ZTVHRWgyLTZkclQ3ZXQ5eFhpQXJtUHVjQ0JZMmJaYXc1bWM0Zm1jVmEzUWw0TWM4VjhuX0h2Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-07-13-011",
+    "date": "2026-07-13",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery appoints John Mitchell to board of directors - Investing.com UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOSEJ5WTlaMVcyakc3Mkl3ZzEzR19fRnJRTW5uU0hTVEJubU5YYVczd05pbWh4LUJzVWs3NnNmeG94SzZFOXBRNmUyUG1rSjNUQ3FOa3RvZ1A5S0pZWjJCWnBLRkxZY09LU083dk93QU",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSEJ5WTlaMVcyakc3Mkl3ZzEzR19fRnJRTW5uU0hTVEJubU5YYVczd05pbWh4LUJzVWs3NnNmeG94SzZFOXBRNmUyUG1rSjNUQ3FOa3RvZ1A5S0pZWjJCWnBLRkxZY09LU083dk93QUdqN1RNZjlWTnM1cmh5SjRJYVV5aXZWYlNXVTFKRUV3QXE3ZlpoNktLNUlhNnQxYWZUdmtTc0RiM0cxUlAwZ2k3a3VmN1RWSjBMOHBTVzhoWHU5ekdNWTZxX0dNd0R4dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-012",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FR1350554 Bond Coupon Profile — Rate & Payments - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1oMnRib1BQaHQ3Ylk1ZG1lUW5HUVFCc2pmU3FSbm9oM05qdFcxYjRjY3Z5RGhJVVJBWnBxQXJxeVlURUZlMGc0c2dpalVHWnpWTDhxVjA5dmZLLVlsMlFWODFQUmdZR3VwaEFCMXVlYW",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oMnRib1BQaHQ3Ylk1ZG1lUW5HUVFCc2pmU3FSbm9oM05qdFcxYjRjY3Z5RGhJVVJBWnBxQXJxeVlURUZlMGc0c2dpalVHWnpWTDhxVjA5dmZLLVlsMlFWODFQUmdZR3VwaEFCMXVlYWEycW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pentair-2026-07-13-013",
+    "date": "2026-07-13",
+    "companies": [
+      "pentair"
+    ],
+    "topics": [
+      "semiconductor_ultrapure_water",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Pentair stock reflects resilient water solutions demand as investors weigh long-term growth path - Ad Hoc News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNUzNRYWpKY2R1cUxZV19VeXQ3ZDFtVlRvbkZnU0plQnpHcEw2dkxyNmtYbUVid0tsOE9Pai1YbkRFdzJxaW1ldHFoOFFqN2VuNHZWbUpWUWtVdmRhZzg5bm1wa0huV0duNlE1Tnhibk",
+    "sources": [
+      {
+        "name": "pentair",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUzNRYWpKY2R1cUxZV19VeXQ3ZDFtVlRvbkZnU0plQnpHcEw2dkxyNmtYbUVid0tsOE9Pai1YbkRFdzJxaW1ldHFoOFFqN2VuNHZWbUpWUWtVdmRhZzg5bm1wa0huV0duNlE1TnhibkJwN05yQWIwRExHUW5pRXRTQjdSVnh1MVF5aEJydUN4N0lGZWUxWWNBbVplWTJ5TzZlbFZ5ZFF4UXNyeTAxd1hoUWdPWnl5ajlsbEs5QXFKY2JzbDdPZF9ZN2FGOVh1Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-014",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "$0.36 per-share cash payout set by A. O. Smith for Aug. 17 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOFBDQzB5MjBIODZBdVc3VkZ2a0w2OE8zUW1YTzdoNFBnSXEtdGZGVi1rX25XUU5Ubk5BM1Q2YTRpVG9zVlRObHh4Z0JDdkdwTmYtckV4b3VnUTdpX05rMkpSclNMSzBnc2JncXdPem",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOFBDQzB5MjBIODZBdVc3VkZ2a0w2OE8zUW1YTzdoNFBnSXEtdGZGVi1rX25XUU5Ubk5BM1Q2YTRpVG9zVlRObHh4Z0JDdkdwTmYtckV4b3VnUTdpX05rMkpSclNMSzBnc2JncXdPem1la3BuekpWNWlieFlkLUFwQVRreFpsVVdZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-07-13-015",
+    "date": "2026-07-13",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A.O. Smith (AOS) Declares $.36 Quarterly Dividend; 2.4% Yield - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZl9nTXN2VTBGbTZSY2JJdnhaWmdXWGluMXNheDFCV3VRZlZjT3BtM2lxclpYZnVNeUxHSTEzQVRlWFhfalNRdVlPSFJhTDk1bUV1VVd5YVYyaDAzQ2YzVkJWN0FXMTBrTkFaLU1Xa0",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZl9nTXN2VTBGbTZSY2JJdnhaWmdXWGluMXNheDFCV3VRZlZjT3BtM2lxclpYZnVNeUxHSTEzQVRlWFhfalNRdVlPSFJhTDk1bUV1VVd5YVYyaDAzQ2YzVkJWN0FXMTBrTkFaLU1Xa0lfdUlZQnlBUHRjcGVyaUY4dEgza1BUNVhXTm5lRGdrcGNBNUhIaWFoRjVvTVFfdXE3a1dhcTlwdmNXMEJXWnl2WkQySXluLTFtbjZDRUdEMGdNQlk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-016",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A O Smith Corporation declares $0.36 dividend - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQZnF4V2JETHVDTlluOG5QNF9QdHoxQlR5UXRfZkExYng2MVVIWkN0NWlURi14YWNKcFg2TWh2c2xjQkw3Qm9NMGs5aVR5Q2Nfc1FicENabkQ5M0pYQmNCbk9tdWxIVkQ2MzNEZGJCdX",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZnF4V2JETHVDTlluOG5QNF9QdHoxQlR5UXRfZkExYng2MVVIWkN0NWlURi14YWNKcFg2TWh2c2xjQkw3Qm9NMGs5aVR5Q2Nfc1FicENabkQ5M0pYQmNCbk9tdWxIVkQ2MzNEZGJCdXFPNDJDQlB5MkRtZEJZTm93TE9weTY4SzZTZ0ZKaURJS2RVd1ExYXBOckNHTER2RVd2bm05b3JCRmxDcS11QTVzckcydFpZcHdDNWM5cGVZYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-017",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "A. O. Smith Keeps Quarterly Dividend at $0.36 a Share, Payable Aug. 17 to Holders of Record July 31 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxORi13UG5DbEdwbjR0SkE4ZndZNEJLWkdTRHlGSnZkc2tGWTVBLVpjU013TlJTZXY1WTBnNzg3MFNZT0UyTnRCeUxhcGpPdmY3OE9oUTc3dy1SOHQ3ZTdQUjNieUFJVkFWUzFiQlFkb3",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORi13UG5DbEdwbjR0SkE4ZndZNEJLWkdTRHlGSnZkc2tGWTVBLVpjU013TlJTZXY1WTBnNzg3MFNZT0UyTnRCeUxhcGpPdmY3OE9oUTc3dy1SOHQ3ZTdQUjNieUFJVkFWUzFiQlFkb3Jwa21DOVpiR0hJT2dhQzhpckd2X2c2SXNGdUZYR3FYTW1neUtkRGRrckd0SFprT0pmOVVkUlduM1dsd0MzMTk2ZDlqVWluRXZJNU5OUDhnYlhyLXBvbW1mdGZ4YUJuUnNmVFZNTjFMZHh3MDFOazlrNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-13-018",
+    "date": "2026-07-13",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works stock holds steady as analysts watch its utility profile - Ad Hoc News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzBtSkd1ZEI4RWxpRzktc2NURERCbWt3Uk85Mi1YQTlnVkhKa3RwY1htSmZyQWQtbE9tUDNyVk9CUDdBeEY2Wm95TmNWLW4xV045UEN3dUIwbElkVVZOQzRvRjZkd0RyVFVwZTg5Xz",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzBtSkd1ZEI4RWxpRzktc2NURERCbWt3Uk85Mi1YQTlnVkhKa3RwY1htSmZyQWQtbE9tUDNyVk9CUDdBeEY2Wm95TmNWLW4xV045UEN3dUIwbElkVVZOQzRvRjZkd0RyVFVwZTg5XzE2QTFZWWFYYTliZjZWMF8ydkFOZkZUNVNBZEhubkRkQllvb3BQRlB5NmJybkpLZHNfY0dzZDV4Vkd4RXV3RTU4Ql8ycGF0THE3Z1JCSjhPTVBXSGFvTHdv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "american_water-2026-07-12-001",
     "date": "2026-07-12",
     "companies": [
@@ -184,6 +492,26 @@
       {
         "name": "google_news_water",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc3I1NmZib2g3QzFFNHVTZy1IaFJ5cmN3OG5tQTFkelNXUk1Xd2RyM2J1SUVBT3NVRzd3VVdFcWJ0V1h4aHZJaE1JTVR2TVFoZ2xHM09BVWQ2T1VUNG5lSnI0d29WV1JwcnJPNXNiQU41eXlEeEVBVVMweURjSTI2b2VGNWYtYnpZaFc1WDdoSE1SdzJ1MS03dF92bGkxN01xVVJqUXVhNFJZVncwazQ4VjlpeDNVdkZpUE1mdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-12-004",
+    "date": "2026-07-12",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Commonwealth of Pennsylvania Public School Empls Retrmt SYS Trims Stock Holdings in American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxNcWVfTkhseERfcG4ybkNQamxwOGIxd3QzbEhadTdXTjhnZXRqNkNucTluSzZleXpzNEJnVEVrcVI0Y0ttTnlMY1hET3Y4d2l1S3ZvNU5ObF9jYURjdGt4dVRIVkFoTVlTZjJqYnBmU0",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNcWVfTkhseERfcG4ybkNQamxwOGIxd3QzbEhadTdXTjhnZXRqNkNucTluSzZleXpzNEJnVEVrcVI0Y0ttTnlMY1hET3Y4d2l1S3ZvNU5ObF9jYURjdGt4dVRIVkFoTVlTZjJqYnBmU01CTHFoYXJEWGpFdFk5THdfQk40aHZVaHE1YXB0SmJ5bm5JRTkzbExTNUg5WTJtRnNKOElYMnNibDNPSnVNRTg4QTV5VExQUk5zX3JnbXNBU3JIcFpFZ1pfSUppU0VjVHBmVXJaRS1pNFhtTnAzMkEzdHlCX29qUG1NcTM3RC1HQW0tNkxnOV9XSG1UWHFuT3VmUXp6YVJoaXBIZEZDbUE?oc=5",
         "type": "rss"
       }
     ]
@@ -285,6 +613,27 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQjBpdFRzRzJKSzE4OEVvY1ZSb1BpM0lkRW1lNlJHVzBfbWZOX3hNRUV4LTl0MUVSQ2pMMGp1c2tpR0pfdDVCMmZiU1pXZkxIV3Q1aVY4ZzEzd3pTV3ByNHBaVzRCOHplS0tuMUlEX0hvaXpUWmRvNm53bjhHNVRlT1NmMXRSMm1jekxPeV92YXpPSE1xNGVxU2ZHcUhONFV2WlRkeEpwN0thZWFHcGNuUTdxcXdIS0hZZWJYVXVFQnFRelk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pentair-2026-07-11-006",
+    "date": "2026-07-11",
+    "companies": [
+      "pentair"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pentair stock reflects steady water solutions demand - Ad Hoc News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnVQTFRjWnFfZk9MT1VYMUR2OUFrVElJcVI2LWdwUGJBbnFlbjZoRDFzNUFTLXpQcnNYYWFBb3RqbUlWN2M1TGdyeWxRTVJPMHAzVTlSUDEtMUhUWWw5dmUxRnVuX3QxRlFLV0tyRi",
+    "sources": [
+      {
+        "name": "pentair",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnVQTFRjWnFfZk9MT1VYMUR2OUFrVElJcVI2LWdwUGJBbnFlbjZoRDFzNUFTLXpQcnNYYWFBb3RqbUlWN2M1TGdyeWxRTVJPMHAzVTlSUDEtMUhUWWw5dmUxRnVuX3QxRlFLV0tyRi1RQ24zTmxvYVFWQW84cEJUYjBVMDhuaGwydGZtWTNuNnFhbmVUbmFCdEdZMWJ5RTNzUnJxb1NERWJoS3QtOFN3WA?oc=5",
         "type": "rss"
       }
     ]
@@ -1131,6 +1480,69 @@
     ]
   },
   {
+    "id": "pentair-2026-07-09-029",
+    "date": "2026-07-09",
+    "companies": [
+      "pentair"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pentair stock edges higher. Water solutions remain the core story. - Ad Hoc News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMmlPZF9vTkp5ZG5WemNzdkNUaE81d21reG5WNmJ0RlhRZDFlcHEtck5LdEN4Z2ZlWFNfc2VpODlDejlwRmJsOU03NmZ2TzQ4dHNxRURvN2VRekN6NENUWGhLcVlWT245cW0yY3ZLZU",
+    "sources": [
+      {
+        "name": "pentair",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMmlPZF9vTkp5ZG5WemNzdkNUaE81d21reG5WNmJ0RlhRZDFlcHEtck5LdEN4Z2ZlWFNfc2VpODlDejlwRmJsOU03NmZ2TzQ4dHNxRURvN2VRekN6NENUWGhLcVlWT245cW0yY3ZLZUpNcUFLOEFDbVRaaGRSY2w2QmVUb2lienRzdTRsbU9NejhSc3N2MWZmdUxraW5XS2lXZWdSbVRobEpGYzRWZEIzU1ZubDZMem1Wb2N4d0xpVUc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-07-09-030",
+    "date": "2026-07-09",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries earnings outlook and global water demand context - Ad Hoc News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNnJ3MW8zZkRYYXh4RThuX25WQ3pqRE1oeHFZcVJmVHRueWVmblMtcnRKSkxQZXVBR0NCTGZlckl4b0hEMG5rNUotQlFvenRVN2M1Q3ZGS0ExT3AzQTRwM0p3VEF4OHpnLWNyRjlqem",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNnJ3MW8zZkRYYXh4RThuX25WQ3pqRE1oeHFZcVJmVHRueWVmblMtcnRKSkxQZXVBR0NCTGZlckl4b0hEMG5rNUotQlFvenRVN2M1Q3ZGS0ExT3AzQTRwM0p3VEF4OHpnLWNyRjlqemlKZjd3RVA3M3pKeFBBQmxRTUhGaTlkOEgzaEVUSkFyMXEtOVg2cmdLYlFEeHFPUXNudUtFVU1mZjlnanpoZ2ljVHBfRC1naFZlWms0LWdkWHQzMkVhbTlHeVMyRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-07-09-031",
+    "date": "2026-07-09",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Virginia approves American Water-Essential Utilities merger - waterworld.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNalIzeEYtY3daQzhCRVB1bWx5R2duNC1TWWdUMFllZllJMWtYWjdVUTNhcFBiZkRpZG1iZ2xqaFZ5aTVSWlhOY2FfbG4tQzNKblNBblZPWk1ZN29qOHFMRkhyRU1YTGctUUFYelFwMl",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNalIzeEYtY3daQzhCRVB1bWx5R2duNC1TWWdUMFllZllJMWtYWjdVUTNhcFBiZkRpZG1iZ2xqaFZ5aTVSWlhOY2FfbG4tQzNKblNBblZPWk1ZN29qOHFMRkhyRU1YTGctUUFYelFwMlRSWUxCYzI1T0oxRnRaalY4YUhRbTJDdFpFck1aenFTeXk0UlF1NHg2cEZrVU5IQm9wcElXdWt1MFF5ZHdLaVM5NnYza0dOTDBXZDhCZXllMFluN3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "veolia-2026-07-08-001",
     "date": "2026-07-08",
     "companies": [
@@ -1753,6 +2165,27 @@
     ]
   },
   {
+    "id": "pentair-2026-07-08-032",
+    "date": "2026-07-08",
+    "companies": [
+      "pentair"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pentair plc balances industrial demand and residential water trends - Ad Hoc News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQOVg1TjdRYms4N3lmaFh5R01RSkNnTXFZX05jaXF6TEFTMXBkdHM2cXdmeGRJXzVpem5mOXJOWVVESXB2YS0yUml1QUt4YmljS1ZVVmlyOFM4SFEzelhtSjRkVWtnampSXzg5emNFaW",
+    "sources": [
+      {
+        "name": "pentair",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOVg1TjdRYms4N3lmaFh5R01RSkNnTXFZX05jaXF6TEFTMXBkdHM2cXdmeGRJXzVpem5mOXJOWVVESXB2YS0yUml1QUt4YmljS1ZVVmlyOFM4SFEzelhtSjRkVWtnampSXzg5emNFaWU4bUNGdEJpTUhRQkNKUFdQZHppeUdSVVQ2ZElUMFpRYlVVZFVCR3hjUG1tNDJJYzFBOEdWemJXcl8zWjNDVzVLSmp2aVpKT29mVnFQbjB1d1FhZUU4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-07-07-001",
     "date": "2026-07-07",
     "companies": [
@@ -2021,6 +2454,27 @@
     ],
     "impact": "neutral",
     "title": "Pentair plc holds the focus as investors watch the water equipment group - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPdmVwNHdWWmJoTERpcjBfZDlKbElnaEVEWDlQbDFPVkVZNGx2bTBsNzZTVGhzbzdFWi1PcDdCX3YxQ2hudmhHS0REYllSMl9jRWJvbTQ1X0lRYkgwOHpEZzZEcFBING5tM0xhWUh0OF",
+    "sources": [
+      {
+        "name": "pentair",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdmVwNHdWWmJoTERpcjBfZDlKbElnaEVEWDlQbDFPVkVZNGx2bTBsNzZTVGhzbzdFWi1PcDdCX3YxQ2hudmhHS0REYllSMl9jRWJvbTQ1X0lRYkgwOHpEZzZEcFBING5tM0xhWUh0OFVkTjV0SXd3M0xQQWk2WjBHZUo1VnRhSnBTZnhBOWw4MVNCNGh1THZRN0JObm9jcnZUVnFScWhsQm5qSzRobEtmZWNla2dFc244TjY0OUFqM0tnbUhrbmtONHRTTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pentair-2026-07-07-015",
+    "date": "2026-07-07",
+    "companies": [
+      "pentair"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pentair plc holds the focus as investors watch the water equipment group - Ad Hoc News",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPdmVwNHdWWmJoTERpcjBfZDlKbElnaEVEWDlQbDFPVkVZNGx2bTBsNzZTVGhzbzdFWi1PcDdCX3YxQ2hudmhHS0REYllSMl9jRWJvbTQ1X0lRYkgwOHpEZzZEcFBING5tM0xhWUh0OF",
     "sources": [
       {

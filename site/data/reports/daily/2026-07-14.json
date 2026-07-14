@@ -1,0 +1,177 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T10:05:35.630235Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-07-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Candriam S.C.A. Trims Position in Mueller Water Products $MWA - MarketBeat",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkpQQ2ZWaE9OU05SVUpja1RUVXgtcFVHaS1CUHh4Ni1YWDgyb2h3N0I2NC1vM0FWM1BGTlNfR0h5V1BucF9TcDNfLS1UbWdfRXFTZ1dIdkh3SGtfOEh3Um1QSWV4VmhIS0ZaNng4WVBzRkwtMDg5SThwMnlwZzFLM04wV3I4aHVEUXZFMVVKcXViV3BZcjZWNWlfQ0JSOEt6VUFHUXFMN1pqNjJ2SllyYjNqN1AxTWFrLUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FR1321041 Bond Risk Profile - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xUzJraWc1c0c5cXM5bW1VRWpVcm9vQUlWYkY0TzZIY2NDSmFYWmdQQ3VJX205eFdFbHBxT0N3U2FRZ1lGODd1d05jRHlyZ2JNTUhNdjNLTHZVTGFUZWZVdlQzS1E3ak85SFQtaGlidlMwdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-14-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FR14010IP Bond Coupon Profile — Rate & Payments - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tTVo3T0ExQ2JvYnN0SmJVYVBGSFVSOWF5dko1M3ZCa2hjTVpSWGFCNmxocjlQRkw3Z2pJMENwWWlYZVZKMG9PMjd2Y2k5RGlXY2c3WjNESUljV3VSc0RmZjlvQVIzc0NXXzVhb0lxeUlfSFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-14-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "United Utilities stock reflects the regulated water story for long-term investors - Ad Hoc News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaC1mTzdjZVFTUkw2OElvY0Q1UUxrOVRjaC0zanRaMVJTa1JGcTFRZGE5bVNIem4xMmlYLWVxQUJzYzlTQk9IR0M1TkNremc3cjBTdG00R1F1Y3FxQ0JzMHVJVzZmcnFJMUFJWk9DZERfR2hucVFfdXd5alVydE9pMVJ3WExrcDB3WFdrN0V4RU9jY1JOdXRwWGFSaGtsOFVhMWJNN3hJbHRqdl9XN1NDRnMyc3dmTk1raDFBNzVCYWJkclIxT3Y5Z2xR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 158,
+    "too_old": 68,
+    "gate1_blocked": 7,
+    "gate2_blocked": 4,
+    "passed": 23,
+    "pass_rate": "22.5%",
+    "gate2_block_rate": "3.9%",
+    "gate2_samples": [
+      "Energy Recovery appoints John Mitchell to board of directors By Investing.com - Investing.com Canada",
+      "A.O. Smith Corp (AOS) Shares Fall 3.0% -- What GF Score of 81 Te - GuruFocus",
+      "Danaher stock holds steady as diversified diagnostics and life sciences portfolio supports long term",
+      "Danaher stock reflects diversified health care tools business context - Ad Hoc News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為穆勒相關動態：「Candriam S.C.A. Trims Position in Mueller Water Products ...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Candriam S.C.A. Trims Position in Mueller Water Products $MWA - MarketBeat（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "FR1321041 Bond Risk Profile - TradingView（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

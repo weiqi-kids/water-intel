@@ -1,0 +1,15 @@
+{
+  "total_raw": 260,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 7,
+  "gate2_fail": 4,
+  "passed": 23,
+  "gate2_samples": [
+    "Energy Recovery appoints John Mitchell to board of directors By Investing.com - Investing.com Canada",
+    "A.O. Smith Corp (AOS) Shares Fall 3.0% -- What GF Score of 81 Te - GuruFocus",
+    "Danaher stock holds steady as diversified diagnostics and life sciences portfolio supports long term",
+    "Danaher stock reflects diversified health care tools business context - Ad Hoc News"
+  ]
+}
