@@ -1,0 +1,14 @@
+{
+  "total_raw": 259,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 57,
+  "gate1_fail": 12,
+  "gate2_fail": 3,
+  "passed": 18,
+  "gate2_samples": [
+    "RBC Capital Remains a Buy on Veolia Environnement (0NY8) - The Globe and Mail",
+    "Danaher stock reflects diversified health care tools business context - Ad-hoc-news.de",
+    "Danaher stock holds steady as diversified diagnostics and life sciences portfolio supports long term"
+  ]
+}
