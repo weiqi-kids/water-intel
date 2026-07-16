@@ -1,0 +1,12 @@
+{
+  "total_raw": 259,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 12,
+  "gate2_fail": 1,
+  "passed": 23,
+  "gate2_samples": [
+    "RBC Capital Remains a Buy on Veolia Environnement (0NY8) - The Globe and Mail"
+  ]
+}
