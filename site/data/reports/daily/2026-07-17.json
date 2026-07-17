@@ -1,0 +1,265 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T10:05:32.323094Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_water-2026-07-17-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Did US$48 Billion Infrastructure Plan and PENNVEST Funding Just Shift American Water Works Company's (AWK) Investment Narrative? - simplywall.st",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVXJrVW9peFdDWk4yaEFRM1dYT1B1RFQ1Ym5LeGhJRjJ2RlRPUHdsNDRuSkdFNE9pUktCbF9HZHVtSng2ckJQLXhqZjVtWW02UkJmTnJ5NTlqMkxzWkZjU0JsdFFweUlVMFRFWUMxZVhveHY3WlRRSjg3ZjZwVXp3eFJreUMxSmV3cXMzT0RQU0NTRjJ6N1FVdXY1YnZpZmNCbWZIcEp5YzVxM21QZUhuakNIcDZKQVU1OE1ZemptVmp2OVFsX1lodnRLS3VyTFM1T2Nn0gHYAUFVX3lxTE9fSUtmcE01THU2cWZVX3BtaGswVVlRbFNxUnZhazFSMnNNbC0tVjRoRDZIcXlvN1NDWUtYUGREQUlaVERuSDJFTDVXMFVZdlhWNVZDMkpuTzhNRmtyZ1VldmZmeHlaTG9qal8tcGhaOUlicVM1U2NyOWhEbm14WnJDQWc1TGhLVFVxMjYtRkJEWmZxNnVldGlRZmFxYU9fWVJYTjVOV1NFbVBsWC02eldGM3VlZVRUVmxJVHFPMDVwTm9wY01qd1lsSzNZc1hqNlQ5VXVCdW1iTw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mueller-2026-07-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Rising Free Cash Flow and Profitability May Reshape Mueller Water Products’ (MWA) Capital Allocation Choices - simplywall.st",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUVlPaThBZ3RLM2lpcEhWVnlHRE03Sm1FdWYzekdfR29KZHRwQ3FmQVhHVV9jRUpndGZWMTBHUFdwdzZkVWpwdnFOaXJFeVBLa0FoSnBRUUJ2Y19TbWtGZ3cyVEk2WlZUMVRrOW8xMWF2QWNOQzFrM0hVQXR0WHJJb1FfdV9od3l3Wi1jX2VvSkVLaVRKbkczLXEwT3pGY3NqTFB4SzZhVkQ4cTNLOWVZRjRydXpiWEczN2xjdTZlWTEzNlo2TGtXejNmckNldEMtS2ZEX2hneG5FQXfSAeABQVVfeXFMTzhZYU5vdmR5ajdxMXFhQU5hckxuQ3d1Tmd0UmdTTEY5MW9qM2tHRmY0Nm1nZzVCX3JLUmo5c0pzRUM5cWU5NXJnRHhCMHhwWS1JTkxpbWotRTdBakVQN1RHTWFmUzFXZnVuc1RZbzc5VEZlV1hTZFlwV1Rzbm1pd1c5VEYtS0lVOFNnVGNQQkx4cTBjZm9yQk9fdVAxRnVxRGlTVjZTa3F5em9IdllpQjd5ekZrWk9SLVNPUlduQjh5OFB4U0wteXJJSUV1WHpiNUphcFQtR3d1M3pnM3l5R2U?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "energy_recovery-2026-07-17-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Kazakhstan, China Tianying Advance Investment in Waste Treatment and Energy Recovery Projects - The Astana Times",
+      "companies": [
+        "energy_recovery"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQmlaTTQ2ZlgxRXBjbEFBRHJ4VmE0MGR1NGItT1h0eThnZEJwY01nakdoemxnRHZtYm00cmpWSTIwUm5ZQmIzMlY1WTdibWNveUM2QVdvbnFFWk8tQTEtQ1VFNzRRR0JWaHhubktLTUg1STBwbFZDYlJpMUczc1czUzdBWjhRdW93TWhPT2QyRHlTSkM3Snc5Q25SUXdud3FMeEt6U0JqMzFaTDZqU1k5RmdnbS0zSU1XMTRrM2NKMS0xeFU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_water-2026-07-17-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sen. Tommy Tuberville Unloads Shares of American Water Works Company, Inc. (NYSE:AWK) - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORjJOOFY1UFVsVXhYOUZRTVdRTVoxanBpU0VMZDJkRVk2RWwxbTZGZUkyQWNxTU1PLW1FX1pSbGhwQWkwVUsxQ0xZZzVtbEwzZUR6dG5PeVVHZGtzNjZDZlV2U0tUVUVXUUdSaXdoalc5b1MwMlZhYzJWMmJkSVpUWWlwSzllWlhKQm9vNFlHdzF6aXJzMWtIdDJiRV9GYXU1Ungzd2hzZDE2dVoyc2VKYmQyTTZKWHh3WUZWc0ZKZXl3TWZ2VTBncElkQ3BfUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_water-2026-07-17-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Allspring Global Investments Holdings LLC Increases Stock Position in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSjI0ai1xcUFhdFgwaUZBQ3hQS2pXQjJmVVA2ckZwSExjaExkcGM0MXdxTUJNWWNUOUlDcm4yUU1oWVhMMS1tcGhKa2JkazN0Si1DSXVIV05fU25sbm5uY3AwdldSc1VLVDZhaUVaZmtVTktQZTVqMWlRR1BUaUM3OEFWZjlmQ0NZcDhKXzRUMU02LWJIU0NWb09wVUFzUndYVU5fVUNUNDJPdDdhY3ZwT3BzRXF1WGh4YXVEVHdoYjN6cjRfZ3R2LTIxU1E0SkUxZ1NxQTUyUjFkS3hmaDNfUUJ0M1pxdmp4TW9JV1A5LXJLTmE2NnJiNllhbw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "smart_water": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 3
+      },
+      {
+        "id": "american_water",
+        "count": 3
+      },
+      {
+        "id": "energy_recovery",
+        "count": 1
+      },
+      {
+        "id": "essential",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "capex",
+        "count": 1
+      },
+      {
+        "id": "smart_water",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 155,
+    "too_old": 57,
+    "gate1_blocked": 14,
+    "gate2_blocked": 4,
+    "passed": 30,
+    "pass_rate": "28.6%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "Renewed drone threats put Iraq’s energy recovery at risk - Iraq Oil Report",
+      "Energy Recovery appoints John Mitchell to board of directors By Investing.com - Investing.com Canada",
+      "Veolia Recycling Plastics by Veolia Environnement - closed-loop focus for brands - ad-hoc-news.de",
+      "Danaher stock reflects diversified health care tools business context - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為穆勒、美國水務、ERII相關動態：「Did US$48 Billion Infrastructure Plan and PENNVEST Fundin...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Did US$48 Billion Infrastructure Plan and PENNVEST Funding Just Shift America...（財報、資本支出、水資源產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "How Rising Free Cash Flow and Profitability May Reshape Mueller Water Product...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

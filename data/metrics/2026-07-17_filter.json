@@ -1,0 +1,15 @@
+{
+  "total_raw": 260,
+  "dup_title": 155,
+  "no_date": 0,
+  "too_old": 57,
+  "gate1_fail": 14,
+  "gate2_fail": 4,
+  "passed": 30,
+  "gate2_samples": [
+    "Renewed drone threats put Iraq’s energy recovery at risk - Iraq Oil Report",
+    "Energy Recovery appoints John Mitchell to board of directors By Investing.com - Investing.com Canada",
+    "Veolia Recycling Plastics by Veolia Environnement - closed-loop focus for brands - ad-hoc-news.de",
+    "Danaher stock reflects diversified health care tools business context - ad-hoc-news.de"
+  ]
+}
