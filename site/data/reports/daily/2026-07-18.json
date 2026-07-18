@@ -1,0 +1,46 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T09:40:12.913696Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 169,
+    "too_old": 62,
+    "gate1_blocked": 12,
+    "gate2_blocked": 1,
+    "passed": 16,
+    "pass_rate": "17.6%",
+    "gate2_block_rate": "1.1%",
+    "gate2_samples": [
+      "Renewed drone threats put Iraq’s energy recovery at risk - Iraq Oil Report"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-07-18 無水資源產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

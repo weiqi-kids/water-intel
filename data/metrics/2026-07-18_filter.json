@@ -1,0 +1,12 @@
+{
+  "total_raw": 260,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 62,
+  "gate1_fail": 12,
+  "gate2_fail": 1,
+  "passed": 16,
+  "gate2_samples": [
+    "Renewed drone threats put Iraq’s energy recovery at risk - Iraq Oil Report"
+  ]
+}
