@@ -1,0 +1,199 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T09:57:54.846875Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pentair-2026-07-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pentair stock trades steady as water solutions group highlights cash generation - ad-hoc-news.de",
+      "companies": [
+        "pentair"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdlcxelMxOURQVlR6WXV4U3I5Z2NUeGE3bl83TlZtUDZNLUF5WUhjc2lEUFJsTDFXZ2xyWEF1ODJWdlZGcTEzZUVMQlRXYXd6N3Mxb0dDVlZNc1Q2eWN4cFpONUJDR1RyczgzYVZFV0lHcFJSMU00TTU2THoyWDZ2bTVybVo1NHVGaDRBQWxfQU42RHR1MlJpMEg5UDFWaDU0c1B5QWdmR2hURUN0UENvVmZ3M3RtOUQ5UEdFV09tWE1zLVluRFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-07-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Works Company (AWK) Proxy Filing Summary - Quartr",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNnZzd1pkZzhzTmJsR0VwT283VWl2V0NvdjFfdi1mYUVOSVRHYWlOb1lvVTlDZHpMQnQ1YkRkcHVFQ21YdGRZN2QyR1Nta29TVWJ4cG13cXdfYl9LMkNGMWpvZVI0QmVYMHc3dWlRYWZKYjdQaHVLSEpGX3ozdnpEYkR6cERNMDg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-19-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "KRG Expands Water Infrastructure as Ninth Cabinet Advances Long-Term Water Security - Kurdistan24",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjUySUxjN2hFX3dhRHExRHJiY1pQbzFmX2JvQU9HdU94REVWT2RzYmJDdDlyYTBaY2N6VUM0akd0enprTkNfOGlpTjVhT3ZQQlBWTUN3T0Vlc3pWRENSMTMzMXFBT1J5VGljZ2xwOC1iRDVDOHNONGluSV9GcDZpMmpYSlRDSnVZUE1oN3JMM2FvQUNhQkZEZVM4RE8zQjB1RTJYT3kzaTkzZ3BRbnM3TlVyMkh6dktNWjEzeTB5MlVUMFVsb1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mueller-2026-07-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bessemer Group Inc. Has $16.19 Million Stock Holdings in Mueller Water Products $MWA - MarketBeat",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTUJWV2wtUHM5cUk0UTFiUU1BRkk1UGxReDA5cWlrQm5KMXR3R0lnOHgwYTFFVk1TZzFlVTd0MnFwMHNqTHVNRkxwelc2S0pjdjQtWGhqbWIzRkN3aWIwUnFxRGtoZGJUTTZzOW4ySmV0ZWVMT3ItRTJFU2NPeF9kSG9hUmtxN3NScEUwNkF5U1h0MVZicFZNcEFZc1hiZHNrYVpkY1RLUEZfOGY5aHFBSV9YbmlhSjJNX2xvTHlMNkk0cDd6azNYY2ZlazVBbmt4V3hDRk4wMW8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 1
+      },
+      {
+        "id": "pentair",
+        "count": 1
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 261,
+    "dup_title": 175,
+    "too_old": 62,
+    "gate1_blocked": 10,
+    "gate2_blocked": 1,
+    "passed": 13,
+    "pass_rate": "15.1%",
+    "gate2_block_rate": "1.2%",
+    "gate2_samples": [
+      "Renewed drone threats put Iraq’s energy recovery at risk - Iraq Oil Report"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為穆勒、濱特爾、美國水務相關動態：「Pentair stock trades steady as water solutions group high...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Pentair stock trades steady as water solutions group highlights cash generati...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "American Water Works Company (AWK) Proxy Filing Summary - Quartr（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
