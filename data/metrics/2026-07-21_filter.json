@@ -1,0 +1,13 @@
+{
+  "total_raw": 261,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 6,
+  "gate2_fail": 2,
+  "passed": 22,
+  "gate2_samples": [
+    "Renewed drone threats put Iraq’s energy recovery at risk - Iraq Oil Report",
+    "WTR4976365 Bond Risk Profile - TradingView"
+  ]
+}

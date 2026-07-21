@@ -1,0 +1,130 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:31:02.112783Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_water-2026-07-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "California Public Employees Retirement System Lowers Stock Holdings in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnJrbUhXaVd3MHM3aFJHWW1KSXFKYkJnOVI2WTlWU3M2RU5kanJqaVNYME1zT2wxOGtWRTJ1RUJvTHFjazJUY1k5NWVYT1hQT0s5REU2cTFOWDJqTlJsbHhsSTRaWUZGTTVZZm8xN2VhVTZ2U2t0bXQ4OFhuVTNGQ1FIZE1BbUU1and5T1dyM2Q2dHY2NVFXb0dnckRHUHNZNkhRQk4xekZYSnBOU1EyRU55VEN0cVdybGNNakdDaU8yYUJ0bDdYMmRaVmNXZEtCZkFSTE5kWUdMRVRYaGFsak5pRHF6UENHMnRvV0IxUUMwNk80d2pxM3VsVUo?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-07-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AIA Group Ltd Sells 8,565 Shares of American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZzYyRHMxeDVPaDlXWjdnd2o1SXRMWXNFNE9FUkJrVTZvdzFwV3QzNkFSdjdILUxXaThuX0VES2V1WUtuczFLLTUyTjB2RzNBZENueWlkSFVBWWZ6azFvZG1jQTk1UkZTdG43T21MODZlWXM0TDRwaEJqSkl4a0NsT0ZYa2puS2Z3Uk44dGtzenJLdDFXN1dIN0thWVl6cUJOLS1YR29GSnVQWGh6OXlvZ3BCVHNzYXdhM29PMW1SdV9VU04zWFNjY0dPbDg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 261,
+    "dup_title": 166,
+    "too_old": 65,
+    "gate1_blocked": 6,
+    "gate2_blocked": 2,
+    "passed": 22,
+    "pass_rate": "23.2%",
+    "gate2_block_rate": "2.1%",
+    "gate2_samples": [
+      "Renewed drone threats put Iraq’s energy recovery at risk - Iraq Oil Report",
+      "WTR4976365 Bond Risk Profile - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為美國水務相關動態：「California Public Employees Retirement System Lowers Stoc...」。主要關注主題為水資源產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "California Public Employees Retirement System Lowers Stock Holdings in Americ...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "AIA Group Ltd Sells 8,565 Shares of American Water Works Company, Inc. $AWK -...（水資源產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
