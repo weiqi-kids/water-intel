@@ -1,0 +1,16 @@
+{
+  "total_raw": 261,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 5,
+  "gate2_fail": 5,
+  "passed": 12,
+  "gate2_samples": [
+    "$2.4M Awarded To Harford Co. Schools For Energy Efficiency, Sustainability Projects - Patch",
+    "Renewed drone threats put Iraq’s energy recovery at risk - Iraq Oil Report",
+    "The MRF at Veolia Recycling - Veolia Environnement scales smart sorting - Ad-hoc-news.de",
+    "Danaher stock stabilizes as diagnostics and life sciences support long term growth - Ad-hoc-news.de",
+    "WTR4976365 Bond Risk Profile - TradingView"
+  ]
+}
