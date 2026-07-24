@@ -1,0 +1,16 @@
+{
+  "total_raw": 261,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 5,
+  "gate2_fail": 5,
+  "passed": 18,
+  "gate2_samples": [
+    "$2.4M Awarded To Harford Co. Schools For Energy Efficiency, Sustainability Projects - Patch",
+    "Energy Recovery, Inc. (ERII) director Mitchell John Joseph reports holdings on Form 3 - Stock Titan",
+    "AO Smith, Graco, and Mueller Industries top Buffett-style M&A screen - Investing.com",
+    "Stifel raises AO Smith stock price target to $76 on pricing power - Investing.com Nigeria",
+    "WTR4976365 Bond Risk Profile - TradingView"
+  ]
+}
