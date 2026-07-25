@@ -1,0 +1,166 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:55:28.572988Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "kurita-2026-07-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Kurita Water Industries (6370N) Q3 2024 Earnings Report - Results, Call & Slides - TipRanks",
+      "companies": [
+        "kurita"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94NzJZSmRQOEpKOFAwM2F4TFB0UzBtb2xuNXZQSDFXcEdFV2d1ZUxLQUQxMkZKMjVzQjZ1dGxObEVjZ29IR2FPWWdSbE9ZYmxLUWVUbHdEdnFpSDhSTS1YaDk1a0pSR0FQOEFZUzNBVzh2UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "essential-2026-07-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Essential Utilities Inc|Price:39.620|Chg%:+0.030 - TradingKey",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lWFFyODFGcThrUU5uYVdxRzMycG1WMWxUUVk4SVE4WE1kT21Sb2Rib3FfRFlWZTU3NTdsQ1lPY3lzUGh4VVFyUE8tcWIxdUgtd2VUaHF6S2stOWU0NllyZWF1VV8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mueller-2026-07-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mueller Water Products (NYSE:MWA) Rating Increased to Buy at Wall Street Zen - MarketBeat",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOVlEUno3RzhubUFUaExBOHRueVNnY0t2anZTRUJYMUp4T1YzMFhfakRsdjhvcnlIbFJGc0RJalBtTUZGaEEtLWtmdlVjbVBkU3Z3dDVOM2N6eUpXemsxOVV1SmxKZ3pub0UyWlE3bXFiRmRIMThUby1XWEJIblVqS2RwNDR2cTI4WEIwWHk4Wlh6UFJvVkZDMmNnWnNIa1dlN3Z5UHJRREJLY2Y5T1NJSWRrVGNRSWhZZjFiTG9QTHZpSmFJLUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 1
+      },
+      {
+        "id": "kurita",
+        "count": 1
+      },
+      {
+        "id": "essential",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 261,
+    "dup_title": 158,
+    "too_old": 71,
+    "gate1_blocked": 7,
+    "gate2_blocked": 5,
+    "passed": 20,
+    "pass_rate": "19.4%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Automotive Energy Recovery System Market to Reach USD 93.5 Billion by 2035 at 8.2% CAGR - EIN News",
+      "Energy Recovery, Inc. (ERII) director Mitchell John Joseph reports holdings on Form 3 - Stock Titan",
+      "AO Smith, Graco, and Mueller Industries top Buffett-style M&A screen - Investing.com",
+      "Stifel raises AO Smith stock price target to $76 on pricing power - Investing.com Nigeria",
+      "WTR4976365 Bond Risk Profile - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為穆勒、栗田、必要公用相關動態：「Kurita Water Industries (6370N) Q3 2024 Earnings Report -...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Kurita Water Industries (6370N) Q3 2024 Earnings Report - Results, Call & Sli...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Essential Utilities Inc|Price:39.620|Chg%:+0.030 - TradingKey（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

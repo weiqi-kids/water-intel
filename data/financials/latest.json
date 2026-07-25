@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T10:26:01.255071Z",
+  "updated_at": "2026-07-25T09:55:25.711364Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -41,17 +41,17 @@
       "name": "巴傑",
       "ticker": "BMI",
       "currency": "USD",
-      "ar": 110290000,
-      "ar_prev": 112356000,
-      "ar_qoq": "-2%",
+      "ar": 121234000,
+      "ar_prev": 110290000,
+      "ar_qoq": "+10%",
       "ar_period": "QoQ",
-      "inventory": 175193000,
-      "inv_prev": 151935000,
-      "inv_qoq": "+15%",
+      "inventory": 178091000,
+      "inv_prev": 175193000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "danaher",
