@@ -18,49 +18,50 @@
     "history_complete": true
   },
   "veolia": {
-    "earliest": "2000-10-11",
+    "earliest": "2000-07-20",
     "latest": "2026-07-24",
-    "count": 6622
+    "count": 6681
   },
   "pentair": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-24",
-    "count": 6478
+    "count": 6541
   },
   "ao_smith": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-24",
-    "count": 6478
+    "count": 6541
   },
   "danaher": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-24",
-    "count": 6478
+    "count": 6541
   },
   "watts": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-24",
-    "count": 6478
+    "count": 6541
   },
   "badger": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-24",
-    "count": 6478
+    "count": 6541
   },
   "kurita": {
     "earliest": "2001-01-01",
     "latest": "2026-07-24",
-    "count": 6368
+    "count": 6368,
+    "history_complete": true
   },
   "zhongyu": {
-    "earliest": "2000-10-30",
+    "earliest": "2000-08-01",
     "latest": "2026-07-24",
-    "count": 6389
+    "count": 6453
   },
   "essential": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-24",
-    "count": 6478
+    "count": 6541
   },
   "american_water": {
     "earliest": "2008-04-23",

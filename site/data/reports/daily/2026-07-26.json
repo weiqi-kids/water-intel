@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T10:07:57.628415Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 169,
+    "too_old": 71,
+    "gate1_blocked": 6,
+    "gate2_blocked": 5,
+    "passed": 9,
+    "pass_rate": "9.9%",
+    "gate2_block_rate": "5.5%",
+    "gate2_samples": [
+      "Automotive Energy Recovery System Market to Reach USD 93.5 Billion by 2035 at 8.2% CAGR - EIN News",
+      "Energy Recovery, Inc. (ERII) director Mitchell John Joseph reports holdings on Form 3 - Stock Titan",
+      "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Stifel raises AO Smith stock price target to $76 on pricing power - Investing.com Nigeria",
+      "WTR4976365 Bond Risk Profile - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-07-26 無水資源產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

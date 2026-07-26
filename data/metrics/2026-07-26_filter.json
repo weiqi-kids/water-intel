@@ -1,0 +1,16 @@
+{
+  "total_raw": 260,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 6,
+  "gate2_fail": 5,
+  "passed": 9,
+  "gate2_samples": [
+    "Automotive Energy Recovery System Market to Reach USD 93.5 Billion by 2035 at 8.2% CAGR - EIN News",
+    "Energy Recovery, Inc. (ERII) director Mitchell John Joseph reports holdings on Form 3 - Stock Titan",
+    "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Stifel raises AO Smith stock price target to $76 on pricing power - Investing.com Nigeria",
+    "WTR4976365 Bond Risk Profile - TradingView"
+  ]
+}
