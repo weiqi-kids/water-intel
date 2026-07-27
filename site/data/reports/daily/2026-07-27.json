@@ -1,0 +1,162 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T11:32:58.626219Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-07-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mueller Water Products (MWA) Projected to Post Earnings on Monday - MarketBeat",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGJ4V0RSclpNR2xnSk5XMUpxZXVSWnFMdFZzbWxVLWtTUGVkMF9UMzFIWF9YZzBwNEdNMlR2RXhRdEJ4YTJYLWVSVVJNSENzLXREZ0F5QnE5NnJzMkpKUVY0aS1tN29mRjdWS2ZJNlRnTjctR2N5Tkx5X0pBYTNWVjZXektIVlRJUHVFeVZiLUJWZm1CZkxtTW14YTNNSVVBVkthTHNpQjB0UTFxaFhISE1TbmdRdlE5?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mueller-2026-07-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weiss Asset Management LP Invests $1.57 Million in Mueller Water Products $MWA - MarketBeat",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeDI4anlrNWNHS1dtNmJiellVb21GeGppRE93MkZ5dGVhS01JLTRBVEZLMmlrN0F5cHI2RThQcnFUczBCVy1WYXZ3VEVXZFFFUk1WT2tTbnZHVk45NjlLTXJlUW9QQ012OG9kWHVyWEJYYV9pdENGVElvNlF5WEtRRUdLTUxvZ1ZwdnVjeDY3N3BielY2cldtS0dhM0RqX0EyM2NNMktNZ2ZsNFk3cEF0WmFFQ3A3YlVqM2tHUDRRNlRBXzhYSlZqcUhDWGtmRmhXN3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_water-2026-07-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BROOKFIELD Corp ON Has $3.02 Million Stock Position in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX0pFNkNUZVRqajdhYlFRWkxfUGpBZE9XMG9kYlNJd3l4VFhqeS1NQV93Uy1jS2tvNHFiWi1WcExDOURJMHZiY3g0eHB6Q1lBcGw4Q1I4SHVsSkJDa1lrMkUwTEFXT0NsZ09oRDNZakdBRXRyNVpZN3VKWkZadEhPbzZvbDdlWnZNbmpDR0hwMWtCVk1obUVxdm1raDdkelhOZnpNVTBNbzJ5ZElQT3pZa3B4VjBKd245TDJTd1NjYm1aS1E5VllxeEYwZm5iWDdiVi1mbUlrY19PellWME54bDRBLWo?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 2
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 168,
+    "too_old": 75,
+    "gate1_blocked": 3,
+    "gate2_blocked": 2,
+    "passed": 12,
+    "pass_rate": "13.0%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "Athens Metro: Energy recovery system tested on Line 1 - eKathimerini.com",
+      "Automotive Energy Recovery System Market to Reach USD 93.5 Billion by 2035 at 8.2% CAGR - EIN News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為穆勒、美國水務相關動態：「Mueller Water Products (MWA) Projected to Post Earnings o...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mueller Water Products (MWA) Projected to Post Earnings on Monday - MarketBeat（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Weiss Asset Management LP Invests $1.57 Million in Mueller Water Products $MW...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
