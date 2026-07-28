@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T10:42:05.880954Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "energy_recovery-2026-07-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Athens Metro Adds New Energy Recovery Technology - GTP Headlines",
+      "companies": [
+        "energy_recovery"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQUE2ekpTY0F4azh2djFQUlVDa3RQY0FxRWNhem1RaUtjTE10T0pUakctRmd6YV9lMXMwaFQyRjBLMjhvSGNRcXdRZXB5RFFTRzRrcjJqQktDSXVnZ2tTU01yRzFMSmx0amlRS3liUG1idzBZM1F4X3QzM21WY1FhWF9hYUNEdkU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "essential-2026-07-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "WTRG|Essential Utilities Inc|Price:39.555|Chg%:-0.055 - TradingKey",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12aWpuVUVhUVJwcENjcHh0RUZmTlFPWW9vc3N4Um93ZVE3OFUxdG5NLXN2V2x0c0JxdFI1ZWY0bW9UQTJ0SkNqR3hZWUhBRmpuaEJGM2tNazhZTDc2UFY0TzNwVEE3SmY0bDJzTnBR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "energy_recovery",
+        "count": 1
+      },
+      {
+        "id": "essential",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 153,
+    "too_old": 79,
+    "gate1_blocked": 3,
+    "gate2_blocked": 3,
+    "passed": 22,
+    "pass_rate": "20.6%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "Athens Metro: Energy recovery system tested on Line 1 - eKathimerini.com",
+      "Automotive Energy Recovery System Market to Reach USD 93.5 Billion by 2035 at 8.2% CAGR - EIN News",
+      "AO Smith, Graco, and Mueller Industries top Buffett-style M&A screen - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為ERII、必要公用相關動態：「Athens Metro Adds New Energy Recovery Technology - GTP He...」。主要關注主題為水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Athens Metro Adds New Energy Recovery Technology - GTP Headlines",
+        "level": "green"
+      },
+      {
+        "text": "WTRG|Essential Utilities Inc|Price:39.555|Chg%:-0.055 - TradingKey（水資源產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

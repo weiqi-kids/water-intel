@@ -1,85 +1,85 @@
 {
   "mueller": {
     "earliest": "2025-07-18",
-    "latest": "2026-07-24",
-    "count": 253,
+    "latest": "2026-07-27",
+    "count": 254,
     "history_complete": true
   },
   "energy_recovery": {
     "earliest": "2008-07-02",
-    "latest": "2026-07-24",
-    "count": 4543,
+    "latest": "2026-07-27",
+    "count": 4544,
     "history_complete": true
   },
   "xylem": {
     "earliest": "2011-10-13",
-    "latest": "2026-07-24",
-    "count": 3715,
+    "latest": "2026-07-27",
+    "count": 3716,
     "history_complete": true
   },
   "veolia": {
     "earliest": "2000-07-20",
-    "latest": "2026-07-27",
-    "count": 6682,
+    "latest": "2026-07-28",
+    "count": 6683,
     "history_complete": true
   },
   "pentair": {
-    "earliest": "2000-04-24",
-    "latest": "2026-07-24",
-    "count": 6602
+    "earliest": "2000-01-25",
+    "latest": "2026-07-27",
+    "count": 6665
   },
   "ao_smith": {
-    "earliest": "2000-04-24",
-    "latest": "2026-07-24",
-    "count": 6602
+    "earliest": "2000-01-25",
+    "latest": "2026-07-27",
+    "count": 6665
   },
   "danaher": {
-    "earliest": "2000-04-24",
-    "latest": "2026-07-24",
-    "count": 6602
+    "earliest": "2000-01-25",
+    "latest": "2026-07-27",
+    "count": 6665
   },
   "watts": {
-    "earliest": "2000-04-24",
-    "latest": "2026-07-24",
-    "count": 6602
+    "earliest": "2000-01-25",
+    "latest": "2026-07-27",
+    "count": 6665
   },
   "badger": {
-    "earliest": "2000-04-24",
-    "latest": "2026-07-24",
-    "count": 6602
+    "earliest": "2000-01-25",
+    "latest": "2026-07-27",
+    "count": 6665
   },
   "kurita": {
     "earliest": "2001-01-01",
-    "latest": "2026-07-27",
-    "count": 6369,
+    "latest": "2026-07-28",
+    "count": 6370,
     "history_complete": true
   },
   "zhongyu": {
-    "earliest": "2000-05-03",
-    "latest": "2026-07-27",
-    "count": 6518
+    "earliest": "2000-02-03",
+    "latest": "2026-07-28",
+    "count": 6583
   },
   "essential": {
-    "earliest": "2000-04-24",
-    "latest": "2026-07-24",
-    "count": 6602
+    "earliest": "2000-01-25",
+    "latest": "2026-07-27",
+    "count": 6665
   },
   "american_water": {
     "earliest": "2008-04-23",
-    "latest": "2026-07-24",
-    "count": 4592,
+    "latest": "2026-07-27",
+    "count": 4593,
     "history_complete": true
   },
   "etf_pho": {
     "earliest": "2005-12-06",
-    "latest": "2026-07-24",
-    "count": 5189,
+    "latest": "2026-07-27",
+    "count": 5190,
     "history_complete": true
   },
   "etf_cgw": {
     "earliest": "2007-05-14",
-    "latest": "2026-07-24",
-    "count": 4830,
+    "latest": "2026-07-27",
+    "count": 4831,
     "history_complete": true
   }
 }

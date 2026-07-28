@@ -1,0 +1,14 @@
+{
+  "total_raw": 260,
+  "dup_title": 153,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 3,
+  "gate2_fail": 3,
+  "passed": 22,
+  "gate2_samples": [
+    "Athens Metro: Energy recovery system tested on Line 1 - eKathimerini.com",
+    "Automotive Energy Recovery System Market to Reach USD 93.5 Billion by 2035 at 8.2% CAGR - EIN News",
+    "AO Smith, Graco, and Mueller Industries top Buffett-style M&A screen - Investing.com"
+  ]
+}

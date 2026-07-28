@@ -1,5 +1,43 @@
 [
   {
+    "id": "energy_recovery-2026-07-28-001",
+    "date": "2026-07-28",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Athens Metro Adds New Energy Recovery Technology - GTP Headlines",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQQUE2ekpTY0F4azh2djFQUlVDa3RQY0FxRWNhem1RaUtjTE10T0pUakctRmd6YV9lMXMwaFQyRjBLMjhvSGNRcXdRZXB5RFFTRzRrcjJqQktDSXVnZ2tTU01yRzFMSmx0amlRS3liUG",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQUE2ekpTY0F4azh2djFQUlVDa3RQY0FxRWNhem1RaUtjTE10T0pUakctRmd6YV9lMXMwaFQyRjBLMjhvSGNRcXdRZXB5RFFTRzRrcjJqQktDSXVnZ2tTU01yRzFMSmx0amlRS3liUG1idzBZM1F4X3QzM21WY1FhWF9hYUNEdkU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-07-28-002",
+    "date": "2026-07-28",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "WTRG|Essential Utilities Inc|Price:39.555|Chg%:-0.055 - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE12aWpuVUVhUVJwcENjcHh0RUZmTlFPWW9vc3N4Um93ZVE3OFUxdG5NLXN2V2x0c0JxdFI1ZWY0bW9UQTJ0SkNqR3hZWUhBRmpuaEJGM2tNazhZTDc2UFY0TzNwVEE3SmY0bDJzTnBR?o",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12aWpuVUVhUVJwcENjcHh0RUZmTlFPWW9vc3N4Um93ZVE3OFUxdG5NLXN2V2x0c0JxdFI1ZWY0bW9UQTJ0SkNqR3hZWUhBRmpuaEJGM2tNazhZTDc2UFY0TzNwVEE3SmY0bDJzTnBR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-07-27-001",
     "date": "2026-07-27",
     "companies": [
@@ -58,6 +96,400 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX0pFNkNUZVRqajdhYlFRWkxfUGpBZE9XMG9kYlNJd3l4VFhqeS1NQV93Uy1jS2tvNHFiWi1WcExDOURJMHZiY3g0eHB6Q1lBcGw4Q1I4SHVsSkJDa1lrMkUwTEFXT0NsZ09oRDNZakdBRXRyNVpZN3VKWkZadEhPbzZvbDdlWnZNbmpDR0hwMWtCVk1obUVxdm1raDdkelhOZnpNVTBNbzJ5ZElQT3pZa3B4VjBKd245TDJTd1NjYm1aS1E5VllxeEYwZm5iWDdiVi1mbUlrY19PellWME54bDRBLWo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-07-27-004",
+    "date": "2026-07-27",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products to Report Third Quarter 2026 Financial Results on August 5, 2026 - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmRmZDd2UkU0Z21peHJ3MEJTZDBEVVM5S01veW9BVmhFdDc4X09Zck9zcmFlUzBZNVYtSWF0al8xVVJxemJ2X3ZVY05JWUtYQnpVMl9zUmx3bXdYOVNyU09QOUVQa1h6NXQyS0h3LV",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmRmZDd2UkU0Z21peHJ3MEJTZDBEVVM5S01veW9BVmhFdDc4X09Zck9zcmFlUzBZNVYtSWF0al8xVVJxemJ2X3ZVY05JWUtYQnpVMl9zUmx3bXdYOVNyU09QOUVQa1h6NXQyS0h3LVU5RlZRVmpLekpVaGdrRzJ2SW9PdlFkWG1CZ2VtaHpYemVBN3N4Q3ZsS3pGTjAzR0NXeEx6aVV2SHVpZzhlYkdGT3AzX1oxUzBfLUptMF9jMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-07-27-005",
+    "date": "2026-07-27",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water to Host Aug. 6 Call on June-Quarter Results - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaERQYW5FakROdjJLRWdobTEyaV9FaEsycWhfaHNUVUJpY1p5TmU0UmRjZExCWnB2VmhFUEdjWUk2dUdHNDJLNGloVmR0Q0RrZGJoUHVBQjgweFFZTko4Zm1KZW9pOVVNRTF2aEhTcC",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaERQYW5FakROdjJLRWdobTEyaV9FaEsycWhfaHNUVUJpY1p5TmU0UmRjZExCWnB2VmhFUEdjWUk2dUdHNDJLNGloVmR0Q0RrZGJoUHVBQjgweFFZTko4Zm1KZW9pOVVNRTF2aEhTcC1jXzI5Vi1DRllIQU5PRDlvblVFc056QVN6aUFEMUJpSzVqYjRMTlRvT2JtSnpJWGhHVmFGRHZsMzI1RlQyYXFYSlBPUFYyZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-07-27-006",
+    "date": "2026-07-27",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MUELLER WATER PRODUCTS Revenue Breakdown – NYSE:MWA - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5BWFlIYkdCVWJEZWtuTW1adU4ybGpUdDkwY0RkSXJhcEpyWUNVZkc5MENSaTNmWVdxRk1GQnNHY1pPSzg1QkM5NG1Da1lIdVFIWXNrdm13dnhVZTVCbDV5MVA4Wk1TdzNYQmpXMmU0Sm",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BWFlIYkdCVWJEZWtuTW1adU4ybGpUdDkwY0RkSXJhcEpyWUNVZkc5MENSaTNmWVdxRk1GQnNHY1pPSzg1QkM5NG1Da1lIdVFIWXNrdm13dnhVZTVCbDV5MVA4Wk1TdzNYQmpXMmU0SmlSNmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-07-27-007",
+    "date": "2026-07-27",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products Announces Dates for Third Quarter 2026 Earnings Release and Conference Call - The Manila Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNSE9Pb1BHeExENF9oWEsteWJtck1yeXJJUEFOWUljdDJkMVJ5aGhFOGtSQnB6Tkp2Zjh2ZnVoVDhkN014cnBIVkZHNjZPcFA2amhsd3RyTVRhU1ppRUUwU1dKaGgxMWtRZElUdS03YX",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSE9Pb1BHeExENF9oWEsteWJtck1yeXJJUEFOWUljdDJkMVJ5aGhFOGtSQnB6Tkp2Zjh2ZnVoVDhkN014cnBIVkZHNjZPcFA2amhsd3RyTVRhU1ppRUUwU1dKaGgxMWtRZElUdS03YXN3ZHhZOHBoLUNoNWNPU2M2Q0ZmYUE0TWQ5RHpYVEJnWDZ5T1J0RmxKNm10Z0VKMUpfbW9qRkhuUVl0X0FCYUc5QjlzMGQyOUJxREc5VWFMYk1LTDJwRXpwNFh4U1U2TjBodHU3VW56bTQyOFJTM3M3Y05KcU9NTXNRYnJnaHhGUnNuNzBmaTVRWm1aOUoxU25xSzVadG52b9IBhwJBVV95cUxNSE9Pb1BHeExENF9oWEsteWJtck1yeXJJUEFOWUljdDJkMVJ5aGhFOGtSQnB6Tkp2Zjh2ZnVoVDhkN014cnBIVkZHNjZPcFA2amhsd3RyTVRhU1ppRUUwU1dKaGgxMWtRZElUdS03YXN3ZHhZOHBoLUNoNWNPU2M2Q0ZmYUE0TWQ5RHpYVEJnWDZ5T1J0RmxKNm10Z0VKMUpfbW9qRkhuUVl0X0FCYUc5QjlzMGQyOUJxREc5VWFMYk1LTDJwRXpwNFh4U1U2TjBodHU3VW56bTQyOFJTM3M3Y05KcU9NTXNRYnJnaHhGUnNuNzBmaTVRWm1aOUoxU25xSzVadG52bw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-07-27-008",
+    "date": "2026-07-27",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products Q3 Results: Earnings release and call dates set - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPSmcwWXdlMkJMLTJqa2Zmc2Q3Y0tlTW1FSTk5SHVZTk53SEhqRGpSa05iX25NeHFQTGRfV3JsRkpxOW1QQmZ5LVUtOXZLRHJxTVl3ZGZzWDFoQVNLam1BRmlyX0trb1YwWlhmVUt1Wm",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSmcwWXdlMkJMLTJqa2Zmc2Q3Y0tlTW1FSTk5SHVZTk53SEhqRGpSa05iX25NeHFQTGRfV3JsRkpxOW1QQmZ5LVUtOXZLRHJxTVl3ZGZzWDFoQVNLam1BRmlyX0trb1YwWlhmVUt1WmJreWd4LWNJbTRwMTVVd2RlcVY2U3B5R001WG9GZXQtb2cxX09zVjVOcDJVNXFkbVVhTkdNYk9wSXhXYTcxYmZHZ3JJd1ktRDIwa05GOWpVbW01VS1f?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-009",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Water Quality Sensor Market Size To Exceed $11.45 Billion By 2035 - SNS Insider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOM2M0dk1DbDhkcEtscHVMSTFZQmxWbXkwQXp4N0NFVmJlYnNzRkFrYTYtUngzb196S1MyT2V5X3p1SWJZYkJjOFpCRVdmNDJXRENLY1FNZkl5ajNxTUxkMmhCcHptVEpzRmtOY29MRl",
+    "sources": [
+      {
+        "name": "danaher",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM2M0dk1DbDhkcEtscHVMSTFZQmxWbXkwQXp4N0NFVmJlYnNzRkFrYTYtUngzb196S1MyT2V5X3p1SWJZYkJjOFpCRVdmNDJXRENLY1FNZkl5ajNxTUxkMmhCcHptVEpzRmtOY29MRlpRYWl0OTZXNWN3UzJZTmNvcg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-27-010",
+    "date": "2026-07-27",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company, Inc. Revenue Breakdown – NYSE:AWK - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1BcjNWWVdGSU4zdHZueUdiSmRTYlRoVUJmdVNOVVdRc19SUlBuTmlNQWxTd09FWXVPUFE4MktxNDVSM3JvdVV4RXAxa19xMmpNQk5UUFlxdGlLM3NHaDBRcVd0QTJfeVdYaTlTeFQyMn",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BcjNWWVdGSU4zdHZueUdiSmRTYlRoVUJmdVNOVVdRc19SUlBuTmlNQWxTd09FWXVPUFE4MktxNDVSM3JvdVV4RXAxa19xMmpNQk5UUFlxdGlLM3NHaDBRcVd0QTJfeVdYaTlTeFQyMnNEVTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-011",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Jersey American Water Plans More Than $25M in Water Upgrades - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQN0VNcVFTSk1ydU5wb1pwSzZ3OGZsQ1hrNXljV2FSR2RCSnE1Z013UUVNQlRsMjUxeTVMSGFVNGh2VTU2SDR4WXVNMlJDSE1TZ0VYcHFkV0VJMjFSQnI3MWhSeGVETUc0SG42MGZXTW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN0VNcVFTSk1ydU5wb1pwSzZ3OGZsQ1hrNXljV2FSR2RCSnE1Z013UUVNQlRsMjUxeTVMSGFVNGh2VTU2SDR4WXVNMlJDSE1TZ0VYcHFkV0VJMjFSQnI3MWhSeGVETUc0SG42MGZXTWtUS3F2Z1FpNW1GeEdCSW1sQk05WHVMODdUWFBlUjhQcW5SMGxmcnJlRVFzLWpPQWRCQVExOTR1Nkl3ZUdZLUUxeGM0cVFUM2J5Y21odA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-012",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Releases Annual Sustainability Report - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTBlWmQ4NnRQRmk4dFhweUlIM2FpMHBRZXhBNnpsMmtPT3FpVkVvbml2M2t6dEtRZ0ZMTzZjRE5EUTNqejR5QUUtQ0s5X1g3S1E1c0lRNkdNNU5NemtQWlA2cUlCd3FTbUtfdDkxTm",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTBlWmQ4NnRQRmk4dFhweUlIM2FpMHBRZXhBNnpsMmtPT3FpVkVvbml2M2t6dEtRZ0ZMTzZjRE5EUTNqejR5QUUtQ0s5X1g3S1E1c0lRNkdNNU5NemtQWlA2cUlCd3FTbUtfdDkxTmh0Z0pYeEZOSDkzZHZCUFctYmJkRVRLTXROck1qTVFxRDFVSzVjX29IT0EycTFKY0lTSXR1bEkzcGU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-013",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Jersey American Water Completes Acquisition of Gordon's Corner Water Company - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPQVJvejJCUGZVeHVnZ2FZd2hxTXBVRzdvd1h4b29keDdlcUtCdUR2cHFXZ0RCLUI0eWZuaEF2MWg0d3RkWS04MkdPN0ZpUUIxRlFhVkVjdDRpd2tuem1GQkUwZEdpLW9vWEYtOWNhaW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQVJvejJCUGZVeHVnZ2FZd2hxTXBVRzdvd1h4b29keDdlcUtCdUR2cHFXZ0RCLUI0eWZuaEF2MWg0d3RkWS04MkdPN0ZpUUIxRlFhVkVjdDRpd2tuem1GQkUwZEdpLW9vWEYtOWNhaWNvdDZlbXg2N3VFZkl1OEhrOUVzb1ZxTC1ZbFJHNEJMQkE2azhNQXRDYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-014",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tennessee American Water Accepting Applications for 2026 Firefighting Support Grant Program - Finviz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFJHVlpDT3AzRFlkdUdrbjNLMTRCYnMwZDVQVTFmeDkwNjdFSUlQblBMeE8yQ2poMGhOcmZkeVJSbTA3VlBlZl9aYjBoYVhNZHduWkc1MHRhVkVPcTNkVU5oZFlBZlhxXzB0WWFDYX",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFJHVlpDT3AzRFlkdUdrbjNLMTRCYnMwZDVQVTFmeDkwNjdFSUlQblBMeE8yQ2poMGhOcmZkeVJSbTA3VlBlZl9aYjBoYVhNZHduWkc1MHRhVkVPcTNkVU5oZFlBZlhxXzB0WWFDYXQyellGcERLNEZoWEZEeXNRMWh4WDlHZEhCbG9yQTFlaUxyMWw4R0h6OGJGdTl5R1VrR2h4emN0ajYzSkN6c3pFWDZKQVJRZEY2OGtMWVEtUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-015",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Releases Tenth Sustainability Report Highlighting Industry Leadership - Intellectia AI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOOVRiY3U4VFo0UUdONnlBRm1qRFFULXl3MHRrS3F4blRUamVCaVR4Z2JEV3F4MFJ5TldfME1mOGVOZWN5Y2FLWVl3RHV0M2tmRE5Sb1hqOFVjV1dXTHFQY0NfYlFCaHlweW1HWlItLW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOVRiY3U4VFo0UUdONnlBRm1qRFFULXl3MHRrS3F4blRUamVCaVR4Z2JEV3F4MFJ5TldfME1mOGVOZWN5Y2FLWVl3RHV0M2tmRE5Sb1hqOFVjV1dXTHFQY0NfYlFCaHlweW1HWlItLWZ5VUYwd05HcWhFN0F0QkpaWFZkd2YyMXJVanFJS0Q3UzVQNWlvN3Nkdno0ZFBCVE1LQ2VHUzFIQW9pNjRsRU5DRUtoQTl1N1F3Y1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-07-27-016",
+    "date": "2026-07-27",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "water_scarcity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maryland American Water Urges Customers to Reduce Nonessential Water Use in Response to Drought Conditions - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUk5hdEo4NlQxUlF1ZHNoLXhHc0RBZTRvQXpjSXY4b3FBMWtVUTVBRTVJM2pvbmVabGk2ZmtGQUVsV3ZhamhmV1p5OHVTbDJMdXNTLXJrSjdDLXdnVDJiVG41T28ydWp2SnY2QXowYl",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUk5hdEo4NlQxUlF1ZHNoLXhHc0RBZTRvQXpjSXY4b3FBMWtVUTVBRTVJM2pvbmVabGk2ZmtGQUVsV3ZhamhmV1p5OHVTbDJMdXNTLXJrSjdDLXdnVDJiVG41T28ydWp2SnY2QXowYlNTVGpteGdVblpPZThlalBFRERiVGVnaEJ4N3hsNlpDZnVmS1ZYempiR1QtakticS1MVk14bWRfNUFSa2VjQnd0MXdpZVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-017",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water to Report Q2 Earnings: What's in Store for the Stock? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOd29rT1pZU2gtbkkzM2FGM3oxRHhqX0xkeGxMRHZVQXFrNmFBM1hqSmpNSlJueFFPSHBra3FIa1pIbFZpT0ZEaDh2UXd2NzZteFNGTldyWW5QOFEzdkZPU3BkMFZNbk5DLU5vbklteE",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd29rT1pZU2gtbkkzM2FGM3oxRHhqX0xkeGxMRHZVQXFrNmFBM1hqSmpNSlJueFFPSHBra3FIa1pIbFZpT0ZEaDh2UXd2NzZteFNGTldyWW5QOFEzdkZPU3BkMFZNbk5DLU5vbklteENPNnlEdkcwV09pNUNpTlJYOWtxZ05PQ0ZtTFZMMllwYmlBUEZNSUNoVlFXSk1TOFdVakowN2RjTTF5ZXdBQXZoU0VoZV9TQkNKYXF4UHRsRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-018",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "water_scarcity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Residential customers get water-saving tips as Maryland drought watch continues - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSzFYc3JsaG9MVDc0ZlJZajNYNEZ5VWMtVkJQaFEzZW5tZ2FaZGNHT2FSblA3bFNZYno1aE84eWtGRG1QZHVHSFF0cDRnTWtJV0t5QWtGdmpMZnVuX0RYZ0VpSE9qQUwya214VDY5T2",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSzFYc3JsaG9MVDc0ZlJZajNYNEZ5VWMtVkJQaFEzZW5tZ2FaZGNHT2FSblA3bFNZYno1aE84eWtGRG1QZHVHSFF0cDRnTWtJV0t5QWtGdmpMZnVuX0RYZ0VpSE9qQUwya214VDY5T2QyWTN1UnZpUk9xZmtFbFRNSTRaXzM5bm5wMFlEenQzNWphLS1sMjE0X0lKeTgtN3ZfN0JsZ2hTbG05d2VwNkFiZENKcWNSWEhjY0swUmEzYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-07-27-019",
+    "date": "2026-07-27",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "water_scarcity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maryland American Water Urges Customers to Reduce Nonessential Water Use in Response to Drought Conditions - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGxuYzc1dHdzR04yZ3M4SXpOQmlkMjBaWms0R21iMXhCTUwxRnp1ZXhXbTN6V3NQQ0I2aGhFSVJ1YkRvM2FaeVVZRU5tYzVQdGVwa2dyZjRJSXVzUHhuSFpWX1lCdXBOQjFQMFFoRl",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGxuYzc1dHdzR04yZ3M4SXpOQmlkMjBaWms0R21iMXhCTUwxRnp1ZXhXbTN6V3NQQ0I2aGhFSVJ1YkRvM2FaeVVZRU5tYzVQdGVwa2dyZjRJSXVzUHhuSFpWX1lCdXBOQjFQMFFoRlZMQndrekpGYU9pU1pwemxyNDRQTG9kbGtXZjUzcGFGZ1ItWGJKclVsRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-020",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "water_scarcity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Drought Warning Covers All of Virginia American Water's Territory - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPRFJOVTlyMmRzZmU5U0RNVE8zVUF4eVpaVk95aHpuanByRUl2bjluTHNLNEtOU0tOX0wwUHpSQVM3amcxaUt6Rk1uZER6VXBOWThMQzJkczFZZWxrcEhLZXRXVE5wS3JKdjRIUC1kZk",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRFJOVTlyMmRzZmU5U0RNVE8zVUF4eVpaVk95aHpuanByRUl2bjluTHNLNEtOU0tOX0wwUHpSQVM3amcxaUt6Rk1uZER6VXBOWThMQzJkczFZZWxrcEhLZXRXVE5wS3JKdjRIUC1kZkVoR0RXaDJ1U1pRODltcEJUemZuZU0yRVNwOEctWE10Vl8ydkJWcDNWMDJTRE0zS1cyMVo0ZmtxTEotNDhlYUpVSzdZd3I1dG5uRndOVldYZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-27-021",
+    "date": "2026-07-27",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Co Inc expected to post earnings of $1.54 a share - Earnings Preview - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNDZsQk16VjhFQ2VXUWhCRnczQW1ZcTlZbEU2T1dDOWx3LVlZYU1BX1FySl9fRjR6S2tYelBOb0E3UzNJQnc4UnhkYnlEV3FKLTEwd1Ridmc0ZkZ2eXZFZWRXYWR4ejE4WGVRd1JwbF",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNDZsQk16VjhFQ2VXUWhCRnczQW1ZcTlZbEU2T1dDOWx3LVlZYU1BX1FySl9fRjR6S2tYelBOb0E3UzNJQnc4UnhkYnlEV3FKLTEwd1Ridmc0ZkZ2eXZFZWRXYWR4ejE4WGVRd1JwbFV2VHIxWUltaGV1VzB2TGh3Q2JYV25PUmhoa0dXdGY4YUFlejZqOTE2M3JvRHdDQm1VNkVCd3QwOU1Sd182ZHdvclRmVTkzSmxfWWFxOE8ySFNmYlUxNWE4MHFMOEJnNm5zcUJPTmNwR0dBZm8tdDNvNFpqMEMycUFuZ1hnTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-022",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Fire departments can seek up to $1,000 from Tennessee American Water - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPeHhGcHRGbGJaLXpma0IwWDlYM3ZUdUhtbkpvYUViQVBLSmRNa3VXWDVoeUprUWFsY3ZjQ0VCRndKbktmTkZoamRPcWVOYXB5U2p2YWQwaTVmdlRDTjNGMHpUTERHc050T3RsYWF2cE",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeHhGcHRGbGJaLXpma0IwWDlYM3ZUdUhtbkpvYUViQVBLSmRNa3VXWDVoeUprUWFsY3ZjQ0VCRndKbktmTkZoamRPcWVOYXB5U2p2YWQwaTVmdlRDTjNGMHpUTERHc050T3RsYWF2cE5FX3loandGSmNsUDhfbGUtTzIxb3kySmY0MjJ3T0pHQ0hQNmVrdUNYY2ctUm9sYkk1UFBsbGhZZGpUMDI5d0s4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-023",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Report Highlights Safe, Clean Water Services - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQYW9YUUpFenJsU3B0NTZkTUdDeGxhYVFfN0FxUTZNRTJnX3FzNUJ4dU5pUGhMN1dWVGNGd004ZXRjWU4zd1lJWGxTYWM0dVZVOFE5M0pTcjNGX20yekN6VmFtWTBoNXR2Y3hlQUdrYU",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYW9YUUpFenJsU3B0NTZkTUdDeGxhYVFfN0FxUTZNRTJnX3FzNUJ4dU5pUGhMN1dWVGNGd004ZXRjWU4zd1lJWGxTYWM0dVZVOFE5M0pTcjNGX20yekN6VmFtWTBoNXR2Y3hlQUdrYU44RFYtcHJ3RVNqRExIVGdyQzVxMlhFbWNTYkVKcElzSVJpcVM0aDZFeUZmeTN0M1dI?oc=5",
         "type": "rss"
       }
     ]
