@@ -1,0 +1,237 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T10:45:49.987393Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "energy_recovery-2026-07-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Energy Recovery to build Saudi factory targeting $146m desalination market - arabnews.jp",
+      "companies": [
+        "energy_recovery"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "desalination",
+        "smart_water",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83Nk9KaE4zSU5RYjh1dDMtV0xsOWNUb25RTTU5OTA1Rk15ZWVhNzkxMXBsUHp2VkIyQnVEamI1YW9SRkZyYUZ4emQ4ZC1jck9FMXBjQmxuS1BJQU41T1dUeg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "energy_recovery-2026-07-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saudi Water Authority Announces Localization of Energy Recovery Devices Manufacturing - ASHARQ AL-AWSAT English",
+      "companies": [
+        "energy_recovery"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMUI1TnZ6bGQ1MkV4UEdnM0t6UmlScFg2VnZzbi1GcTVlZGtaVjB0WXpsUWZWZzNvMXhDUUVIdmlPM2s4cmlkZjBIRDl1bWRWQk0tZzk5X3QydnU0dnRLUnpEWW53V1IybXZxVDU5V2NnY08wSWdoVVpUTW45eExMc0s2TkF3V0lpUHRaaHBiVy1jME9KZWlNNkk3QWlkeWhOaVl1RklsM0pCWFBLOHh5Yk1qNHY3QWRDR0h2VzFVVTV0eXpP?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saudi Arabia localises desalination tech - Utilities Middle East",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "desalination",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SQkZNcERQcGNUcVpxal9COHFTcHBxaFVDNmlmNnpyRlJVbU9oUUJLTUxRbWN3MGF5SjhmeHd5RXdBcXJFdkVBeTNKRlB5eTNBbzJNQW5vSTJxcTB2aENjQ1k4MUJsdjIzUE9jc3dOeTI1RkhydzVDYXpVWFBBU28?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A. O. Smith (AOS) Q2 Earnings Report Preview: What To Look For - StockStory",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVGpZRE1kNDlzUVM3NS1MYlBJcjF5X19adkh0Q1VldjJYZ05kOExnZE1uSWhvckdCNVhaclhYR2ZhdkgxbzFoZlhzSEh6NXc1bWNFWUM5MXZydHZuTWJacEQxeWFPdl9venRiMFByekxrZWxEZm95bUlOSUh4bjBWcjJRajFTTzM3TkthbGZnNDVMOFJpa3poLTd3OVN2MlZiOUh1UGppa2RPSDluaEM4N1A5UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mueller-2026-07-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "MWA|Mueller Water Products Inc|Price:25.920|Chg%:+0.760 - TradingKey",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zV3MxRm85bUpIblAwQjZRbmk2bTRGd1VkampENGlCU0diOHFvU0VOQWRQQ0NmUGpwSTEzZXBjMkU1eF95WnlMUDBKcWZBY2owek9fekFYOEhwMEFYdG8xam4wdEtEdGw0MkFCWg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "desalination": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "smart_water": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "energy_recovery",
+        "count": 2
+      },
+      {
+        "id": "mueller",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "desalination",
+        "count": 2
+      },
+      {
+        "id": "smart_water",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 259,
+    "dup_title": 147,
+    "too_old": 79,
+    "gate1_blocked": 3,
+    "gate2_blocked": 5,
+    "passed": 25,
+    "pass_rate": "22.3%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "Energy Recovery Signs Lease for New Manufacturing Facility Near Dammam, Saudi Arabia - Business Wire",
+      "ERII|Energy Recovery Inc|Price:8.400|Chg%:-0.120 - TradingKey",
+      "Form 144 Energy Recovery For: 28 July By Investing.com - Investing.com Canada",
+      "2026 Ten Reputable Thermal Oxidizer Systems Manufacturers Worldwide: Optimizing Industrial Exhaust G",
+      "Morgan Stanley Downgrades Veolia Environnement to Equalweight, Trims PT - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為ERII、穆勒相關動態：「Energy Recovery to build Saudi factory targeting $146m de...」。主要關注主題為財報、水資源產業通用、海水淡化，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Energy Recovery to build Saudi factory targeting $146m desalination market - ...（海水淡化、智慧水務、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Saudi Water Authority Announces Localization of Energy Recovery Devices Manuf...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

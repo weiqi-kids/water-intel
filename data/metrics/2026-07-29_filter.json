@@ -1,0 +1,16 @@
+{
+  "total_raw": 259,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 3,
+  "gate2_fail": 5,
+  "passed": 25,
+  "gate2_samples": [
+    "Energy Recovery Signs Lease for New Manufacturing Facility Near Dammam, Saudi Arabia - Business Wire",
+    "ERII|Energy Recovery Inc|Price:8.400|Chg%:-0.120 - TradingKey",
+    "Form 144 Energy Recovery For: 28 July By Investing.com - Investing.com Canada",
+    "2026 Ten Reputable Thermal Oxidizer Systems Manufacturers Worldwide: Optimizing Industrial Exhaust G",
+    "Morgan Stanley Downgrades Veolia Environnement to Equalweight, Trims PT - marketscreener.com"
+  ]
+}

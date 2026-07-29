@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T10:42:02.769805Z",
+  "updated_at": "2026-07-29T10:45:46.770006Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -211,17 +211,17 @@
       "name": "中宇",
       "ticker": "1535.TW",
       "currency": "TWD",
-      "ar": 720980000,
-      "ar_prev": 1206103000,
-      "ar_qoq": "-40%",
+      "ar": 811840000,
+      "ar_prev": 720980000,
+      "ar_qoq": "+13%",
       "ar_period": "QoQ",
-      "inventory": 35455000,
-      "inv_prev": 26251000,
-      "inv_qoq": "+35%",
+      "inventory": 35007000,
+      "inv_prev": 35455000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "alert": false,
+      "quarter_date": "2026-03-31"
     }
   ]
 }
