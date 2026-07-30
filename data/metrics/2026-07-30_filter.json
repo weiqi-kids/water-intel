@@ -1,0 +1,16 @@
+{
+  "total_raw": 260,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 3,
+  "gate2_fail": 7,
+  "passed": 54,
+  "gate2_samples": [
+    "Energy Recovery (NASDAQ:ERII) SVP Sells $46,112.72 in Stock - MarketBeat",
+    "Energy Recovery Signs Lease for New Manufacturing Facility Near Dammam, Saudi Arabia - Business Wire",
+    "William Yeung Sells 2,048 Shares of Energy Recovery (NASDAQ:ERII) Stock - MarketBeat",
+    "Energy recovery CLO William Yeung sells $17,530 in shares - Investing.com",
+    "Form 4 Energy Recovery Inc For: 29 July By Investing.com - Investing.com Canada"
+  ]
+}

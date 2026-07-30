@@ -1,0 +1,158 @@
+{
+  "date": "2026-07-30",
+  "date_range": {
+    "start": "2026-07-24",
+    "end": "2026-07-30"
+  },
+  "generated_at": "2026-07-30T10:31:29.214565Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-07-24-005",
+      "date": "2026-07-24",
+      "title": "Welsh Water launches market engagement for largest infrastructure investment in its history - Water Magazine",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 27,
+      "last_week": 21,
+      "week_over_week_change": "+29%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 25,
+      "last_week": 29,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "desalination": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "smart_water": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "mueller": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "veolia": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "pentair": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "american_water": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "kurita": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "essential": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 5
+    },
+    "energy_recovery": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 135,
+        "last": 118,
+        "change_pct": 14.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-24",
+      "event_count": 19,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 15,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 7,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 25,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 18,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 33,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-30",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-24 ~ 2026-07-30）共 135 則事件，重點為「Welsh Water launches market engagement for larg...」。財報、水資源產業通用、資本支出為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "穆勒",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "威立雅",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "美國水務",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
