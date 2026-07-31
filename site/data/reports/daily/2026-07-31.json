@@ -1,0 +1,157 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T10:46:37.584751Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_water-2026-07-31-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Royal Bank of Canada Cuts Position in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZWZ1WXNXek1iUEpfd1JZX1lDR2VobGRseE5FUVVJWnRTY0F4Sjd3M2l1djItWWczR25XRWNIMWZvTXlKWUpCQ3M3bVdNU1U5S2JQZUhCY05QVnFWODhqeTk0NHlXdS1RdXVRWHRuSkEzVW9YQURLWWZ2cG1PekR3dGJhS1g1aC1RZS1BRkNYeDZPcndTaGkzemEzQTF1blA1cm11dXUwdWl4Y2E1VmFlLXJ5U3BtMjlmSEZiUTNoWUlYcmlwOFpNeC1CQXpMWEdO?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ao_smith-2026-07-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A.O. Smith Corp's Dividend Analysis - GuruFocus",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52N1c0THc1MVA4VVlsRU9RYzZpZGFQZHF2TE1YOWx5YXY2bzVJTW1jU2RoczkxVEltVGJqRHJBcmp4QlhRV2hPSkNDdHkyMlBScktrOXZyY0hPVGJtMjhwMDlna09zVHhhT1BQcHlLOHhaaVRncER1X0lRSQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_water-2026-07-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Water (AWK) Stock Faces Valuation Doubts Despite Steady Growth - simplywall.st",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOG9uNEVQVlZ0aDdvRk0xbGpuQ0J2RFVtNW5PUE05dE5LRTJiX0V5ckhuWWJKODZQYXhZODNQQnFzckpBblNPOGd0OEZFT2VOSUt4cDNkcW1xaWUzWG9BcmdjRnBqMUIxQXl5dlRXeVhFbE51RHNiUGV4WUVWMUdFeWIzYlZOX19lSU1jbHp4bmZOWHFFRGxuWEFxcURIc0M4UDc2SVpJRE9EbGVnRl91NFFiSi1aR3JhRVpDel9ld0dUSllMTXNUaGVyckY1aDItcGlJ0gHYAUFVX3lxTE9zZUJHRzJUV0Z5RnlTQS01OTJRYlNrY2JkVXhldVR2ODVJckVaRnVpZ1RiaDQyS0Fsb2U2bWlZZXdWX3lmdHNPa0tIdlBDOFRPd2tXaWZRa3FhYTlHYjhOc3JuanNkWi1PY3hDVEZPNGx0SjhoV3hBYjNxMU1jbHd6MHYxNWlhNGNQTzNwbUkwZmQ2VFoyR2xZVXhoQUk0UmE0ekpqbFdUQXZBRkJlT2s5YnhCQ2w0SllTX1Y0bGtFemRBWFIxZG9uTktZZldqRHYxa1puWjVpMQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 2
+      },
+      {
+        "id": "ao_smith",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 134,
+    "too_old": 69,
+    "gate1_blocked": 2,
+    "gate2_blocked": 7,
+    "passed": 48,
+    "pass_rate": "38.1%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "Energy Recovery Signs Lease for New Manufacturing Facility Near Dammam, Saudi Arabia - Business Wire",
+      "Energy Recovery (NASDAQ:ERII) SVP Sells $46,112.72 in Stock - MarketBeat",
+      "William Yeung Sells 2,048 Shares of Energy Recovery (NASDAQ:ERII) Stock - MarketBeat",
+      "Energy recovery CLO William Yeung sells $17,530 in shares - Investing.com",
+      "Form 4 Energy Recovery Inc For: 29 July By Investing.com - Investing.com Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為美國水務、史密斯相關動態：「Royal Bank of Canada Cuts Position in American Water Work...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Royal Bank of Canada Cuts Position in American Water Works Company, Inc. $AWK...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "A.O. Smith Corp's Dividend Analysis - GuruFocus",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

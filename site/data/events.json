@@ -1,5 +1,64 @@
 [
   {
+    "id": "ao_smith-2026-07-31-001",
+    "date": "2026-07-31",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A.O. Smith Corp's Dividend Analysis - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE52N1c0THc1MVA4VVlsRU9RYzZpZGFQZHF2TE1YOWx5YXY2bzVJTW1jU2RoczkxVEltVGJqRHJBcmp4QlhRV2hPSkNDdHkyMlBScktrOXZyY0hPVGJtMjhwMDlna09zVHhhT1BQcHlLOH",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52N1c0THc1MVA4VVlsRU9RYzZpZGFQZHF2TE1YOWx5YXY2bzVJTW1jU2RoczkxVEltVGJqRHJBcmp4QlhRV2hPSkNDdHkyMlBScktrOXZyY0hPVGJtMjhwMDlna09zVHhhT1BQcHlLOHhaaVRncER1X0lRSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-31-002",
+    "date": "2026-07-31",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "American Water (AWK) Stock Faces Valuation Doubts Despite Steady Growth - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOG9uNEVQVlZ0aDdvRk0xbGpuQ0J2RFVtNW5PUE05dE5LRTJiX0V5ckhuWWJKODZQYXhZODNQQnFzckpBblNPOGd0OEZFT2VOSUt4cDNkcW1xaWUzWG9BcmdjRnBqMUIxQXl5dlRXeV",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOG9uNEVQVlZ0aDdvRk0xbGpuQ0J2RFVtNW5PUE05dE5LRTJiX0V5ckhuWWJKODZQYXhZODNQQnFzckpBblNPOGd0OEZFT2VOSUt4cDNkcW1xaWUzWG9BcmdjRnBqMUIxQXl5dlRXeVhFbE51RHNiUGV4WUVWMUdFeWIzYlZOX19lSU1jbHp4bmZOWHFFRGxuWEFxcURIc0M4UDc2SVpJRE9EbGVnRl91NFFiSi1aR3JhRVpDel9ld0dUSllMTXNUaGVyckY1aDItcGlJ0gHYAUFVX3lxTE9zZUJHRzJUV0Z5RnlTQS01OTJRYlNrY2JkVXhldVR2ODVJckVaRnVpZ1RiaDQyS0Fsb2U2bWlZZXdWX3lmdHNPa0tIdlBDOFRPd2tXaWZRa3FhYTlHYjhOc3JuanNkWi1PY3hDVEZPNGx0SjhoV3hBYjNxMU1jbHd6MHYxNWlhNGNQTzNwbUkwZmQ2VFoyR2xZVXhoQUk0UmE0ekpqbFdUQXZBRkJlT2s5YnhCQ2w0SllTX1Y0bGtFemRBWFIxZG9uTktZZldqRHYxa1puWjVpMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-31-003",
+    "date": "2026-07-31",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Royal Bank of Canada Cuts Position in American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZWZ1WXNXek1iUEpfd1JZX1lDR2VobGRseE5FUVVJWnRTY0F4Sjd3M2l1djItWWczR25XRWNIMWZvTXlKWUpCQ3M3bVdNU1U5S2JQZUhCY05QVnFWODhqeTk0NHlXdS1RdXVRWHRuSk",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZWZ1WXNXek1iUEpfd1JZX1lDR2VobGRseE5FUVVJWnRTY0F4Sjd3M2l1djItWWczR25XRWNIMWZvTXlKWUpCQ3M3bVdNU1U5S2JQZUhCY05QVnFWODhqeTk0NHlXdS1RdXVRWHRuSkEzVW9YQURLWWZ2cG1PekR3dGJhS1g1aC1RZS1BRkNYeDZPcndTaGkzemEzQTF1blA1cm11dXUwdWl4Y2E1VmFlLXJ5U3BtMjlmSEZiUTNoWUlYcmlwOFpNeC1CQXpMWEdO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-07-30-001",
     "date": "2026-07-30",
     "companies": [
@@ -359,6 +418,668 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTZjeDV4S1BjR2VVRVlWaGFjMHYxSlQ0RHN1YVg0TVhQWGp6SVdzNW9wRHhRWGJ4M2RlSDlraU9NMUJzZ1dhSnRobS04aTZCN1I1UWdWbTZVZkdiNGwxU1lheWtHQXB5RWNUR1RoRjBWcGFlcWJMZmdOb2I2RmVyMExWQjZuYjJEV3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-07-30-019",
+    "date": "2026-07-30",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products (MWA) SVP and CHRO reports holding 3,972 RSUs - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNc1VlcmZHaEdMTTRmMXN0OEc3R2d2MXZYOXVYdXkyVmVNRVF6LVBsdG00VHQ2Z3Jad0FWNUgxRGpJdlcxcnU3dmxDY0FUVzdqMHhzTDRDb0JubDU2UGtHMFQ3VzY1bEhRYjFuNUcwRE",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc1VlcmZHaEdMTTRmMXN0OEc3R2d2MXZYOXVYdXkyVmVNRVF6LVBsdG00VHQ2Z3Jad0FWNUgxRGpJdlcxcnU3dmxDY0FUVzdqMHhzTDRDb0JubDU2UGtHMFQ3VzY1bEhRYjFuNUcwREM3eGZ5UU1qSlJhUjN2YzhpMElHOGZNZF9DQURBYjVndTdEZC1acjlIQ25zSGFYc25SUU9zNF8xOHVDRzNYMlNBZWx4ODNpNzNXWDZFc1NKZ2l0NnU5YnNMM2Vn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-07-30-020",
+    "date": "2026-07-30",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement: Availability of the Amendment to the 2025 Universal Registration Document and 2026 Half-Yearly Financial Report (French and English Version) - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAJBVV95cUxPTWZtMmlJX1hwblI2cHRKU01lZ2x6LTc1TzFMWXRhZEkwc3NVLU5FdDdibDcxTUVnS0Jvb3BUd05PRS14V256TlZXMW9PZURnMmpiZEtoMWt1UzVUSUgzLUV4Y05SaHNMb09haE9TYT",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPTWZtMmlJX1hwblI2cHRKU01lZ2x6LTc1TzFMWXRhZEkwc3NVLU5FdDdibDcxTUVnS0Jvb3BUd05PRS14V256TlZXMW9PZURnMmpiZEtoMWt1UzVUSUgzLUV4Y05SaHNMb09haE9TYTlfSkpLa0NVTTdoZjJuaHlHT0d4bG5SQzJUVkVNdW9CVXdveHpybXp5MG0wOHVZQUptWS1JaDNVNC1MU0FjUG9uU0h3T2c3UFF1YzBmSTAyYVVnbDZPTk1oeU0wZEVWbGRQYzdzN0NVZm9nNU9hLWlxZmJNNkVvQnFOeURZdjRGd3p1b2pSR2xVWkNnZ3pDUGdZVFlzM245WEx4VGxoVEFtdFpxQ3YxTUg4TnpfUWdDS1NGY01YTThyUzg3WWJ6c01fdEhRaENfTk0tTVJr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-07-30-021",
+    "date": "2026-07-30",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement SA 2026 Q2 - Results - Earnings Call Presentation (OTCMKTS:VEOEY) 2026-07-30 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQlpERXZ2aHIxZGJ4WlhlclVNS0Zhdm11WHUybURfSHNkR0Qwalc1Q25Nb1hHbzdqY2d5OTRZNXk3MGhhcTY4bFB6aXlpaHB0WTFia1poNnl4Ull3Z19mTldWdG1oaXVqS2ZiWlA2ST",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQlpERXZ2aHIxZGJ4WlhlclVNS0Zhdm11WHUybURfSHNkR0Qwalc1Q25Nb1hHbzdqY2d5OTRZNXk3MGhhcTY4bFB6aXlpaHB0WTFia1poNnl4Ull3Z19mTldWdG1oaXVqS2ZiWlA2STRCOHlJZ0tvMzZpNGVnVjJNNXQ5UEROR0xlTkJGX3B5QXpVT1IwSnBmZ1Jzb19MWEZqV2hQSFVtZGdZdjg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-07-30-022",
+    "date": "2026-07-30",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement SA Reports Earnings Results for the Half Year Ended June 30, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeWxtOTZiUDFXYTBIaUc4bEc3bXBqRkZhY3JEZTB4X0xvV1hwNTFxajlLcjBhcVdlUXJvamZlU3l1ZVhyUGhSby14OVBRd1NTRzJJWU1ITm5FY1gzaTFIdWZVVVY1V1FBbEpHbFdhTV",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeWxtOTZiUDFXYTBIaUc4bEc3bXBqRkZhY3JEZTB4X0xvV1hwNTFxajlLcjBhcVdlUXJvamZlU3l1ZVhyUGhSby14OVBRd1NTRzJJWU1ITm5FY1gzaTFIdWZVVVY1V1FBbEpHbFdhTVNiOUVoOEE4eHM3bzQ3YndpZkdiWnMyeHZoMlVnS25odXdVeG9ia3dJX2M4RzNLMHlaRDRkaHk0OFpTVWFqNmhIRVZGRE43b2lHaVo0S0R6aUlxV0NvbHRZZTdka2RHOFFaZ1Q1LQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-07-30-023",
+    "date": "2026-07-30",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Very Solid H1 Performance Confirming Strength of Veolia Business Model - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOMFAybmVHcV9jdFVoRDVGTGV1WmdvZEZMaDFWWFIyN2JQNVpCLVRJb0pPcWhPb00tdUF4N3Z1djJDVU43YlBRQTFxU2d6c1I2ckhKZjV3dEgtU3IzY2dBMGpiUlZyck1aRWZzNnUxSV",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMFAybmVHcV9jdFVoRDVGTGV1WmdvZEZMaDFWWFIyN2JQNVpCLVRJb0pPcWhPb00tdUF4N3Z1djJDVU43YlBRQTFxU2d6c1I2ckhKZjV3dEgtU3IzY2dBMGpiUlZyck1aRWZzNnUxSVRIazBxTldMYkoyY1gtSnZLUXh0M29kRHF1ZEhuNGs0TEVHbnJtc1RqUGl3LVBQZ1JyYmVyNmVERkNDMHc0QzVXN29vV3pjMFhVU2lseWwyUlFUQ3hiaXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-024",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FR14015BL Bond Coupon Profile — Rate & Payments - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFA2VGc2Q3lMNEV0YW9BYmZ0UWtlVkNhM2V1dXppQ3p3NDA5N2NiMTVkMTJwMDB3aG9KRHVyWEZIYVFEV2ltaDFwQkFzb3V4U2lJZjk5M3BnTDR3SEF0MTFxTTlqM0RBeEswLU1kbzJZMj",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2VGc2Q3lMNEV0YW9BYmZ0UWtlVkNhM2V1dXppQ3p3NDA5N2NiMTVkMTJwMDB3aG9KRHVyWEZIYVFEV2ltaDFwQkFzb3V4U2lJZjk5M3BnTDR3SEF0MTFxTTlqM0RBeEswLU1kbzJZMjBpTkk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-07-30-025",
+    "date": "2026-07-30",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Strengthens its Leadership in Latin America with a Landmark Water Contract in Colombia to Modernize Cúcuta’s Water Infrastructure - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxNdXY5dDlwTTFDZ1FpNUZfZUJYNElCdjdGRHhSbDJxTjNtb0cwUUpDbVVlWFJnV0xraDFia1hwYjRzYjdIclU5MWFmTTNReWxtTVUyOWVveDRNZGpublhxSmIzR05RbDdnTFIwNjBodX",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNdXY5dDlwTTFDZ1FpNUZfZUJYNElCdjdGRHhSbDJxTjNtb0cwUUpDbVVlWFJnV0xraDFia1hwYjRzYjdIclU5MWFmTTNReWxtTVUyOWVveDRNZGpublhxSmIzR05RbDdnTFIwNjBodXFack5tY1FTRkF2ckYyd25ZcnU4SjM1aHZqdGJKTGJmR2dlcGlFX2o4M0NyYTZNVExVQUFoV2g5Q3o2Si15OU1xaUJRUVBacUhzbTFyRTBDaHFRMVZQcEtlbzhzV2h1Qkk5bFNpbkxqN2NSTzJIX3pxX1Z3STBnMlRYX1hGZXJoUF90amctTlBoTEs0TUYxbEVnTG9LZl9ZMHF4UktDcnBDZkRQS01FOHdtNDJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-026",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why the A. O. Smith Signature 900 Earned the Good Housekeeping Seal - Yahoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjNuQU1WVEJjNEF2ZzBZX3k3WF9RVVhJcXRUSlhyc2FQRUdjQmR0NjhfWG9VdWNnOVF0Mmg2YUVZMURZeDJEQ2VOMjg2dksxLVhkZVA3bWlfc1BOczhEeTRqZlM0QjNHdWdrNHBWOD",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjNuQU1WVEJjNEF2ZzBZX3k3WF9RVVhJcXRUSlhyc2FQRUdjQmR0NjhfWG9VdWNnOVF0Mmg2YUVZMURZeDJEQ2VOMjg2dksxLVhkZVA3bWlfc1BOczhEeTRqZlM0QjNHdWdrNHBWODdiOHZtTHpXYjdiUVAxeURZYkdBd0hmazVoV3NJQmFxVnRuTTdQWHZDczJlSmtyRGI3bDFwbnRJbk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-027",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith’s (NYSE:AOS) Q2 CY2026 Sales Beat Estimates - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxObng0Z1dYYl8tUTJYekRRT05mRVFRbGNRTHBMSTBpZHBsazA2YnJLQVNiVGhNM19PRzZ1clRrSjNQcmdvbl91aV9CUzdpRWs0QXZEWkppWTUxM1ZFMlN3TVZXZkpzUHI2am53eEFaNU",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObng0Z1dYYl8tUTJYekRRT05mRVFRbGNRTHBMSTBpZHBsazA2YnJLQVNiVGhNM19PRzZ1clRrSjNQcmdvbl91aV9CUzdpRWs0QXZEWkppWTUxM1ZFMlN3TVZXZkpzUHI2am53eEFaNUFWQUlRdW1mR3oxX0sxN2pzRVZFdzBycjZhcDZKR2JjWXhmZkp2TFlCM09sUEt5SzZfalJ3WnYwcnk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-028",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith Reports Second Quarter 2026 Results - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTm9lNU4yZ05xQ2JtOFZDdkRrWUMzTXZoRnk0WDJFMlBwaXE2QXlhVWlfRTF4eXo0Y1pqZ2R5cTBFcXdkMXk4ajE3dE1BRldrSjlObzNEMnBrWTFHbWZDWHd1eE9vN2lvcFJ1TWdxdD",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTm9lNU4yZ05xQ2JtOFZDdkRrWUMzTXZoRnk0WDJFMlBwaXE2QXlhVWlfRTF4eXo0Y1pqZ2R5cTBFcXdkMXk4ajE3dE1BRldrSjlObzNEMnBrWTFHbWZDWHd1eE9vN2lvcFJ1TWdxdDg0R0Q3RWtkNWFhMWh2bjVrVDdDc0xoYmRfLWQwTlBubEZBS3Ywd0E1UmEtek5pWFBqRkJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-029",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith (NYSE: AOS) Q2 2026 results show China drag, acquisition boost - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0lsWkkyTU9QMU95OWRQU2RXUFQyZjEyQ3NUNXhGTkswdGJvUVZzVHpUeGk0ZEliZkV4YzR0Y2FvWW9xaF9NYXpURzh1T0xUSDZ5Q09TcHM2LWRfYkVPRkgzcmwxS2syR1g4Z2FTMF",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0lsWkkyTU9QMU95OWRQU2RXUFQyZjEyQ3NUNXhGTkswdGJvUVZzVHpUeGk0ZEliZkV4YzR0Y2FvWW9xaF9NYXpURzh1T0xUSDZ5Q09TcHM2LWRfYkVPRkgzcmwxS2syR1g4Z2FTMFFTbFNtQ1ZCamU2ZVVDLS0xXzNyeWM0ajAwOE5iNmF2SE05MjE3eDVPOGtobHJlckVuMWFuNkUzc2E3Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-07-30-030",
+    "date": "2026-07-30",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "A.O. Smith Q2 2026 slides: North America growth offsets China decline - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxONmRqbF83NTNleUVuUTI0N1U3UnRnajVnUk90NUNHcE5IbExFalJyTXdERmJkNGZrV3VDbFVFMmlGVHRVZEE1N2luOFdMNG5xYmtTdUhwdXBhUWJUZmFDeEJwNUp5cEhOU1hHZVNTVn",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONmRqbF83NTNleUVuUTI0N1U3UnRnajVnUk90NUNHcE5IbExFalJyTXdERmJkNGZrV3VDbFVFMmlGVHRVZEE1N2luOFdMNG5xYmtTdUhwdXBhUWJUZmFDeEJwNUp5cEhOU1hHZVNTVnZtcVIybFg0RGRjeDRKMkpDVnRHNVotVzgtaThVNzBLdTBoclRwdGNnT09CUVhhbW9tUmY1OFF0dXJfa3NweUhDaGxPcklZX1QyUjJuWWcweG4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-031",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A O Smith Corp reports results for the quarter ended June 30 - Earnings Summary - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY1AyOEpmWGJuWkpjU3JnWmVNZG5lcGY5NHp3bUhtajF1MHQ3SFBFWDBqS0RMeTBwWUdoLVN6dnd1WW10ckV5VFVoZjdMdkNWR2VWZHpaVDBnUW9LdHNYSXZOSW1qMF8yRm1IQ25lT3",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY1AyOEpmWGJuWkpjU3JnWmVNZG5lcGY5NHp3bUhtajF1MHQ3SFBFWDBqS0RMeTBwWUdoLVN6dnd1WW10ckV5VFVoZjdMdkNWR2VWZHpaVDBnUW9LdHNYSXZOSW1qMF8yRm1IQ25lT3dvWUE3R0RHMTRyRk40QkMzNWdpczJSMVoxSnJyREtOaUhua2JTX3hoMzdGZ1B5RDhPR290Z2JwRC1JZXdtOUtndjROSWpmcVVNdlNoTWF2bFUwZUpsYU1WLVFMRThDdUtnNU4xV3p1ekw2dXBYdkVLaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-07-30-032",
+    "date": "2026-07-30",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A.O. Smith: Q2 Earnings Snapshot - KING5.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOYW10Y01JQW5XUmJ3d3g2M3BiNjFqS2tCQ1dmeGFaSlNHRUQtd2g1VThmemx4NDl5X21rY19OZG80bkU4ZGV3bnIwdDFmZVlpT2xXY2JyeEdaZ2Z4VjhXN210RjVvRHhTUlVNdHFDNj",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYW10Y01JQW5XUmJ3d3g2M3BiNjFqS2tCQ1dmeGFaSlNHRUQtd2g1VThmemx4NDl5X21rY19OZG80bkU4ZGV3bnIwdDFmZVlpT2xXY2JyeEdaZ2Z4VjhXN210RjVvRHhTUlVNdHFDNjl5N3JBWWgwQkdvam1ncTlhcG5JTGFKTTM5ekR3Nl8tU2lJRTMxeXJsT0phQ3l1cWx0MEM4dEhqOWtHZGM0VDE1bXJjdEdnZWotTUoyaDFLcFphN2lMRmlv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-033",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "A. O. Smith Q2 Earnings Beat Estimates on Boiler Growth, Pricing - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOMVYtb014SHlJc3FqckUxM0hUVGtpT2J5aDNPQUY5cURhRW5LSlVCZE51QmZ3OEtFR1R4dXRxS0JYYVREd1gtZ2swNjFEVEJWYml4d2hzVmRBelZyY1pwRFhzUG1ac3dVZzRsNTU2eF",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMVYtb014SHlJc3FqckUxM0hUVGtpT2J5aDNPQUY5cURhRW5LSlVCZE51QmZ3OEtFR1R4dXRxS0JYYVREd1gtZ2swNjFEVEJWYml4d2hzVmRBelZyY1pwRFhzUG1ac3dVZzRsNTU2eFlTN29jSTlFbnR2VnZsd3FsNVFvZGxUZDdxSmJZNDcxQmgtUk5wSkgwME41a0JZTUl2SEpyMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-07-30-034",
+    "date": "2026-07-30",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A.O. Smith Corp (AOS) Q2 2026 Earnings Call Highlights: Strong Boiler Sales and Cash Flow Surge ... - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5iUjMzTlBsRkFRX0l3NHhzaGlkVzdXdDY2ZS1SdDJXMFBfSHFjN2gxaDJTZDZjS3RXVjJobE5LbVJrVjJ6cTdselVzWE5NLXBBYm1SQzJVQWp4T1ZZWDNIeF9QR0pCaDl3MzlhV3R1V2",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iUjMzTlBsRkFRX0l3NHhzaGlkVzdXdDY2ZS1SdDJXMFBfSHFjN2gxaDJTZDZjS3RXVjJobE5LbVJrVjJ6cTdselVzWE5NLXBBYm1SQzJVQWp4T1ZZWDNIeF9QR0pCaDl3MzlhV3R1V2xrZjY5emNj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-07-30-035",
+    "date": "2026-07-30",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "A.O. Smith Q2 2026 slides: North America growth offsets China drag - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNbUJlVTB4Tl9scUJQTG9vS0xnellVaVhiR3B6ODczd215aG1ZeVZtZ3BVb1VQYndSSTBZSmJYRXlZNnZYY2o3Rzd1dHlsWFhkT3NORXR2aVBxR2NvVjhCZ0VtVGxlSVM5QUxSSi1nUG",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbUJlVTB4Tl9scUJQTG9vS0xnellVaVhiR3B6ODczd215aG1ZeVZtZ3BVb1VQYndSSTBZSmJYRXlZNnZYY2o3Rzd1dHlsWFhkT3NORXR2aVBxR2NvVjhCZ0VtVGxlSVM5QUxSSi1nUG0zUmZ3cW9xRWpjR1FwZWE5NV9rb0tNXzZPbFZyRk9DVk9VVng3ckhENHg1Wl9HOE5ZLXktZ1FUdXJlakdjQndBRWtZVllCOGdGX1U3Mg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-036",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings call transcript: A. O. Smith beats Q2 2026 estimates but stock falls - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQcjVzSndmSlNBWVlHR2pXS3g3dEdIQTd2UXBTSWVLTUZtTUFWZ09FMWYzUUtQdGZJVzVFTE5ubWVPTFVmUUFoV1dCWHlfTDE0dHM3MklESl9yWVhabktSX3dIdG5FT01neE9SZ0RLVm",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcjVzSndmSlNBWVlHR2pXS3g3dEdIQTd2UXBTSWVLTUZtTUFWZ09FMWYzUUtQdGZJVzVFTE5ubWVPTFVmUUFoV1dCWHlfTDE0dHM3MklESl9yWVhabktSX3dIdG5FT01neE9SZ0RLVmZ0RC1xYlJkMXRMbXpER0pWWlpwU0I1THpXT294RmdMRUREeVl2NWxyOTRnaHAySDFHLTZRVWF0cEpGYlUydmR0bEdwelJDblJwTWJHejJkekFXanROZjFIY3d3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-07-30-037",
+    "date": "2026-07-30",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A.O. Smith (AOS) Reports Q2 Earnings: What Key Metrics Have to Say - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBrc2tLSVVVMDVtVVhZWTdsc09ldXItbVZkcFRIYWI4T1FIUDRya0dDRUdfc3NNT2U4ZFNlcGc0dVpMbEhRU2JhX0V0SEp0UTZfcVJhLXlqVDJGMDFpNktaejNFQzRHeWNKaks0M0lrNE",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrc2tLSVVVMDVtVVhZWTdsc09ldXItbVZkcFRIYWI4T1FIUDRya0dDRUdfc3NNT2U4ZFNlcGc0dVpMbEhRU2JhX0V0SEp0UTZfcVJhLXlqVDJGMDFpNktaejNFQzRHeWNKaks0M0lrNE1wQnE5TzZFNnlUaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-07-30-038",
+    "date": "2026-07-30",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A.O. Smith (AOS) Q2 Earnings and Revenues Top Estimates - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE92dVhBcFAzRTlmeFFnMUlMa0pHU3p4Sk1YLUFRT1k2TzU4aUtMME1uZEU5RWFPSUVUZm1CT19CODdCeDdyc0lKdmlfYnYyZTlQblM0bGd1RXJXM25COW8xT2lUM0I5cTc4dENnbEVVMH",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92dVhBcFAzRTlmeFFnMUlMa0pHU3p4Sk1YLUFRT1k2TzU4aUtMME1uZEU5RWFPSUVUZm1CT19CODdCeDdyc0lKdmlfYnYyZTlQblM0bGd1RXJXM25COW8xT2lUM0I5cTc4dENnbEVVMHFpeHpiZ2tJbmRScDU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-039",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith Corporation 2026 Q2 - Results - Earnings Call Presentation (NYSE:AOS) 2026-07-30 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnRSbUZyOUxkbFc1MWlJSzExZ2swVjNZUVRKSnhIZWtWNDZRVlp6WlJubUFBcUhLYW1JWWlJd2hqRzlIdHMtRHFvTl9PakczOTY0WW5HTGp0OVZUV1QzNkpZUGxIX2k1REN0ZkhxZk",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnRSbUZyOUxkbFc1MWlJSzExZ2swVjNZUVRKSnhIZWtWNDZRVlp6WlJubUFBcUhLYW1JWWlJd2hqRzlIdHMtRHFvTl9PakczOTY0WW5HTGp0OVZUV1QzNkpZUGxIX2k1REN0ZkhxZk16UHdBODE5V2tiT0xBMVZxeGpWbjgzM3d3UldMUmhFTFZtN1JINnM2UHBZcVRad2FxTUdiY0V6OHI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-07-30-040",
+    "date": "2026-07-30",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is A.O. Smith Corp (AOS) Undervalued After Q2 Earnings Beat? EPS of $0.91 Exceeds Estimates; GF Score: 79/100 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeFV0dzJLSW1mX1E5MWdpZ1l3ODRPWUVPdDREeW5FSk50UEppTUd1QTRrWWtkNFQwanJCQU10V21sa2cyRk5nNTZaTG1idWFBTVc0OHB0Vk9SX0daLUVRWHBTUEd1Vl9kQWtZY2Vndz",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeFV0dzJLSW1mX1E5MWdpZ1l3ODRPWUVPdDREeW5FSk50UEppTUd1QTRrWWtkNFQwanJCQU10V21sa2cyRk5nNTZaTG1idWFBTVc0OHB0Vk9SX0daLUVRWHBTUEd1Vl9kQWtZY2VndzZlelJNTENGQXRUb1pRWG1VNnBhT3prSlRlcVhJZlUtM0Rxcm1oTG9JZTEzMzhHc2I2VEMxdk9NQ2VNRThEajZlcEw4ektjak9NRVh0QmZqNXd4OTJCV3RyekVqbXN1aE9GWVdpbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-07-30-041",
+    "date": "2026-07-30",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Should Essential Utilities’ 5.25% Dividend Hike Require Action From Essential Utilities (WTRG) Investors? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZnJOUjdxeGZZbjRoWnd2NTJpWmwycmtJTlZZcjhVcDcweEdINlZ4aDVtaDBraXB5dFhfY1VESlphQVJGNWU1NVpvdWFKbXhSZVlMRWRpbFhUbXZDa25JQ0VHTEI2MUhWeGZMeDNRV1",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZnJOUjdxeGZZbjRoWnd2NTJpWmwycmtJTlZZcjhVcDcweEdINlZ4aDVtaDBraXB5dFhfY1VESlphQVJGNWU1NVpvdWFKbXhSZVlMRWRpbFhUbXZDa25JQ0VHTEI2MUhWeGZMeDNRV1dxelZTUEZfa2FQSXBGY2wwQW5GVjM4NWZfNVh2dm11Si0xQm5wR0NvUzZ4eklDOHFRMmpGN1J5ank0TXB4MmIxRHp0blpwVXBjM3RzMzh5NzktcGlSS3pZNEIzSFYyVkRWVnfSAdcBQVVfeXFMT1BCa05CaXdUWldrWXF3UDdXaWZKZkVsQ1J6TGtqNk5YTUFXUXlrY1p3R0gwNkl5OHFXSlYzdGpmR0JIQVBHSHFzWFB5U0s1WVd1aXFxSy1FYU9jYlhpV3B6bkdsUV9GU0dKeVJ6UG9feTRXVjI4cTZ4VW05cGdQMk5SWGlYQ05jRGxSTldRS3NjQ0dSM3pyZVk5OGt3Nzd2YUtnWWVUdWNrcmRWeVVvMGFudnFoaW5hY1lYb3VSQUppV3hDQjB6SWVCblZyQ0NTR3E0N1FFWVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-07-30-042",
+    "date": "2026-07-30",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities, Inc. Revenue Breakdown – XETR:A2A - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1LQ3U4bzFfNVFReUZjbi00NWNJalZzUzJQUUg1MUZ5d0VUTUk4OU5pc0NucUJfYjVDRktJXzQ0b0NpMldaX2g4MW03WXdqRGNMbU90TjRRZmsxSUJtU1VXaU1KN3ptNlZEVHN5d1MzSz",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LQ3U4bzFfNVFReUZjbi00NWNJalZzUzJQUUg1MUZ5d0VUTUk4OU5pc0NucUJfYjVDRktJXzQ0b0NpMldaX2g4MW03WXdqRGNMbU90TjRRZmsxSUJtU1VXaU1KN3ptNlZEVHN5d1MzSzAzZkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-07-30-043",
+    "date": "2026-07-30",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Why Did Essential Utilities (NYSE:WTRG) Announce a Dividend Increase? - kalkinemedia.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxON1BHdEI0eW1MTnY1MjBCcDVUMmI4WnI1NXZ1R3ZsbzdHcFF4WmNhaHBzVERtUk1PQ19HM0hOU091T1Y4OC1FZDNGRGV5N1czYUtTbzhJYzlDOU1vQzlxQXZXNFplRXJWYjdUNm5sUz",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON1BHdEI0eW1MTnY1MjBCcDVUMmI4WnI1NXZ1R3ZsbzdHcFF4WmNhaHBzVERtUk1PQ19HM0hOU091T1Y4OC1FZDNGRGV5N1czYUtTbzhJYzlDOU1vQzlxQXZXNFplRXJWYjdUNm5sUzc0NUxIZGdZSXoyQzJETklfamxINXZNTko5UmFKVDV6YUgwY0kzOFVtMmMxbnh4TzA4X0YzUWdVNTcyTXl4SVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-044",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois American Water Supports Water Utility Workforce Development to Build the Next Generation of Water Professionals - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPckZaRTJVVUpVTEJOeDh5dFAyUkEyR3Q3MWVNVTNMclM0cGFTeU5QMlZsclFaT0d5VFlHYnNBSG9aVnBLNlhrZnR2TkJHV2N2Ql9xLXVQUDVld2NlZHpIR0pZVEJvcVlzLVZVZ2VRTU",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPckZaRTJVVUpVTEJOeDh5dFAyUkEyR3Q3MWVNVTNMclM0cGFTeU5QMlZsclFaT0d5VFlHYnNBSG9aVnBLNlhrZnR2TkJHV2N2Ql9xLXVQUDVld2NlZHpIR0pZVEJvcVlzLVZVZ2VRTUxRZUtrc0ZZRUNnMGY1TEJSbGhKVHNiWGZWZE9DMmFWSnFtTTExV1ZNSEU5RHdtR0VucHNuaTF1c19ZdWxSQnVaRzRqQnIwV2FkT3l0YXlZMGc4bHlubmh6UEE3a0F4SF9mQjUyaE9uRWdYazB1UFVUb213TFJ0V1JOUGh1VnhoRFgxRnRTTlc1bjlaOURhWGhoTThuZ1Jkaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-045",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMERICAN WATER REPORTS SOLID SECOND QUARTER 2026 RESULTS; AFFIRMS 2026 EPS GUIDANCE AND LONG-TERM TARGETS - American Water Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcERDRE1xLWlRUzZhNThpaGswNmFMOTdZNGp3OTlxMmZWY0hyNjBkSnNoeHlyY0QwN2JwU1BPbUgyc0pwQnRJeldRY05nWHdUUnF4eUlUOF90UnhnRkVfTmVTMGRON2FCdmFGanJJeW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcERDRE1xLWlRUzZhNThpaGswNmFMOTdZNGp3OTlxMmZWY0hyNjBkSnNoeHlyY0QwN2JwU1BPbUgyc0pwQnRJeldRY05nWHdUUnF4eUlUOF90UnhnRkVfTmVTMGRON2FCdmFGanJJeWZBeVNNVmpRQkdmbXVLaHUyNkVzeTNHLXIwaThrWVRBMVhBTmdOaXQxa1lUQXdZNWxTNjF3ZUlGWFJLWEtrVHJVcnN5VW16a3RpNlhfdkZGS2lmTkJhRE5EbDVzZUJRUDB4aDJYQkhFYndOVmxU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-046",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A high school apprentice became a full-time water worker - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNWTV1M3N6c2lrNk9kT3hFZFJTZElXNERES2JleE4xMU92Tm40dFVXX2ZxaDhKdGxjcXhINjlpUnV2dmc4alM5WEw5YXZQNEVqRkRjQjVvd1JRRG9meWtxVTJkOGtGbE9SVmJ3by0xWV",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWTV1M3N6c2lrNk9kT3hFZFJTZElXNERES2JleE4xMU92Tm40dFVXX2ZxaDhKdGxjcXhINjlpUnV2dmc4alM5WEw5YXZQNEVqRkRjQjVvd1JRRG9meWtxVTJkOGtGbE9SVmJ3by0xWVd3U0ZlRW9lejVVY2Nzc0tubEpfZU5CN2VXWFR3ZjZrRTRSUmsxQkVaZHZqVG9jd3JLMmF3dWpKeWcxOG5YSkg5M0I3VmNnVC12aDQyUjZEaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-30-047",
+    "date": "2026-07-30",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company, Inc. Q2 2026 Earnings Call Summary - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNZm1HTDFYclJNWmRTWVRLVlJfSVhGVGRyWTNCaTBxTGJQZHVoNHlXQ19fNmlwUDNWb2J4WUhXQVJWMW9YUDVlR0hXZGJqVXFRZ2R2TU1VNmVZcHVobnRXYnJ0QlRNSkVzUFpKZFdZVG",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZm1HTDFYclJNWmRTWVRLVlJfSVhGVGRyWTNCaTBxTGJQZHVoNHlXQ19fNmlwUDNWb2J4WUhXQVJWMW9YUDVlR0hXZGJqVXFRZ2R2TU1VNmVZcHVobnRXYnJ0QlRNSkVzUFpKZFdZVGQta3RaUUh4VzRyNmJKc213M0pQdGhjdU82R2F4aEFIZVNwWGh1WTNXOHN1aFdyQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-048",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "American Water Q2 2026 slides: 8% EPS growth, merger advances - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQY0NFc0xOY2NTa09sbjd0SjFxZTNZUzRtMXFIYzEyWktJRDNZTTVSOGdjY3ZsM2NVeDdDYXBHX3BDaERLeWMxRW1RVF96eWVDU0F5bFlkWURGb1p5WnlMb2J3V05IM1hpN3NmWFRUQU",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY0NFc0xOY2NTa09sbjd0SjFxZTNZUzRtMXFIYzEyWktJRDNZTTVSOGdjY3ZsM2NVeDdDYXBHX3BDaERLeWMxRW1RVF96eWVDU0F5bFlkWURGb1p5WnlMb2J3V05IM1hpN3NmWFRUQURUdVVXNVNIWVU4OUtrOUV5ZEk2VXlUR21sRGlYN3Azd3FleVZjOXM1N0ZDcDI2UkNIVTg0TkZaek5zMWVyQ25FVUZ5Z3hPUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-30-049",
+    "date": "2026-07-30",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "American Water Works Co Inc (AWK) (Q2 2026) Earnings Call Highlights: EPS Growth and Strategic ... - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPSFBuck5jQ1RfSUJMYjBseGxEOVJwX1doeWhYYmV2bW5LTmhVdXRBOVZES3phWlo5clF5X3BYQmhYMFkzaW81VERBOFk2cjFUa0VQQjB0WnZEcG9qV1gxa0h5V01Rb1hJNjVPdmZ2RU",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSFBuck5jQ1RfSUJMYjBseGxEOVJwX1doeWhYYmV2bW5LTmhVdXRBOVZES3phWlo5clF5X3BYQmhYMFkzaW81VERBOFk2cjFUa0VQQjB0WnZEcG9qV1gxa0h5V01Rb1hJNjVPdmZ2RUgtWVFJQVNsQXdIdVZ2bVVSbWhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-050",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Earnings call transcript: American Water tops Q2 2026 estimates as growth holds - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ3JKY2dzdlREbU9wbHN6cGo1bFplOEVpbEpwWGw0aGRObTYxaVQtY1RiYXIwLXUxeGVTTGxfVFVjN1FqcWFlOXNJaEVRWnhqQU9tQl93dmFUMjdQWkhfWUpkOUl1RDczVWxhR2dXdl",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ3JKY2dzdlREbU9wbHN6cGo1bFplOEVpbEpwWGw0aGRObTYxaVQtY1RiYXIwLXUxeGVTTGxfVFVjN1FqcWFlOXNJaEVRWnhqQU9tQl93dmFUMjdQWkhfWUpkOUl1RDczVWxhR2dXdl9Sc2h0M0syYXZaSG91ZW4xclNESzRJdndqWHJXaWZ4c3lmanNWRzdXS1l2bkVLNlEydEVrbGJqbGVFekZXdkdtazMyWXNxUHNvdUZjY1hCT0Nzd3o3cG9NcE52LVBxVkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-051",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Water utility announces $15.2b decade of projects - franklintimes.co.nz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNMGxCVjhQaXh3VXdIRjlrYzlLazROR3d5dktWajN6ajg5a29pVmtVV2tHWEdfRU1KWE1jeFRaQWoyY1Rfbk9nRjV6RzBYbXJfSFZEYUtudFFjY2dVWkY1ejAyNmhwdml3c3NTOTc0UF",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMGxCVjhQaXh3VXdIRjlrYzlLazROR3d5dktWajN6ajg5a29pVmtVV2tHWEdfRU1KWE1jeFRaQWoyY1Rfbk9nRjV6RzBYbXJfSFZEYUtudFFjY2dVWkY1ejAyNmhwdml3c3NTOTc0UFhBaFo3T2xpeEFwMkhabExKQ3hVUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-052",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "smart_water",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ireland approves €2 billion capital funding package for Uisce Éireann - Smart Water Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQR2txcF9uQ01YV3NwVGMtMk5WeENSbHdkWEhWb3gtdFd3MjlhWTN2UzI4VVFsa2xaMEhPbHdicjhxbnRTTWFfdjZhRDVWbFdFazNpcHhHUG8wSXA3N05EVl9mNlBkT0hEMjIxQVk1QX",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR2txcF9uQ01YV3NwVGMtMk5WeENSbHdkWEhWb3gtdFd3MjlhWTN2UzI4VVFsa2xaMEhPbHdicjhxbnRTTWFfdjZhRDVWbFdFazNpcHhHUG8wSXA3N05EVl9mNlBkT0hEMjIxQVk1QXFYanpaN3lxVWpIb2prQm9HcHVUZjNyOHB1THM2cG00UEdMWUhJMWRpWUdGTkQybW81UkNRNnBWQmVZZG15QU1IZGJ0bw?oc=5",
         "type": "rss"
       }
     ]
@@ -1032,6 +1753,66 @@
     ]
   },
   {
+    "id": "unknown-2026-07-29-034",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "desalination"
+    ],
+    "impact": "neutral",
+    "title": "SWA moves to manufacture desalination energy-recovery devices domestically - EnterpriseAM",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNdXpzckNGVmtiQlBRUjlldDRZcVVnYnE5SUp4bXI2WS1tWUwtV2FZZFdIc1lUeDAtd25DTExtV0hRS0ZqYXc0TVhYX0JLRklSUndibmE2NDY4Y3lfY3RUaHdnNmhRMUVldVFFcUpId0",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdXpzckNGVmtiQlBRUjlldDRZcVVnYnE5SUp4bXI2WS1tWUwtV2FZZFdIc1lUeDAtd25DTExtV0hRS0ZqYXc0TVhYX0JLRklSUndibmE2NDY4Y3lfY3RUaHdnNmhRMUVldVFFcUpId0QyS000MFhsQW1idFlFV296STFxLWMyTV9KSVJtYzM1UEJIcUxOSFVEZGdqSjRDd0s4SnM4ZEZ1M0ZQZ3p3MW5fRHhxS3BzUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-29-035",
+    "date": "2026-07-29",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works (AWK) Q2 Earnings and Revenues Beat Estimates - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQVER6NjJMU2x1RXZwcGhNRk53MjJlV3Nadmg5dHRyREpGSHFvMFU3VUpzQm5BSTNLdS1KeF9SekplcnBFUm9jZU5ZV1RWb2RrWnBDNWVmYndhYXcxNWRJOHJPamtMY2FCWnNwTU1rej",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVER6NjJMU2x1RXZwcGhNRk53MjJlV3Nadmg5dHRyREpGSHFvMFU3VUpzQm5BSTNLdS1KeF9SekplcnBFUm9jZU5ZV1RWb2RrWnBDNWVmYndhYXcxNWRJOHJPamtMY2FCWnNwTU1rejVhS0pOd3NYX0lqUVlQRjRsOFQ5U3dnYXNFS1owa2hIakJkbUw1dVhz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-07-29-036",
+    "date": "2026-07-29",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works: Q2 Earnings Snapshot - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWFrQjVqUFRWdG95WmdPdGdHbGFVU0ZPX0w2WmE1SF9EMVhJSTdwSUlERFNxQ25VSVBlYm8zOHZrS3I5cU03czM1ME9YalJfYWdlZXhfc0g4NERDWWRfRDZXUHF5RVRfTkVrWWdvaF",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWFrQjVqUFRWdG95WmdPdGdHbGFVU0ZPX0w2WmE1SF9EMVhJSTdwSUlERFNxQ25VSVBlYm8zOHZrS3I5cU03czM1ME9YalJfYWdlZXhfc0g4NERDWWRfRDZXUHF5RVRfTkVrWWdvaFhOZXBwbF9MT29HTU1rbTUwYW56OWlzLWVCcXdQSGxwRzdpSEV4dkRZR2RB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "energy_recovery-2026-07-28-001",
     "date": "2026-07-28",
     "companies": [
@@ -1379,6 +2160,68 @@
       {
         "name": "essential",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SNXA5T0o3NHNXQmhtMXZWb00zemRLbDRUUzNSUHBkQ2NYemsxVVYxaFhsX1VXVDU3amloZVJfUHJ6aHBFVS13Wllpai1BVkF5eUlNNmk5d1labmdnTklFVmp3OXpfb3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-07-28-019",
+    "date": "2026-07-28",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Press Release: Mueller Water Products Announces Quarterly Dividend - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ1lLVUo1ajN2MmZwR1BHQml2Q1NPbFdITkVMSmN3UFNkVVU1NzU1d1AwQU1ZZVc4RDFyM09jaFN3MTU2Z3VyTWZaYWtFdHlDQzUwMGx2cG1ycFBUVFJHWWNqMmNydkh1VVR0TUttdG",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ1lLVUo1ajN2MmZwR1BHQml2Q1NPbFdITkVMSmN3UFNkVVU1NzU1d1AwQU1ZZVc4RDFyM09jaFN3MTU2Z3VyTWZaYWtFdHlDQzUwMGx2cG1ycFBUVFJHWWNqMmNydkh1VVR0TUttdGNyZkFSbS1ubS11aFpPSzNuN0JUcll1RnpkbEx4VzlFT0ZTUlFwdFhrSUlTdlZKRkZWYk95dGhqSEFFd3hmaXJudFl2dzdwbWFZRUFmclRhaFVrcUR5NHZhY0VVQ2JCcmVkQThPZjNHREZFZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-07-28-020",
+    "date": "2026-07-28",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Mueller Water Products Keeps Quarterly Dividend at $0.07 a Share, Payable Aug. 20 to Holders of Record Aug. 10 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnNQV1p6aHRXREVyWkd2UjJBc29MazZlaW1FTzFmVGo3R0pxNGYzakIwR1I0TkowaldsQzMxb3I0U2lqTWlhY0RBYXhCd2JKamVBVzNuN3Z5Y09oNEhmQXVYbzVJUEhmejhMTlNxRm",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnNQV1p6aHRXREVyWkd2UjJBc29MazZlaW1FTzFmVGo3R0pxNGYzakIwR1I0TkowaldsQzMxb3I0U2lqTWlhY0RBYXhCd2JKamVBVzNuN3Z5Y09oNEhmQXVYbzVJUEhmejhMTlNxRm1pSjB4bVhQbFVLa1N6cFNtV1dOc09VazhjeWxkNVU4c2ZPNjN0Z2RfdThldlN3OVUy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-07-28-021",
+    "date": "2026-07-28",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products Announces Quarterly Dividend, Payable on or About August 20, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0xLdmVsVDJlUC1LWlRhekFxbWoydnJ2d083Y3FUV1ZFTG1UaDdhVHBGVWFGRk45Tk9YbUh3UlBJTGpJUl8wV3Zqajl1Z2lvOUtrX2VDVUs1emtmOFF5VTBlWEVrbXNpRTJGVThCZn",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0xLdmVsVDJlUC1LWlRhekFxbWoydnJ2d083Y3FUV1ZFTG1UaDdhVHBGVWFGRk45Tk9YbUh3UlBJTGpJUl8wV3Zqajl1Z2lvOUtrX2VDVUs1emtmOFF5VTBlWEVrbXNpRTJGVThCZnBxUS15bFhGdjZ3QkFINUs0djNpeHVZZ3hBaVZ1WEJYVEc4V1o2OEZlUm55cWlzVTNOUWRHYjFFTTYwRHFoTGQ3WjhhTldXX1YtWnVIRjhPMnJkY3VhSGZhOUE4Qkp3Wm9CWFMxTmNn?oc=5",
         "type": "rss"
       }
     ]
@@ -1883,6 +2726,26 @@
     ]
   },
   {
+    "id": "ao_smith-2026-07-27-026",
+    "date": "2026-07-27",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AO Smith Corp Lobbying Profile, 2017 - OpenSecrets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPb3dnU19uOVJDdmhDMDVVVGhzaDYwZFpYV3Q3VFFId2VaVTZENEJiWjltRnAxNk9OVFV5NVBTTU5qQnFJZGhBUXZNSWFOazEzbnEwcUR1ZWRsMDJySFhWU3ZEbHVxeUtHOFRjV0luV3",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb3dnU19uOVJDdmhDMDVVVGhzaDYwZFpYV3Q3VFFId2VaVTZENEJiWjltRnAxNk9OVFV5NVBTTU5qQnFJZGhBUXZNSWFOazEzbnEwcUR1ZWRsMDJySFhWU3ZEbHVxeUtHOFRjV0luV3cxeHFBQWhhNGJ0dy1mQ01jVk1xaFpoUTFocnhQTjFTUTh0ajRMeDN0V1Vn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-26-001",
     "date": "2026-07-26",
     "companies": [],
@@ -2322,6 +3185,68 @@
     ]
   },
   {
+    "id": "danaher-2026-07-25-016",
+    "date": "2026-07-25",
+    "companies": [
+      "danaher"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Are Danaher (NYSE:DHR) Latest Results Turning Heads? - kalkinemedia.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGxHZDRsNjJMc1J1YmZhYTlvZnZuU19wRjVHcERfNEJTV25oRlZVQmxqUUVTTTlPMHpmMi1aR3BRLUNUSzJMNl80Rk9UU0NiazJfaXcyekVzQ3lyaG1FdkJVcm8teEZ0azJzUjNDZ2",
+    "sources": [
+      {
+        "name": "danaher",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGxHZDRsNjJMc1J1YmZhYTlvZnZuU19wRjVHcERfNEJTV25oRlZVQmxqUUVTTTlPMHpmMi1aR3BRLUNUSzJMNl80Rk9UU0NiazJfaXcyekVzQ3lyaG1FdkJVcm8teEZ0azJzUjNDZ2I1MjIwNWhRQlFaYTBzUUg0eDk5Vkl1VU9qcG1FM19SYmQyY0VnOTlsdW0tdUU4cDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-07-25-017",
+    "date": "2026-07-25",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries Ltd. (6370N) Q4 2026 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBYNVVCT3N6ODNhNHZwTmtwckFtOUNfb0JpMEg2QTA5QXdqeHhCU2w4ZmZtZDFjaDJlMXg0NmpwaGZUdE5kT0lxTjJkMGdOeElRbjByYVRTNVpGYUc1VnlxYjY3VXJRSzI1ZWs1c3JDM3",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYNVVCT3N6ODNhNHZwTmtwckFtOUNfb0JpMEg2QTA5QXdqeHhCU2w4ZmZtZDFjaDJlMXg0NmpwaGZUdE5kT0lxTjJkMGdOeElRbjByYVRTNVpGYUc1VnlxYjY3VXJRSzI1ZWs1c3JDM3NuUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-07-25-018",
+    "date": "2026-07-25",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries Ltd. (6370N) Q3 2024 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE94NzJZSmRQOEpKOFAwM2F4TFB0UzBtb2xuNXZQSDFXcEdFV2d1ZUxLQUQxMkZKMjVzQjZ1dGxObEVjZ29IR2FPWWdSbE9ZYmxLUWVUbHdEdnFpSDhSTS1YaDk1a0pSR0FQOEFZUzNBVz",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94NzJZSmRQOEpKOFAwM2F4TFB0UzBtb2xuNXZQSDFXcEdFV2d1ZUxLQUQxMkZKMjVzQjZ1dGxObEVjZ29IR2FPWWdSbE9ZYmxLUWVUbHdEdnFpSDhSTS1YaDk1a0pSR0FQOEFZUzNBVzh2UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-07-24-001",
     "date": "2026-07-24",
     "companies": [
@@ -2698,6 +3623,26 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVplRkw4cGctNWRZMVpscXhWM2VQTENyMDBpZFdOYjI5Vkk4bVlzSERDNVJtMjZQT3VHelFfYnZTOGdQWFQ2em15LXZ5ODBZZFRQOTUwQjNiMWwzOXpDM3ZUZ1JlNUNmOTNGb19GeWdwbzhMZ1VDYzN1d0pBbXBrQmR1X0VmODJQMERsYjJiekRYQTR4T2N5UjFYYmhGdjFsRTFDQXBTTzdlZUtVWGRvd1FrX0NoV0h3dXZzXzZaNmJUdERCbm5mUDVoM1k3T1pY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pentair-2026-07-24-020",
+    "date": "2026-07-24",
+    "companies": [
+      "pentair"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PNR|Pentair PLC|Price:66.600|Chg%:-0.170 - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0LVRtRDRYQUdtM2pKQlJCbmhrZTZDYU1wbnMtVHZxRTdmbldUaC05Q2tVbHk5RXVKdXk2UXVtYUU4QWdsakpJWFU0akNoN25LNEczSFFCXzg1RDhCc0NXbEpPZw?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "pentair",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0LVRtRDRYQUdtM2pKQlJCbmhrZTZDYU1wbnMtVHZxRTdmbldUaC05Q2tVbHk5RXVKdXk2UXVtYUU4QWdsakpJWFU0akNoN25LNEczSFFCXzg1RDhCc0NXbEpPZw?oc=5",
         "type": "rss"
       }
     ]
