@@ -1,0 +1,16 @@
+{
+  "total_raw": 260,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 4,
+  "gate2_fail": 6,
+  "passed": 38,
+  "gate2_samples": [
+    "Energy Recovery Signs Lease for New Manufacturing Facility Near Dammam, Saudi Arabia - Yahoo Finance",
+    "Energy recovery CLO William Yeung sells $17,530 in shares - Investing.com",
+    "Daily Brief United States: Crude Oil, American Tower, 6 d global technologies, Energy Recovery, Mole",
+    "Form 4 Energy Recovery Inc For: 29 July By Investing.com - Investing.com Canada",
+    "Veolia (ENXTPA:VIE) Stock Caught Between Margin Gains And Slow Growth - simplywall.st"
+  ]
+}
