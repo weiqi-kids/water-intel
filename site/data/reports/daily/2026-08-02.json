@@ -1,0 +1,132 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T10:03:45.933880Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-08-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mueller Water Products (NYSE:MWA) Stock Rating Lowered by Wall Street Zen - MarketBeat",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSWt5NlBYc1J3N2hyR2NKOE1KVkNlREdzZFpWdnRUVDFyZnM2alc1WlctdUpqQ2JLT0NibUJzNF9Zby12Znc2cVl4dzBYamZKd3dJYnVvN29qa3dDYmRMVF9zeklNRHhxZ3o2dTJiRmh5bURHa0dER0hDVDY5T2plYkhWTlBqdnBFcVJFSlc3OTNBY2lrbi1DaUxBRU5JZDFYMENUMGpOTUhOZllYaDQxbGhpRXZJZGdQRWY0UGVzU0pOdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mueller-2026-08-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "STV Appoints Jim Mueller to Lead National Water Utility Management Practice - constructionowners.com",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMlV2V2U5Nm91WkdqMGdBTFFKQ01ablBuNG5aRkxveHVoV2tkU1NDSXNmcmRQcjl1WlNaR2ZiTUJCYm4zbzRuQWFfc3dxMElDdkstenZYTUFuN3VrU3QyOFBSR1gzamJaYnlJYXNHSXZEbWkzTVl3SWZCN0VoREFKTjFyYTZKWjU3bDJhbHo4RXItQVA2RGVyTWpXSE42dUVYeFlfbkNJUElLWjE5YUJLQXFRaGU2QQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 164,
+    "too_old": 66,
+    "gate1_blocked": 4,
+    "gate2_blocked": 4,
+    "passed": 22,
+    "pass_rate": "22.9%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Energy Recovery Signs Lease for New Manufacturing Facility Near Dammam, Saudi Arabia - Yahoo Finance",
+      "Form 4 Energy Recovery Inc For: 29 July By Investing.com - Investing.com Canada",
+      "Veolia Environnement : 2026 first-half results - marketscreener.com",
+      "Morgan Stanley Downgrades Veolia Environnement to Equalweight, Trims PT - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為穆勒相關動態：「Mueller Water Products (NYSE:MWA) Stock Rating Lowered by...」。主要關注主題為水資源產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mueller Water Products (NYSE:MWA) Stock Rating Lowered by Wall Street Zen - M...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "STV Appoints Jim Mueller to Lead National Water Utility Management Practice -...（水資源產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

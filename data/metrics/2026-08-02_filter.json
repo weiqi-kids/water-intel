@@ -1,0 +1,15 @@
+{
+  "total_raw": 260,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 4,
+  "gate2_fail": 4,
+  "passed": 22,
+  "gate2_samples": [
+    "Energy Recovery Signs Lease for New Manufacturing Facility Near Dammam, Saudi Arabia - Yahoo Finance",
+    "Form 4 Energy Recovery Inc For: 29 July By Investing.com - Investing.com Canada",
+    "Veolia Environnement : 2026 first-half results - marketscreener.com",
+    "Morgan Stanley Downgrades Veolia Environnement to Equalweight, Trims PT - marketscreener.com"
+  ]
+}
