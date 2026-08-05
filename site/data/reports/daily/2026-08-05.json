@@ -1,0 +1,131 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T10:43:02.130348Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A3LQ46 Bond Coupon Profile — Rate & Payments - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tcEV4ck1RcFlkanJ4UEwxcjFnejJFWEI0TkhTTWVoa3IxNThnbXFVOHRIMDBDeHU1cDJLUnNvWE5nVE1BY2JyZzlvZG1yNmo3bHRFY2JuMUM1LXBuOWltdEQwTUllb1BQeWd5c0xpYVdxY00?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "essential-2026-08-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Essential Utilities: Q2 Earnings Snapshot - theheraldreview.com",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMFVvWDA5bTB4WVFwOHp3RFpIRVhyTmF3M1c1WEZsNzJhQWpXcjc5dGtySnpWNnlpX21rd01xelQ3N3d1YlBURGlxRHVwY1dxcVRtenNnV1NhbUt6VDU0ZjI0NnNjaDZwOHdneGFXNE1XZ2p4WnRSOVp1SUtKX2ZMQTZGcUpSTWpjdDR2bWhXQXRWZ3dIRGVpR1FsWkY2RzREZTQ0VQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "essential",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 164,
+    "too_old": 75,
+    "gate1_blocked": 3,
+    "gate2_blocked": 3,
+    "passed": 15,
+    "pass_rate": "15.6%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "# Testogen Testosterone Booster: Evidence-Based Support for Energy, Recovery, and Vitality *eV8c3SxL",
+      "# Testosterone Booster Blue Bottle Fit: Smart Ways to Support Energy, Recovery, and Metabolic Balanc",
+      "Veolia Environnement : 2026 first-half results - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為必要公用相關動態：「A3LQ46 Bond Coupon Profile — Rate & Payments - TradingView」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "A3LQ46 Bond Coupon Profile — Rate & Payments - TradingView（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Essential Utilities: Q2 Earnings Snapshot - theheraldreview.com（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
