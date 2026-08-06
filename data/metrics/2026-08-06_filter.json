@@ -1,0 +1,12 @@
+{
+  "total_raw": 260,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 3,
+  "gate2_fail": 1,
+  "passed": 53,
+  "gate2_samples": [
+    "Mueller Reports ~9.6B Gallons in Leak-Detection Savings - Stock Titan"
+  ]
+}
