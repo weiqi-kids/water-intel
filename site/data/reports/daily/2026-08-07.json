@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T09:07:07.274061Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-08-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "MUELLER WATER PRODUCTS (MWA) Stock Forecasts - Yahoo! Finance Canada",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOFJmVWtCTEdocFJTQ2lVWVFTcnpKQ1BMOEl6amtaaWZycWttLVgwTUZqc0lfNzdRQldDM2hBSmlNeENLdFI2M2h0SlAwXy1KZEdzem5Ld0NYdWFtMEVyTDg3c2VVSl9EbTdhalUtNWFmRnB1Z0thaFNzWFVzd3dNNWtCaDRMYld5UElfYkJFdWJ3WWM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "energy_recovery-2026-08-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Energy Recovery (ERII) Stock Faces Profit Squeeze As Revenue Slumps 57% - simplywall.st",
+      "companies": [
+        "energy_recovery"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd0ZidlpWNW94V25aa0t6bEt0YlRKaDhoeEM4a1dxanFyVllaNGZyTWxEcVFseFh4c2w0cTh1Mm50d2J4X1VwZzhkSDdBT3FkWHRLdlUzb1dhYTlpWUxNWTNGazlVYmhKSEFNTFQxN296TnFKeWJ5bzJQUUNHWGw0UGluYW1naS1MT09JNVkzVDV5LUQzSk9Fdkdrb0FhaTZKNFB4UjZhTFpmOWpueXNrTUVFYkUyUGxQaUhEY3dyQ1FOV0NjaFRNVzl6Q2xVQ3ZiZ1NOSUdB0gHbAUFVX3lxTE8ySlB4RnlMSnFtRFhtUDB2WXhwUFZnUlh5d2l5WW1rVUJzTTkyak8yaFhtREFDbGNIUktNVElBbExqeGFsRGltTzlwUHV2S0cydW9CQmUxRXhVcFlSLTJ2eDVnUE9FZGtZa0V0aXRuTHVqQXp2QnM0QnJhTDd5bENNZlVTQVZWaXNrLVU2OUJTVk0tUXYyZTdxZUo5amJGVW13dXJPdHJRRHFkMkhkdE5OOVJSLUd0ZDRJVDd3QmNvMXoxRml0RDQwTVVBck52S2tHbjI3UjhZSVFfTQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 1
+      },
+      {
+        "id": "energy_recovery",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 259,
+    "dup_title": 139,
+    "too_old": 77,
+    "gate1_blocked": 2,
+    "gate2_blocked": 3,
+    "passed": 38,
+    "pass_rate": "31.7%",
+    "gate2_block_rate": "2.5%",
+    "gate2_samples": [
+      "Mueller Reports ~9.6B Gallons in Leak-Detection Savings - Stock Titan",
+      "Energy Recovery (NASDAQ:ERII) Price Target Lowered to $8.00 at B. Riley Financial - marketbeat.com",
+      "B.Riley cuts Energy Recovery stock price target on project delays - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為穆勒、ERII相關動態：「MUELLER WATER PRODUCTS (MWA) Stock Forecasts - Yahoo! Fin...」。主要關注主題為財報、展望、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "MUELLER WATER PRODUCTS (MWA) Stock Forecasts - Yahoo! Finance Canada（財報、展望、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Energy Recovery (ERII) Stock Faces Profit Squeeze As Revenue Slumps 57% - sim...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
