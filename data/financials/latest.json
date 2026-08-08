@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T09:07:02.487933Z",
+  "updated_at": "2026-08-08T08:51:07.813208Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "Energy Recovery",
       "ticker": "ERII",
       "currency": "USD",
-      "ar": 38941000,
-      "ar_prev": 76639000,
-      "ar_qoq": "-49%",
+      "ar": 14237000,
+      "ar_prev": 38941000,
+      "ar_qoq": "-63%",
       "ar_period": "QoQ",
-      "inventory": 30886000,
-      "inv_prev": 24260000,
-      "inv_qoq": "+27%",
+      "inventory": 38242000,
+      "inv_prev": 30886000,
+      "inv_qoq": "+24%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "essential",
