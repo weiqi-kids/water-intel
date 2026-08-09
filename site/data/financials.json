@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T08:51:07.813208Z",
+  "updated_at": "2026-08-09T08:52:15.050838Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -92,17 +92,17 @@
       "name": "必要公用",
       "ticker": "WTRG",
       "currency": "USD",
-      "ar": 287323000,
-      "ar_prev": 257735000,
-      "ar_qoq": "+11%",
+      "ar": 207802000,
+      "ar_prev": 287323000,
+      "ar_qoq": "-28%",
       "ar_period": "QoQ",
-      "inventory": 72196000,
-      "inv_prev": 112453000,
-      "inv_qoq": "-36%",
+      "inventory": 95713000,
+      "inv_prev": 72196000,
+      "inv_qoq": "+33%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "kurita",
