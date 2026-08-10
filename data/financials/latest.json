@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:52:15.050838Z",
+  "updated_at": "2026-08-10T09:40:52.422810Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -126,17 +126,17 @@
       "name": "穆勒",
       "ticker": "MWA",
       "currency": "USD",
-      "ar": 208100000,
-      "ar_prev": 138400000,
-      "ar_qoq": "+50%",
+      "ar": 201500000,
+      "ar_prev": 208100000,
+      "ar_qoq": "-3%",
       "ar_period": "QoQ",
-      "inventory": 385400000,
-      "inv_prev": 376700000,
-      "inv_qoq": "+2%",
+      "inventory": 379800000,
+      "inv_prev": 385400000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "pentair",
@@ -177,17 +177,17 @@
       "name": "Watts Water Technologies",
       "ticker": "WTS",
       "currency": "USD",
-      "ar": 374400000,
-      "ar_prev": 294000000,
-      "ar_qoq": "+27%",
+      "ar": 404400000,
+      "ar_prev": 374400000,
+      "ar_qoq": "+8%",
       "ar_period": "QoQ",
-      "inventory": 543100000,
-      "inv_prev": 524300000,
-      "inv_qoq": "+4%",
+      "inventory": 546500000,
+      "inv_prev": 543100000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "xylem",

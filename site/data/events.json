@@ -1,5 +1,148 @@
 [
   {
+    "id": "mueller-2026-08-10-001",
+    "date": "2026-08-10",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products (NYSE:MWA) Raised to \"Buy\" at Wall Street Zen - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMlBSOF9uaGpfS0tZRkNBVGZTdkZhUUtkVW5iVzFYYkZZSTVmU1pyTlQ1cHplRV9MRTloYURuTFg4OHlsaUdRc1MyQzZFRlI3M0RHeGhRLUltNXROSS1adUIxTmxRMHFBYkJYVGlEcn",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMlBSOF9uaGpfS0tZRkNBVGZTdkZhUUtkVW5iVzFYYkZZSTVmU1pyTlQ1cHplRV9MRTloYURuTFg4OHlsaUdRc1MyQzZFRlI3M0RHeGhRLUltNXROSS1adUIxTmxRMHFBYkJYVGlEcnUtYjlETGRiRDNHVkV1UHVCWGVydFI5NFY2a0J4WDBEYnVjYzhRd1NvOXB5RmF1VzlvQnpQWmo3SFJ3Qnc4MENfYzhDQ0NFN2ph?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-08-10-002",
+    "date": "2026-08-10",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "ERII Q2 Deep Dive: Order Delays and Geopolitical Pressures Weigh on Revenue - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9sVTUxbmNWM3lSRC1XNFFZaXJrS0k3cXItVGZWUGFxbTFIZkJvRGxTU2RPYmRBTUJubmdQV05jRHhLVjhfQ3lQR2lvQWFaV0pxclJvYlczTGhQOEdnQjB5M2ZhdG04TUxZSkUxdXB0X1",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sVTUxbmNWM3lSRC1XNFFZaXJrS0k3cXItVGZWUGFxbTFIZkJvRGxTU2RPYmRBTUJubmdQV05jRHhLVjhfQ3lQR2lvQWFaV0pxclJvYlczTGhQOEdnQjB5M2ZhdG04TUxZSkUxdXB0X19HeXRITW82T0wzcE4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-08-10-003",
+    "date": "2026-08-10",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PensionDanmark Pensionsforsikringsaktieselskab Grows Stake in Essential Utilities Inc. $WTRG - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYm5fYjk0QUY4RWZ1NEc3N0xPelYwZkdMU2RkdHlwdC1ETVBtTmhiMW5UVzhPb0NkX2xxdXIyaXQ1MF9TUVFMQ2N5Y0NDd2E4RlA3OFJRTkhtazlEWlNDN0NYbHFyRElza0tMU0lrY1",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYm5fYjk0QUY4RWZ1NEc3N0xPelYwZkdMU2RkdHlwdC1ETVBtTmhiMW5UVzhPb0NkX2xxdXIyaXQ1MF9TUVFMQ2N5Y0NDd2E4RlA3OFJRTkhtazlEWlNDN0NYbHFyRElza0tMU0lrY1hRckNuSzRudGFFUkhaR1N1MEdLZDAwZzNFNjJaNTZVZlZJZUdrVjlyZExCWlZnMFNVZmIwS0JJbDJHeDFBNURkOEt2S1pRaXQ5Q2pWenhGaVlHcGZXT3R5UnVPRmRpTUVMV1gwX3NnUUNnNE9NbXRWd185VW1Tdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-08-10-004",
+    "date": "2026-08-10",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities To Go Ex-Dividend On August 11th, 2026 With 0.3606 USD Dividend Per Share - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVzV3SlFrWUIxVXJNeHNvbFhjOU1OeW9CQVg5U19YbmxtNzFjZXdQcTlLckV5UEZWenNndTdnWFUycVV6R2stdXl2M1VWeE84NmpHVHZiWXpYdkZuSF9lRy1DUC1tOVFJNlBaQjhzaE",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVzV3SlFrWUIxVXJNeHNvbFhjOU1OeW9CQVg5U19YbmxtNzFjZXdQcTlLckV5UEZWenNndTdnWFUycVV6R2stdXl2M1VWeE84NmpHVHZiWXpYdkZuSF9lRy1DUC1tOVFJNlBaQjhzaE9CVE1VQmxBb3M1MVlWclM5a3BXMFlYY1JQWUM2NG9EYzdTazlPRU9yNHl5Z0FlMmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-10-005",
+    "date": "2026-08-10",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Assenagon Asset Management S.A. Acquires 130,031 Shares of American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdjUzbERmQ1FQUlVoSWJDVTk0N29acXFCbDZWdzlZd21HVk4tdWM5Z29JdmVwUVJSWElZUE1RNXRNUDh5bDJoWXg4VWpMbnc1ek80dnl3TzBpQUJLTkNOZVRlQ05sVWFaUUVwQV9BLW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdjUzbERmQ1FQUlVoSWJDVTk0N29acXFCbDZWdzlZd21HVk4tdWM5Z29JdmVwUVJSWElZUE1RNXRNUDh5bDJoWXg4VWpMbnc1ek80dnl3TzBpQUJLTkNOZVRlQ05sVWFaUUVwQV9BLWtyaWNUQ051VVdYajlIRHVlSGVxMkdkT0N5N29jR1JxZmstazcwalo0a2dXX2JxbG9OZGNWTF9NVDZoMmJjaTBhLXg4V2RqX2R0dFgzRVlzOHI5UXNxRFZIeE14Szc1UFFDcWxQZ3ljRktIQlRVSUJwTENSaUllcWVp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-10-006",
+    "date": "2026-08-10",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works To Go Ex-Dividend On August 11th, 2026 With 0.895 USD Dividend Per Share - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQd1p2UEZUc0o4Wkx2aWk4MnBxY1JHc2kzMk1EUEVlOHJjdTR1S29YY0tPb1ByZjN5M0NjZ01WR0hhU3dmeVdsVUJab2tmWnRibm9WSUQwemlTOV8yeVhJaVhPSWtvbExOaFEwV19vcV",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd1p2UEZUc0o4Wkx2aWk4MnBxY1JHc2kzMk1EUEVlOHJjdTR1S29YY0tPb1ByZjN5M0NjZ01WR0hhU3dmeVdsVUJab2tmWnRibm9WSUQwemlTOV8yeVhJaVhPSWtvbExOaFEwV19vcVhFWXpuSkNFa3lRQVNMYTBVN3c3b3J3NF9zS0g2eDV1bU5wX0lDb0tZaHBn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-007",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "semiconductor_ultrapure_water",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Citric Acid Antiscalant Market Growth to 2035 Driven by Semiconductor Ultrapure Water Needs - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZkNrdmRub2ZxUzFGSmhpa1g3Zl9JN2NMWFhuajA4WXR4eVhuSDBtLXhSd2tOTlBfZTNoTG5EbjBwQzZ0SjlpbElCRXNJODNNN3NtUFBURnVVM1JzS09EMEVKTFFpNzBvUThEZlZodH",
+    "sources": [
+      {
+        "name": "google_news_water",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZkNrdmRub2ZxUzFGSmhpa1g3Zl9JN2NMWFhuajA4WXR4eVhuSDBtLXhSd2tOTlBfZTNoTG5EbjBwQzZ0SjlpbElCRXNJODNNN3NtUFBURnVVM1JzS09EMEVKTFFpNzBvUThEZlZodHF0eDl6MTJlTDU4VnN2Uy1uYWQ1eUhyVmdtak96TkhxbWN2a1N4Ty1JQ1ZNVDBfUHREWDMyXy13amwzcUNZbDJwSmtSMG1LN2xvNm5uQmVWcjcwZUtr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-08-09-001",
     "date": "2026-08-09",
     "companies": [
@@ -34,6 +177,128 @@
       {
         "name": "ao_smith",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb1dXR29jWGt2amJEdlc5NWJUOXE0c3NtQTNUVVRqbFRKdmNrNmtIMHppWGNaeDd4N3dxUnN1UkdKZFlMTmdzS2x1M1lWMy1EUUtBYXhBZVdHRTBPS2FuQ2xBT1FVOVRHUjhmUE5zbTB0MjlqMEFGc1VXZ1dkbG1VUlBXampTelAtVE9GTWc1aTFrM3hlTnJFS21fY0pFa0pFRmdiY2NqaHcxLWxsek9UbThoRTJQY1YwUFN6dGc3bVB6YS00TDRrc0F2ejhCdnhad005eThjVzRnZ3VFbzIwQ0o3NVNMdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-08-09-003",
+    "date": "2026-08-09",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "A.O. Smith Corporation (AOS) Stock forecasts - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOakxuV2owMFNzcC0wSWFOSnhZZWtqVWpZX01GTVNCd3R1enprcnFNMmRLXzVmV3lHQTBia09WR3ZReUhPSHU1aEVUSEl2X0NhTFhWQ3ZwSnZRTmU1Q05iM01iVURCWjJ3Q00taExKVm",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOakxuV2owMFNzcC0wSWFOSnhZZWtqVWpZX01GTVNCd3R1enprcnFNMmRLXzVmV3lHQTBia09WR3ZReUhPSHU1aEVUSEl2X0NhTFhWQ3ZwSnZRTmU1Q05iM01iVURCWjJ3Q00taExKVmVhcHVLWThib1pLaGRzc3VRODg0Vm1hM2pCTjZHcXVONzI5UTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-09-004",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Headspace Sampling Systems Market to Reach Index 168 by 2035 on ICH Q3C Residual Solvent Testing Mandates - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYmphb1ZYRWNGcEZwVE9VYjNLT3R6eXRhLUVEdDU1YW9aYzZ6TzFLVzNCNDB1Qkg4UUE1YWwtTjNHVkY0ZnVJV1VhLTEtbHRFaGtFVzctdFBMbEhpQ0gzdFdfbHN3SkFmUkFNMHBPTE",
+    "sources": [
+      {
+        "name": "danaher",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYmphb1ZYRWNGcEZwVE9VYjNLT3R6eXRhLUVEdDU1YW9aYzZ6TzFLVzNCNDB1Qkg4UUE1YWwtTjNHVkY0ZnVJV1VhLTEtbHRFaGtFVzctdFBMbEhpQ0gzdFdfbHN3SkFmUkFNMHBPTEx0MHI1WER0cmpCY0ZDaUZJNFFDek10LXIyNzRrY2wwREdrck91V2NlZFptU1hJUkVyUURrZ3lQT3Vob3h1YWk2ZDVkTTByYlJRa3dYYWFvQ1E2N3ZScG9KUExKSUl5VWhT?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-08-09-005",
+    "date": "2026-08-09",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities Q2 Earnings Call Highlights - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0d1WWdfc1kwTUduVTNQcnRsM29BX0U3ZUt5LTRpdFFfcGV5RVJBMmJCWlVBTk1UWUstV2hVTTQ1MmFlQzJFYjFsSXhVcmZQcUlmU0Rwb2lraXlON05GS3EwZnR2X3F1dzJIMEVBRn",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0d1WWdfc1kwTUduVTNQcnRsM29BX0U3ZUt5LTRpdFFfcGV5RVJBMmJCWlVBTk1UWUstV2hVTTQ1MmFlQzJFYjFsSXhVcmZQcUlmU0Rwb2lraXlON05GS3EwZnR2X3F1dzJIMEVBRnJHSFZXMUVqMHB5SWowUE1vY0pRdWFhM3NSdmJNTWc2c0JoS1g4YUQzMy1OYkdGVlZmVDJv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-09-006",
+    "date": "2026-08-09",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "semiconductor_ultrapure_water",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dividend Safety Check: American Water Works (AWK) and the Reliability of Water Utility Income - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQbHBhaTdzamZTSFpiR181UURLM0liWnZzakx2OWF5dEFnbk5udjhOdUs5aGdEcFhBbDZyTlJRSDlzdHJBQi1uQWFQQVlnRUhUOFk3ZktzQXpMSm5pNGhzQ3RPLXpmQUpWb1NQRWVoT2",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbHBhaTdzamZTSFpiR181UURLM0liWnZzakx2OWF5dEFnbk5udjhOdUs5aGdEcFhBbDZyTlJRSDlzdHJBQi1uQWFQQVlnRUhUOFk3ZktzQXpMSm5pNGhzQ3RPLXpmQUpWb1NQRWVoT2hJQmczMWVCNUw0QjBMeDI2bGVNcWlGT2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-09-007",
+    "date": "2026-08-09",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Janus Henderson Group PLC Decreases Stock Holdings in American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcklXTVZiTDNtaVpuZEQ1VEJXUnppd3FuUHdOVmk3b3AxQTNjZnJ0ejVJYTdGdDFoczZhLXZaLVRlRTk4S0owUDZIZTBoS2tEQkU3U1ZaQldYWm1xZWZEWDZNUlNud1JRSm4xRHhPNl",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcklXTVZiTDNtaVpuZEQ1VEJXUnppd3FuUHdOVmk3b3AxQTNjZnJ0ejVJYTdGdDFoczZhLXZaLVRlRTk4S0owUDZIZTBoS2tEQkU3U1ZaQldYWm1xZWZEWDZNUlNud1JRSm4xRHhPNldMNjNsYjFySXB0MmtWeGZQWGIyZ3NJZUhEUU9oelpSTmNiNVhoVFozS2x1aFhEaWU0M0l5Umx3RThjWkZCZTF0YVY3cjdyYS1XLWNzcEJ2TGtiaC02U29JUzNJV1hNNFUyTGpUbEFXTGRCUERkZF84Y0dlcmZMdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-09-008",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Treated Filter Media Market Growth to 2035 Driven by Semiconductor Ultra-Pure Water Demand - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOTFBQdlFaYWJYUm1kaU1vRHFOMzhUZndRSGNtdjk4cDhieU9YNjkySzMwN2NreTlSZnctNUFDRUxMZFVrR0p2TWRkeTQ4N1MtOHNvendrVEtpeVRxYXJ3VmctMXp1bzRFQkFoejB4SH",
+    "sources": [
+      {
+        "name": "google_news_water",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTFBQdlFaYWJYUm1kaU1vRHFOMzhUZndRSGNtdjk4cDhieU9YNjkySzMwN2NreTlSZnctNUFDRUxMZFVrR0p2TWRkeTQ4N1MtOHNvendrVEtpeVRxYXJ3VmctMXp1bzRFQkFoejB4SHBUXzQwTk0wc255cVBnYllqSmdoSTBmbFJpZXFzNHU3MlpWb09OREZXNXhtd2hSdk9NRW9QY3hQZmFsaEFlRVNhRW0tQXVrb2dPUXp1SklHblVhMkNmdFR1ZTM3Zms?oc=5",
         "type": "rss"
       }
     ]
@@ -283,6 +548,48 @@
       {
         "name": "google_news_water",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWVlwVzJ4VzBVdjVWdWl4T0l3RmtDLXR4QVRpQlVscmctZGhGcVRiY1FQZXVCeWkwU3U0VWdkQ2RvLWpQTExGWlpaZTVYTU8xc0hqU0dRVmQ2OG9KOFZJc3VYMVYyZmgyQ2R6VXhlakFmS3pCb0RmRTBNSERFWVhGSmphc0tYcHU4UmgtV0lSWTVrMkk4THQ3dlBBdFpOZnhSaFk5aUQ3UldVOFowQmhWVGhXOHJqb1B6TndNV3RuZU5mRUZ4YmpWUGtKM1pVaEowMjlOcnpROV95UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-08-08-013",
+    "date": "2026-08-08",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products Q3 Earnings Call Highlights - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0RDTUZKckRSZmdKbG10anIzX3Zucm5MbDI4NHUxcFcwd2QxSjVmNHp2OFBJcXMtU0FsNC0wTWtvWkljd1BGQWZ5dXFQQ0VVMDhFVUlrdWRLbFliTjRlMVhzWmVPMVQ3WEdrcVAxNX",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0RDTUZKckRSZmdKbG10anIzX3Zucm5MbDI4NHUxcFcwd2QxSjVmNHp2OFBJcXMtU0FsNC0wTWtvWkljd1BGQWZ5dXFQQ0VVMDhFVUlrdWRLbFliTjRlMVhzWmVPMVQ3WEdrcVAxNXZzWXg3MkYzSlVtR2txcTFqVS1kcVdaVXBYcVZ0TXR0OHN6WDNCX0dpY2tSQzNIRG9P?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-08-014",
+    "date": "2026-08-08",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works (AWK) Q2 2026 Earnings Call Transcript - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbXo5eENaR1JyMlIwMDV2T2twODNKM0FjSXJhcWJlMDJ5dFB1VzJhNENwZUl2d2FrNjEyWmRWenhGVFNuSWhGZFBxWmxkNEFieWhINGFZb1VCNWd1ZWdiVHZWYS1vUXpWTG1hY20wV3",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbXo5eENaR1JyMlIwMDV2T2twODNKM0FjSXJhcWJlMDJ5dFB1VzJhNENwZUl2d2FrNjEyWmRWenhGVFNuSWhGZFBxWmxkNEFieWhINGFZb1VCNWd1ZWdiVHZWYS1vUXpWTG1hY20wV3pkNEJrS2JhMWZjMmg0b3pjcXZ5WjlJdzNEVUdKbVY5MGNTMXR5dXJmM0NxeFBpTjkwTktGbjUtaFBaNEd2SVVkaFl1Q1MzSi1CMkIta3NwZm4wWGZmeUtpSjJsaEt1NGNTdE10cGZ6bGs?oc=5",
         "type": "rss"
       }
     ]
@@ -661,6 +968,47 @@
       {
         "name": "ao_smith",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDY4Vi1hTG1lUGU0QnZJV3g1V2UxUy03dmc2WFRhcGh6ZmdLbDIzc3JKODZwOUJIZjhlUElsSG5mcU9KcHZvWENYdHloTW5vaFNzc2tacTg2MnhlWjRRNTBOYUl2VERjTnVtUW1zS1R1RGZjTkF0cXllX1BtYS1YMFNBZWRTeTE0ekFlWWVhMzRhck9OMU1EU1hQeUVKbVU5Y1BJa1FYNUdCNVg2SFZUU20wV3p0TFBmQnZxM0lEM3pEaWJI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-08-07-020",
+    "date": "2026-08-07",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "B. Riley Adjusts Price Target on Energy Recovery to $8 From $10, Maintains Neutral Rating - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxObFJXc1Q3SlZoZFVRTU95c0VpYlBSRm1KZW50bWZMSmpUN0xRdEE3aXIyUTVCd2F6ZFQ3NkdLYUVWTDR4R2MtejdPcjZpNGJFa09IdnZlR05xaXdPM0ZKZHpPT0I0b3pXdGI1eUFOWl",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObFJXc1Q3SlZoZFVRTU95c0VpYlBSRm1KZW50bWZMSmpUN0xRdEE3aXIyUTVCd2F6ZFQ3NkdLYUVWTDR4R2MtejdPcjZpNGJFa09IdnZlR05xaXdPM0ZKZHpPT0I0b3pXdGI1eUFOWlh4VnhEaDJYbk1PVzhXUjFqVkxmYTRKcjhpeTlYcEVYV3JYUVNTdUIzXzhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-08-07-021",
+    "date": "2026-08-07",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities Inc. $WTRG Shares Bought by Janus Henderson Group PLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFU3TGpQSXFZZWo4Vk90bUMxRVZkWkFra3lESTZxRWtJY3NOTFVOYjJ1bzFHcjl4YzRXMlQ1Zm5LQlhKYW90VldNcHFtSjZWWlAyTTNkMFVycmdtSm9CRXh5SUNHMmotZWV1R1JxWk",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFU3TGpQSXFZZWo4Vk90bUMxRVZkWkFra3lESTZxRWtJY3NOTFVOYjJ1bzFHcjl4YzRXMlQ1Zm5LQlhKYW90VldNcHFtSjZWWlAyTTNkMFVycmdtSm9CRXh5SUNHMmotZWV1R1JxWkpZNV9KNEZKMjRZZDJYMTVSU2ZIcE5jQ3BVN1VaenlLQUFPcFBucjd4cF9Yc0hYck9kOHFhMVpFdktfUFUtVjllbXRRWUtzXzJCMWFXZGc1V2hQTlNUQXR2cmhtd3c?oc=5",
         "type": "rss"
       }
     ]
@@ -1495,6 +1843,88 @@
       {
         "name": "essential",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ3RsNGlRZEdpZ2ZVbEN6RzFxMkZZcUtXbldNc3NBX1FnbG56LXVuLVFtdmhLT0xKS0p3QlEwbUNzb0dQUkpaZ2ZFRVk1UElLOUNwSkxHcjVUVFd2LWRLaU1xWnd5MDIzM2ZPemprVXFiVWhYRkx6bXVCXzJYdGNKSEVCSVhZc25YUzRYeGg5WmtSQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-08-06-042",
+    "date": "2026-08-06",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products, Inc. Q3 2026 Earnings Call Summary - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPSGVMMHNYQWQwc0tSM09yTTZZb3JETm5GWm1CMEVSNmJ6T0E5Nm9VWUtOamxwS0RfemFsRDFSekVqeUNZTWI0WnlzYTBMWDhCTkVaa3BYSmp0RTJFb2tSczRjM1hJcXZvdVNSYVdYYm",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSGVMMHNYQWQwc0tSM09yTTZZb3JETm5GWm1CMEVSNmJ6T0E5Nm9VWUtOamxwS0RfemFsRDFSekVqeUNZTWI0WnlzYTBMWDhCTkVaa3BYSmp0RTJFb2tSczRjM1hJcXZvdVNSYVdYYmx6bU9ob3pwZG4wYzlNR0tmMmZ6bWxvTTQ0bVR6Y3RtSlBwYnZMY3ZkaFJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-08-06-043",
+    "date": "2026-08-06",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Energy Recovery (ERII) Reports Q2 Loss, Misses Revenue Estimates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPeE1nZ2tjWkt3YUxxVlJna2JvY09OTm5zd05SdlU1TUF2SElCd1EtY3YzdDhFcDBwOXVubVZqd09JQmcxSHlMNnhHTHlJdjV5a0JSMGFwQTNfaXN6aEluQlFmS0NMZ0d5TFk2VnZDVV",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeE1nZ2tjWkt3YUxxVlJna2JvY09OTm5zd05SdlU1TUF2SElCd1EtY3YzdDhFcDBwOXVubVZqd09JQmcxSHlMNnhHTHlJdjV5a0JSMGFwQTNfaXN6aEluQlFmS0NMZ0d5TFk2VnZDVVVvWHUzOFIwN0Yxb29lN2hkb2h5Y0xJUnhSTEJuQkI4ZGxtSkk1akxRa2tIWXg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-08-06-044",
+    "date": "2026-08-06",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery (NASDAQ:ERII) Posts Quarterly Earnings Results - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPMjZJVkpyeUJLVmVDc3hzZmpBMTE3cDRKWUFtdjNwUW5vMTJIeTFSQzBWTHI5SFp1a08zZUZwUHpkTkZ4cGh2TDliQVh0RFJ0amtzOU5ZdE9HMGRkMENKUXVRdThFWE82NlYyMW81RG",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMjZJVkpyeUJLVmVDc3hzZmpBMTE3cDRKWUFtdjNwUW5vMTJIeTFSQzBWTHI5SFp1a08zZUZwUHpkTkZ4cGh2TDliQVh0RFJ0amtzOU5ZdE9HMGRkMENKUXVRdThFWE82NlYyMW81RGdfS19WT1Zkc25RQ09Rb3J6SUVhcnhERmV0eVJ5cTFxUkhseW5XOTJONWZMV0ZkeG53TFdBdlBFQmZfNThKS3lUMDgzQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-06-045",
+    "date": "2026-08-06",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "12,720 Shares in American Water Works Company, Inc. $AWK Acquired by Canandaigua National Bank & Trust Co. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPalQtRWtHMXZZbXM4NzNTZ3V1SzJUUG1OQUUzeXU3TGxUSEF2OEZWLUFrRU5KOWNQTkxqdTY3QWdYOFJvN2pxOGZLanhpUE9GRjl2UHRCakYxS3owbFRiYzFDX0QzelZiX25ZYUVMeX",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPalQtRWtHMXZZbXM4NzNTZ3V1SzJUUG1OQUUzeXU3TGxUSEF2OEZWLUFrRU5KOWNQTkxqdTY3QWdYOFJvN2pxOGZLanhpUE9GRjl2UHRCakYxS3owbFRiYzFDX0QzelZiX25ZYUVMeXJ1aWw3anJiRnN3aHNVei1WRV9NMXd3Y2VMdTR6UGlhbGgwTHdfZnk1cGpCSDc3UmpzQ1lTN0NFVEZoQ3NINUc5STVmT0twSVNEUFlsTHJlTTE3V0E1bUd2MUhzaThWSXB1bjhDRTN6Q2pjWTdNOUNfTzRYRmQxN3dtTHplQVk4NDd6UQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2750,6 +3180,89 @@
     ]
   },
   {
+    "id": "mueller-2026-08-05-062",
+    "date": "2026-08-05",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products (NYSE:MWA) Surprises With Q2 CY2026 Sales - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWUk0OTdOZzdKN0RrV0ZrcS1qMHp2VDdTVFRZdWxObTZlZlRxWW1BZFhnbmNVNmRSanF6dFc2TWdDaFJpdW5FT2dIdUF2c3UwMjhPdHJSUjBKc0NqelBXZzBvdGZxWlJDVkVmU2hnej",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWUk0OTdOZzdKN0RrV0ZrcS1qMHp2VDdTVFRZdWxObTZlZlRxWW1BZFhnbmNVNmRSanF6dFc2TWdDaFJpdW5FT2dIdUF2c3UwMjhPdHJSUjBKc0NqelBXZzBvdGZxWlJDVkVmU2hnejJnTExWWGZXdlZEN09nVmN0RFEtd2J1c3Q3b3hNMVhjY1lUbWd2ZUN1U2x6TU5zcTVUOEZNUy1taEhmS2Nod1lEa3BZTE9pdklnaUdqYTFGRExvdkFWZkN3eFo2aHBXRzZmOUlrY0VJaU5ObE56S0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-08-05-063",
+    "date": "2026-08-05",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products posts Q3 revenue $395.9M, adjusted EBITDA $107.4M; raises FY26 adjusted EBITDA guidance - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZDFNQVZ1aEdaTTVrY3J4NXg2MEQ1US0xdlN2dkdLTFF1YmtXZ2hhU1VQZlQ2QjdydnlxNWFpaU9tTnhrNExpcUsyTy1BWFRTbzktWVp1TllpbGlJTGMxUkQwSlBiSENJaUxuc2RFWk",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZDFNQVZ1aEdaTTVrY3J4NXg2MEQ1US0xdlN2dkdLTFF1YmtXZ2hhU1VQZlQ2QjdydnlxNWFpaU9tTnhrNExpcUsyTy1BWFRTbzktWVp1TllpbGlJTGMxUkQwSlBiSENJaUxuc2RFWkZ6UnpVMU5zUVU1ZEZDRGZBTG9pdy14akNreWFLX3dGN1ZobXR6MFZzbmgtaFBhRVc2VkQyLTE2TTcwLWhTOGJFNHBwLWtUWkRvQlN6UUQtcHFGQ1pOdlFJb0xFTjdCcDJFMFpMYUtRcVlQZ0VtSlFITmpJd2I2Rnk2RndDN1JQZF82cGFyU1hrY21RWmI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-08-05-064",
+    "date": "2026-08-05",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery Reports its Second Quarter 2026 Financial Results - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPUDZlTjRzMVE2TUE2RVIyLXBpLXpUbWZEcXVrYWx2ZU1qdmVacTVaQ1RTMjlNYVV6bmp0N3k3SjBFMW56SjItSkhnaUVZOGdKc2hDZFpfZGsxRU9JaXJLdWNxSHB1dlB3ZFN2dHI3R0",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUDZlTjRzMVE2TUE2RVIyLXBpLXpUbWZEcXVrYWx2ZU1qdmVacTVaQ1RTMjlNYVV6bmp0N3k3SjBFMW56SjItSkhnaUVZOGdKc2hDZFpfZGsxRU9JaXJLdWNxSHB1dlB3ZFN2dHI3R0k3TnZlZlAyZEhuVE9QMnZPclEyNzRBS0VNZlZEY05YTVJzSDNKbnpSV2Vrcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-08-05-065",
+    "date": "2026-08-05",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery (NASDAQ:ERII) Misses Q2 CY2026 Revenue Estimates, Stock Drops - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQOUllNWMtdXBCWThhZlB3c0F2a3EwUDc3ZjdHcTZwMTlzb3JXcnhsTE9NMVdQYVI2enJEVDJBenN4cVd3YkJYWndnczVSdWY4elpoczdCb25zYllTb2Q2RlJpM1VidU1seC1HdENxcF",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOUllNWMtdXBCWThhZlB3c0F2a3EwUDc3ZjdHcTZwMTlzb3JXcnhsTE9NMVdQYVI2enJEVDJBenN4cVd3YkJYWndnczVSdWY4elpoczdCb25zYllTb2Q2RlJpM1VidU1seC1HdENxcFpzd1BiWEZUXy1aYy1sYkZfemJwdFNucGhPcFRTc2VlaWlsVUxwTHBHaTFmai1JWlIt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-08-04-001",
     "date": "2026-08-04",
     "companies": [
@@ -3407,6 +3920,27 @@
       {
         "name": "essential",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNek5hNFFpUFlGRlFHMjFUNFM0NUhZc19sRUJTS2tzS1NmMTNsYm9tVWNoM0JNOE1pUTR5azh3emhkNjJOM0xSTWl5UUNVQ24wVjFFT19qYVpfVDY1elJMZEwtdGpCaF8tYjJ3cFZnZGxIckNBUVpUU3dfVGxyeUx1UlZvS2xkZEJwZnNJWEFmR0hEMnQzWTVoZTVaendtZklkVVJz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-08-04-033",
+    "date": "2026-08-04",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities Reports Q2 2026 Results - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEpESnQtX3JWeFZHSlF3NkFqS3dNWmJwSGhCaGVYeTRrLVJpMHpJZExGVHVhX3JfSVBBYnNNNkhJc2hOZmRnamR3ZWl3TXhyZlZIc3ZnWURXS1RzT1cweGdBSzdHalRxMUFaVXoxQ1",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEpESnQtX3JWeFZHSlF3NkFqS3dNWmJwSGhCaGVYeTRrLVJpMHpJZExGVHVhX3JfSVBBYnNNNkhJc2hOZmRnamR3ZWl3TXhyZlZIc3ZnWURXS1RzT1cweGdBSzdHalRxMUFaVXoxQ1dEY2dmeFFzX2pNVktPZHhoTFU4dlNzNmNKX0lTWV9GSHJSTHo5LW1nRkVvY2hnREVjSlE?oc=5",
         "type": "rss"
       }
     ]

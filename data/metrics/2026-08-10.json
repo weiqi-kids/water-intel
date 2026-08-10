@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-10",
+  "total_events": 7,
+  "by_company": {
+    "mueller": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "energy_recovery": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "essential": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "american_water": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "semiconductor_ultrapure_water": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

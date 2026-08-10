@@ -1,0 +1,15 @@
+{
+  "total_raw": 259,
+  "dup_title": 167,
+  "no_date": 0,
+  "too_old": 61,
+  "gate1_fail": 1,
+  "gate2_fail": 4,
+  "passed": 26,
+  "gate2_samples": [
+    "Mueller Reports ~9.6B Gallons in Leak-Detection Savings - Stock Titan",
+    "Energy Recovery (NASDAQ:ERII) Price Target Lowered to $8.00 at B. Riley Financial - MarketBeat",
+    "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Sarasin & Partners LLP Has $70.42 Million Stock Position in A. O. Smith Corporation $AOS - MarketBea"
+  ]
+}
