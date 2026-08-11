@@ -1,0 +1,14 @@
+{
+  "total_raw": 259,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 74,
+  "gate1_fail": 3,
+  "gate2_fail": 3,
+  "passed": 32,
+  "gate2_samples": [
+    "Mueller Reports ~9.6B Gallons in Leak-Detection Savings - Stock Titan",
+    "Energy Recovery (NASDAQ:ERII) Price Target Lowered to $8.00 at B. Riley Financial - MarketBeat",
+    "Sarasin & Partners LLP Has $70.42 Million Stock Position in A. O. Smith Corporation $AOS - MarketBea"
+  ]
+}

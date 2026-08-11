@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-11",
+  "total_events": 5,
+  "by_company": {
+    "mueller": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "kurita": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "essential": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
