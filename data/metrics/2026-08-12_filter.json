@@ -1,0 +1,13 @@
+{
+  "total_raw": 260,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 1,
+  "gate2_fail": 2,
+  "passed": 17,
+  "gate2_samples": [
+    "Mueller Reports ~9.6B Gallons in Leak-Detection Savings - Stock Titan",
+    "Energy Recovery (NASDAQ:ERII) Price Target Lowered to $8.00 at B. Riley Financial - MarketBeat"
+  ]
+}

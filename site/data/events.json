@@ -1,5 +1,66 @@
 [
   {
+    "id": "unknown-2026-08-12-001",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith launches CO₂ split heat pump water heater for residential use - pv magazine Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbm9ZSE5WRGVGWkc4YUdwVG9pRURYTnZjZnRnRTZMM19fTUZHand4bEs1M3RVWGZTNktRWEVoTXphX1hvV1VDY05xX1FmNVNTYkZleHk0LURFV294R1hvMjV4bEs4UWJUSmZTeHNxQm",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbm9ZSE5WRGVGWkc4YUdwVG9pRURYTnZjZnRnRTZMM19fTUZHand4bEs1M3RVWGZTNktRWEVoTXphX1hvV1VDY05xX1FmNVNTYkZleHk0LURFV294R1hvMjV4bEs4UWJUSmZTeHNxQmp1UzMtZzJpSmE4NnFmc2ZZSEQzRmhSRWQ1UURiRFRwMUp4clludkdwNGFFZWFmdlJzeHU0S0pOZzFUamZMSFlrazAwYlZsT3BhOHlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-08-12-002",
+    "date": "2026-08-12",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities Inc. (NYSE:WTRG) Given Consensus Rating of \"Moderate Buy\" by Brokerages - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLXdQV254UjI4LTdTWmM1alpVT0hsQmZLdDEtUUd2b2hXY0lzREdSMm43cWl4UzZveUNFamdxMlBoQ2NkbUhuVXBIc01FS1hpQTdrZDVOOXVJdXNRTGtMd2hkZV9LbXBfc201MVU3Sj",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLXdQV254UjI4LTdTWmM1alpVT0hsQmZLdDEtUUd2b2hXY0lzREdSMm43cWl4UzZveUNFamdxMlBoQ2NkbUhuVXBIc01FS1hpQTdrZDVOOXVJdXNRTGtMd2hkZV9LbXBfc201MVU3SjRMV2NWQWNQN2pOUzJzX1FUS0JrTjdwTnRPRnFDeWRfT0RmWWZQOHNQYUE0SXlXbXpiS3EwenRybm9pSDNBRjJRVUtENzUzSEZLQ0xqaVp4eThKQ2M5ODRKRDQzczlhREVlOXpXeXd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-08-12-003",
+    "date": "2026-08-12",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities Inc. $WTRG Shares Sold by Assenagon Asset Management S.A. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNOTRsWVBRT2FPSlRSQzYydzU2bS1nRzk3Q1BxOW13X0U0ZDdWLURQalZsWjI5U2g2dWRwYTNYMl9VNVV4YU40aW9vMzNEN0hRLXNuUnNIbFN4ZDkzWUFkTVVBXzJ5bkIwNE9iZXUyU0",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOTRsWVBRT2FPSlRSQzYydzU2bS1nRzk3Q1BxOW13X0U0ZDdWLURQalZsWjI5U2g2dWRwYTNYMl9VNVV4YU40aW9vMzNEN0hRLXNuUnNIbFN4ZDkzWUFkTVVBXzJ5bkIwNE9iZXUyU0FVSFN2SzN1YXZxdTllRjF0NTJSc2NzNjFZbHpjVkdpZWd3bzk1Uk10aVZWeHJyV2RDU1BaR1ljdmhJcDh4NzhFUXRHRVFiWDJ4ZnVMODE4Nk1BMU1YQVhvcDA2OGVsWDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-08-11-001",
     "date": "2026-08-11",
     "companies": [
@@ -97,6 +158,142 @@
       {
         "name": "essential",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORWxfUWsySHE4NHlnckpLQVFGTW1yQ01OZ0IwVnBZY2xsUHNPRGZsRlNwQ3I2TW9CQ3k2a0xZZDV0MEp0RTE0V1R4ZDlWWXZWX2VrTEFjRFVRMmcyeGJoNHU0a1RNb1U2R0sxRzZMdi1zNW1Ydi1lOWRHajl0eDNCT3E1ZFF1TTgxUS1xNTM2U3BDdW1pNnozWFFIVGNDMGpPTHl3em5rcWRWUmVYTE5VT1VUSE1hS2tTWmVrWjZFV2pkNV8xQXlQRXg4aGh2Z0tiM3Y1bGVqaFQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-08-11-006",
+    "date": "2026-08-11",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "3 Reasons Why Growth Investors Shouldn't Overlook Mueller Water Products (MWA) - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQWGVVcmVpT1FhX0d2UlFrNlB2a0V3MU9EYlczb01Md0hrSEM5bW1TTUJCU0dkeXlESE10V3Z2MkZPYjRKemN4MVgzWTdMVThYTl9GdXNPelhVWFZ3ZU8zNFJjcHoxNGdsSmQwWUludD",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWGVVcmVpT1FhX0d2UlFrNlB2a0V3MU9EYlczb01Md0hrSEM5bW1TTUJCU0dkeXlESE10V3Z2MkZPYjRKemN4MVgzWTdMVThYTl9GdXNPelhVWFZ3ZU8zNFJjcHoxNGdsSmQwWUludDBQVW9sTERRRWdNTUlSY0hwWEhUZmNwR0ZEaHh2SjQwYzYtQzRvM1NHT3hqbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xylem-2026-08-11-007",
+    "date": "2026-08-11",
+    "companies": [
+      "xylem"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xylem to Acquire Cornell Pump and Roper Pump, Strengthening Industrial Presence in High Growth Sectors",
+    "summary": "Expands Xylem 's position in critical industrial and municipal applications Adds engineered pumping technologies designed for demanding environments and challenging fluid-handling requirements Enhance",
+    "sources": [
+      {
+        "name": "xylem",
+        "url": "https://xyleminc.gcs-web.com/news-releases/news-release-details/xylem-acquire-cornell-pump-and-roper-pump-strengthening",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-008",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith Introduces New Voltex® X Outdoor Split System Heat Pump Water Heater - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZzQzTENEUFNRekdEdy1GN2lGM0JsT0tWZXRXYjBaYnEtSm52azh0eUU4VklJdHc4c0QxSE9OdWpBVGozTWNCRGdtLW54WjlKLXhjZlVjV2FsLXlBVzU2dm92YTZpU2Z6dE95UXB3dH",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZzQzTENEUFNRekdEdy1GN2lGM0JsT0tWZXRXYjBaYnEtSm52azh0eUU4VklJdHc4c0QxSE9OdWpBVGozTWNCRGdtLW54WjlKLXhjZlVjV2FsLXlBVzU2dm92YTZpU2Z6dE95UXB3dHVkQ05IRkdnYk5BTkw4ZlZGRmtLM2pYMi0yRFBJS2R2LVBiNEIzdUUzSVlRYmo4TE83bkRIdkFCVktrdGhZY0VYQjIzXzhaTkVJREJPcDRkV1FIVDhXOGhEald3RHp2M2twWXF2a21LQnZZRWZD?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-08-11-009",
+    "date": "2026-08-11",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities (WTRG) president sells 2,855 shares and updates 401k stake - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1NjZlBUbkRnUkdWdzUwRFVBMTlzYkZaZy1tMVdqZl9iT1hiYWpJY1NEc0xDcFg4SE5UWHRzWGFJR2VHcWRBbjdybnBibV9BNVVRcmF5TkJTd3hFTE94Z2Q4TnhyQ2d0MU43Sm9yN3",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1NjZlBUbkRnUkdWdzUwRFVBMTlzYkZaZy1tMVdqZl9iT1hiYWpJY1NEc0xDcFg4SE5UWHRzWGFJR2VHcWRBbjdybnBibV9BNVVRcmF5TkJTd3hFTE94Z2Q4TnhyQ2d0MU43Sm9yN3kwcEJBM1dpN2E0Qkc4eldwbDJZSTRJZDdiSlFNU0VXS1RRRzNFZG02RGluOXQ2ZTZCZERMZl91M3ZySlBRNjB3amZkaXp3OHNf?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-08-11-010",
+    "date": "2026-08-11",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities (NYSE:WTRG) Insider Sells 2,855 Shares of Stock - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ3FRYklURU9NUTBsQXU1UzBOZTY2eTYxTmVwNGV6N3JWd3p1NElHQXhhVVBteUR0YjA2bVBoMDBjVmI4cVVhVzExY2Rpbm5pa25nX18tbG9hYXh6Tmp0eE5pejZvVXg4dUxTWlo1Xz",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ3FRYklURU9NUTBsQXU1UzBOZTY2eTYxTmVwNGV6N3JWd3p1NElHQXhhVVBteUR0YjA2bVBoMDBjVmI4cVVhVzExY2Rpbm5pa25nX18tbG9hYXh6Tmp0eE5pejZvVXg4dUxTWlo1XzF6RWhNT2c5YklCU0lJYXpPSm5lWk04M0VnTVdoYWVTNlFtLVBUNHl1WjRrd3lUWHdWMzFQV3FWMHA0ZGYzUlQ3Ml9xeTBWUG9U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-011",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Named One of America's Best Employers for Women in 2026 by Forbes - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDlYUVB4R0xwWm9XT1R3Ym9IQk5OZjJROU5xelBYdmJFUVJuTWRyYTRNaklUR1dCZ0x3R0R3b1VrY1p3VjdmZ0c3NHJxc19mWW5OLUZfVkxJWmVJMTFvdjFRSHRuTWtWRTJQX2VxNz",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDlYUVB4R0xwWm9XT1R3Ym9IQk5OZjJROU5xelBYdmJFUVJuTWRyYTRNaklUR1dCZ0x3R0R3b1VrY1p3VjdmZ0c3NHJxc19mWW5OLUZfVkxJWmVJMTFvdjFRSHRuTWtWRTJQX2VxNzJUaWJBQzFqTGJsdUVrZV9NdVZBdURlTHI1REIyUmI5N05YbnhyV3FpUmRqU2xyQjA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-012",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "146,000 Women Helped Shape American Water’s Forbes Ranking - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZThUdk00V2F3YWxaOVI0Y0VaQ08wY1R6aUpQTElrcllLeGwyYUU0MnVtLXNfYUFDenJzSFlZdTZFM0wxZU5MZjU1bnVicFV0RU5zVFJKUzhOdDl0X0l2YjZ1Y2F3RTdKVlNET2JGeW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZThUdk00V2F3YWxaOVI0Y0VaQ08wY1R6aUpQTElrcllLeGwyYUU0MnVtLXNfYUFDenJzSFlZdTZFM0wxZU5MZjU1bnVicFV0RU5zVFJKUzhOdDl0X0l2YjZ1Y2F3RTdKVlNET2JGeWZsOVZrR0J2VE1EaldRXzNiMTA0LVdwM0xJWkZRNmVqNEZJcjhTM2RlOTR5dzBBMThCd0QyLTlOVWZhdVZoNTV2Z015T24ybHJYdmJN?oc=5",
         "type": "rss"
       }
     ]
@@ -534,6 +731,66 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdkVwaUg2RVYwUEtlSzU1WGt1YXhFdGR6aml3NVhaYjBGdkpXcE1jNlVndVpEWnExeEh3RnAyNXctYTJHVjJ2X1hqLUxIRG50TFJuQUZoc09hWnJQQ2g0UzBVUkVVczd4dmY1WGZFdnVTc2ZuNl9ZcW5mUDVLZHVRdEEtSk81T2w1NUpjcU9PODFqVFFyLWZVa1JHYmVWVVA0NzdPRmZONG1DaExRMlg2ZWV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-08-10-023",
+    "date": "2026-08-10",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products Inc's Dividend Analysis - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNb21jTzJPLWhQOFZZREIxMXpXeS15NUYwNktBQkNPMVVYTmVBdVJMY015LXdHRHhJWDQtOVN5Nm1aeEsyMm5YX3l1U1JhT0pEN3l5XzRYVFNqc01ENlNwMGxCTWpQZVp0Y1ktb0xnNn",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb21jTzJPLWhQOFZZREIxMXpXeS15NUYwNktBQkNPMVVYTmVBdVJMY015LXdHRHhJWDQtOVN5Nm1aeEsyMm5YX3l1U1JhT0pEN3l5XzRYVFNqc01ENlNwMGxCTWpQZVp0Y1ktb0xnNnFVdi0zRUstT3B2bVA4Smdid0t0VDJvMWgxeThpeUVB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-08-10-024",
+    "date": "2026-08-10",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "smart_water",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Does Essential Utilities’ Dividend Hike Amid Softer Earnings Shift The Bull Case For WTRG? - webull.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HdXM2QzB2SzBtWEJCX2FUV2lIOHFpUmtSVXZtWHZoSXpqaXdpTm8yenVjbDR6VzU4R3M0dFB0Wjc3a01GclpCLUtaSnc3UzVya1FuaVgxcFg?oc=5\" target=\"_blank\">Does Ess",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HdXM2QzB2SzBtWEJCX2FUV2lIOHFpUmtSVXZtWHZoSXpqaXdpTm8yenVjbDR6VzU4R3M0dFB0Wjc3a01GclpCLUtaSnc3UzVya1FuaVgxcFg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-025",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Joins Dialogue at 2026 American Society of Civil Engineers Watershed Management Conference - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5SNzdpbUdYd2pwVnhTOEhIcFUtZ1NKajJxRGRYdkdlMkphbGhuSGd1RXNpaVZ0Tk1lenZJbmd3ZlRNLUktQklKaVdoaGw2QVR0dU9mRW1yNDEyLUZyLTZTQkdpSEdCQTNfWFVmdE",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5SNzdpbUdYd2pwVnhTOEhIcFUtZ1NKajJxRGRYdkdlMkphbGhuSGd1RXNpaVZ0Tk1lenZJbmd3ZlRNLUktQklKaVdoaGw2QVR0dU9mRW1yNDEyLUZyLTZTQkdpSEdCQTNfWFVmdElsbmZKdGpaWXM4UHNlT2RaaVJ5RnVMWFZ4QkI2dF95bXNhWWRLUkJmOGxwQmlyNmpUeU04SUNhQkk?oc=5",
         "type": "rss"
       }
     ]
@@ -1076,6 +1333,27 @@
     ]
   },
   {
+    "id": "mueller-2026-08-08-018",
+    "date": "2026-08-08",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Mueller Water Products (MWA) Lifts Guidance Again On Record Quarter But Is The Valuation Priced In - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQZ2FybUpDYjNLSlVoRHhPdkhSUXROMTUwVFJFODY5bkRNUTdCcW9ZdmZYYmxNY0NLb2gxZjdrS3U4TnBoYkV1NzcxVWxhaUxjYWRVWVNYUGNWbVh3UGJwRXFoc3M5d2Rnd1lIalhxSW",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ2FybUpDYjNLSlVoRHhPdkhSUXROMTUwVFJFODY5bkRNUTdCcW9ZdmZYYmxNY0NLb2gxZjdrS3U4TnBoYkV1NzcxVWxhaUxjYWRVWVNYUGNWbVh3UGJwRXFoc3M5d2Rnd1lIalhxSWNTVUhkVnBzQlp1YkstNzRBenZVc3M3VWdsY2ZQNjR4N3hXMmpTUDZUeHhCZmJYQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-08-07-001",
     "date": "2026-08-07",
     "companies": [
@@ -1543,6 +1821,46 @@
     ],
     "impact": "positive",
     "title": "Navajo Nation Expands Reliable Water Service for Kaibeto Families Through Three Infrastructure Projects - opvp.navajo-nsn.gov",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0yX1Fzc3dsYVBGQUF6OXIyWWpoVFh6dEs3bUhKRTJzeDhMUmFHQjBVOURqQV9SbW9GN29QbldDM2lyM0pHYU5GVWVMZGx6R1lOUVRVWnFkRnFZWmt2WGkzcXk4OVVVVFlmY0RGaVFaUG",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yX1Fzc3dsYVBGQUF6OXIyWWpoVFh6dEs3bUhKRTJzeDhMUmFHQjBVOURqQV9SbW9GN29QbldDM2lyM0pHYU5GVWVMZGx6R1lOUVRVWnFkRnFZWmt2WGkzcXk4OVVVVFlmY0RGaVFaUGI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-08-07-025",
+    "date": "2026-08-07",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery | 10-Q: Q2 2026 Earnings Report - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOU3RDbnZCX09pYzdjY0JtRmpibVgteGNhZWltdjVNTXhaazAwR21UNnJBclJlZW9Ubk1Rb21DRU5FMmpWWVNFdHB6QmM2VFY2V2VIQzc5NDJuSEhQRTM5Y1lkQUU2NTRNRjl5ZjByaE",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU3RDbnZCX09pYzdjY0JtRmpibVgteGNhZWltdjVNTXhaazAwR21UNnJBclJlZW9Ubk1Rb21DRU5FMmpWWVNFdHB6QmM2VFY2V2VIQzc5NDJuSEhQRTM5Y1lkQUU2NTRNRjl5ZjByaE9Wc0RxQUxEeTZnYWFBREkxVVRFcVphM29RSy04ZXpmaVMyVTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-026",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "smart_water",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Navajo Nation Expands Reliable Water Service for Kaibeto Families Through Three Infrastructure Projects - Navajo Nation Office of the President (.gov)",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0yX1Fzc3dsYVBGQUF6OXIyWWpoVFh6dEs3bUhKRTJzeDhMUmFHQjBVOURqQV9SbW9GN29QbldDM2lyM0pHYU5GVWVMZGx6R1lOUVRVWnFkRnFZWmt2WGkzcXk4OVVVVFlmY0RGaVFaUG",
     "sources": [
       {
@@ -3896,6 +4214,27 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoOTlEdkRKWXhhUUlHa1JFWVFqd05EanE5VVlFWjhDeEpFTVBNcTdNYUxnMGNzNERDd2pqNThIaDYzTEJtaWpyaW9NNGh6cl84eWlMYk4xZ3hHYXRMcUdfUWgwMnBHaGF2LW5jdA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-08-05-070",
+    "date": "2026-08-05",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products (NYSE:MWA) Surprises With Q2 CY2026 Sales - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ0RpY2ZRZnVoeGdRYVFkNm9sblJHMlRMcFRMV0dYLUM3RnJXcjFSTGlYcEV3SmFubmhYbThwS1cxZjRmaHpHdGJjSkNtZno1Tks5R0pLcFBPSjdKN1ZvSzZ6MGJFNk13LThxdGw4Wk",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ0RpY2ZRZnVoeGdRYVFkNm9sblJHMlRMcFRMV0dYLUM3RnJXcjFSTGlYcEV3SmFubmhYbThwS1cxZjRmaHpHdGJjSkNtZno1Tks5R0pLcFBPSjdKN1ZvSzZ6MGJFNk13LThxdGw4Wk1FVE9EaGJPNTZ2TEhFQjFXaklqdWppY2RWeExZNEtOMzFNSmM2N1lsekdYcmU?oc=5",
         "type": "rss"
       }
     ]

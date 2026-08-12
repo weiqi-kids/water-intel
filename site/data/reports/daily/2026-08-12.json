@@ -1,0 +1,156 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T09:18:20.620398Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A. O. Smith launches CO₂ split heat pump water heater for residential use - pv magazine Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbm9ZSE5WRGVGWkc4YUdwVG9pRURYTnZjZnRnRTZMM19fTUZHand4bEs1M3RVWGZTNktRWEVoTXphX1hvV1VDY05xX1FmNVNTYkZleHk0LURFV294R1hvMjV4bEs4UWJUSmZTeHNxQmp1UzMtZzJpSmE4NnFmc2ZZSEQzRmhSRWQ1UURiRFRwMUp4clludkdwNGFFZWFmdlJzeHU0S0pOZzFUamZMSFlrazAwYlZsT3BhOHlB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "essential-2026-08-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Essential Utilities Inc. (NYSE:WTRG) Given Consensus Rating of \"Moderate Buy\" by Brokerages - MarketBeat",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLXdQV254UjI4LTdTWmM1alpVT0hsQmZLdDEtUUd2b2hXY0lzREdSMm43cWl4UzZveUNFamdxMlBoQ2NkbUhuVXBIc01FS1hpQTdrZDVOOXVJdXNRTGtMd2hkZV9LbXBfc201MVU3SjRMV2NWQWNQN2pOUzJzX1FUS0JrTjdwTnRPRnFDeWRfT0RmWWZQOHNQYUE0SXlXbXpiS3EwenRybm9pSDNBRjJRVUtENzUzSEZLQ0xqaVp4eThKQ2M5ODRKRDQzczlhREVlOXpXeXd3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "essential-2026-08-12-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Essential Utilities Inc. $WTRG Shares Sold by Assenagon Asset Management S.A. - MarketBeat",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOTRsWVBRT2FPSlRSQzYydzU2bS1nRzk3Q1BxOW13X0U0ZDdWLURQalZsWjI5U2g2dWRwYTNYMl9VNVV4YU40aW9vMzNEN0hRLXNuUnNIbFN4ZDkzWUFkTVVBXzJ5bkIwNE9iZXUyU0FVSFN2SzN1YXZxdTllRjF0NTJSc2NzNjFZbHpjVkdpZWd3bzk1Uk10aVZWeHJyV2RDU1BaR1ljdmhJcDh4NzhFUXRHRVFiWDJ4ZnVMODE4Nk1BMU1YQVhvcDA2OGVsWDg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "essential",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 163,
+    "too_old": 77,
+    "gate1_blocked": 1,
+    "gate2_blocked": 2,
+    "passed": 17,
+    "pass_rate": "17.5%",
+    "gate2_block_rate": "2.1%",
+    "gate2_samples": [
+      "Mueller Reports ~9.6B Gallons in Leak-Detection Savings - Stock Titan",
+      "Energy Recovery (NASDAQ:ERII) Price Target Lowered to $8.00 at B. Riley Financial - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為必要公用相關動態：「A. O. Smith launches CO₂ split heat pump water heater for...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "A. O. Smith launches CO₂ split heat pump water heater for residential use - p...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Essential Utilities Inc. (NYSE:WTRG) Given Consensus Rating of \"Moderate Buy\"...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
