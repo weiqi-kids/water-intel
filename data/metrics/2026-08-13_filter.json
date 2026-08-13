@@ -1,0 +1,12 @@
+{
+  "total_raw": 260,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 2,
+  "gate2_fail": 1,
+  "passed": 26,
+  "gate2_samples": [
+    "A.O. Smith Corp. stock underperforms Monday when compared to competitors - marketwatch.com"
+  ]
+}
