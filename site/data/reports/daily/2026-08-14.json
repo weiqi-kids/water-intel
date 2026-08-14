@@ -1,0 +1,133 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T09:13:20.689479Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "energy_recovery-2026-08-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "5 Revealing Analyst Questions From Energy Recovery’s Q2 Earnings Call - Yahoo Finance",
+      "companies": [
+        "energy_recovery"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdzVKQ3o4NXIwdVpWS1RzMGJOWERmeXBtSWZOY0haaTFHdDl1QXNvX0dxYW5KZ0RhdlpFVGwzaERjeEp6RlNhQ3JKUmZSVFlBUkJOWlN1THFON2JLUTFfQU82YUFFVUUxakdTNm15VmNHZnozaTR4czhwUDIwSTVUUVNtU0F4eEFXajE5VTB3c3NaYWFfLV9BZg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "essential-2026-08-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABN Amro Investment Solutions Trims Position in Essential Utilities Inc. $WTRG - MarketBeat",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ2hXelpqaVJJLUEtbHM1QW5yQ2tXdlRlQkVJUkZ3RVJXVms4Qm9RbnBnVng3aW12c0NMeDhQZ05jTXBtdjlSYlFudjJELXdYanhnS2U2RmNXY2pJZGdTVE5OQ0R1amVRczFfd19ZMXJjbjc4UV9JajZVMWYyMU1qLXo5MmVibklUNGJyU3ozc2FMZUZKYnhnLU1uWWx5bHhtSFdNaU5tVFVDRUM5ZmpROHd0M3FVOFN0RUktakZYcXNESUlVdEtjbVJOUkJDZ1NoeGJv?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "energy_recovery",
+        "count": 1
+      },
+      {
+        "id": "essential",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 171,
+    "too_old": 71,
+    "gate1_blocked": 1,
+    "gate2_blocked": 0,
+    "passed": 17,
+    "pass_rate": "19.1%",
+    "gate2_block_rate": "0.0%",
+    "gate2_samples": [],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為ERII、必要公用相關動態：「5 Revealing Analyst Questions From Energy Recovery’s Q2 E...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "5 Revealing Analyst Questions From Energy Recovery’s Q2 Earnings Call - Yahoo...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "ABN Amro Investment Solutions Trims Position in Essential Utilities Inc. $WTR...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
