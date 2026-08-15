@@ -1,0 +1,48 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T08:36:37.211129Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 174,
+    "too_old": 71,
+    "gate1_blocked": 2,
+    "gate2_blocked": 3,
+    "passed": 10,
+    "pass_rate": "11.6%",
+    "gate2_block_rate": "3.5%",
+    "gate2_samples": [
+      "Ameriprise Financial (ERII) discloses 679,236 Energy Recovery shares in 13G/A - Stock Titan",
+      "Hilda Rose Ford Obituary (2026) - Hope, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel -",
+      "A.O. Smith Corp. stock underperforms Monday when compared to competitors - marketwatch.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-08-15 無水資源產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

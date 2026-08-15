@@ -1,0 +1,14 @@
+{
+  "total_raw": 260,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 2,
+  "gate2_fail": 3,
+  "passed": 10,
+  "gate2_samples": [
+    "Ameriprise Financial (ERII) discloses 679,236 Energy Recovery shares in 13G/A - Stock Titan",
+    "Hilda Rose Ford Obituary (2026) - Hope, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel -",
+    "A.O. Smith Corp. stock underperforms Monday when compared to competitors - marketwatch.com"
+  ]
+}
