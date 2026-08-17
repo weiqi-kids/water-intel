@@ -1,0 +1,13 @@
+{
+  "total_raw": 260,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 1,
+  "gate2_fail": 2,
+  "passed": 5,
+  "gate2_samples": [
+    "Ameriprise Financial (ERII) discloses 679,236 Energy Recovery shares in 13G/A - Stock Titan",
+    "Hilda Rose Ford Obituary (2026) - Hope, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel -"
+  ]
+}
