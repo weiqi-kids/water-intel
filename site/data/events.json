@@ -1,5 +1,46 @@
 [
   {
+    "id": "ao_smith-2026-08-19-001",
+    "date": "2026-08-19",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A.O. Smith stock holds near $61 after Q2 beat - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXhISjc0c2prc0tNWkllNDFNeS1sZ2hrNXh3YmIteGZ3Uy1QdXVocUs5VDZhLXVMZ2x1SzhlOHdUOEhrT2pELV9kbVpkcEVjMjNGRHp5UVVuODBFQWRyTWtMRkxsTThmVW9qSF9wa0",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXhISjc0c2prc0tNWkllNDFNeS1sZ2hrNXh3YmIteGZ3Uy1QdXVocUs5VDZhLXVMZ2x1SzhlOHdUOEhrT2pELV9kbVpkcEVjMjNGRHp5UVVuODBFQWRyTWtMRkxsTThmVW9qSF9wa0FHWGJVQTBXOWJBRndHdGEtSng0MmtBTUh3SFRqNGJmZ1hUd0hJWS02QndSRk41cklDanlTVXRpNkwyZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-19-002",
+    "date": "2026-08-19",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Bank AG Buys New Stake in American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOaDJhT0FOamhZREZ3XzktTUVYX01vX2ZWalBhSWg4VUZtR1RDOFpIaWlTVnZ1T0dZa2JIWkdZNXNld3EtMmV0ZXRGRUJQbmFzcUlybG5JOVBoNXRIOXFMVWtidFVHeEE5U3pzSmRRX2",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaDJhT0FOamhZREZ3XzktTUVYX01vX2ZWalBhSWg4VUZtR1RDOFpIaWlTVnZ1T0dZa2JIWkdZNXNld3EtMmV0ZXRGRUJQbmFzcUlybG5JOVBoNXRIOXFMVWtidFVHeEE5U3pzSmRRX2IxcWU3S0ZweVpIaVJ2TWpKUFdBUFYtQ2ZsRkdTRU9PQzdHQmdCWlBVQktIeEc0NHdpX085bjlFOHdIYk1oWUxsenA0ZXdrMVVtU3JQTXctVE1GUU9FZXd0dTZhUlg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-08-18-001",
     "date": "2026-08-18",
     "companies": [
@@ -97,6 +138,213 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbGNUYXg1MlZvVzRVV1VBVHdSOFFRTVZjVTNXX0QxS1BMdk8wUFNzQ3ZHbjlJbGNrRzJ2UFEzUmlYT3I0TTNkZ0ZnNXdmTXFEdTgzV1FuRHNvNHVwcWtuWjRVVGNTdkRfSkNYZWtKVk14M0lNVjNXb2pFdlJBRGpzSFp1WFVaM3dEQkw4UlZmWjhiZFNUOUFyc1ZFQXo3TFhkaHlBS2pqRzA1OUpOLXZkcVRUQTRDY1lwYnBZSlNXTmlJTGV0SDEtOTFvOHpPMkR2UkJWMFRpSUZ1c29iLVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-08-18-006",
+    "date": "2026-08-18",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products $MWA Shares Purchased by Bank of America Corp DE - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNeVVxdG03d29KS0EyYjFvakRFb0tXV1dSd1YtQlAxZGJPZThHLVczN0tOandFVEpvajJ4QVRTcmFPbkxXMnpKaGFJeUt2bFNfRkJaUFBOR1lxTnE3Wm8zc3kza28yWW1Mb0VFemhHTG",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeVVxdG03d29KS0EyYjFvakRFb0tXV1dSd1YtQlAxZGJPZThHLVczN0tOandFVEpvajJ4QVRTcmFPbkxXMnpKaGFJeUt2bFNfRkJaUFBOR1lxTnE3Wm8zc3kza28yWW1Mb0VFemhHTGRSTVExYTR2UlBQRlk2X3I4N0tEbWVWV2lrSHc5NkF6Q3g2QUNqM2FaZTV2ZTNfSWY1SFVycGRDUjd6czRKRDVwVGxLOC1Lai0ySFR5bHhsNFNOMG1yQWZNdFJ0VQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xylem-2026-08-18-007",
+    "date": "2026-08-18",
+    "companies": [
+      "xylem"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Xylem Appoints Andrea van der Berg Chief Financial Officer",
+    "summary": "WASHINGTON --(BUSINESS WIRE)--Aug. 18, 2026-- Xylem Inc. (NYSE: XYL), a leading global water solutions company, today announced that Andrea van der Berg has been appointed Executive Vice President and",
+    "sources": [
+      {
+        "name": "xylem",
+        "url": "https://xyleminc.gcs-web.com/news-releases/news-release-details/xylem-appoints-andrea-van-der-berg-chief-financial-officer",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-08-18-008",
+    "date": "2026-08-18",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water, Essential Utilities merger advances as Hart-Scott-Rodino waiting period expires - ROI-NJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUUdXZjkwRlVjdGwtNUpEWXotY0FGcmlWenNQRjJkWGg0UUVnUFFhM0wwYUJwbFdPWWpTcnozcHZMd2tIUGRoN3RoVGxQYWZGaXN3dTNYYUhEeVc3SWRnSHU4U083UGUwZ21VemJ5ZF",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUUdXZjkwRlVjdGwtNUpEWXotY0FGcmlWenNQRjJkWGg0UUVnUFFhM0wwYUJwbFdPWWpTcnozcHZMd2tIUGRoN3RoVGxQYWZGaXN3dTNYYUhEeVc3SWRnSHU4U083UGUwZ21VemJ5ZFYzN21nQjVvWDVYUklGcFRwbEo3T0hNVnBBZnQwdzRERnlUUjlkRUMxSUo3SXNXcXJqUXZxRmhJQ2lyWWNfTzlCR0RfRVVPWDRpbFRZSklXMTJldWFCbnE1S3ZFYmtGYmhHWTZ6dDZqR0JBeW1DYnVTUGtDbWNoZ2FRdkIw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-18-009",
+    "date": "2026-08-18",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company (AWK), What Is Behind The Fresh Attention? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQeEkwWThRb1NFTnpaWVFfOUw4UTJwN28tWlNacC1JNDVUWlAtcV9XSlZ5aldvUmFMekJFSFkzeTBZWmRCZE9jMWJTUGVEMHFMOFBRRDRkWUJtdzBqb2VocnNqY2JBMUdJQjYxTlV0S0",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeEkwWThRb1NFTnpaWVFfOUw4UTJwN28tWlNacC1JNDVUWlAtcV9XSlZ5aldvUmFMekJFSFkzeTBZWmRCZE9jMWJTUGVEMHFMOFBRRDRkWUJtdzBqb2VocnNqY2JBMUdJQjYxTlV0S01rZy1YdFdORlJ6S0RKQk9vZklMZEswbjE0ZVZXajdGTWxHcC1ZWFZMRWhHUW9IZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-18-010",
+    "date": "2026-08-18",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Should a Hawaii Spill and New Upgrades Shift How Investors View American Water Works’ (AWK) Risk‑Reward? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVVGbms3SGpVWjhIZ2doZmFicExJUU94eE16UjRBVmtqS29JOXFDVXVsb3kxWnlGcnNjUndpenZOdEx6RjdHR29kOFpnM1RCbExmLXUtYlBoSGIyVlRvQ0Q3VGR5cnNPUVJCYmhlYX",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVVGbms3SGpVWjhIZ2doZmFicExJUU94eE16UjRBVmtqS29JOXFDVXVsb3kxWnlGcnNjUndpenZOdEx6RjdHR29kOFpnM1RCbExmLXUtYlBoSGIyVlRvQ0Q3VGR5cnNPUVJCYmhlYXcybjV1NE5qYVp6eTlxTzBtdVJfblZka2tOX2pCNmJoU1hvM1RWNHRDRDNQYlRsQTdRTzg1WkZLWWJWWnpRS25oTnpsS2RTWnNaZnBPTXlycGdJOHJiMndkeENBTmlRR2l3V3hr0gHYAUFVX3lxTFBwUk9CcjNFb2x2VUtuTndnX0JSVzZDNm5xTkNpa3N3bURnejZhc1RHcVV3RlBkcHZXRUVTc25VQUJVYnJZdHhKQ08xWHlLbWx0bXhGeWhNQmxnR040TFFHMVh4cmxXcDV3VW96UU5aSkpkbnU0dTNLT1ZTWnhma0tFLVlwdGNDVzh0dFpUQWVGdThkOFFRLVRWTFRSLXR4S1Q2ZE1aTnBrOGt5M2J6dnI4SXE2MFJjMVIxdXgwczM4N2FPXzhWVVl4QTQzRmtpTVVHQ2dEcGN3Rg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-011",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "West Virginia American Water Announces $166,000 Infrastructure Project in Fayetteville - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1NTUGhTNzh2X2U0NVdNYlhIM1JETDZGOHNEaDRZM09OU3h0bVBQYkRrLXJPeXJjNjVNRlBWTGZaVWtrTnkyamFsTWVJYzVDSHl4WTU0bVJocEhteTJpYzVqc3NZUDhuYThRZFdROW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1NTUGhTNzh2X2U0NVdNYlhIM1JETDZGOHNEaDRZM09OU3h0bVBQYkRrLXJPeXJjNjVNRlBWTGZaVWtrTnkyamFsTWVJYzVDSHl4WTU0bVJocEhteTJpYzVqc3NZUDhuYThRZFdROWtVcTlXWmg3TEZqZ3ljcVBzYnR3NUZUajF6NlZnUENrYkdVTUVobkUzUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-18-012",
+    "date": "2026-08-18",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "wastewater_treatment",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Did Wastewater Discharge and New Upgrades Just Shift American Water Works Company's (AWK) Risk Narrative? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUdfZnp1am81ZVBDLWwwamxneTlxZmJrS0ZEVzFLT29EakdfZThfYW52bWxyVlBsbmF6MW9TUzl0ZzFQbGp1VllwWEVqYklRdzc2M0xBWWtvVmttdnM0eTBxZmxPNkIycmg5OFk5Z3",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUdfZnp1am81ZVBDLWwwamxneTlxZmJrS0ZEVzFLT29EakdfZThfYW52bWxyVlBsbmF6MW9TUzl0ZzFQbGp1VllwWEVqYklRdzc2M0xBWWtvVmttdnM0eTBxZmxPNkIycmg5OFk5Z3VyTFI0eFEyREV5LUs0cmpOaVgyU2trd3BqMDdNMHZNQ2h5bUN2clpuMkRPcXNpSzFDOW03RDN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-18-013",
+    "date": "2026-08-18",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "35,967 Shares in American Water Works Company, Inc. $AWK Bought by Nuance Investments LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZy0yejdlQ0hWXzdkM1FTdzlxN19HelhpYVA0NlV6RHc4WUJ3ZlFvSUJYUDRnREVQWGFvT19UWnl6N054Rm5PeWdkd2NfN29lNWhIN3A2LVY4WF9BaHJxaE1ha2dlT1VZMGtyd2d6R3",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZy0yejdlQ0hWXzdkM1FTdzlxN19HelhpYVA0NlV6RHc4WUJ3ZlFvSUJYUDRnREVQWGFvT19UWnl6N054Rm5PeWdkd2NfN29lNWhIN3A2LVY4WF9BaHJxaE1ha2dlT1VZMGtyd2d6R3l6RkZIZXJjNzJfWGtUSzlBWkstbGVEc0dxM3ZlOG5QYlZzNmxQM05TOVZxUDBaajFLZzN5TjdwNFBHN2Ytc1BPZHVoV25JOFN0NU4wUlVHdmVKQ2dMMTRZNEQ2OVRSMURVeXZmeml2MzZkbUVtZGRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-18-014",
+    "date": "2026-08-18",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works (NYSE:AWK) Stock Sold Off Rep. Richard McCormick - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTnh0dVJyV0k2NlhsUXhSc1lObEdiOE9sMW1JRzRxT0NEdDFyaUlHTmNTWlpFYS1BY1FWWmJxTHRENDRVS1Z2dHJkV01fcEFPS0Z4c18xaWlYWU5kaUZGaWUzeWdETVF6RmhfSmVFbW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTnh0dVJyV0k2NlhsUXhSc1lObEdiOE9sMW1JRzRxT0NEdDFyaUlHTmNTWlpFYS1BY1FWWmJxTHRENDRVS1Z2dHJkV01fcEFPS0Z4c18xaWlYWU5kaUZGaWUzeWdETVF6RmhfSmVFbWE0Ym81Tl9Ic2xXSV9JMXFfN2JzLW42WEZWZXlYeVlQcEF5eldlbGZuU1BMZWM2cEZ1cDB0MG96NkhsVXhKbHF4R0Q1ekw2eGhUWC0w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-18-015",
+    "date": "2026-08-18",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Commerzbank Aktiengesellschaft FI Makes New $2.08 Million Investment in American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOakZfSXllODZXcHJVaEhsczhOQ3pqWEY0VWdKTk8yUEdZdjVzZW1LUDFQN0Q0aTE3LUppcGx2UmtzZGJ2cTZOUzlnLUFtcGR4X1AxNDZnZWxiTmgwRG5oV2cyMmE1WVhlZGRoSS11OD",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOakZfSXllODZXcHJVaEhsczhOQ3pqWEY0VWdKTk8yUEdZdjVzZW1LUDFQN0Q0aTE3LUppcGx2UmtzZGJ2cTZOUzlnLUFtcGR4X1AxNDZnZWxiTmgwRG5oV2cyMmE1WVhlZGRoSS11ODhwT3djV1pra2otLVI0NVFaTko5eDc2SlhBSFZIOWNPb0EyMTZkYzAzeW9Wd0hhOWhEYm5selZhTklVSU1UNGhiSzFRbXVOMlBrTUIwbVlZTWN6elJwQktJZnlYekVqZ0JJd29IQVBXSDUwV3V2ZWVkdnAxZS1mVHZnQ2dzeG1kRXQ5RVdITTY4d0ZrZw?oc=5",
         "type": "rss"
       }
     ]
@@ -441,6 +689,64 @@
       {
         "name": "google_news_water",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPREg4U2dLYkRPcFlmWWxGLVdQSnNiaG5ERUlDc0d0VjFDY004VndtYWhRWmFkY0VOdXItM0hfSGQzMXIwSWUyczRWZHNNbXNwcFFLVlZDWjBKdFp4dDRiUzJIUGNtcHRZTTNoNF84c2ZPdnhQS0R2VDgzT3prSFBtaXhlV1A5WmtuemNHc0NpM084WG1DckRZUkF1YXhJeC1fQlRQSU4yMnp3b09SaFp6elpWOEo4N1o2NnBqN3hFUHozWlVTei0yS3JKdmdTcGxhdWtSdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-08-17-018",
+    "date": "2026-08-17",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water, Essential Utilities clear antitrust review By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNdW5NY25EcWFkUS1pcVhudFpBeXphTzcyaWVaTmttc3JRMURXMmZLblRnVHRrR181RnZFMjBBdjNCOWlVeHVkWDJWRTJCX0VSOXVtdVhLN19qamRJTktHMk9WTHJpN2owelVUZlBSVm",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdW5NY25EcWFkUS1pcVhudFpBeXphTzcyaWVaTmttc3JRMURXMmZLblRnVHRrR181RnZFMjBBdjNCOWlVeHVkWDJWRTJCX0VSOXVtdVhLN19qamRJTktHMk9WTHJpN2owelVUZlBSVmo1QjZrWllKVXJMVWdQblJEdUg0X2F6akYxSUI0d2w4eUxiOUpaYjRrNExRdEQwUHh2b2QwbHNUMFRtQzZpZTdyUTJHNEhqMlJRQnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-17-019",
+    "date": "2026-08-17",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Flputnam Investment Management Co. Makes New Investment in American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSVBXdllucmRFRmtRN3FDX0RHaXZRUGdwejJnZklfS0NMOXNydWxzQmpJdkFwM2hxemcxZVFUNm4xTGRIc29oT1MtbDR5UkJRYXktbENCWFpkOFVtckJleWFvd1NjT1ljTkctMHFhUX",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSVBXdllucmRFRmtRN3FDX0RHaXZRUGdwejJnZklfS0NMOXNydWxzQmpJdkFwM2hxemcxZVFUNm4xTGRIc29oT1MtbDR5UkJRYXktbENCWFpkOFVtckJleWFvd1NjT1ljTkctMHFhUXIwcVNsZlRvTVc5UWdUbVRLSTJzMXdSV3VWNFp4OEx3ZXVIYU9wUlpRZ2JvVVJZSEgyOTIwSkRLYnhSRWZKcjJ6ZmthRGgtLXIzRWVranQ5UkVydlM0WUVLNTIybEN4dFN2VDN1eDhiZkZhOU1oR3Vra1hHZ3pKNEt1VDNr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-020",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "H2O America’s Texas Water Company and TWOS Receive Regulatory Approvals for Quadvest Acquisition - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa2RpOU5KZzNRbVdFeEktcW5DTExjT0tDelUzb3hrNzJJemR5MWRHN3BNbHZaWDdiVXpXTFpzeFVfTVJIOE5TRlVJVUJuSGlBb0EwM3p2a3B5TWt6dzJRMnUzZEtKSVVRWTh5WXBDZ1",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa2RpOU5KZzNRbVdFeEktcW5DTExjT0tDelUzb3hrNzJJemR5MWRHN3BNbHZaWDdiVXpXTFpzeFVfTVJIOE5TRlVJVUJuSGlBb0EwM3p2a3B5TWt6dzJRMnUzZEtKSVVRWTh5WXBDZ1c1S0lvTnR2cGtkTFlDRlV1eWV1NFo0ZTJmN1l5ZlBmN1Y1MGlWTGstRDhQcFU0S3gxdkMxYS1KUm1Dejl0ZTFsWnd2eW1Qd0N6ckozRU9vQVpnV1JQV1M5aDNXNXY1bWJzTW9j?oc=5",
         "type": "rss"
       }
     ]

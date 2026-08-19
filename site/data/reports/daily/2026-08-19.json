@@ -1,0 +1,137 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T08:49:18.737651Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ao_smith-2026-08-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A.O. Smith stock holds near $61 after Q2 beat - AD HOC NEWS",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXhISjc0c2prc0tNWkllNDFNeS1sZ2hrNXh3YmIteGZ3Uy1QdXVocUs5VDZhLXVMZ2x1SzhlOHdUOEhrT2pELV9kbVpkcEVjMjNGRHp5UVVuODBFQWRyTWtMRkxsTThmVW9qSF9wa0FHWGJVQTBXOWJBRndHdGEtSng0MmtBTUh3SFRqNGJmZ1hUd0hJWS02QndSRk41cklDanlTVXRpNkwyZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-08-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Bank AG Buys New Stake in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaDJhT0FOamhZREZ3XzktTUVYX01vX2ZWalBhSWg4VUZtR1RDOFpIaWlTVnZ1T0dZa2JIWkdZNXNld3EtMmV0ZXRGRUJQbmFzcUlybG5JOVBoNXRIOXFMVWtidFVHeEE5U3pzSmRRX2IxcWU3S0ZweVpIaVJ2TWpKUFdBUFYtQ2ZsRkdTRU9PQzdHQmdCWlBVQktIeEc0NHdpX085bjlFOHdIYk1oWUxsenA0ZXdrMVVtU3JQTXctVE1GUU9FZXd0dTZhUlg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ao_smith",
+        "count": 1
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 258,
+    "dup_title": 165,
+    "too_old": 74,
+    "gate1_blocked": 1,
+    "gate2_blocked": 3,
+    "passed": 15,
+    "pass_rate": "16.1%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "Electric Swing System Uses Energy Recovery to Optimize Fuel Use and Hydraulic Flow - powermotiontech",
+      "Ameriprise Financial (ERII) discloses 679,236 Energy Recovery shares in 13G/A - Stock Titan",
+      "Hilda Rose Ford Obituary (2026) - Hope, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為史密斯、美國水務相關動態：「A.O. Smith stock holds near $61 after Q2 beat - AD HOC NEWS」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "A.O. Smith stock holds near $61 after Q2 beat - AD HOC NEWS（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Deutsche Bank AG Buys New Stake in American Water Works Company, Inc. $AWK - ...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
