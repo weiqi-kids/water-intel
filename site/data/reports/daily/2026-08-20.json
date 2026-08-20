@@ -1,0 +1,201 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T08:48:12.379669Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_water-2026-08-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Danske Bank A S Acquires Shares of 221,660 American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeDJTMEd4RG9uQXJOVzFxeUxhanpFN1E4dlpadGdhbnRZa0FLSl8zSzI2MEpvM0psS3RaRW5ldDk0MUFjSC05TjlialV6T1lnbTk4emROUXQ5LTdaTUpfRF9oQmRTUnFVZWZOdUhUV3dSd2dHSThIbVdHd29pU1dpcnFRZkhRREhyUEFha2pDcWVyQ2licjZGOVlfR2h2V1Y5T1ZXcTRjcC15by0tVElkcDh3eGxrWG8tRWxrUWtFRDhjVU1VNEFBMU5MTE11MGtpeVRuQXlB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-08-20-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "47,612 Shares in American Water Works Company, Inc. $AWK Acquired by Edmond DE Rothschild Holding S.A. - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVDEzcU9EckhHSVNZZUM0MmwweHc5TmpySmpnRXVUZnFTZUJ3WDJnNl82MWVkcWhGUXF5NTNpQklySjRYYlJhME1BZjllN2tZQW5VXzcwYmQzaGlWYV9wX0MyUzVNdUxhclJhUUptMlRVX0hBN05TWmdwNE1jY2dpUC1RSERyQ1VLeFB3c3hxNW5yUzBUYnBYYXRhLWdYSEl5czdzRXdPQWlaUi1GTTNoTi13dEhVczA0czVQUFVTb0lsRmtIOURBaklCNTZ3VlkySUtRQ3F1elVoTUlhSThjdnF4VVlsb3hCUE9IWG1n?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_water-2026-08-20-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BlackRock Inc. Buys New Stake in American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLWNiUmJjdzhoZ3pvMmVnS0tWcnBJRUEwd2lQNUU0NEp4dGJXSW04WUw4cHpkTGVNYzU0S09YM2s3RmlTZ0RiYlVHRU50THZaZGJiZkU1OVp5MVh6dXNwdDBUT3FFWHpreG44bllqQ3l1N1NodkhfeXE2dHpXRDlkX2NFby05WVFnc0lkbEhXZzRNR0lvNGhySVBNd3ZGcXVzaUpHVDgtUVRNYzdxckRuVmR3RFZycE9vR3VaeVdIZjd1eVN4WjByMQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "California American Water Proposes Water Management Plan - Intellectia AI",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQamw5YWNvU0NXdWxjQTJDYmVYam5qeVdLZXhreGF5QTVGdW4yTDRzMGFkaHYtODdZazludmk0XzFUT201VjRVTTd4Xzc3UHVQYkZDSGRsS3N4YmUtVDlIMDBlanJDSzk1bUhNMDI4bFR6d05NbjRoSGZ0U0FlQW8xeUF0OEcwNWZOSVpkUjJVWEVVTThL?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_water-2026-08-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Water Works Company, Inc. (NYSE:AWK) Given Consensus Rating of \"Hold\" by Brokerages - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdzhGZi10NWNMZjBQamdtNnk3M2FNci1LbFQxa09iVmQwRXRUOXJwbkRyeXFXRXBPbXE4VmRWcXhNYy1ia3hqX1ZfQzFiaU5tc1p0MUJKMDc4cjJaUmhIdVpjVkZXMWtLOVNqcmFxOV9fb3BIUGxWd2o0d2FGRmtkaWsxVUR3SjlVRVoyWnVqblZheGZ1b1c3MXBZcXAtVGVJcnhYS2JFTHhySWREM01sSEc5UWt1VGZMWDliUVA5eFU2aDBVcFgtSjI0YnZMLUw2M29UZHVn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 166,
+    "too_old": 75,
+    "gate1_blocked": 1,
+    "gate2_blocked": 3,
+    "passed": 15,
+    "pass_rate": "16.0%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "Electric Swing System Uses Energy Recovery to Optimize Fuel Use and Hydraulic Flow - powermotiontech",
+      "Ameriprise Financial (ERII) discloses 679,236 Energy Recovery shares in 13G/A - Stock Titan",
+      "Hilda Rose Ford Obituary (2026) - Hope, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為美國水務相關動態：「Danske Bank A S Acquires Shares of 221,660 American Water...」。主要關注主題為水資源產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Danske Bank A S Acquires Shares of 221,660 American Water Works Company, Inc....（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "47,612 Shares in American Water Works Company, Inc. $AWK Acquired by Edmond D...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

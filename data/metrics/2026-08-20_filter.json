@@ -1,0 +1,14 @@
+{
+  "total_raw": 260,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 1,
+  "gate2_fail": 3,
+  "passed": 15,
+  "gate2_samples": [
+    "Electric Swing System Uses Energy Recovery to Optimize Fuel Use and Hydraulic Flow - powermotiontech",
+    "Ameriprise Financial (ERII) discloses 679,236 Energy Recovery shares in 13G/A - Stock Titan",
+    "Hilda Rose Ford Obituary (2026) - Hope, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel -"
+  ]
+}
