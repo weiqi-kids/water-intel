@@ -1,5 +1,44 @@
 [
   {
+    "id": "unknown-2026-08-21-001",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith's new split heat pump water heater targets apartments, mobile homes, and cold snaps - Yahoo Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQem9mclU2Sy1ZQmZ1VzNSaGxYdzI3Vy1za2ZSRDJNaTlPSnhVWGVLall6c29uR0FtY1hFZS1NTFpSTGNCZFNzV041WlQzcmpMUzJHeUFhaXFFeXJYVDNVYlRRaFJlUlB4SFpmUndabU",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQem9mclU2Sy1ZQmZ1VzNSaGxYdzI3Vy1za2ZSRDJNaTlPSnhVWGVLall6c29uR0FtY1hFZS1NTFpSTGNCZFNzV041WlQzcmpMUzJHeUFhaXFFeXJYVDNVYlRRaFJlUlB4SFpmUndabU5hTVNkTGdJV2Q0SEd6Ukd2Rkt3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-21-002",
+    "date": "2026-08-21",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "B. Metzler seel. Sohn & Co. AG Takes Position in American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdUZUTng1c0FoR3plZjJSWWpnSjE2ZXBpZ2dySWhJYnlCeTRNUHdvUFJDMGxaZktNTUpCOE9vMmhueGRvV3I3d3Z5eUNXWl9WU0N1NXZpX1otVUVDbXV6M3h5OTJmT3A0bXFOM0VjSz",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdUZUTng1c0FoR3plZjJSWWpnSjE2ZXBpZ2dySWhJYnlCeTRNUHdvUFJDMGxaZktNTUpCOE9vMmhueGRvV3I3d3Z5eUNXWl9WU0N1NXZpX1otVUVDbXV6M3h5OTJmT3A0bXFOM0VjSzVNT3h5VHVOTEJWcnNNSEhTRDF3TnZaLWV2bEpJX1h4SncxeFNLYWNoNkZPc1hLZzM3WWZuZkQ4WmZ3ZXVEUG1OVjVSbXd0dEM1VmplQnc4QlFIWDFHYUFlVVVWUG9ISjVmYjRrUFRSNUs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "american_water-2026-08-20-001",
     "date": "2026-08-20",
     "companies": [
@@ -96,6 +135,108 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLWNiUmJjdzhoZ3pvMmVnS0tWcnBJRUEwd2lQNUU0NEp4dGJXSW04WUw4cHpkTGVNYzU0S09YM2s3RmlTZ0RiYlVHRU50THZaZGJiZkU1OVp5MVh6dXNwdDBUT3FFWHpreG44bllqQ3l1N1NodkhfeXE2dHpXRDlkX2NFby05WVFnc0lkbEhXZzRNR0lvNGhySVBNd3ZGcXVzaUpHVDgtUVRNYzdxckRuVmR3RFZycE9vR3VaeVdIZjd1eVN4WjByMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-20-006",
+    "date": "2026-08-20",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MSH Capital Advisors LLC Invests $2.66 Million in American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOTZrZHVDc2IyR3VrVnBRVkF6eF93SEN5TVFLTm5pRlBMQnZ0SFY5c1hRTUw4NWFSNVVPQjhRaEN4WlpIUUVTZjNqUFpzZmdYWGNsWkZDejVyRjl4SzBHSV80TVB3LVppT3k3NWE3X2",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOTZrZHVDc2IyR3VrVnBRVkF6eF93SEN5TVFLTm5pRlBMQnZ0SFY5c1hRTUw4NWFSNVVPQjhRaEN4WlpIUUVTZjNqUFpzZmdYWGNsWkZDejVyRjl4SzBHSV80TVB3LVppT3k3NWE3X2VUZndiei05UzNtNkVJa2thd2xuc0toamJmOEROSzZMUmxmaGpZZTdvdFllTF9VX1hkX1pKVHFXbXczWnRsNF9zbTZHU2lfM1BWVE9zQ19sOGtQSlMwTEQ4Z3BfX1pzb0dlQlljenVlSzhNT2pSSVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-20-007",
+    "date": "2026-08-20",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Argus Adjusts Price Target on American Water Works to $155 From $140, Maintains Buy Rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxONTB4UTA1d25YamFpNWJ3Q3VlUzNMaFVZWEJ4RTFYNWZxbDJYcGQ1V042R3BNeGJYQ1JFOWRWcnFEeGVwM25wenJyRUVNcGFvVy1VbmIzbXp3bzAxRkt1RUVIMW5mSjN2QkxWanA0el",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONTB4UTA1d25YamFpNWJ3Q3VlUzNMaFVZWEJ4RTFYNWZxbDJYcGQ1V042R3BNeGJYQ1JFOWRWcnFEeGVwM25wenJyRUVNcGFvVy1VbmIzbXp3bzAxRkt1RUVIMW5mSjN2QkxWanA0elJ4WVR5Y0FMUjRLSGg1SklrTkN2WFBQSmtxS2otRjVaRTVyalU3RDlvNjB3b0sxUkdPanl6WkhTTHRwRERVU0RMUGdwWnVwVnJmVi1KZmplSzRfSnZjQURhS2ZULWNWYTZ6NVNZY1B4cw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-20-008",
+    "date": "2026-08-20",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kentucky Farm Bureau Mutual Insurance Co Purchases New Shares in American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQazJNdm5MclNrT3B1SDVDcWw2U2dPNW9XclJYMjF2Y09ORUxCRzIxTWdUYllyb0NCV0hENTZvOEZqWVY5OEFrVU03RUhkMDdBZFlTakdpaEl6aDAzQ1JhZVBSZW1xTXBfR0N5VHkxcE",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQazJNdm5MclNrT3B1SDVDcWw2U2dPNW9XclJYMjF2Y09ORUxCRzIxTWdUYllyb0NCV0hENTZvOEZqWVY5OEFrVU03RUhkMDdBZFlTakdpaEl6aDAzQ1JhZVBSZW1xTXBfR0N5VHkxcEpub3gzbG5XWk9Ga05seWhJb1FySUpPMkl3clhta0tYYlBUdzBWcEdxX20tTjZ2QlZDLWRxN21NYUdEeEtNbUwyUkRwcl9RMmxabTF4andSUk9qYi1fWU5XVmtQSDhvdlZCN0pBek8wb3JkY3BJN0gyVnh2T0VnY3VkdjNhX2N1ZERmRkFI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-009",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "smart_water",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Auckland’s water utility Watercare launches its largest ever infrastructure investment programme - Smart Water Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcHd6RlhEZ19rVUxhNVJzRW1NQTR4QkgyM195WWFHc2Zsem9SSnYxdm9Yb2o4NDg3bjlzSGxmejJkNVM3WlJaOHpOUnp3TDMtakU3ZWVFU0tkMFpVS0M2NlFNdmxScTlxN3NOX1RLOV",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcHd6RlhEZ19rVUxhNVJzRW1NQTR4QkgyM195WWFHc2Zsem9SSnYxdm9Yb2o4NDg3bjlzSGxmejJkNVM3WlJaOHpOUnp3TDMtakU3ZWVFU0tkMFpVS0M2NlFNdmxScTlxN3NOX1RLOVJyanlCWnZteldiZ3E1VkhCZE1NSURKQVZBRlpCcEdrNXpGT1VSTWhHNkM1REV4UzhWMHRwWHpNVkp2OU4tbFFCZWJyTl9nLUx6dHRlYVc3a2JDQjExYjFzSGZDNUZNWDM5aWJ3eVZFZmZmeVFmNjFzSGZaSW9qUXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-010",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "$140,000 project will replace 600 feet of pipe in South Charleston - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTdSOFVxZFZiZlZaMDRZc3BYZ1h2bHVfUHc2clo1eHlKeDR2OXNEZEFHaDlRMVNIX3VnM0otb3k1N3BWdDVvUGx1TTJ3OHBxaTQ1el9Nc3A4aU9BaHFXRnFWcF9qWWdHd1VETXYzcW",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTdSOFVxZFZiZlZaMDRZc3BYZ1h2bHVfUHc2clo1eHlKeDR2OXNEZEFHaDlRMVNIX3VnM0otb3k1N3BWdDVvUGx1TTJ3OHBxaTQ1el9Nc3A4aU9BaHFXRnFWcF9qWWdHd1VETXYzcWlCTVgyMXhuY1R6Nlc2eFdabXhQemtGYTBrNTcwUVNSUUNDckFqb2tTOERhUng2ZU1xWTdSMUxQRWF4c1hnbkp5WkkzcWpIdw?oc=5",
         "type": "rss"
       }
     ]

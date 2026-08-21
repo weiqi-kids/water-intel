@@ -1,0 +1,123 @@
+{
+  "date": "2026-08-21",
+  "date_range": {
+    "start": "2026-08-15",
+    "end": "2026-08-21"
+  },
+  "generated_at": "2026-08-21T08:49:39.613117Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-08-18-005",
+      "date": "2026-08-18",
+      "title": "California American Water Completes $675,000 Infrastructure Upgrade in its San Diego District Water System - American Water Newsroom",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 15,
+      "last_week": 21,
+      "week_over_week_change": "-29%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 17,
+      "last_week": 19,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": 0.0
+    },
+    "wastewater_treatment": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "essential": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "american_water": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "mueller": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "ao_smith": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 75,
+        "last": 124,
+        "change_pct": -39.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-15",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 13,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 21,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 16,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-19",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-20",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-21",
+      "event_count": 2,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-15 ~ 2026-08-21）共 75 則事件，重點為「California American Water Completes $675,000 In...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "美國水務",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
