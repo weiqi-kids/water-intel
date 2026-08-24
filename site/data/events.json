@@ -1,5 +1,24 @@
 [
   {
+    "id": "unknown-2026-08-24-001",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "wastewater_treatment",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From “disposal” to “reuse” of wastewater - EurekAlert!",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ncWJlbFFJRElOdEc4WUhoVGdXOU1fVVB2TjdUY05wLS1DVllsX1I4bWRDMnZsYnRjVktvTHh1bU9EUzE5SGxuQjNPQkx2WXFYbTlsVkRnU0E2MkJR?oc=5\" target=\"_blank\">Fro",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ncWJlbFFJRElOdEc4WUhoVGdXOU1fVVB2TjdUY05wLS1DVllsX1I4bWRDMnZsYnRjVktvTHh1bU9EUzE5SGxuQjNPQkx2WXFYbTlsVkRnU0E2MkJR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-22-001",
     "date": "2026-08-22",
     "companies": [],
