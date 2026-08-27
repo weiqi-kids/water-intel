@@ -1,0 +1,45 @@
+{
+  "date": "2026-08-27",
+  "total_events": 10,
+  "by_company": {
+    "mueller": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "veolia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "essential": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "american_water": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": 0.06
+    },
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "capex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "regulation": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

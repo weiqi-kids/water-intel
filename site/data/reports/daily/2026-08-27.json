@@ -1,0 +1,250 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T19:01:17.760723Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-27-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "InPipe and BluePath scale US water-infrastructure power - Enlit World",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "capex",
+        "industry_general",
+        "regulation"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUVNiUk84Q3c0czlBb1RIZU5FbUIwd2doeVBqNlhhZFYzS3owU0w3Rzg2SFYyS29CbFUzVFhfeEtVT2JYMXlIRUtRZkpsSDFuNDRoejFOVWthUjhOaXZsdlVBMlJNclFPWkRzVHRaeENGX1NtTW43dVNqT09MZkxvc3BDRUV3MG9PSXZUZGFPTjNxYUNGZjk4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mueller-2026-08-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mueller Water Products VP Richelle Feyerherm sells $75,000 stock By Investing.com - Investing.com Nigeria",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZjZGbzRXS1ZZWjVqejI3bXMxazdCVW41Smo4enotZVVCVjc4NnlNMlg2SmNXcXQ2UkZPZlZyUFYwakhoVVBqSDBYZVhwdXFNRkdVd1p0TVJMZlVzMzJ5c3lTVkpQRVVGTXRfOFlhd3hKUkxNVjV6bkRtbmIyNUxLXzloMXlUdkFDTFdnX2JaQ0ROZkZaU1ZaYlU5dE9rX08wN1hxWWE0ZWNYX3psRU5nREE1Zkd2dk9xNFVkVnREQ2s?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "veolia-2026-08-27-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement Sells EUR1 Billion of Oversubscribed Bonds - marketscreener.com",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd29SSjlkSVBHRWF4emp1MGNPV2xjU0d3VU4wYkg2RS1PMEY1ZExHTDlUT3JnT2NyYTdYbkZLS3RWYmFDaGZicm14cU1vQmNTRHBXUWptcFh1RDZvTDVFUjVGalowRXJGY2wyaFlmSVQ2QmlPQU56ZmR2MHVDZHJicHBkY2t0SFBBX29lVlFueUxqdmlaeTMwZWY0MmY1aXVrUXR4RFFFblJSSzU2cTQtdXNFMU92Yk0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "essential-2026-08-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Essential Utilities (NYSE:WTRG) Shows Promising Breakout Setup With Strong Technical and Quality Ratings - ChartMill",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMldFLWRTa203VS1Edk1oYUZ4VDkwYVRYX2o3Yy1ETlBucVA0b2tRZ0kxT1VDZDctYUZ3M2xrT1p3WUV6eVlETVc4cjZidTFzZ1Mtc0JsZV9kV3RZcmxNZzJlM19jcGdLN3VTdU9ZcTJiYllOaWJhd1RhOE5pSzFtNjdTSTF0R0NaY1lHWmRlS3M5X3YyVlNHM09EakpVTldrWExlODMwbHBXTUk0YzQ3V2FzYnlNUTdqdlFhVHNNNElPY21DM2ExRnp5UVdkdExsbWVzcFR2dC1iMU5NRVhuWWNWLXNVRHBR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_water-2026-08-27-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Works (AWK) Stock Looks Above Fair Value As Shares Fell 17% - Yahoo Finance",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjBGTDVyOExSSndHYlE1dXVmd3RKWkVBQ0xyWUdzaFJZSFRRb281aUFtYnlyVGwwdXhCbjItWXROZ2o5THpUbmFnMjBPc01TM2RtZTdrb1YzdF9TT1kwRkY1dzUyTDloM201TDk4LXNqNGhDQW9kNldNT1Jwd0xzbzBUSVBSMmQ4VWh4a1hMbDRBVzdySGJLMmJRQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "regulation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 3
+      },
+      {
+        "id": "american_water",
+        "count": 3
+      },
+      {
+        "id": "essential",
+        "count": 2
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "capex",
+        "count": 1
+      },
+      {
+        "id": "regulation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 151,
+    "too_old": 76,
+    "gate1_blocked": 6,
+    "gate2_blocked": 4,
+    "passed": 23,
+    "pass_rate": "21.1%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "ETFs Investing in Energy Recovery, Inc. Stocks - TradingView",
+      "Tinubu Still Pays Petrol Subsidy Under the Guise of Energy Recovery — Osemeka Alleges Watch full int",
+      "A. O. Smith (AOS) Rises As Growth Narrative Points To More Value - simplywall.st",
+      "Heathre Moler Appointed Danaher Chief HR Officer - Healthcare Digital"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為穆勒、美國水務、必要公用相關動態：「InPipe and BluePath scale US water-infrastructure power -...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "InPipe and BluePath scale US water-infrastructure power - Enlit World（財報、資本支出、水資源產業通用、法規）",
+        "level": "red"
+      },
+      {
+        "text": "Mueller Water Products VP Richelle Feyerherm sells $75,000 stock By Investing...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
