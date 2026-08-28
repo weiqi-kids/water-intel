@@ -1,0 +1,14 @@
+{
+  "total_raw": 260,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 4,
+  "gate2_fail": 3,
+  "passed": 19,
+  "gate2_samples": [
+    "Nancy L. Dean Obituary (2026) - Stamps, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel -",
+    "A. O. Smith (AOS) Rises As Growth Narrative Points To More Value - simplywall.st",
+    "Heathre Moler Appointed Danaher Chief HR Officer - Healthcare Digital"
+  ]
+}
