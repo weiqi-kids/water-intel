@@ -1,5 +1,65 @@
 [
   {
+    "id": "veolia-2026-08-29-001",
+    "date": "2026-08-29",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Veolia stock holds firm as ESG partnerships and bond funding support outlook - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNWlcxLVB1T3lYUWk2RmVVa0psTzN6c0VwMEJsbVpCUjdscE1WTWwyR3BVTHFEajVBRkduWFV0QlBHS1o5VHpxbmlQSUVfQV9Vd1BVZGg4ZElmcEVKbXdkMmJrelRoYmcyQUpKMjl5di",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWlcxLVB1T3lYUWk2RmVVa0psTzN6c0VwMEJsbVpCUjdscE1WTWwyR3BVTHFEajVBRkduWFV0QlBHS1o5VHpxbmlQSUVfQV9Vd1BVZGg4ZElmcEVKbXdkMmJrelRoYmcyQUpKMjl5di1OeHJmU2NSNVJrcHJ4YV9JUnlOanVESmdQbUJ2ZEJhMGxFY241SzVvZjdWME1KTllFaVItZFM5YmlMWnl4WFhRckI0enhXSzNuWE5CaElVNjMtTVpmRF9vSmowaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-08-29-002",
+    "date": "2026-08-29",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Precision Trading with A.o. Smith Corporation (AOS) Risk Zones - Stock Traders Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa2NNN2FrSnBwV3haTWVVYkt1bUp2eDhFU01Bd1J3TWwzV3hzNzMzZlFIZVZIMWNQOEE5N05WQmJTUFRiQ3hQak5GYk5fa3lmWUNxcXBZZTRTalY4eFU4X1A3ZzMyeGdYYWtXOFRDTD",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa2NNN2FrSnBwV3haTWVVYkt1bUp2eDhFU01Bd1J3TWwzV3hzNzMzZlFIZVZIMWNQOEE5N05WQmJTUFRiQ3hQak5GYk5fa3lmWUNxcXBZZTRTalY4eFU4X1A3ZzMyeGdYYWtXOFRDTDNsNGxRZ2ZKSlZneUV2WmJ3WjhsZWxGQzNKRVJoSUItREg2S3RnZjhQNlNBS1pRX0VvZnpNOVU1X0xBNzd3MFBvNzZ4a002NlJWWVktTE10YkU4djM5ck96UFBIa1ktRFlMQnZ2bHlvRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-08-29-003",
+    "date": "2026-08-29",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A.O. Smith stock holds steady as sales top $1.1 billion - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGNnemVKZVNhaVBCSXlmQ2FQSVRHdzdHSGxnM04wSWthakRZZkNndzd4c3c2bGdnbWprZ2d4NEpINDcyWVBXblRRMFVKWXhmMHFDM3JhS3hxSlFVM19YS0ozYlpNdGJMSndPVGtYbz",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGNnemVKZVNhaVBCSXlmQ2FQSVRHdzdHSGxnM04wSWthakRZZkNndzd4c3c2bGdnbWprZ2d4NEpINDcyWVBXblRRMFVKWXhmMHFDM3JhS3hxSlFVM19YS0ozYlpNdGJMSndPVGtYbzhxdVJnbnN0bUxfbXMyYlU1NU9CcVFkdXdIOVlNemxiYWVucnduNmE0TGtOSW1ObjhsRjRfcHd0NnpMOUxTZVRVbmFPTDJwV1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-08-28-001",
     "date": "2026-08-28",
     "companies": [
@@ -195,6 +255,27 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWjlvNnRSc2F3ZmJfazJVVmZsdS1hMkVFYVFjSGF2MjlTZjg2WnlIc1lkUEMxamtQa0RnSFV3WmJQbWdLcVVtZU94bDc1TVBEN25Wdkxxd3dMYnpzMGdSWmI2UGF6T2QwWVZZVVpoZGpZY0g2aEd1NC0zeU14WFU4TTRBVHlkVEVsS3E3cUZXdHJtUlNlOGt3eDVTUl9KcmthX3EtQWJhVkpwb0trdnZKZDByRTBuTVdJbjBGbVRNeVhuS2Q0aVpwRFczQ0N2NG8yWE9ud3ZXTGlCNXBDemxFbmI2SksxbDRsMGhlS3gzUGNxNUdj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-08-28-011",
+    "date": "2026-08-28",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works stock holds steady as institutions add exposure - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNMFB2YUVPNGdHN3dRTlliekttcFFMNzFUZ0x4ZDRod0V0VnFxbGVqX1lmSkx6QXgySXRmMTNZTG5Bb1FHYVl1ZTBGd3FFSnV1T0JnRHV3LTVhTS02U2VpZDhJeDVBYTVBRmFSaE5YbV",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMFB2YUVPNGdHN3dRTlliekttcFFMNzFUZ0x4ZDRod0V0VnFxbGVqX1lmSkx6QXgySXRmMTNZTG5Bb1FHYVl1ZTBGd3FFSnV1T0JnRHV3LTVhTS02U2VpZDhJeDVBYTVBRmFSaE5YbVR5SlhObks1SVdfRk1GbnVtSzBSYUV2eTltcndlQ1VEdWk0Q1VvdlQ3VmZldGxsZ0ZaY2tsM1ZtbnhKSTUweUhVZ1FEZzBKQnVHdnVkc2YtNFc0M2tJbHg4YkJCOA?oc=5",
         "type": "rss"
       }
     ]
@@ -476,6 +557,24 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmtheF85aGw1U0N1cVlETnJBc2lvYWVrM3NCUGlhOUxmZ2pGXzF3RXpIazhXNldtSXlIVnNDTC1JWmR4V2E2andkMWNFX3pSaHBPNmFtOUhKaEQyaEN3bFVKMkpZR3hTeGpHN2dLWmxTVWdwbXFsZGhMTDMwSjl2OXZnV1hfT3QtdjI2TGNEX3E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-015",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "High Dividend U.S. Value Stocks Investors Are Turning To As Rates Stay Higher - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0QtOWdOQXNGLXEybUtTZ0tLMkxHYndfczFvWlFIUGFjV2NmNTB1MUhWYTRWazRxSjE0dlBXU1FLNENsWG11VXBzM2ZxZ3d3WlVwWkJ6cS1BSjAtQURod3dOR0ZDNUlYZGlnN0t4cX",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0QtOWdOQXNGLXEybUtTZ0tLMkxHYndfczFvWlFIUGFjV2NmNTB1MUhWYTRWazRxSjE0dlBXU1FLNENsWG11VXBzM2ZxZ3d3WlVwWkJ6cS1BSjAtQURod3dOR0ZDNUlYZGlnN0t4cXlPYkVPeFNFd3ZKeEgzWXdod2Z0YXhfY1BlNUF2LTc4RkJrdm9vak1HMnNTQXhWVVlnejFVUmVNdUhJTlZscVdRUE9WeEZHOXRidk1OQVF0V3I5cnFqSXhpWFJB0gHPAUFVX3lxTE5XTDZucFN0dm1QMFZRVDk1Q1Fla3ExTGlKMkJseVlWMUpnWjZma1JDTEtnV2lrSHVIRUpUdDl6b2FQc0I2T245M2pLMnRHQkwtQjRiV09MU3VwMXh5cDF2M1kyVWs0WW1SZFY1azBfSG1lWVFQaGxxQkFVSnc3YnBDNXBsT09YSzVLSVVYSGtDNkNwNFJBZmNWOTViSmhqYWhOUDY1U1F2cVpKNk51VXB1T25TQlNJbGM3blZvTHg5TlI3ZWdOOWRxVUVLZlAxWQ?oc=5",
         "type": "rss"
       }
     ]
@@ -924,6 +1023,25 @@
       {
         "name": "energy_recovery",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmtRRG5DSS1GRjVBS3pzbW5XQU8xV19FRlhDT3dNRl9pcGdmTXlfNEh5dTFlWW1IeEJ1cnNiNkFwdUFRX3RXdC1JOUl3OGNjMTNCZHpEZXl5NThHNnhZRFI0ZjRvQjIwSEdlYldpXzlUc3BqaTlibzNIbGZDZkVjdzNBelc3cjVsc2FsVFpjR1I5eFlEdm5xZnEwM3VNX3FOdGFNcjdrWHZhcnRuOEMyNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-012",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "InPipe Energy and BluePath Finance Announce Strategic Collaboration to Accelerate Water and Industrial Energy Resilience Nationwide - Venturebeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxObFR0UGR1SjhiOTA3VC14N0NERUtsajBsQUM4ekxPVko2aFhzVlZrRmowU0U2NDJBVk1DSHFuNEptaEJlUVNZdFh2UXZPS3FwNTJJXzN0UHZyTTFxeElZeEpUbVpaR05yWGpNSGdmcj",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObFR0UGR1SjhiOTA3VC14N0NERUtsajBsQUM4ekxPVko2aFhzVlZrRmowU0U2NDJBVk1DSHFuNEptaEJlUVNZdFh2UXZPS3FwNTJJXzN0UHZyTTFxeElZeEpUbVpaR05yWGpNSGdmcjhmTFFwa0dKTWlaY3JfTE1uMHVwMWVENVZ6a2JoeGloZU5ic1YxTWhLNUtKUDlxM1N3OEcwNmFud21naVdLa0lzUjYta3lFT1Yxbm82RV92ZFhEMFdLbldKUE53ZUh1aThGM0ttcmNrdWxydnc2M214dk9mem1QVVN0Y1R0RE9BSXZZcENpdzE4?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,157 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T13:46:26.478552Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ao_smith-2026-08-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Precision Trading with A.o. Smith Corporation (AOS) Risk Zones - Stock Traders Daily",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa2NNN2FrSnBwV3haTWVVYkt1bUp2eDhFU01Bd1J3TWwzV3hzNzMzZlFIZVZIMWNQOEE5N05WQmJTUFRiQ3hQak5GYk5fa3lmWUNxcXBZZTRTalY4eFU4X1A3ZzMyeGdYYWtXOFRDTDNsNGxRZ2ZKSlZneUV2WmJ3WjhsZWxGQzNKRVJoSUItREg2S3RnZjhQNlNBS1pRX0VvZnpNOVU1X0xBNzd3MFBvNzZ4a002NlJWWVktTE10YkU4djM5ck96UFBIa1ktRFlMQnZ2bHlvRQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ao_smith-2026-08-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A.O. Smith stock holds steady as sales top $1.1 billion - Ad-hoc-news.de",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGNnemVKZVNhaVBCSXlmQ2FQSVRHdzdHSGxnM04wSWthakRZZkNndzd4c3c2bGdnbWprZ2d4NEpINDcyWVBXblRRMFVKWXhmMHFDM3JhS3hxSlFVM19YS0ozYlpNdGJMSndPVGtYbzhxdVJnbnN0bUxfbXMyYlU1NU9CcVFkdXdIOVlNemxiYWVucnduNmE0TGtOSW1ObjhsRjRfcHd0NnpMOUxTZVRVbmFPTDJwV1k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "veolia-2026-08-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Veolia stock holds firm as ESG partnerships and bond funding support outlook - Ad-hoc-news.de",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWlcxLVB1T3lYUWk2RmVVa0psTzN6c0VwMEJsbVpCUjdscE1WTWwyR3BVTHFEajVBRkduWFV0QlBHS1o5VHpxbmlQSUVfQV9Vd1BVZGg4ZElmcEVKbXdkMmJrelRoYmcyQUpKMjl5di1OeHJmU2NSNVJrcHJ4YV9JUnlOanVESmdQbUJ2ZEJhMGxFY241SzVvZjdWME1KTllFaVItZFM5YmlMWnl4WFhRckI0enhXSzNuWE5CaElVNjMtTVpmRF9vSmowaw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ao_smith",
+        "count": 2
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 173,
+    "too_old": 76,
+    "gate1_blocked": 3,
+    "gate2_blocked": 2,
+    "passed": 6,
+    "pass_rate": "6.9%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "Nancy L. Dean Obituary (2026) - Stamps, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel -",
+      "Heathre Moler Appointed Danaher Chief HR Officer - Healthcare Digital"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為史密斯、威立雅相關動態：「Precision Trading with A.o. Smith Corporation (AOS) Risk ...」。主要關注主題為財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Precision Trading with A.o. Smith Corporation (AOS) Risk Zones - Stock Trader...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "A.O. Smith stock holds steady as sales top $1.1 billion - Ad-hoc-news.de（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
