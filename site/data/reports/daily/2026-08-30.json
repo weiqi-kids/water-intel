@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T13:44:36.891312Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-08-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bank of New York Mellon Corp Acquires New Holdings in Mueller Water Products $MWA - MarketBeat",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNejR3VkVpQ283OXZmWHplWnRSUmpzcF9iR2NvY1pKazlGQ0JYazQybUJlbEgxWEd3d2VuUU5FUFU3WjZ3M3BiaGJuN3VCcmZVd0ktTTNKV1ZwRnNzZXp5b1l1Z1lldDVpSXoxREhnUlBJVVZTam5sN3lxMVdJTGl3bkgtaEpOckYtUWtSZjAtQmxxTTU3c2ZyRW9IZTJveWM0OG9PUXVRakFlVGZqQVFsUkVJZlZ0MFoyZTljdFQtbFZYRExqZkZmMExjdVJYeG9PTmhGY3dnTFY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "veolia-2026-08-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Veolia Environnement (ENXTPA:VIE) Cheap As Bond Demand Signals Confidence? - simplywall.st",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ29OY2UtNFJzQld3dUFqYlhZZXhCN3lLUE9td3ZDUk1aWXlSTExVQTlJNWFxdktkaWk5QVBYUTNRZGxROE45VDJIY1FPeHNWWHo3S24wZ29fTEFLSnJpY1RFa2owN2xFZExtV2t6WGN3ZERNYXE5SFREZXFsY0Z3VDhNTERQa3ZyVmpIUU1BLWY0bWY1NmRNVnhkSXN4Uk5MdnlFSzhQWTR5bVZlb1JmdFhLNjNFUnRwT3dnOHRMaW5ZS0pNb19Tb3o3WmpkMnVRNDB0ZXl4bkFaNEszWGhLedIB4AFBVV95cUxPQ29OY2UtNFJzQld3dUFqYlhZZXhCN3lLUE9td3ZDUk1aWXlSTExVQTlJNWFxdktkaWk5QVBYUTNRZGxROE45VDJIY1FPeHNWWHo3S24wZ29fTEFLSnJpY1RFa2owN2xFZExtV2t6WGN3ZERNYXE5SFREZXFsY0Z3VDhNTERQa3ZyVmpIUU1BLWY0bWY1NmRNVnhkSXN4Uk5MdnlFSzhQWTR5bVZlb1JmdFhLNjNFUnRwT3dnOHRMaW5ZS0pNb19Tb3o3WmpkMnVRNDB0ZXl4bkFaNEszWGhLeQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-30-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Salinity Analyzer Systems Market Outlook to 2035 - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1lNblNMUzdEOS1sQm03Z2o5OWdrN1VVVmwzcjB0ei1IaUt3Z2cyQ3ZQdlhScFhwLXBmRWg3b2FvNmlmQk9XOVl2NUpVVjR5YThjazZrdmZ1MHdJU1Utb3BWbnM4OTNwTnE4dHZCd044dVVuNDI0X1Q3UzBfU1ZCd3A4NTQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 261,
+    "dup_title": 162,
+    "too_old": 86,
+    "gate1_blocked": 4,
+    "gate2_blocked": 2,
+    "passed": 7,
+    "pass_rate": "7.1%",
+    "gate2_block_rate": "2.0%",
+    "gate2_samples": [
+      "Nancy L. Dean Obituary (2026) - Stamps, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel -",
+      "Heathre Moler Appointed Danaher Chief HR Officer - Healthcare Digital"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為穆勒、威立雅相關動態：「Bank of New York Mellon Corp Acquires New Holdings in Mue...」。主要關注主題為財報、水資源產業通用、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Bank of New York Mellon Corp Acquires New Holdings in Mueller Water Products ...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is Veolia Environnement (ENXTPA:VIE) Cheap As Bond Demand Signals Confidence?...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
