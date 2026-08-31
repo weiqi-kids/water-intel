@@ -1,0 +1,153 @@
+{
+  "date": "2026-08-31",
+  "date_range": {
+    "start": "2026-08-25",
+    "end": "2026-08-31"
+  },
+  "generated_at": "2026-08-31T16:04:29.810800Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-08-26-005",
+      "date": "2026-08-26",
+      "title": "【Chen Full International FY2026 H1 Earnings Call】First-half revenue hits record NT$2.41 billion, EPS of NT$2.66 up 144% year-over-year, order visibility exceeds 12 months - finance.biggo.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 26,
+      "last_week": 11,
+      "week_over_week_change": "+136%",
+      "sentiment_this_week": 0.02
+    },
+    "industry_general": {
+      "this_week": 25,
+      "last_week": 14,
+      "week_over_week_change": "+79%",
+      "sentiment_this_week": 0.08
+    },
+    "capex": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "regulation": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "smart_water": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.12
+    }
+  },
+  "company_7d_summary": {
+    "mueller": {
+      "event_count": 12,
+      "sentiment_avg": 0.12,
+      "rank": 1
+    },
+    "veolia": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "essential": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "american_water": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 2
+    },
+    "ao_smith": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "energy_recovery": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 71,
+        "last": 67,
+        "change_pct": 6.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-25",
+      "event_count": 12,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 12,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 16,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 13,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 9,
+      "sentiment_avg": 0.11
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-25 ~ 2026-08-31）共 71 則事件，重點為「【Chen Full International FY2026 H1 Earnings Cal...」。財報、水資源產業通用、展望為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "穆勒",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "威立雅",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "美國水務",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

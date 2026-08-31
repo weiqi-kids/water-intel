@@ -1,0 +1,234 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T16:04:29.681773Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-08-31-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Investors May Respond To Mueller Water Products (MWA) Rising Profitability And Expanding Free Cash Flow - Yahoo Finance",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0dBR2tuQUdLTVlFcUNVM0FrN0U1YXYyLUs0RXdsWUJ3bUlDMUg5STl2MDN6anNTUm4tSG11Nk5Ed1V3cjBMRkZfcGFfQzJudVpLTXB6UEFqcXBiR3JlR21na0dKbXFxb0NwOTZMWWFIdzh3bF9XNzZnY2ZSLUFSM1JUTGMwYl94MHFTc1Z1Nzg3YktxcVZlQWxTWnBiTEpjZnc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mueller-2026-08-31-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Grandeur Peak Global Advisors LLC Makes New $4.52 Million Investment in Mueller Water Products $MWA - MarketBeat",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSHhmUGU2MlJCQWtYdHVVQ01hS0Q5OUJiX3ptOVVXZDRJWGNIbjV2bExicGh4ajc2dFJqdHd6VVBUX2hJdzRWZm1hMXE2cWFkdE5hOXM3ZlY0YkFwTVp6WFo0NDFpQXhwN0JqcFdNMnpMbFR0Yk9vcUJaUFRmbnZ1VllpUHNpUE5NUUpuMWJkbG1lNlI4N3VvZm5XSUI3N25ObVpTdFVadjB6aWJmbkxvWnVfS3M0T3U1UUpoREpDT0dUUy12aWVicWJ5dThWaHZxTFVfcVNoTFVIc0Q4UWlvMFM1TWthcXJKZktvbmRn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mueller-2026-08-31-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mueller Water Products (MWA) Stock May Be 33% Undervalued On Cash Flow - Yahoo Finance",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQk5KSzd0VG5NeUxqNlM5ZDNUbTN3anVqSldpVkMzS2QxNWUzTlVnSWJXSGhjM0tYQmhyVlAzVGREQ2s4dXQ1cnpVX3N6R3hDNEFBdkVMbUg2Y3c5TTBVNllia1FURURDaE5rOTdwNnFzOFNvY1ZhWFh4dDhHaWNEZVE1aVRENWUyTW8xc1hqdExHem1sbk1rZUJFS3BfUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mueller-2026-08-31-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mueller Water Products (MWA) Could Be 24% Undervalued As Margin Gains Stay In Focus - Yahoo Finance",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa0hlMEs0WGZfeGVQaXB0amN5clNDdWJkbm45Zy1qamswVU8tQ1ZGNFJmNjdQUlZFNWxsX1ItMVlzTV9mRFBockdhYzJ3cUtiR2FaWWlyVjI4UmtkWC1TSnBnWi01NG42VXE5cEhaZWRTTjhxU0tmSGtWWnJVcmkxQ01RUUNQTjhocTJ0eU1Dd2lMNjFYQi01V1NDV2U0UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "energy_recovery-2026-08-31-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Energy Recovery stock steady with recent earnings context - AD HOC NEWS",
+      "companies": [
+        "energy_recovery"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLURuZFJEZEJZUi13ejI3QnQ2UnkyUU9CN3pUMk82M0lfMGc2bGkzd1k3aWpVX0RQX3dfTEEta2hncjRSb2QybDd0OHY5ZlVTMkViZGpDb1VuVmZDVVZ2bFF0MUpOQTM0aHlIYVYtRzk0SHhTdHJ0T2U0Y09yRWxJbVA3Y3hNc0tXbWdVX0h2ekMtQllxOUNETmp3TDBZMy1pMnJtVnFJNmZBNWFxTkFhVTlIM1puak0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "regulation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 4
+      },
+      {
+        "id": "energy_recovery",
+        "count": 2
+      },
+      {
+        "id": "ao_smith",
+        "count": 1
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "regulation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 242,
+    "dup_title": 143,
+    "too_old": 85,
+    "gate1_blocked": 0,
+    "gate2_blocked": 3,
+    "passed": 11,
+    "pass_rate": "11.1%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "Nancy L. Dean Obituary (2026) - Stamps, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel -",
+      "Heathre Moler Appointed Danaher Chief HR Officer - Healthcare Digital",
+      "Kurita stock steadies as Japan shares slide - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為穆勒、ERII、史密斯相關動態：「How Investors May Respond To Mueller Water Products (MWA)...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "How Investors May Respond To Mueller Water Products (MWA) Rising Profitabilit...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Grandeur Peak Global Advisors LLC Makes New $4.52 Million Investment in Muell...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
