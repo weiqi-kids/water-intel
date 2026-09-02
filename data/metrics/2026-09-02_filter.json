@@ -1,0 +1,14 @@
+{
+  "total_raw": 240,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 4,
+  "gate2_fail": 3,
+  "passed": 20,
+  "gate2_samples": [
+    "Can Trump’s Venezuela Oil Plan Derail the Country’s Energy Recovery? - Modern Diplomacy",
+    "Heathre Moler Appointed Danaher Chief HR Officer - Healthcare Digital",
+    "Kurita stock steadies as Japan shares slide - AD HOC NEWS"
+  ]
+}
