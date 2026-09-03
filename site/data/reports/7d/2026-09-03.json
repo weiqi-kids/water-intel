@@ -1,0 +1,147 @@
+{
+  "date": "2026-09-03",
+  "date_range": {
+    "start": "2026-08-28",
+    "end": "2026-09-03"
+  },
+  "generated_at": "2026-09-03T12:45:36.976262Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "essential-2026-08-30-005",
+      "date": "2026-08-30",
+      "title": "Essential Utilities (NYSE:WTRG): What Does Its Fresh Update Show About Infrastructure Investment? - Kalkine Media",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 29,
+      "last_week": 9,
+      "week_over_week_change": "+222%",
+      "sentiment_this_week": 0.03
+    },
+    "industry_general": {
+      "this_week": 26,
+      "last_week": 13,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.08
+    },
+    "smart_water": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.1
+    },
+    "regulation": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "mueller": {
+      "event_count": 13,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "veolia": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 4
+    },
+    "ao_smith": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 2
+    },
+    "american_water": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 3
+    },
+    "energy_recovery": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "essential": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 82,
+        "last": 68,
+        "change_pct": 20.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-28",
+      "event_count": 15,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 7,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 23,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-09-01",
+      "event_count": 21,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-02",
+      "event_count": 10,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-09-03",
+      "event_count": 0,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-28 ~ 2026-09-03）共 82 則事件，重點為「Essential Utilities (NYSE:WTRG): What Does Its ...」。必要公用表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "穆勒",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "威立雅",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "史密斯",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
