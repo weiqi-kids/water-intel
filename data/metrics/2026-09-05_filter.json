@@ -1,0 +1,14 @@
+{
+  "total_raw": 239,
+  "dup_title": 140,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 5,
+  "gate2_fail": 3,
+  "passed": 8,
+  "gate2_samples": [
+    "Can Trump’s Venezuela Oil Plan Derail the Country’s Energy Recovery? - Modern Diplomacy",
+    "Milwaukee seeks public input on redevelopment of former AO Smith/Tower site - In Business Madison",
+    "City seeks input on redevelopment plan at former AO Smith/Tower site - Milwaukee Journal Sentinel"
+  ]
+}
