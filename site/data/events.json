@@ -1,5 +1,85 @@
 [
   {
+    "id": "unknown-2026-09-06-001",
+    "date": "2026-09-06",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scientists turned dog poop into fuel and found it could produce both hydrogen and methane - The Times of India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUzVmZ2s3TzdZTG96ZXd6S1JBSVRzdDVmZjRQV3gzdjRrQnpKLURhY21XMzBKY2Q5N3M3cUJ6RTVSam9SdUdNVVVJcEF1ZDVBTWwtRG1ndHJPOEF1RDBSWS03WE1qTDBZVFk2SldnTV",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUzVmZ2s3TzdZTG96ZXd6S1JBSVRzdDVmZjRQV3gzdjRrQnpKLURhY21XMzBKY2Q5N3M3cUJ6RTVSam9SdUdNVVVJcEF1ZDVBTWwtRG1ndHJPOEF1RDBSWS03WE1qTDBZVFk2SldnTVhqMnQ2T3FPOEVsWmVaaXphWUx5YkRPZjBKWERKaGNkWXF4SVJwM1BENHQ2eG1PaXN0elFXekIwYkk1a2pTcU5sX194c3UtMU1wVVV6czRldmlvdVBnOWpYQXZ0UEd5N3QxNDVpRWtOMm4zMVBMeE9kREp2SkdPMGxvODNFRXRKTTjSAfYBQVVfeXFMTmVRWUpvY01VM2NvdW9JOFd0Qk5ySFhjcWRsbEJhYTRBVG9BdEtjQ0l1cE9vZFUwdFpNX1h6WUppS2dPRTBhQVg3V1hUWXhlb3EzNFoyMXJVYjMwYTlLdC1VOXNSaF9sR29mSGI5MGtZWkZ1WXJFcnNFeTE0a3FpNl9YaF9MaXJYOGlKNUpVVEFvQW9mS215MlRLX1VxbWFIQWxxa2c0WlduR0RSVDZSSC1Za2U2aGFqNlF5bW1VN1hKdnQ1U0ZjWU1VQkV6OS1yM3FwUzhPSXI0MFNTLUxtT1hFN3N6bXYzaUkxMkRjVDJheExUU19n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-09-06-002",
+    "date": "2026-09-06",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia stock holds steady as investors weigh latest environmental services strategy - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ1ZoR2Z6eUQzUURIUVlDbmpPUThGSEotcDRUeWhsXzMzMERRSzZTRDU0RWxZVFhDTlZxZFUxZGY0X1pxNXBnbk5CNDBKU21SZ3pnaldfQ0M5ZzcwOEloUUlqcUpYcFg0Um1fV1A0UV",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ1ZoR2Z6eUQzUURIUVlDbmpPUThGSEotcDRUeWhsXzMzMERRSzZTRDU0RWxZVFhDTlZxZFUxZGY0X1pxNXBnbk5CNDBKU21SZ3pnaldfQ0M5ZzcwOEloUUlqcUpYcFg0Um1fV1A0UVdHZlE0MFhtTE94XzRneF9FdnQ5RTR5Q29CM2xqNExIdE9kd3dfSlBRd2F3U2tfaUZVaG9FNWFxbnhndkhENF85ZzB3QktueF9HZHhrQ0FseXBCX2daRmNKY2lFNUgxTnRDS3Fz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-06-003",
+    "date": "2026-09-06",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Neosho System Acquisition And Upgrades Altering The Investment Case For American Water Works (AWK)? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZkFIS3V5Tkx1dGdXaFU5LWY2VUdqYUVBZ2RXZlVER1JiSFBTdHI4QXZFQ0pXaXpZZUZOQVFTWXpRV0xMRWxjSk5jTHRHbks2WUd3R1pBcEJkcFVablhCZV9JYUROMW1OekJDQnp0dG",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZkFIS3V5Tkx1dGdXaFU5LWY2VUdqYUVBZ2RXZlVER1JiSFBTdHI4QXZFQ0pXaXpZZUZOQVFTWXpRV0xMRWxjSk5jTHRHbks2WUd3R1pBcEJkcFVablhCZV9JYUROMW1OekJDQnp0dGJkODNkN3IxRzVBQzZvaUNfVXlQUEhXNkdubXpEQlpiNHlLcERlT1lsYm5ITXV2Y2N3czMxN1lQcVRGNVRoMWVLSUF4cDM5UGJJWmdQUHZDc0ZQWEdFeUpTY2kyMzFQLW16dXVN0gHYAUFVX3lxTE1TQ0RJSG5uNEtIUlpEZTBLSlpoYXFkTmNYeEFpSzhSUThBZE5QWHlkLUNMRG9QcUNudEdib0poanhSTk5icGJ5NU85Z3BWeDgtU0xUajdUN3pJY20tTmV6cTZYcHBzS1BSVVN0TkZpenpxX0FIU29lT0tNUmxXNmVqNlNZdVJNdmFXa21JX0RINHVXbDBMYW1DM3loYVg0VWNwYVFfMVBYTVZIUkgzX0FrSl9pNHpKdXNwTEZFUTJJeUN6eG9BZ2hwR19Sb3dmSVMyQnBCdzZRSg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-06-004",
+    "date": "2026-09-06",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works stock holds near 52-week high after solid Q2 2026 figures - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOUUNlMXIwSVFNMnhJWVRVM1hWYWZoeHJBSlFPc25RLUFUdkZabHlYQzdoeVNNTnVCNjkwc1hKeTl3em0ybVZKQXBXUk81U0oxX0U3cndWWDB1UkhyaUpaUGtLVFhSdTBBNXk1LVRrVG",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUUNlMXIwSVFNMnhJWVRVM1hWYWZoeHJBSlFPc25RLUFUdkZabHlYQzdoeVNNTnVCNjkwc1hKeTl3em0ybVZKQXBXUk81U0oxX0U3cndWWDB1UkhyaUpaUGtLVFhSdTBBNXk1LVRrVGRlbFh4U0NiNGZTaE1WSFVTYzAwNm5xU2NxOWx5WkwzWHVPYmszWHpPMFlXVUo5cllFSGNUNVdWY3FTak1zYUdWWXg3dVBWeHlYN0gydnR4Um52RXJCYVVwRG96dkxoZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "american_water-2026-09-05-001",
     "date": "2026-09-05",
     "companies": [
@@ -17,6 +97,26 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWZmZlNvdFJ6UVV1RXZUY3hIY2xmckpBRDdldG42ZF96Q0JxaVZvd2MtR3liVGdkNDNDN29mNVlXNDBxUkk4NFVXdU9QMmtqcXpjSy1sa0doOExfbGVrbXBsZzNMVVlQbUI2cnpILThSWUpWaHpDUjhWbDQ3V1hZT3NOcXl0TlFYMVVtYURDczZTQkw1dkVxUzBXOHVhR0JOaUZ4WjhMcVZnNjRycndiLXkyaXlpYmFpalZlNTZNcy1QSGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-09-05-002",
+    "date": "2026-09-05",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How New Saudi Water and Waste Partnerships At Veolia Environnement (ENXTPA:VIE) Has Changed Its Investment Story - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTnNHckNnTG40eHpHZ09ZMi1ldUFETUhIcGd5QVY3c0JaSW5SUFQwY09NeEsyUFRoWnJrQXNEUHhMQ0RMei1KMHJNOTJ0aUpsWVo1WXN4NWVzeFFpa1pJWlVTRTQxUTBDdGlrMzJ1bm",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTnNHckNnTG40eHpHZ09ZMi1ldUFETUhIcGd5QVY3c0JaSW5SUFQwY09NeEsyUFRoWnJrQXNEUHhMQ0RMei1KMHJNOTJ0aUpsWVo1WXN4NWVzeFFpa1pJWlVTRTQxUTBDdGlrMzJ1bmVjSVZ6STVad09Gd28zMEtLR3UxeTlJR0hjU0RKQVJJOEswNnQxcUVaY1lOQXJuSjBKTFZleHpxT3pWMTZwb202dTZhbDgtLTZXQnEyTmhlREdoM1pGaVJKUlNNNU5FZjNWYlI3dnlJVWF3RXBIRktSb9IB4AFBVV95cUxPTnNHckNnTG40eHpHZ09ZMi1ldUFETUhIcGd5QVY3c0JaSW5SUFQwY09NeEsyUFRoWnJrQXNEUHhMQ0RMei1KMHJNOTJ0aUpsWVo1WXN4NWVzeFFpa1pJWlVTRTQxUTBDdGlrMzJ1bmVjSVZ6STVad09Gd28zMEtLR3UxeTlJR0hjU0RKQVJJOEswNnQxcUVaY1lOQXJuSjBKTFZleHpxT3pWMTZwb202dTZhbDgtLTZXQnEyTmhlREdoM1pGaVJKUlNNNU5FZjNWYlI3dnlJVWF3RXBIRktSbw?oc=5",
         "type": "rss"
       }
     ]
@@ -201,6 +301,44 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc1FSMlgyMWw3NHppYlhFdy1qLVBkWldZNTg1MTZhdEFyb0h0dTlyblBJTEllZEhNdEY2bF9MSm0zNnY1LXU1cmd2RHladGgzY0RwX3FpMGptT3R0TEE3T21reF9LTFVQcm5LRkdUUjhVbDhWNExPanNEUXdmUmFuNXBCWC1tU244SnlLaXdzVnhqWlYxNTR6dm12UFRKYmNsaEdFRDhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-09-04-010",
+    "date": "2026-09-04",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Samarco advances energy recovery in conveyor belts and boosts operational efficiency - samarco.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNkM3TzF0XzNBaFFFMjJpRzM2czByUkFSak82dTA1ZXA2S0tWbmI5QnlBNmtuUHhWT3FFM2VjYzlrZDZLb1Q1eGVHbU9BZ2laWURyQm9RN0E5S1dEWm5ialo0WTV6ajlHM2JzcjhqZU",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNkM3TzF0XzNBaFFFMjJpRzM2czByUkFSak82dTA1ZXA2S0tWbmI5QnlBNmtuUHhWT3FFM2VjYzlrZDZLb1Q1eGVHbU9BZ2laWURyQm9RN0E5S1dEWm5ialo0WTV6ajlHM2JzcjhqZUJENnVjakthRFpLQ1g0S0xOSnVfd0FfX2s3bXZ6NUFjeVhNUHJfWWMxbHRzUWZQc3BPRnZvSUswdWFFLVVXNERDVW9ySVRRSkc1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-04-011",
+    "date": "2026-09-04",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Biocide Petroleum Microbial Control Market Outlook to 2035 - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQb09uR01jUnBhc3B5YmI0RmRQdWJzallFanc1SEZ4ZmdHTzZtQlZXX1dvVkNXVmtpUEhaWlREbWxpdU9hV3AwVV84LXprWFkxam4xVFpTcW0tUVNRcTM0MW1hM1NwV1BZSUljTXBicz",
+    "sources": [
+      {
+        "name": "danaher",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb09uR01jUnBhc3B5YmI0RmRQdWJzallFanc1SEZ4ZmdHTzZtQlZXX1dvVkNXVmtpUEhaWlREbWxpdU9hV3AwVV84LXprWFkxam4xVFpTcW0tUVNRcTM0MW1hM1NwV1BZSUljTXBiczRvanpvVDdXTmV5NWhTcjNQb01vcnJSZV96SklFbUZ3LXRSUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -753,6 +891,26 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOLVBYMjMtUHl5UUQ1eEMtcHR4Zm9kLWs1eFFkRkE0WFEtLU5ZUnlsdUZnY0hkbW5RaDFMMnBFeW8yZ241TmRvT180WENUN0d0RnlkUHU3UW4yVk9DRFdSalVkMEZFcmlmZ2FnSjFxcEpnS2w2a2xfcV9oQUdpaVNYVUJ0SE9QdjRHdXZTaGZoQzhhMjhsWEhoM2t1cEl1N2E5c0NGcWJhZlkzdXhNU2ZVYjVtSWRiemVfbFozYVVQclY2UEZIbmxqSi1VQ2VGMkQ4ZEF5OFZMbEdtRGdOOU5QMDZwTm9aV3dmdUJLaFNEcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-016",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Tennessee American Water customers will receive additional credit from PFAS settlement - local3news.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNN3RHMExSSXlaQVFoa0lCcGdBcDN5Sk5oYUY3ZXdYMVdxVGRzM2NyVDhNLS1jMnVoYmNJTHhiYXpCWThfZWdxdEQ0RUdNUU92eGtpTFZQX1AtNENNVjM2ZGdyRVpMT3NRR002SGYxc2",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNN3RHMExSSXlaQVFoa0lCcGdBcDN5Sk5oYUY3ZXdYMVdxVGRzM2NyVDhNLS1jMnVoYmNJTHhiYXpCWThfZWdxdEQ0RUdNUU92eGtpTFZQX1AtNENNVjM2ZGdyRVpMT3NRR002SGYxc2FldHQwZUl5WnAtODJHSXd5SW81bjVia3pOYm9pT3lmdGxGNk15Z2FlNVFOOVU4Qy1IeENicUQ0TzNNelJiUkhfNGR3MkpEOXVNSm83bG9DakcyZkU3aW5DM3pqb0RUQzVZVWRnT242WWQ1YkNVWllDUXF1dEZNSUlCa3BiektpMVdsYjZEMkEyQUZETGlBNnJ0YUZmQw?oc=5",
         "type": "rss"
       }
     ]
@@ -1741,6 +1899,27 @@
     ],
     "impact": "neutral",
     "title": "Rheem Water Heater Heat Pump Ferguson Ao Smith An Empty Road In The Middle Of Nowhere With Mountains In The Background At Sunset Or Sunrise - Krepšinio žinios",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1WbDJKeFdwMWgzMkVTdlFmMkZtNU1EMF9lMVI0SDRhYms2ajFENGJiRWNTM2FnMVdhYlZNMkJsRHhzcF90Q203SUlWVTZWNm44MzlxUXdEZUhrcnJXWXpOaEd0QThBS2E0cXA5NzFZZk",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WbDJKeFdwMWgzMkVTdlFmMkZtNU1EMF9lMVI0SDRhYms2ajFENGJiRWNTM2FnMVdhYlZNMkJsRHhzcF90Q203SUlWVTZWNm44MzlxUXdEZUhrcnJXWXpOaEd0QThBS2E0cXA5NzFZZkVfNEhaeGFXRG16Q24?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-08-31-025",
+    "date": "2026-08-31",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheem Water Heater Heat Pump Ferguson Ao Smith An Empty Road In The Middle Of Nowhere With Mountains In The Background At Sunset Or Sunrise - krepsiniozinios.lt",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1WbDJKeFdwMWgzMkVTdlFmMkZtNU1EMF9lMVI0SDRhYms2ajFENGJiRWNTM2FnMVdhYlZNMkJsRHhzcF90Q203SUlWVTZWNm44MzlxUXdEZUhrcnJXWXpOaEd0QThBS2E0cXA5NzFZZk",
     "sources": [
       {

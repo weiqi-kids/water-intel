@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T11:47:00.693537Z",
-  "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
+  "updated_at": "2026-09-06T12:04:32.145482Z",
+  "quarter": "2026-03-31, 2026-06-30",
   "companies": [
     {
       "id": "american_water",
@@ -160,17 +160,17 @@
       "name": "威立雅",
       "ticker": "VIE.PA",
       "currency": "EUR",
-      "ar": 9352000000,
-      "ar_prev": 13499000000,
-      "ar_qoq": "-31%",
+      "ar": 14337000000,
+      "ar_prev": 9352000000,
+      "ar_qoq": "+53%",
       "ar_period": "QoQ",
-      "inventory": 1465000000,
-      "inv_prev": 1531000000,
-      "inv_qoq": "-4%",
+      "inventory": 1566000000,
+      "inv_prev": 1465000000,
+      "inv_qoq": "+7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "watts",
@@ -211,17 +211,17 @@
       "name": "中宇",
       "ticker": "1535.TW",
       "currency": "TWD",
-      "ar": 811840000,
-      "ar_prev": 720980000,
-      "ar_qoq": "+13%",
+      "ar": 886735000,
+      "ar_prev": 811840000,
+      "ar_qoq": "+9%",
       "ar_period": "QoQ",
-      "inventory": 35007000,
-      "inv_prev": 35455000,
-      "inv_qoq": "-1%",
+      "inventory": 32847000,
+      "inv_prev": 35007000,
+      "inv_qoq": "-6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     }
   ]
 }
