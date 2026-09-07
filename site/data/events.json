@@ -1,5 +1,67 @@
 [
   {
+    "id": "mueller-2026-09-07-001",
+    "date": "2026-09-07",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Paralel Advisors LLC Purchases Shares of 84,083 Mueller Water Products $MWA - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNbjdzX29yZVJNZWg0Vmk4d0xHTFF1R2owNGVFVzdMNU9fb0dfejRLT0dXcHNRN0tFR1A4R0k0ajcwVndndkJOVzVkMnJBNFYxZFlpMHFGNzFwQ3FhX2YzV0pvejVtVWxzTVRmaUNla2",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbjdzX29yZVJNZWg0Vmk4d0xHTFF1R2owNGVFVzdMNU9fb0dfejRLT0dXcHNRN0tFR1A4R0k0ajcwVndndkJOVzVkMnJBNFYxZFlpMHFGNzFwQ3FhX2YzV0pvejVtVWxzTVRmaUNla21FbUo1T3JVbTBfTTZ5bENqSGl1ZmVvaWR5LTVVdWg4dlRzWE0zd2hMbi1QS2lFTWNiSGMzX2EwbzI1ZlpzbGJYMm5HVy1CTmpFanR5dXFYcERiRm53WDRRWlIteXREbmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-09-07-002",
+    "date": "2026-09-07",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Veolia: Thesis Materialization After Close To A 10% Decline (Rating Upgrade) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOdmdlTU9qUzU4MXpLUEExTWMyNno1ejhSMTdXRkNYLVRvQ3h2eVB0WWVfX09EZnBWdmpPbVlURnVKYm1QRVlXVzJqT1dZeUdXQjRSRnNYYnMyQmRWVTdMUXN6djBZZnVOR3RBZnFFeD",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdmdlTU9qUzU4MXpLUEExTWMyNno1ejhSMTdXRkNYLVRvQ3h2eVB0WWVfX09EZnBWdmpPbVlURnVKYm1QRVlXVzJqT1dZeUdXQjRSRnNYYnMyQmRWVTdMUXN6djBZZnVOR3RBZnFFeDZ6Szd3TzRQYmJ0cHFENkZ0bER0cFpKM2hUYjEyck5wVU9mZ2c0bUlhVTZnck02QmphWWZBRWo0eDF6MHgtdW82MXpsblVYc2J5ekhLTURB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-09-07-003",
+    "date": "2026-09-07",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities (WTRG) Keeps Growing While Profits Quietly Slide - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNN3ZVQ3hwaUNQS2NURHVyWVlvSGlFOWlhYWdXLVpBWDIyQlJCbktkSjgwTUNBWVllamNycVo0ME90RnhhMk42MWZ5bURlNVJsQVYzaDRJRFh6ZFA0ZXBGTUlSRmdSSUtId2VKOGItVH",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN3ZVQ3hwaUNQS2NURHVyWVlvSGlFOWlhYWdXLVpBWDIyQlJCbktkSjgwTUNBWVllamNycVo0ME90RnhhMk42MWZ5bURlNVJsQVYzaDRJRFh6ZFA0ZXBGTUlSRmdSSUtId2VKOGItVHhDa3c1MFhORzNwVm5sZWE5LVZ3VVY3WU9Pa1RFNnZuaVZrUjdGa3NjVm9KenJ3bWZ6d3Q5bDl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-09-06-001",
     "date": "2026-09-06",
     "companies": [],
@@ -80,6 +142,27 @@
     ]
   },
   {
+    "id": "unknown-2026-09-06-005",
+    "date": "2026-09-06",
+    "companies": [],
+    "topics": [
+      "semiconductor_ultrapure_water",
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ultrapure Water Polishing Cartridges Market Outlook to 2035 - indexbox.io",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGhyLUctbXpPMGQ5VFdKZ1QtMWduVXlzR1l2UGtlUlF4VEZWT2wtLXhXZ0tqM1lWU0NabHl6ZXc5S1BsRWtKWGlmTEotYTBwR1Y3ZVFlaFBKQW9XRENfMVBFa2NzYTd0M2x2cGxaT3",
+    "sources": [
+      {
+        "name": "google_news_water",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGhyLUctbXpPMGQ5VFdKZ1QtMWduVXlzR1l2UGtlUlF4VEZWT2wtLXhXZ0tqM1lWU0NabHl6ZXc5S1BsRWtKWGlmTEotYTBwR1Y3ZVFlaFBKQW9XRENfMVBFa2NzYTd0M2x2cGxaT3M0bkVWU3ZxcThLRFVtN0IzdkpVXy15NUQ2cUNpT0ZJWWNQQUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "american_water-2026-09-05-001",
     "date": "2026-09-05",
     "companies": [
@@ -117,6 +200,24 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTnNHckNnTG40eHpHZ09ZMi1ldUFETUhIcGd5QVY3c0JaSW5SUFQwY09NeEsyUFRoWnJrQXNEUHhMQ0RMei1KMHJNOTJ0aUpsWVo1WXN4NWVzeFFpa1pJWlVTRTQxUTBDdGlrMzJ1bmVjSVZ6STVad09Gd28zMEtLR3UxeTlJR0hjU0RKQVJJOEswNnQxcUVaY1lOQXJuSjBKTFZleHpxT3pWMTZwb202dTZhbDgtLTZXQnEyTmhlREdoM1pGaVJKUlNNNU5FZjNWYlI3dnlJVWF3RXBIRktSb9IB4AFBVV95cUxPTnNHckNnTG40eHpHZ09ZMi1ldUFETUhIcGd5QVY3c0JaSW5SUFQwY09NeEsyUFRoWnJrQXNEUHhMQ0RMei1KMHJNOTJ0aUpsWVo1WXN4NWVzeFFpa1pJWlVTRTQxUTBDdGlrMzJ1bmVjSVZ6STVad09Gd28zMEtLR3UxeTlJR0hjU0RKQVJJOEswNnQxcUVaY1lOQXJuSjBKTFZleHpxT3pWMTZwb202dTZhbDgtLTZXQnEyTmhlREdoM1pGaVJKUlNNNU5FZjNWYlI3dnlJVWF3RXBIRktSbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-09-05-003",
+    "date": "2026-09-05",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Daisy Dudley Obituary (2026) - Stamps, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel - Legacy obituary",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFZqSnVMdEhEWmFlWEF2N3BNcUJvYkcxcnI2Y2NvOVZVT2piemZ1TTVfemVmOTZITnpWN1UzSnYxdzFKcXppTG1DM0R2ZE1QVkpzSDZHVkFWV0d6T3RfZVNqQnQwUl82cFZCRDNjTk",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFZqSnVMdEhEWmFlWEF2N3BNcUJvYkcxcnI2Y2NvOVZVT2piemZ1TTVfemVmOTZITnpWN1UzSnYxdzFKcXppTG1DM0R2ZE1QVkpzSDZHVkFWV0d6T3RfZVNqQnQwUl82cFZCRDNjTkMzaVVtX0N3OE81X2lWQ0xfSA?oc=5",
         "type": "rss"
       }
     ]
@@ -608,6 +709,48 @@
     ]
   },
   {
+    "id": "mueller-2026-09-03-014",
+    "date": "2026-09-03",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Former Mueller Water (NYSE: MWA) executive reports $23.67 stock sale - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkhhd2F0YnhWLURmcFFsT2dWaW1jakVJaWVGNjZtdVQ0U1JfMC1yaGw5SWlCYlcwMjI0dVpvcEhZMlJTdlJNVE9fRkxLUTA2eXF0ZkE0MmNKZXhIN205ZmxXMGJoRDRBa1lxZldYbG",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkhhd2F0YnhWLURmcFFsT2dWaW1jakVJaWVGNjZtdVQ0U1JfMC1yaGw5SWlCYlcwMjI0dVpvcEhZMlJTdlJNVE9fRkxLUTA2eXF0ZkE0MmNKZXhIN205ZmxXMGJoRDRBa1lxZldYbG9ad3Zua2ozdE90M0hWU3oweG9mYkp5bEU4ek8wa25udDFuN1pXWVJFbzhYRlBxMGtnRDI2Q3FscU9GT29KNExCQksxdGxvSUlwTTRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-03-015",
+    "date": "2026-09-03",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Co. stock rises Thursday, still underperforms market - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxORmVRVnpvbENlcXFJeUs5LXAxdnZ3VjFyTEgzMVJHallhTEdUeEVYdGIzTHo4Z1Y2MU9MRUxkaVNjOWhsSkJ5Y2ZPUDctTklGSUJWMXRRdS01WDRSYm8xSTdYYjRLOFZJLW8tNlRmdV",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORmVRVnpvbENlcXFJeUs5LXAxdnZ3VjFyTEgzMVJHallhTEdUeEVYdGIzTHo4Z1Y2MU9MRUxkaVNjOWhsSkJ5Y2ZPUDctTklGSUJWMXRRdS01WDRSYm8xSTdYYjRLOFZJLW8tNlRmdVFFOWtlUDhOOVRYeEwzUG44Z0FQejRKVjIwTW01VlI5RjR5T2RmU2lQQUhOaFdhZ1lYQ2hYVjJ0MFV6WFRFaGVOd3ZaY3NETUlPODBWTmFnUzR4TVFUb3NyM1BRdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-09-02-001",
     "date": "2026-09-02",
     "companies": [
@@ -911,6 +1054,24 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNN3RHMExSSXlaQVFoa0lCcGdBcDN5Sk5oYUY3ZXdYMVdxVGRzM2NyVDhNLS1jMnVoYmNJTHhiYXpCWThfZWdxdEQ0RUdNUU92eGtpTFZQX1AtNENNVjM2ZGdyRVpMT3NRR002SGYxc2FldHQwZUl5WnAtODJHSXd5SW81bjVia3pOYm9pT3lmdGxGNk15Z2FlNVFOOVU4Qy1IeENicUQ0TzNNelJiUkhfNGR3MkpEOXVNSm83bG9DakcyZkU3aW5DM3pqb0RUQzVZVWRnT242WWQ1YkNVWllDUXF1dEZNSUlCa3BiektpMVdsYjZEMkEyQUZETGlBNnJ0YUZmQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-09-02-017",
+    "date": "2026-09-02",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Kurita Advances Share Buyback, Repurchases ¥8.25 Billion in August - theglobeandmail.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNFRtaXpfWHBJSVFTWFYxTThLSV9wYVJXdDE0ZzlOSUZIV3Rqck8zaFhlT29FNVpSaWhKaHFrcktVc1ZVbHg4VnJuX1ZYQTlOOXVoekcwNC00WlA2MnRGX18xUDFvNXkzVTFfMUwxNT",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNFRtaXpfWHBJSVFTWFYxTThLSV9wYVJXdDE0ZzlOSUZIV3Rqck8zaFhlT29FNVpSaWhKaHFrcktVc1ZVbHg4VnJuX1ZYQTlOOXVoekcwNC00WlA2MnRGX18xUDFvNXkzVTFfMUwxNTVyU1FGUnVLMDFNbmVkTGVBLW43bTlGSXpoazFHMHFWZVgtRElqdWtBV2JRWXU4eU9iWkRYU0tZSE80OXNaZ0gydlZSWEV1R2FaWTF4Q0puMnZvRUctOHVSSzFrYXdrV1hqRGpIdmpvcTEwQnJkb2ZFSXN3?oc=5",
         "type": "rss"
       }
     ]
@@ -1422,6 +1583,27 @@
     ]
   },
   {
+    "id": "mueller-2026-09-01-026",
+    "date": "2026-09-01",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products (MWA) director to sell $13K in stock - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQbzhXemU0bldhU0RlQWlYWXJacDgxUWFlT2VyTF9DUVRxS3RnOXNZN0F6VlUydFZ5cDFDemJsTEVYbGtLbXhDaXcwWTNxdXVhRGViZTVUTGI3Y3cwOFRrNXhmR09VMHVOYl90Y1h2Zj",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbzhXemU0bldhU0RlQWlYWXJacDgxUWFlT2VyTF9DUVRxS3RnOXNZN0F6VlUydFZ5cDFDemJsTEVYbGtLbXhDaXcwWTNxdXVhRGViZTVUTGI3Y3cwOFRrNXhmR09VMHVOYl90Y1h2ZjRqSmJYbVVHQzJNWHFwb2trTTZvekJicmJ0Smg5SW1mUUZ5RTUxU0JRYloxbV9OQ2tLVE5vSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-08-31-001",
     "date": "2026-08-31",
     "companies": [
@@ -1925,6 +2107,47 @@
       {
         "name": "ao_smith",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WbDJKeFdwMWgzMkVTdlFmMkZtNU1EMF9lMVI0SDRhYms2ajFENGJiRWNTM2FnMVdhYlZNMkJsRHhzcF90Q203SUlWVTZWNm44MzlxUXdEZUhrcnJXWXpOaEd0QThBS2E0cXA5NzFZZkVfNEhaeGFXRG16Q24?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-08-31-026",
+    "date": "2026-08-31",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities (NYSE: WTRG) faces non-unanimous settlement in merger review - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdG0wMGt5OS13cTJBdDVRYjVJcHRoN1JTMWtVQXkyUUlGcUNrWUUxUWx2TVdXRWRPLTU4QW5SUVlJUU1QbkVoOGNBZGhLcldTS2VjYXVYdDJTclBzLTFyRzROUUx4MThRXzlrNVlTRV",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdG0wMGt5OS13cTJBdDVRYjVJcHRoN1JTMWtVQXkyUUlGcUNrWUUxUWx2TVdXRWRPLTU4QW5SUVlJUU1QbkVoOGNBZGhLcldTS2VjYXVYdDJTclBzLTFyRzROUUx4MThRXzlrNVlTRVNQMkhZWDNRRkc4d2tNLXhPNDJaWlFxUXF2SWIxYzcydk5CV1ZNMWJrVmJIcGVXT19CRjNLemo0M2ZtbHZhcklEZFdZR2hNSFlZdklCMGlLUmZvUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-08-31-027",
+    "date": "2026-08-31",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities (NYSE: WTRG) notes PaPUC merger settlement - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZmtya0JsUVJ5YXhEY2tYbGw4a3F2MzZ5MW9vYW9kOVRkUWs4cDNZUVpaNGdtUEtFNUJWMHlVZ3lxRUFMbkowM1hDcDF4T1FjZk4xaWRZMC1xYWpzWnhEWTlVMzI0UDlLOVk4WUthNU",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZmtya0JsUVJ5YXhEY2tYbGw4a3F2MzZ5MW9vYW9kOVRkUWs4cDNZUVpaNGdtUEtFNUJWMHlVZ3lxRUFMbkowM1hDcDF4T1FjZk4xaWRZMC1xYWpzWnhEWTlVMzI0UDlLOVk4WUthNUs3Yl9teUkwYUNRYnRYRy1veFlsQ2RCYmcwWXl1bnNpdllYaUJpWDdKUXc1eEdSbVM2bmUwbXVJRVZxNXhEZ3Y3VUxoTGY2LWU2LVNYOXpvRDZjdw?oc=5",
         "type": "rss"
       }
     ]
