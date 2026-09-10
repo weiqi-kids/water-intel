@@ -1,0 +1,15 @@
+{
+  "total_raw": 240,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 4,
+  "gate2_fail": 4,
+  "passed": 16,
+  "gate2_samples": [
+    "Veolia stock holds near EUR 31.95 after voting-rights update - AD HOC NEWS",
+    "Veolia stock heads into the open after a modest gain - AD HOC NEWS",
+    "A.O. Smith Corp. stock underperforms Tuesday when compared to competitors - MarketWatch",
+    "Milwaukee seeks public input on redevelopment of former AO Smith/Tower site - In Business Madison"
+  ]
+}
