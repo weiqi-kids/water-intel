@@ -1,5 +1,105 @@
 [
   {
+    "id": "unknown-2026-09-11-001",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "wastewater_treatment",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The utility beneath our streets: How wastewater is becoming a renewable energy asset for real estate and communities - by Karen Prescott - NEREJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1yN0I1RzFIN3YwUGNVSmcyeW9zNzBlWlFuOGZCUV9ucFRDbHNOR2FuSEF6Y1ZsbXY0Tmh1THhCdUFjYW9HN0xtYnRDbXQ4VTVSS0UwTk9uUGZVNlJDZEtBaWxuajVGa3R0b1NaeElZNV",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yN0I1RzFIN3YwUGNVSmcyeW9zNzBlWlFuOGZCUV9ucFRDbHNOR2FuSEF6Y1ZsbXY0Tmh1THhCdUFjYW9HN0xtYnRDbXQ4VTVSS0UwTk9uUGZVNlJDZEtBaWxuajVGa3R0b1NaeElZNVJ1ZVh0d3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-09-11-002",
+    "date": "2026-09-11",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UNDP Mobilizes $1.3 Billion in Aid for Ukraine, Supports Energy Recovery - Межа. Новини України.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TN1RUSG5lSXNTUlBsOTEycU5qakNQLUU4ZlB2MlhEX3R3NExfR3cyQmdxQ1pib1lwM0dWbXJETjhMMncxOFRjUHFmNWdYZUFEcEhNX25EQ3dJM3FfYTNldmFEeV9QcDA?oc=5\" targ",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TN1RUSG5lSXNTUlBsOTEycU5qakNQLUU4ZlB2MlhEX3R3NExfR3cyQmdxQ1pib1lwM0dWbXJETjhMMncxOFRjUHFmNWdYZUFEcEhNX25EQ3dJM3FfYTNldmFEeV9QcDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-09-11-003",
+    "date": "2026-09-11",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia stock holds near support as H1 2026 earnings show margin strength - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOXQ4QzVPb3c5MkJVbVczYnRPM2dZNzJCTk1wS2VYeTN3TjNyM0dsM29WU2Exb0d5Zlg4Nkw4WkhwcThudzBxa2FuTi0wUVRZUjlUM01VSEtPUnBkdHlqTXd1WURYbzB1RW51dldfaX",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOXQ4QzVPb3c5MkJVbVczYnRPM2dZNzJCTk1wS2VYeTN3TjNyM0dsM29WU2Exb0d5Zlg4Nkw4WkhwcThudzBxa2FuTi0wUVRZUjlUM01VSEtPUnBkdHlqTXd1WURYbzB1RW51dldfaXE2THZVYWExQjFfcWhvVG1uVlZaM3o0ZHJmQmdrUHVfTTRieXI3TFBGYUNXeFRLbEI0M0J5ZElHcWI0SVVRQ2FEdkpKd19CQTV3S2hINFhNY1BDZkZXcXdtTUlvZWxuYzY1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-11-004",
+    "date": "2026-09-11",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works stock gains after UBS lifts target - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPVVFtemI3TTU4Yk5tbFpvR0VjTFotdV9seUZkUUNNb1FocGdtRWo2dzBnb25kc2Z5UXYzZDY4aXpXWVdKYzltMk1NVjlOMGIyaWNGZzB1R01rVl9CU01zN2huOWxhSF96X0hKN3pkT2",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVVFtemI3TTU4Yk5tbFpvR0VjTFotdV9seUZkUUNNb1FocGdtRWo2dzBnb25kc2Z5UXYzZDY4aXpXWVdKYzltMk1NVjlOMGIyaWNGZzB1R01rVl9CU01zN2huOWxhSF96X0hKN3pkT2ZBbVJ2dFdzWFhVNXltUXdieVN2LTZLQXBLYXFET0M1T1RsVzFXQUYtRnI4My1NMHdaalFER3BiSlZIZVlxcUprcDhUZWd4VF9ENWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-11-005",
+    "date": "2026-09-11",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works stock heads into the open after a UBS target hike - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPVldTYnlaNlZNUlhDNFNaaEZnVmVNYmVqLTJpX2J6Z1E4OWNZTS1LMnUzNE1ZOVY1S1pWSFQyWWV0TkhHS3lXMndMWWhIcHg0NkdycDFoWTcwLXprUXI1cVFiRjdmRndjem50RlNjN2",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVldTYnlaNlZNUlhDNFNaaEZnVmVNYmVqLTJpX2J6Z1E4OWNZTS1LMnUzNE1ZOVY1S1pWSFQyWWV0TkhHS3lXMndMWWhIcHg0NkdycDFoWTcwLXprUXI1cVFiRjdmRndjem50RlNjN29QWVZHYk44VkVzeHl1YlNLRmNvbzh4RFNIalBrWVllbk9SRGhuTW9aZllZWlVSM1VYZTI4ckJxN0RDU1hpV2gzM2E5bTdhLXBKZkdVWTRCb0xBMWtadGxKSURWMWJMQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-09-10-001",
     "date": "2026-09-10",
     "companies": [
@@ -131,6 +231,192 @@
     ],
     "impact": "neutral",
     "title": "American Water Works stock heads into the open after a modest gain - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR3V1UXBPdjR6MDl1U0NISkt5YTJGSWtqVC14Z193VHFyQWVWdnFSQzZLTXQ2RjBNbzdoUWswLVZxa0NEdmJTbHAzUmI5WVc5NGdYME04OWh6MGdya1FkWmVLOWp5eWtqVDUzQ2NGNW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR3V1UXBPdjR6MDl1U0NISkt5YTJGSWtqVC14Z193VHFyQWVWdnFSQzZLTXQ2RjBNbzdoUWswLVZxa0NEdmJTbHAzUmI5WVc5NGdYME04OWh6MGdya1FkWmVLOWp5eWtqVDUzQ2NGNW0zSmZ0OGpIUU9YbjBIeGs3RF9PdDJ1VVJiNVdPMWxFeXRLZW1Ya1VrQmJuRWV1VHBYWDlkUVNFMFRXYnFCM0JkTWkydVFyRFZfN05Yck9XT2VBMDE5cUJIMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-09-10-008",
+    "date": "2026-09-10",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "wastewater_treatment",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New anaerobic reactor co-digests biomanufacturing waste and wastewater for energy recovery - Tech Xplore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONGtoUmh4ZUJmQ3BkdWtISmZ6bUFRaTRCcG52VUNZNko3aTg1eTQwX3dycXBjZ0JLdmN0WWtiSFNRc2g0UWhIS05pZWNTa3JiMjVSeGdtTG1IN0dncEhPNktXU3U2OEtYZ1g3SFlaVD",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONGtoUmh4ZUJmQ3BkdWtISmZ6bUFRaTRCcG52VUNZNko3aTg1eTQwX3dycXBjZ0JLdmN0WWtiSFNRc2g0UWhIS05pZWNTa3JiMjVSeGdtTG1IN0dncEhPNktXU3U2OEtYZ1g3SFlaVDJwT0xPTTF6aVhrY1dNSjhrZ0FIX1pydmd5czhmc28xaG91YWhUV2E3UjN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-09-10-009",
+    "date": "2026-09-10",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries (TSE:6370) Pulls Back As Fair Value Questions Come Into Focus - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc2tuZU1wMmpESTFKUE5aU3oxZVNZa3dFaC1JSWh2ZmlydTg0cDJ2MUlEbTVsdXhXc1llTjR2NDR6eHRpZThwYnFhSkFvcW9ob2RtRlpFZ1U4cWhYdVdMbkx0WkJUeWpCR0VaYUsyRF",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc2tuZU1wMmpESTFKUE5aU3oxZVNZa3dFaC1JSWh2ZmlydTg0cDJ2MUlEbTVsdXhXc1llTjR2NDR6eHRpZThwYnFhSkFvcW9ob2RtRlpFZ1U4cWhYdVdMbkx0WkJUeWpCR0VaYUsyRFVIbTdFM2JWdmI2em5TWEZ1RTRka2QwRkhkNW5SdmdsQS12QzJjX0FFSDFPazB3TV9JNjFFQlpIN09QdXlmVDlwNFNSNGRXMXd6RmdmSXJMTkxrZzZHOXdqTVIza2kxM2VDWFdvOFRJaDU5U3dBOEMxWUtxa2drQdIB6wFBVV95cUxOSl9kdWx4eHZqQk5ITFluaG9XdXNOY2ViS3pjZHRyRWJKX0tMVml0SU1Nc2ZRQW5FNUhJNFNyVERMYnBON2dPU2QwekxZUnR5cWp3U254QzJUdDNXd3l1UzYzbTdQdF80YUl0cHR0cGwtQjY0ajdtUU5ieV9pbENhOEZTbXRjejYtMTBqLUFhWEtRdzNFRWNGQVJhUXlxb3cwbUg4SkFCVDlNVXI3RkUwcW94ZGNIZERXVFk1SmJrQXY1Z19tSDJXaVUzYXpTNDI4S1owejFjOHV4aXFQTzBOUFVzdmY0aWYzMndv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-09-10-010",
+    "date": "2026-09-10",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS Adjusts Price Target on Essential Utilities to $49 From $48, Keeps Buy Rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOcUUtYnpNWXROWUJDVllRNlJhZEp3amlGQVNSb0k2X2lfOWRqSHlPbHBORzVmaGhhSmVtSU1HczN6WU40WEs0dV9WLTZWOV9aWndiOFFKZ3NSTWhhSDhTdnYtQlh6T1NJSmtidDdkdX",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcUUtYnpNWXROWUJDVllRNlJhZEp3amlGQVNSb0k2X2lfOWRqSHlPbHBORzVmaGhhSmVtSU1HczN6WU40WEs0dV9WLTZWOV9aWndiOFFKZ3NSTWhhSDhTdnYtQlh6T1NJSmtidDdkdXEtUEM5R05Cb3FmNWc4bTZnR0JaYW8wRF9STWVEYllVZ1dWeWYyV1kzd0cwX0dWd0hNT1pJSnBmZDZoVUZocG1MZVd2cUZjTHQ4ekZDMkVxTXR3RUxUM0VOQlFVQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-10-011",
+    "date": "2026-09-10",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Can Approved Rate Hikes Drive American Water Works' Long-Term Growth? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxON2NxZUFZOEJCNy1xU0RocThmSHdxS1Btem4tSzB4eExNNmREV2llSnpaUlQ0RzhjOFNGVjEyTVYyekdqN19XZnpETGZpbi1pNi1OS1RFOThPQzF1Q0c0Q180bEFacHg2ODU4d1cxbH",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON2NxZUFZOEJCNy1xU0RocThmSHdxS1Btem4tSzB4eExNNmREV2llSnpaUlQ0RzhjOFNGVjEyTVYyekdqN19XZnpETGZpbi1pNi1OS1RFOThPQzF1Q0c0Q180bEFacHg2ODU4d1cxbHBYa2ExVGswRnVOcUgzUzhRVXBfVHVHTWZvbE1XR2Z6Tjh2ZGwzenhkUkFBYkUtdDJjS2lNVHF6bUtibEtNT3dMejFYMTlqUS1HdzRJM2xkWm4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-09-10-012",
+    "date": "2026-09-10",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS raises Essential Utilities stock price target on merger ratio By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOajFzakZRYTlKc1NBNVdlMHo4WmJESU8xSmxMRjc1dEhEM2Ftczd6UmVGLWE5eUtreGM1enVEdlhhc2Z3VVhHTjFlc1U0RV96YkJUbFRVVVB2elF6VlJYck1PWUVMNjI1QWlzVmpRdG",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOajFzakZRYTlKc1NBNVdlMHo4WmJESU8xSmxMRjc1dEhEM2Ftczd6UmVGLWE5eUtreGM1enVEdlhhc2Z3VVhHTjFlc1U0RV96YkJUbFRVVVB2elF6VlJYck1PWUVMNjI1QWlzVmpRdGE3RlFDcTJ5dmJnUEhSWUlib0hTcmJHZ2RJRERWY1BGLWVmUWI3RWtCY2xWdllTSnZUV05ldDJ6cF9EMUgwVUxHMEphREQ0M0ZidEsxcFQxNlFhMVZm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-10-013",
+    "date": "2026-09-10",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Can Approved Rate Hikes Drive American Water Works' Long-Term Growth? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNcTFxYkl1S1BMR0wzS0hUYUxPS0FmbWN1VklYeUJvazNiallZMWg3ZDRiRE81MXlLTk9ubEl2WlZ6SHc3UVp1NUZOcEM2RVhHZEkzdEIteFZlNXdhdGxZMFVRbVNMNVA5QVZUWTMyST",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcTFxYkl1S1BMR0wzS0hUYUxPS0FmbWN1VklYeUJvazNiallZMWg3ZDRiRE81MXlLTk9ubEl2WlZ6SHc3UVp1NUZOcEM2RVhHZEkzdEIteFZlNXdhdGxZMFVRbVNMNVA5QVZUWTMySTF1aUd6YnFVQ19XaUJLQ3d5ZUtWSEVXR3owMDRJNTFVaGE5a3FISlk2eEt4UW1od0Jp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-10-014",
+    "date": "2026-09-10",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Sees Declining Regulatory Risk as Merger Advances, UBS Says - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOQTlDRmpOcGlNSFYwUnFfUWtkWEZSeDN6NDhUSkY0OGtUb08wWHNHNUU1bVk2a09pS1oyNGZ2ZW1PS0dUcDQyN204dGRmR1hxcXdQYy10R1J2LUFNakVWVEtvYWZiRFc2dzB1bDloZ3",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQTlDRmpOcGlNSFYwUnFfUWtkWEZSeDN6NDhUSkY0OGtUb08wWHNHNUU1bVk2a09pS1oyNGZ2ZW1PS0dUcDQyN204dGRmR1hxcXdQYy10R1J2LUFNakVWVEtvYWZiRFc2dzB1bDloZ3ZyVVpXbVJlVFpEX1dTcWw3X2VwdGRuR0piSTdleXROMUJGSWM5eExDXzQzekhBbW9mVEN2Nm5FQ0JnOVNmUXZOV3hJZnBRSnpNWVFaaTgtMEw0aWFQY05pVm1Ra3M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-015",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "smart_water",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS raises American Water stock price target on valuation update - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZDZ5SXhRRVpKWHA2NDhOX2RtSTEyZm5vYjVMaTRNaW9pOHlfRVRfY2hlTGhYMERTVXU2X3dnSjRjdlhaeVFXZkZ2bnp4azJsMXdpaWs2Mm1GaXFyUVh6SVpOd0Z1ejFTeHo1amIzMW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZDZ5SXhRRVpKWHA2NDhOX2RtSTEyZm5vYjVMaTRNaW9pOHlfRVRfY2hlTGhYMERTVXU2X3dnSjRjdlhaeVFXZkZ2bnp4azJsMXdpaWs2Mm1GaXFyUVh6SVpOd0Z1ejFTeHo1amIzMWpTYlVSdkdRb1hkNVlHby1zbEZqMUtNUEozclZaMWFKaUJaS0xGRTdKUE5aaEpmVW9WeWV6cHhaQ1NKaWFnNmlFbGhBaUVNUWFzaFh4M3FjYnJodw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-10-016",
+    "date": "2026-09-10",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works stock heads into the open after a modest gain - ad-hoc-news.de",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR3V1UXBPdjR6MDl1U0NISkt5YTJGSWtqVC14Z193VHFyQWVWdnFSQzZLTXQ2RjBNbzdoUWswLVZxa0NEdmJTbHAzUmI5WVc5NGdYME04OWh6MGdya1FkWmVLOWp5eWtqVDUzQ2NGNW",
     "sources": [
       {
@@ -404,6 +690,103 @@
     ]
   },
   {
+    "id": "energy_recovery-2026-09-09-014",
+    "date": "2026-09-09",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "MOL: Strong H1 growth with margin expansion; Q3 outlook positive but energy recovery remains uncertain - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxOd0pRN2RPX21RdDkxSmdKT1NFbzdLd0pFa3pBS0tFa3g4TWZtcXAzb0F6bTI5UGowOE9DQ3JqTThPZmp4NXR0aEtxMldMUDZLeHBERnFkWW1RRlViZWxFS1JlWmtQLU00MEloTUVPUl",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOd0pRN2RPX21RdDkxSmdKT1NFbzdLd0pFa3pBS0tFa3g4TWZtcXAzb0F6bTI5UGowOE9DQ3JqTThPZmp4NXR0aEtxMldMUDZLeHBERnFkWW1RRlViZWxFS1JlWmtQLU00MEloTUVPUlFSOUJFR3B5aUp3dHVBTlZqNG5INzduZXc4dkJTeU5NYUpzcmVBUzNCMVg0SUdUcXMtRGhKd0ZhSEF4UkNIM1BjXzZhb002R2dyX3RQSFJvZFBlTkItVTkycWpjTXI1WE9UbE5NU1JNcWp4b0VVTTdfSk9NV3VfSnBQVk11aW1Lb1VaUkY5ZkM4Z0VUSUo1LUdsODk0RnJLZFNsb29mSmxtbHBmQm85UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-09-09-015",
+    "date": "2026-09-09",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "A.O. Smith stock heads into the open after a modest September 8 decline - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOWk9fZkxSZnVBX290NkxCREtjVWN5bmI1Q1dNcE5oemJRVTJJMVUtNlhmQUlsM3padDFZdFBQOFg3b00zbVVHd29RZUQzaXNvMkFkSFNWYkdQbjFiTkZjYjNWbHpLdjVpbTQ1a0JOTV",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWk9fZkxSZnVBX290NkxCREtjVWN5bmI1Q1dNcE5oemJRVTJJMVUtNlhmQUlsM3padDFZdFBQOFg3b00zbVVHd29RZUQzaXNvMkFkSFNWYkdQbjFiTkZjYjNWbHpLdjVpbTQ1a0JOTV96bEFiX0ZmbGpVdWljVFhBMTZnRmN2RWhVX0c1T3hlUGxaSHVUdFc2TlJUMzZ3NzJfN2prQTVJeFM4azI1TFhnSmdGbVhzbDBXS3RPaUdxWHBfRk1nY2JtUlVUWmtuUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-016",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Water rates rise Sept. 15; eligible customers get a $9.88 monthly credit - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjhjOWE5RW9DbFZUVWxvdWs3UU84SElaaDFKNGpERW41ZmVPWUNrV2NueHNXT0M1ZDFMc3Q0XzMtNGduU2NvRUhQdTZEYkRwSGZJd1ZFSE9LcFZKeG4wT0hRbEp4MEZsMndXSC1UbU",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjhjOWE5RW9DbFZUVWxvdWs3UU84SElaaDFKNGpERW41ZmVPWUNrV2NueHNXT0M1ZDFMc3Q0XzMtNGduU2NvRUhQdTZEYkRwSGZJd1ZFSE9LcFZKeG4wT0hRbEp4MEZsMndXSC1UbUFmaTdKNGFZYmNuUWZQODZRSmRTQzU1YWhJQlh1RVlYNG00N1BmRnpZZ3FoZWZ6NUh6cldFSGRPbmRWV2lYQjZfN0VnU0s5RnBj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-017",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "600 feet of aging water pipe will be replaced in Bluefield - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQNENEZU9KWmFGWHNMbUtPWGdWaUNFWmRBd3RQVENDeEswTnRaVkhSTGVYR1EtcHo4S1hGREZUWklOREltUzFXcDZuTFlhLW1tcEdsUllWRUl2T1h2c1NuRmJ3LUxWM1FLY0pWdGxuMj",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNENEZU9KWmFGWHNMbUtPWGdWaUNFWmRBd3RQVENDeEswTnRaVkhSTGVYR1EtcHo4S1hGREZUWklOREltUzFXcDZuTFlhLW1tcEdsUllWRUl2T1h2c1NuRmJ3LUxWM1FLY0pWdGxuMjFBQTk4dER6Qlk5RDlXcFJiRWR1Z0lyZTFVVHhEQkpTRXAxZ3YxT3FyM1V5Z0NJSC1yd2IzY1Eyc0xIczhteTItMDRRbEQ3bWpMaWxsYlVB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-018",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Jersey American Water Announces New Rates and Customer Bill Credit - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNci16UXdtdzRoYm1KWXVxSjlNV3VoTGpyVV9uOXJmcS1aVE95SHhLSWd1dUJoVTMwek45WW43WmZMUjFGTFlxV0VJdHotWVRIUVZsRGJ3OHcwaTdKXzhHX1hHOGEwcDBtQnFpQkVjel",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNci16UXdtdzRoYm1KWXVxSjlNV3VoTGpyVV9uOXJmcS1aVE95SHhLSWd1dUJoVTMwek45WW43WmZMUjFGTFlxV0VJdHotWVRIUVZsRGJ3OHcwaTdKXzhHX1hHOGEwcDBtQnFpQkVjeldrUU5NOXBoZmNzRzFnOVQ3U1BaRVB3UThLQ3cyTEs4SXRHLVhEX01IamNTLXNhdkRlUXlhdVZRSUxmWEFYc0NnMHExT01uWTFVdTJNT3RQTGZjUHJC?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-09-08-001",
     "date": "2026-09-08",
     "companies": [
@@ -636,6 +1019,27 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRkZJN2ZaRm1IeXloWGo5QzBacTd2TkxzNmQ2Z1lQQkY3THpSZ0Q0ekI2Ykp5VlJvRjI0YWJ0ZkVRWWRDYjBrMTFNeHU2MXVPOXVPbTJKSlYwcE5nMVcxYnJMRkhsaHRERTdYTWZZWElNWE9pLThwSkF0MU1uc18xMHVFQXBCdVpqYzhEUTVfYXBnaXl0NkZaZlVudEpwMjJiWmNDNEF2eHA1LXp0NE1RRFBVNXVTMlZ0LVpBeA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-09-08-013",
+    "date": "2026-09-08",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products (NYSE:MWA): What’s Driving the Buzz? - kalkinemedia.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHB6Z19rdTE5Q3BKV3RVblJ6ZTVTRzRkYkpNT202N0M5Sk1kcFlubGQzT0hsTUh1QzI3ZWJVTkRNdHVmazFUTTRWUlUzbXdHWVVwc0taclMyd1I4WWpxSmJ0cHQwd2pKRGlqNGJBMW",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHB6Z19rdTE5Q3BKV3RVblJ6ZTVTRzRkYkpNT202N0M5Sk1kcFlubGQzT0hsTUh1QzI3ZWJVTkRNdHVmazFUTTRWUlUzbXdHWVVwc0taclMyd1I4WWpxSmJ0cHQwd2pKRGlqNGJBMW1aMjFfNEhraklvN2w0bG9FRWVJTVA0VUZ5Mk9nR3pTNjh5dlpFU3JJc3ptdHZ3R2NS?oc=5",
         "type": "rss"
       }
     ]
@@ -1122,6 +1526,27 @@
       {
         "name": "energy_recovery",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNkM3TzF0XzNBaFFFMjJpRzM2czByUkFSak82dTA1ZXA2S0tWbmI5QnlBNmtuUHhWT3FFM2VjYzlrZDZLb1Q1eGVHbU9BZ2laWURyQm9RN0E5S1dEWm5ialo0WTV6ajlHM2JzcjhqZUJENnVjakthRFpLQ1g0S0xOSnVfd0FfX2s3bXZ6NUFjeVhNUHJfWWMxbHRzUWZQc3BPRnZvSUswdWFFLVVXNERDVW9ySVRRSkc1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-09-04-013",
+    "date": "2026-09-04",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "wastewater_treatment",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita stock holds steady as latest results show resilient water treatment demand - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQamx2ZDVhU0RsY2NXQmlaNWZRSDBXVjBET1Q0TVR3VGh0c2F6OEx2S0RJYVhFWmx5bEY4QTd1UXpfV3pvdGlFc3ZybGJ6dDJOWXZLeF9LcnEwWjBZTFJZeHZKWTlWR3JRQ0RHWlVNcD",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQamx2ZDVhU0RsY2NXQmlaNWZRSDBXVjBET1Q0TVR3VGh0c2F6OEx2S0RJYVhFWmx5bEY4QTd1UXpfV3pvdGlFc3ZybGJ6dDJOWXZLeF9LcnEwWjBZTFJZeHZKWTlWR3JRQ0RHWlVNcDBDNks3dlluSDRhWWJCdTJUdlJYMGV1LVp6SUN1a1ZPN2d6UjdYZGhDcVdCWXFPTV9RNVhHTXgzWkZSWVJnMUVjVk1KTGc3clQxLXpObWVybGNQU3E3TGR5TDlZVWt1UQ?oc=5",
         "type": "rss"
       }
     ]
