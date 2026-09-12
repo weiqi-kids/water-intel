@@ -1,0 +1,13 @@
+{
+  "total_raw": 241,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 3,
+  "gate2_fail": 2,
+  "passed": 19,
+  "gate2_samples": [
+    "Veolia Environnement: A medium term support level to take advantage of - marketscreener.com",
+    "A.O. Smith Corp. stock underperforms Tuesday when compared to competitors - MarketWatch"
+  ]
+}
