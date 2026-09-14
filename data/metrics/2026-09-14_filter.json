@@ -1,0 +1,15 @@
+{
+  "total_raw": 242,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 0,
+  "gate2_fail": 4,
+  "passed": 16,
+  "gate2_samples": [
+    "Seaport Global Downgrades Energy Recovery to Neutral From Buy - marketscreener.com",
+    "Seaport downgrades Energy Recovery stock rating on Middle East risks By Investing.com - Investing.co",
+    "Veolia Environnement: A medium term support level to take advantage of - marketscreener.com",
+    "A.O. Smith Corp. stock underperforms Tuesday when compared to competitors - MarketWatch"
+  ]
+}
