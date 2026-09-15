@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T13:23:06.035390Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-09-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mueller Water Products (MWA) Stock Dropped, What Is Drawing Fresh Attention? - simplywall.st",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb1VtTHJCNkN5WDlGYTJKSTBvZ1JTaHhZSThDelVUdzdfNkpHX19kS20wQURSdjNub0pPbkw5UklpZmZpNG1OdHFjemRjS1FNdTlHejFoeEpURlQ4OXVrUnAzZGpaSldXRmtJdVdnYVduZlBmUTdQUTJwUUh6d2FUWHFkc2pxNXhJOWZGbWQwRTJtQ2JwSkhaa0FoeWlEZW43TG1VUFVvSWpRRFprY3RmeDV0cWZHZ2FxVjVJTTZkcnlvMDJBYjhMcmN0aEZKbUM3V1VwMlFVV2kzYzjSAeABQVVfeXFMTVRyd1AxVGpfS0ltVndBSUkxdHF1dF9WSmctUHA5T1dZWVZob0pvY2Y1UlAyQ2hQZXJJOWNFaE1TOV9ad0UzeUpPOFdlR1k3WmRjOXBhY3lBOHBiejBqTHRRckZvdW1lTnF1ZENfV0p0M1o0aGRPaENrVmstbGdGT0xEam1jMkNiZ0FkdVFYc0p5MEZtdXhpRm5SMUE1U1hGWUl0Vmh5bUp3Z1d3TzJ4UElSUU92bDB6ZzRSazlidmlvNkVXR1lFV3lNVVR2NDZxc2JEQXNmNnNzNzJSUTNELWI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Residents ask for grocery, recreation at polluted Century City site. Here is what's more likely. - The Business Journals",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV2Y0Y1dHbDdEbkdHQ1dlWV9rWHg2RHN1OER4WDltZzZYa1VWTS0wUFJTZHVnZncwY2h1bU5hTTdaaFE2S1BMbDZkbW1iaXdqOU1CSTdyenJJQlpCZnJDQ2JyLXcyN3hwVmRjTFYyUHJfa2VpdTRFcUNYNFpWbzBxbnN3Wm5vcUxXaFBtQzlYLU5RV0Mz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_water-2026-09-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Water Works stock heads into the open after a 0.8% dip - ad-hoc-news.de",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSDZuZ1FxX2xiMEdiWENKT2M0S3NHS01FRmktRGw2MXM5d2VBUlJQZlJBNmRhRGptcGV1YmlnNF9YV1lYdjB3RTJSSDBRWmVFbnl0R2ptRkpSTC16aEE5WWEwMjFEbDNtVDRmMHB3TjB5OXZFcTRHQTBOblltZ3lVUWVKd0EwYUhPNjdFTGFKXzM0cVBRd0ZHeXR5WUNRdWtEN0MzOW5FUDEtbVlURjFVMmhlTjhhRVh3cm1UUmJiS3FCYW1UV0NRaFczaW5FUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 1
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 242,
+    "dup_title": 132,
+    "too_old": 93,
+    "gate1_blocked": 1,
+    "gate2_blocked": 7,
+    "passed": 9,
+    "pass_rate": "8.2%",
+    "gate2_block_rate": "6.4%",
+    "gate2_samples": [
+      "Energy Recovery cut at Seaport, reflecting significant exposure to Middle East turmoil (ERII:NASDAQ)",
+      "Energy Recovery Shares Fall After Seaport Global Downgrade - marketscreener.com",
+      "California Waste Solutions Plans New Renewable Energy Facility To Help Vietnam Achieve National Net ",
+      "Veolia Environnement: A medium term support level to take advantage of - marketscreener.com",
+      "Veolia stock heads into the open after a 0.89 percent drop. - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為穆勒、美國水務相關動態：「Mueller Water Products (MWA) Stock Dropped, What Is Drawi...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mueller Water Products (MWA) Stock Dropped, What Is Drawing Fresh Attention? ...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Residents ask for grocery, recreation at polluted Century City site. Here is ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
