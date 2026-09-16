@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-16",
+  "total_events": 8,
+  "by_company": {
+    "veolia": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "ao_smith": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "american_water": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.25
+    },
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

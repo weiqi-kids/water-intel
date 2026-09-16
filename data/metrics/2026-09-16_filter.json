@@ -1,0 +1,16 @@
+{
+  "total_raw": 242,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 1,
+  "gate2_fail": 6,
+  "passed": 19,
+  "gate2_samples": [
+    "Energy Recovery cut at Seaport, reflecting significant exposure to Middle East turmoil (ERII:NASDAQ)",
+    "Energy Recovery Shares Fall After Seaport Global Downgrade - marketscreener.com",
+    "Veolia stock gains on record employee share plan participation - ad-hoc-news.de",
+    "Veolia Environnement: A medium term support level to take advantage of - marketscreener.com",
+    "A. O. Smith (AOS) Stock May Be 33% Undervalued On Cash Flow - simplywall.st"
+  ]
+}

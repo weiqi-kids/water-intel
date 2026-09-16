@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-15T13:23:02",
+  "updated_at": "2026-09-16T13:22:10",
   "etfs": {
     "SMH": {
       "name": "VanEck Semiconductor ETF",
-      "latest_price": 541.5,
-      "daily_change_pct": -4.75,
-      "flow_5d": -279423458,
-      "flow_20d": -542264945,
+      "latest_price": 542.11,
+      "daily_change_pct": 0.11,
+      "flow_5d": -331472117,
+      "flow_20d": -586663713,
       "flow_trend": "outflow",
       "daily_flow": [
-        {
-          "date": "2026-08-03",
-          "flow": 35909134,
-          "volume": 7283800,
-          "change_pct": 0.91
-        },
         {
           "date": "2026-08-04",
           "flow": 289377550,
@@ -188,26 +182,26 @@
           "flow": -287272137,
           "volume": 10627900,
           "change_pct": -4.75
+        },
+        {
+          "date": "2026-09-15",
+          "flow": 3729357,
+          "volume": 6113700,
+          "change_pct": 0.11
         }
       ]
     },
     "SOXX": {
       "name": "iShares Semiconductor ETF",
-      "latest_price": 497.4,
-      "daily_change_pct": -5.63,
-      "flow_5d": -277478435,
-      "flow_20d": -601182801,
+      "latest_price": 498.85,
+      "daily_change_pct": 0.36,
+      "flow_5d": -342519091,
+      "flow_20d": -640568426,
       "flow_trend": "outflow",
       "daily_flow": [
         {
-          "date": "2026-08-03",
-          "flow": 28742580,
-          "volume": 10302000,
-          "change_pct": 0.55
-        },
-        {
           "date": "2026-08-04",
-          "flow": 376328658,
+          "flow": 376110686,
           "volume": 10898600,
           "change_pct": 6.8
         },
@@ -233,7 +227,7 @@
           "date": "2026-08-10",
           "flow": -121637380,
           "volume": 8763500,
-          "change_pct": -2.55
+          "change_pct": -2.56
         },
         {
           "date": "2026-08-11",
@@ -243,7 +237,7 @@
         },
         {
           "date": "2026-08-12",
-          "flow": 95849876,
+          "flow": 95772640,
           "volume": 7723600,
           "change_pct": 2.32
         },
@@ -261,19 +255,19 @@
         },
         {
           "date": "2026-08-17",
-          "flow": 49981500,
+          "flow": 49924050,
           "volume": 5745000,
           "change_pct": 1.58
         },
         {
           "date": "2026-08-18",
-          "flow": -277130847,
+          "flow": -276930969,
           "volume": 9993900,
           "change_pct": -4.96
         },
         {
           "date": "2026-08-19",
-          "flow": -98609736,
+          "flow": -98525598,
           "volume": 8413800,
           "change_pct": -2.21
         },
@@ -291,13 +285,13 @@
         },
         {
           "date": "2026-08-24",
-          "flow": -108582682,
+          "flow": -108504396,
           "volume": 7828600,
           "change_pct": -2.67
         },
         {
           "date": "2026-08-25",
-          "flow": 50793692,
+          "flow": 50729233,
           "volume": 6445900,
           "change_pct": 1.56
         },
@@ -315,7 +309,7 @@
         },
         {
           "date": "2026-08-28",
-          "flow": -142355485,
+          "flow": -142270800,
           "volume": 8468500,
           "change_pct": -3.2
         },
@@ -345,13 +339,13 @@
         },
         {
           "date": "2026-09-04",
-          "flow": 163072440,
+          "flow": 162980100,
           "volume": 9234000,
           "change_pct": 3.52
         },
         {
           "date": "2026-09-08",
-          "flow": 75434674,
+          "flow": 75346343,
           "volume": 8833100,
           "change_pct": 1.64
         },
@@ -363,7 +357,7 @@
         },
         {
           "date": "2026-09-10",
-          "flow": -96915269,
+          "flow": -96848752,
           "volume": 6651700,
           "change_pct": -2.74
         },
@@ -375,26 +369,26 @@
         },
         {
           "date": "2026-09-14",
-          "flow": -333728160,
-          "volume": 11248000,
+          "flow": -334022075,
+          "volume": 11265500,
           "change_pct": -5.63
+        },
+        {
+          "date": "2026-09-15",
+          "flow": 10621416,
+          "volume": 6000800,
+          "change_pct": 0.36
         }
       ]
     },
     "SOXQ": {
       "name": "Invesco PHLX Semiconductor ETF",
-      "latest_price": 87.67,
-      "daily_change_pct": -5.83,
-      "flow_5d": -12250299,
-      "flow_20d": -29419169,
+      "latest_price": 88.0,
+      "daily_change_pct": 0.38,
+      "flow_5d": -13060575,
+      "flow_20d": -29977637,
       "flow_trend": "outflow",
       "daily_flow": [
-        {
-          "date": "2026-08-03",
-          "flow": 2350017,
-          "volume": 2526900,
-          "change_pct": 1.04
-        },
         {
           "date": "2026-08-04",
           "flow": 11257260,
@@ -568,6 +562,12 @@
           "flow": -13257345,
           "volume": 2441500,
           "change_pct": -5.83
+        },
+        {
+          "date": "2026-09-15",
+          "flow": 755964,
+          "volume": 2290800,
+          "change_pct": 0.38
         }
       ]
     }
