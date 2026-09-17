@@ -1,0 +1,234 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T13:17:41.764468Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-09-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zacks.com featured highlights DiamondRock, Vertiv, Mueller Water Products and Phibro - Yahoo Finance Singapore",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZldpNDdGVmIyRW5DTm5OOGl2YXd5cDl5V2syQVN6dFhJUXZvaFpJLXJ6bElsTEtaU29EcmJXa1V5MUVCRl8zS18tQ181ZE5rcWVHTXh4Z1p4cE1OTlZTMmJUVXhuY0Z0bWQwR3pTV3FOczg0Ym85dUY1Z1UteUpObTdWd0taMnlJMTlwWmdZVEMxdExV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Desalination Is Closing the Gap Between Water and Energy - Environment+Energy Leader",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "desalination",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSnZOUFFrTmNMTU1TZDN1Y2tXVk9XTTVHdHNKc0RqMENRNWJEVDRfTThkNXE3R0tOVDNKM09GN18yYldSMm9rdjJTMk1TMWszZWticDRnRmFZODZnRG1GbnU1SFRfVk1pTjd1YWJfRzFjeDZ4OUctc1NpWmlxZ2dCYlIxQlRjUWcyazdsMHY0em11MlR5Wi1qRWM5OGlOOHdVMDBNUHVYaTNmMXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "essential-2026-09-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Essential Utilities (NYSE:WTRG) Technical Breakout Setup Shows Strong Trend and Entry - ChartMill",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRUpyV2FUdmk3cGRqbnhpQWhaTmNXYUpUcjBBVmprbzg3NjFkekx1eXprOXdrZTdOSVlYd2ZwWVF1bnhveUZFX1NVSXBUSDFUUTZ3bmNfS2tvc1B5aEFaOHNQZFI0MUdMLXBVY3d5aHY2R1ZqblZBUEZoUVZTZThIV0k2bE5Id0Y4d1AzX0pDQWR3eUZ1dThWRnk2N0pOc1A2WlVfV2Q0TEpVZXh3NU9kS0JrVEhrcWdpV2ZwNjRVS29xMEFDVlIzU3JGaExHRm8?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "essential-2026-09-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Essential Utilities: The Buy Window Is Closed Now (Rating Downgrade) (NYSE:WTRG) - Seeking Alpha",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0t1VHhXdGFEYnRYa0JYakpUakJIMFRaZ0g1cmFwanVKRGhra0lzZ0dQaHcxaWU2RXNnS01yTEZkeVB2WTgtQWpWQi1MaW41X2x0QkRFZVNPTjBtczBCVkl2OHBWbXNkclREbE1XWnhVb3BUbXY0cjBjUktMX3ZoZm5xWjhRNHktZEZabHV3WEJZSGdvalFWUlU3UmZvZW5k?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_water-2026-09-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Does American Water Works Company (AWK) Gain From Its Digital Push And Training Hub? - Yahoo Finance",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGp1cTVHM2M3TFdyVk9naldTUVZKeFlQNEUxNEgwWHVsX2FpdkFUZG9LdG5tNDZNb3F3RE1hcUhveHpTd1BXdkhtMDREMGRVSGtvTmhuMWl2Rll4aTZaRlh1ck5zNmtrTkg2V0pINDZIWHlseGF6MFFtekkzbHYwQlFIOXRpNXB6MnFhUG1PenI2dEdKUmJRM3dfdGRtMWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "desalination": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "regulation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "essential",
+        "count": 2
+      },
+      {
+        "id": "mueller",
+        "count": 1
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "desalination",
+        "count": 1
+      },
+      {
+        "id": "regulation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 242,
+    "dup_title": 139,
+    "too_old": 77,
+    "gate1_blocked": 0,
+    "gate2_blocked": 5,
+    "passed": 21,
+    "pass_rate": "20.4%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Energy Recovery cut at Seaport, reflecting significant exposure to Middle East turmoil (ERII:NASDAQ)",
+      "Energy Recovery Shares Fall After Seaport Global Downgrade - marketscreener.com",
+      "Veolia Environnement: A medium term support level to take advantage of - marketscreener.com",
+      "A. O. Smith (AOS) Stock May Be 33% Undervalued On Cash Flow - simplywall.st",
+      "A.O. Smith stock heads into the open after a 1.4% gain - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為必要公用、穆勒、美國水務相關動態：「Zacks.com featured highlights DiamondRock, Vertiv, Muelle...」。主要關注主題為水資源產業通用、財報、海水淡化，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Zacks.com featured highlights DiamondRock, Vertiv, Mueller Water Products and...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Desalination Is Closing the Gap Between Water and Energy - Environment+Energy...（海水淡化、水資源產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
