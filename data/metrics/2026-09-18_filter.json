@@ -1,0 +1,16 @@
+{
+  "total_raw": 241,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 3,
+  "gate2_fail": 5,
+  "passed": 33,
+  "gate2_samples": [
+    "Shanghai Tongjie as a Global Leading Containerized Mobile Emergency SWRO System from China: Energy R",
+    "Energy Recovery cut at Seaport, reflecting significant exposure to Middle East turmoil (ERII:NASDAQ)",
+    "Energy Recovery Shares Fall After Seaport Global Downgrade - marketscreener.com",
+    "A. O. Smith (AOS) Stock May Be 33% Undervalued On Cash Flow - simplywall.st",
+    "A.O. Smith stock heads into the open after a 1.4% gain - ad-hoc-news.de"
+  ]
+}
