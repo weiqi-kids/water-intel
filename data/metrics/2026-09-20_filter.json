@@ -1,0 +1,16 @@
+{
+  "total_raw": 241,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 1,
+  "gate2_fail": 5,
+  "passed": 19,
+  "gate2_samples": [
+    "Performance evaluation of beam breakup instability analysis of energy recovery linac using physics-i",
+    "Energy Recovery cut at Seaport, reflecting significant exposure to Middle East turmoil (ERII:NASDAQ)",
+    "Shanghai Tongjie as a Global Leading Containerized Mobile Emergency SWRO System from China: Energy R",
+    "Energy Recovery Shares Fall After Seaport Global Downgrade - marketscreener.com",
+    "A. O. Smith (AOS) Stock May Be 33% Undervalued On Cash Flow - simplywall.st"
+  ]
+}

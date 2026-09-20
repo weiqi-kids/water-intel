@@ -1,0 +1,158 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T12:59:36.346069Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A. O. Smith stock edges higher as ex-dividend date approaches - ad-hoc-news.de",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjBqakxKZFVOTDQyX1ZHcGo1NGt5b1NURTBuSkdmR295TUJPZHF6cmw1Vk90b0Z0bk5IeUNxOHExZjk4dWlPcTRmak15dmY4Yjlhbmk1cE9uVHRqRmZLc05UTGJVNUNONzYwdlpZQ25wN3ZzQmU0alJmdkJnWHhyMFRkbWNxTHh4TExGaWNBc192SjNXUFBjQ29FQm1YMjZlRFhINTBreU5HMGVLd0lzdE5xenZOSG0tdlE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "kurita-2026-09-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Kurita Water Industries (TSE:6370) Slides Over 20% In 3 Months, Is It Still Cheap? - Yahoo Finance",
+      "companies": [
+        "kurita"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdnByTTY2RGNjXy10N05LNUhTb3pmTm9ZVHNxdHRzVnotQ3hwSng0R0tkelZ0UGdPV29jMFRCUnN1SWViUi1mblpIbFRKSkRkNVVicUI1UVJNbWdBOTF2c0dWSGlHZHBQMnBSVjJGd0prYUk4RHdlUjVMaU56djMzbjdYUXVyZ1JFVDkwTTB3QVVFSUNJYzcwUTRmOXdmZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "kurita-2026-09-20-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Kurita Water Industries (TSE:6370) Fairly Valued After Its Recent Pullback? - simplywall.st",
+      "companies": [
+        "kurita"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPclVWRWJDT3JkeVk1V29LaXl5Z3pZYlJFZlplTVg0VnVtWXhaVzFDUFZYa0pObTF3Zmh1b2E4T3pFbGdGcmxzRk5zY1U1bzJJYjlfaUh4R0stMDFSdFJKOGdBbzNMU0RsRVBJRHNNQmhsSHlhZTg5UTlEYUdtT09WZmtVOWVaWERyQVpuU0lOVzAyOGpYVjNTSHVwTWJ5OEtLeUhERjk1UXhIUTZwV0s1Mi1pSmJjRUgwRHRfMWRlbEY5WlEwa2g2eklsZmM2Q1F2TTZpblVTbjZtY084LXo1WnI3N3BOd05USUU40gHrAUFVX3lxTE9yVVZFYkNPcmR5WTVXb0tpeXlnelliUkVmWmVNWDRWdW1ZeFpXMUNQVlhrSk5tMXdmaHVvYThPekVsZ0ZybHNGTnNjVTVvMkliOV9pSHhHSy0wMVJ0Uko4Z0FvM0xTRGxFUElEc01CaGxIeWFlODlROURhR21PT1Zma1U5ZVpYRHJBWm5TSU5XMDI4alhWM1NIdXBNYnk4S0t5SERGOTVReEhRNnBXSzUyLWlKYmNFSDBEdF8xZGVsRjlaUTBraDZ6SWxmYzZDUXZNNmluVVNuNm1jTzgtejVacjc3cE53TlRJRTg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "kurita",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 241,
+    "dup_title": 134,
+    "too_old": 82,
+    "gate1_blocked": 1,
+    "gate2_blocked": 5,
+    "passed": 19,
+    "pass_rate": "17.8%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "Performance evaluation of beam breakup instability analysis of energy recovery linac using physics-i",
+      "Energy Recovery cut at Seaport, reflecting significant exposure to Middle East turmoil (ERII:NASDAQ)",
+      "Shanghai Tongjie as a Global Leading Containerized Mobile Emergency SWRO System from China: Energy R",
+      "Energy Recovery Shares Fall After Seaport Global Downgrade - marketscreener.com",
+      "A. O. Smith (AOS) Stock May Be 33% Undervalued On Cash Flow - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為栗田相關動態：「A. O. Smith stock edges higher as ex-dividend date approa...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "A. O. Smith stock edges higher as ex-dividend date approaches - ad-hoc-news.de（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Kurita Water Industries (TSE:6370) Slides Over 20% In 3 Months, Is It Still C...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
