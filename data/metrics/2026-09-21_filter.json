@@ -1,0 +1,16 @@
+{
+  "total_raw": 240,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 6,
+  "gate2_fail": 6,
+  "passed": 14,
+  "gate2_samples": [
+    "Performance evaluation of beam breakup instability analysis of energy recovery linac using physics-i",
+    "Shanghai Tongjie as a Global Leading Containerized Mobile Emergency SWRO System from China: Energy R",
+    "Energy Recovery cut at Seaport, reflecting significant exposure to Middle East turmoil (ERII:NASDAQ)",
+    "Energy Recovery Shares Fall After Seaport Global Downgrade - Moomoo",
+    "Veolia stock heads into the open after a 0.8 percent dip - AD HOC NEWS"
+  ]
+}
