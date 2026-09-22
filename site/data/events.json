@@ -1,5 +1,86 @@
 [
   {
+    "id": "veolia-2026-09-22-001",
+    "date": "2026-09-22",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia stock holds near EUR 31.64 as Capital Group cuts stake - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWk9aNTZiMXd1eXRlMDFhdHh1UEZaMDNIYUpQaUZhX3dNaFp1TjJRQ0VjcU5wSTlVSGlVVTFYYnN5TVIxVVEteEZyX3llTE9iR29IMy1wOGpnQVFXeVhUb0ZrejBzS3ZmUFZnclFPdW",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWk9aNTZiMXd1eXRlMDFhdHh1UEZaMDNIYUpQaUZhX3dNaFp1TjJRQ0VjcU5wSTlVSGlVVTFYYnN5TVIxVVEteEZyX3llTE9iR29IMy1wOGpnQVFXeVhUb0ZrejBzS3ZmUFZnclFPdWtuVjdGcXQ1ZVBhYVFGY0EzZkNudUlBOV83cmNwR0J1T0stQlJlME9ibXBnWHNnc1hQMHFLMENTNVd3UE1JNjlhdG9hcFdSUlk1NGJyd0ctRDQzdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-002",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith Heat Pump Water Heater Earns Good Housekeeping Seal - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPLW85Zko0Q2EzR3FmdG1FcEdlUkVpQTVLS2JVaEtVU3BCTXFHS1JXaGlScVhWMmJnYjgyN0xObTVmTTB6TnBYUUxqSUZpalZGYm1EMnVZVW5NNGxWY0w4Z3BFVDJ3N2lHY3BucjM5TD",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLW85Zko0Q2EzR3FmdG1FcEdlUkVpQTVLS2JVaEtVU3BCTXFHS1JXaGlScVhWMmJnYjgyN0xObTVmTTB6TnBYUUxqSUZpalZGYm1EMnVZVW5NNGxWY0w4Z3BFVDJ3N2lHY3BucjM5TDBQcDQ1Ui1faVdiYXJkUGFfOXY3dDVZNzVoRW9nYmhXVXJhOXpOVFpxWXJFMlJnaXhPMnVnWEJWbHlLU1d3WVNCNEZwX0FSeUN4UE9yUnFYTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-22-003",
+    "date": "2026-09-22",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works stock heads into the open after a 1.7% slide - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTmRpX2dsSzJtRVR4dHRsY1pVZzM4LTc0MEhVSC0tRGpOY0VROVdRQ3A3YThzaFFoVnY2LTBnTTdWem1HRUZGMC1feWxVQmIwbXN3eHpSWVVEaDZaS1oyZXduREVwODVSMk5QblJKSm",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTmRpX2dsSzJtRVR4dHRsY1pVZzM4LTc0MEhVSC0tRGpOY0VROVdRQ3A3YThzaFFoVnY2LTBnTTdWem1HRUZGMC1feWxVQmIwbXN3eHpSWVVEaDZaS1oyZXduREVwODVSMk5QblJKSm5BSXY2cGw2VVVPZlBzQjRpY0puNDF4WVlleUUyaWJqSE5NNFJJb0ljeGNlWUFWS0lXNDZTT1J6WGIzakNEd0NXZkx0NVJEMEd1NGJtRXZwcTZKY2RPRlVodWFqMElpZXZh?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-22-004",
+    "date": "2026-09-22",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works stock falls 1.69 percent as earnings beat estimates - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbU1YVGpCb0dVTlhCZlVhQlpHX0ZETXBMOG8xMFd2bG92TWtySkV0emMtRGVuWG9QZkNWdW1WektFVlNha3lieFpFMGJyTkVfcDA0U0RZZ3pzUUc1cGNlalZLNmxwSXB6V0Q1Y1poeH",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbU1YVGpCb0dVTlhCZlVhQlpHX0ZETXBMOG8xMFd2bG92TWtySkV0emMtRGVuWG9QZkNWdW1WektFVlNha3lieFpFMGJyTkVfcDA0U0RZZ3pzUUc1cGNlalZLNmxwSXB6V0Q1Y1poeHoyektEelBldkRoMWJOUGpFTWJnU2Rlalh5bWk3R3V2OHBpdFVHcWpkMWdUWG5Td1NpT0dkMVNfZ0tELVdQWjRnTjJhNWNWVFoxQnhVaE1lM0ZiWEhTVzFVZzV1ZkgzUUEx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-09-21-001",
     "date": "2026-09-21",
     "companies": [
@@ -155,6 +236,107 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMkFleTJ6OU9YWUZRVnlSdjV0SnZsdlY3LUpRcHMyaXZONG1hNXBRMUxQS0xXd09zend2dHJhYnpHdkN5Y0lKaXNrYXBDMVMyaDFpVFFxTmRjSVFjbnh2QzE2WmMxWGx4Rm1JUmxoSnlVUW1nLThUQjZxek11VHFXS3p1YTdDdWtoWjdwZ09lZnNrRUV6dUVKU1F6SC1CcWtJQUhSc1lhMnd6N1d2V2h2c2tsNHBqVG1NallFYUgwaHVwUVU1NlYyUFY5TWxySUNfNVg4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-09-21-009",
+    "date": "2026-09-21",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products (NYSE:MWA) Sets New 12-Month Low - Should You Sell? - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcEtab01aX0xCcHVBNXhRTTVmN2hzbm1BQ3JrNTJiTWlQUWlMUjdpT0Fwa1EzWWNEUGgtdHA4VVM5eTVqYWlmY1BmVW1zR1I5OEZuSkMyNnRtOThRRkNrVHZyay1NZjBPaVlDdmxBeX",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcEtab01aX0xCcHVBNXhRTTVmN2hzbm1BQ3JrNTJiTWlQUWlMUjdpT0Fwa1EzWWNEUGgtdHA4VVM5eTVqYWlmY1BmVW1zR1I5OEZuSkMyNnRtOThRRkNrVHZyay1NZjBPaVlDdmxBeXBKMGkwWF9oRF9IZzRub2JOX2Z6endmUmZsVkxsbjdpYk01ZndwNGxiRTBaLVE1bUlXTXpJRnFNcTFKYkxsUks2OEdjcWR4X3pyUE1qd28xVE1LeE5ubWtnSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-09-21-010",
+    "date": "2026-09-21",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Futures Contracts for Veolia Environnement - Stock Futures - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNblFHT2xzQ1ZTN0tudUZpNFlJYnVQVE1Pdk1LZWhOd3pCeVNxMGJ5ekJNZkRQQmwwRExGR0kwY2pHMGIzZG1laHZKdW9iZFE5OGI2bFNVNERMV2ItOElEdGV1WWZHeW5zUk1rVWl6MT",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNblFHT2xzQ1ZTN0tudUZpNFlJYnVQVE1Pdk1LZWhOd3pCeVNxMGJ5ekJNZkRQQmwwRExGR0kwY2pHMGIzZG1laHZKdW9iZFE5OGI2bFNVNERMV2ItOElEdGV1WWZHeW5zUk1rVWl6MTJMSUZtYS0tSThMWE5wTHdObV9QSWlrUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-21-011",
+    "date": "2026-09-21",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works’ $236 Million Acquisition Pipeline — Can Consolidation Pay Off? - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ25wWW5rM1J1TlBNMlNZSWwweVZ4YzFsRGJ2U0hNLVR2eGdGY2dqOXoyOUFDUkpuUjNYTlduVUNyYlhmV192aU1uZFJNdlN0b0k1QXJzalh4bHQ2bG1tSGNZMGRxYlV4QkdhWm8xMl",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ25wWW5rM1J1TlBNMlNZSWwweVZ4YzFsRGJ2U0hNLVR2eGdGY2dqOXoyOUFDUkpuUjNYTlduVUNyYlhmV192aU1uZFJNdlN0b0k1QXJzalh4bHQ2bG1tSGNZMGRxYlV4QkdhWm8xMlRFckFFd2ZVVlJWek51bFdmaWpQeFpWVHl4MVhVV25NNWJ1ZlBGZlo3SkxhVXFJUmZwOG1ObkFqYWtkanJ4MHVyUVdZZ2NLZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-21-012",
+    "date": "2026-09-21",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works stock steadies as merger review and debt refinancing progress - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLVFPZUY0aDd4by1XYkp2ZGRnX1pOdUM0T0VLeTA1OGtRakg1ZnlMUThrVDlVcDI3b3NCcWdJWEplc2g2b2lUQVg5eVBPQmFDb1U5ZlJ2RGtkV1Z6M1JRR0dfVVhMM3Jqc0ZNbmd2Wm",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLVFPZUY0aDd4by1XYkp2ZGRnX1pOdUM0T0VLeTA1OGtRakg1ZnlMUThrVDlVcDI3b3NCcWdJWEplc2g2b2lUQVg5eVBPQmFDb1U5ZlJ2RGtkV1Z6M1JRR0dfVVhMM3Jqc0ZNbmd2WmtrWmRpWk1YSXVvQm03RlZpU1g4MmZVbkdtdktPa21CYlM0a1dfdXg4UkhVTUFrTll5ZjV0RjZCR1FHb1cxSnRkYXlhS0tyRGk1NUU0cnR0djROYldndWNWY3VUOTdteUtBVFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-013",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Three TIME lists include American Water for 2026 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2UxTXBabk05VmlBOWRwTlZIQ1hsNmRLNXRQWHhGd045elBSNk5MeDFPaW53SGZaMzJ2LVZ4SUpvdmxyTmotVlo1RzM3YVBtZTc2dVplcFFoc2FZeHFQRzQtRi1mUU03MUlkeTZTWU",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2UxTXBabk05VmlBOWRwTlZIQ1hsNmRLNXRQWHhGd045elBSNk5MeDFPaW53SGZaMzJ2LVZ4SUpvdmxyTmotVlo1RzM3YVBtZTc2dVplcFFoc2FZeHFQRzQtRi1mUU03MUlkeTZTWU4ycjhjQ01BNVZ0WVZPXzA1UW9JTjhEOFFWb1FWeVktQ2c5VHNsX2JXdFRJNFNiaW5WYmphWXBWeTc2ZUF2R09VaG5R?oc=5",
         "type": "rss"
       }
     ]
@@ -862,6 +1044,64 @@
       {
         "name": "essential",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWlY3c2c5bUVES0NiaUtJNDZpa2EzUEJmOWRfNTh2TE5DS0M2NTFhb1N2bFh0MXFuWk96SnVPY2F1eXkweFF3cl9MS1NwelJCTmd1Y1BvTnhlUF94UUNjaUZNWVlmamdMZnpGS3FMXzJUeTdoRENSV0VwQ2NtWkhWM1RTbG53Z2JnYnA0WVpDaVQwYkVwdENvY1V4R2FaTXNiUjI2U2p3cGVval9kT2daWnNXUkhsWEMzbmxNeXJLMnFRUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-09-18-022",
+    "date": "2026-09-18",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products (NYSE:MWA) Upgraded at Royal Bank Of Canada - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1RFSlRsOWZSNXk2TUFFSkRoMnN4VUlRa1NMRWVibWRXRHBNSTU3XzVRcHBCSWdKck80YzNWWWE2aUVWb21lcnNtakhHREpLWnF4dkRNZ1dJY0xKUEJJM0l3Y1ZpSk5MenhJeXI3d0",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1RFSlRsOWZSNXk2TUFFSkRoMnN4VUlRa1NMRWVibWRXRHBNSTU3XzVRcHBCSWdKck80YzNWWWE2aUVWb21lcnNtakhHREpLWnF4dkRNZ1dJY0xKUEJJM0l3Y1ZpSk5MenhJeXI3d0JLdkFIYzJFeFljR1BPdzZsSjNGUHRCQW5GbHBibGpsYjVlVjlrbFJ2QnhTUFloNngyVFk5eExrRm5tcUZEbFhhSHpnSTRndHVWd0k3b25YVk5hZ2g0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-09-18-023",
+    "date": "2026-09-18",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Italy seeks to annul Veolia award - globalarbitrationreview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5LR3AwUHRFeVB4b3JrY002MnZUUTFUUUVzY3pfM0J2SkRGQkYtamwxeVJMdlFVcUFONHVLX05tOExEQ1BydHY1UVRtYVlHYnJrWFZ2MDFUQjhweXExVWplY2Y5dWtGMnJXQXc2OWpKTE",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LR3AwUHRFeVB4b3JrY002MnZUUTFUUUVzY3pfM0J2SkRGQkYtamwxeVJMdlFVcUFONHVLX05tOExEQ1BydHY1UVRtYVlHYnJrWFZ2MDFUQjhweXExVWplY2Y5dWtGMnJXQXc2OWpKTEVjNVhjSW4yMXdEZFBWSWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-024",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "8 Best Water Stocks and ETFs to Buy Now | Investing - U.S. News Money",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzZGWE1xeUdwLTFWWFU5a3RZSkF0YU85eVFRUUlaOUNfNVJldkRDQTZSTmFoeTdQT282clBuZzdYc08zbzdZVHloekVXeFJKUWE4a0tEelNNN2NNM1dOWHpOUU5VWGZHQkJNcWZsRU",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzZGWE1xeUdwLTFWWFU5a3RZSkF0YU85eVFRUUlaOUNfNVJldkRDQTZSTmFoeTdQT282clBuZzdYc08zbzdZVHloekVXeFJKUWE4a0tEelNNN2NNM1dOWHpOUU5VWGZHQkJNcWZsRUgxdjNKTVR2UHpOR1FIVEtOT281RQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1610,6 +1850,87 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMWFRR0VUMmJZOTdsUWM2NGtvNmVDNi1zOWN4OU9jcWlSQzZqN3hRZ2dhREdrZGdYdDlwWmlQaERVN2UyaHZiZGd5OEkxOW5xM3hJRWhhbjNMRFNkWlFPN3U5Q1dSaTdMaFBhOFZYX3JieGlwM1RVU0tnNXZxSUtJaVUtZ25CbE1mQU90dWJwd0xZMV9lUzR5Ykt1d1dMaXEzaTVaLXFBbWRNWTlFaGRaXzcwblRvUjFGNVg4ZFZpUkdMV1lQUk8tSG93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-09-17-038",
+    "date": "2026-09-17",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RBC Downgrades Mueller Water Products to Underperform From Sector Perform, Cuts Price Target to $21 From $30 - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPZXFrYjFTR3RkelR3WXB5b05JSUtlc1dTOE9UWkE3RGdjZkVuMDJCRkEwa01abzkzbHNTMlBndFN1amlwMURVX2tqbWlfandqd1BKSkpQZVJGSVNibndaaEg3TEJJN1ZySzlBWG9IV1",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZXFrYjFTR3RkelR3WXB5b05JSUtlc1dTOE9UWkE3RGdjZkVuMDJCRkEwa01abzkzbHNTMlBndFN1amlwMURVX2tqbWlfandqd1BKSkpQZVJGSVNibndaaEg3TEJJN1ZySzlBWG9IV1NRZGgyb09USUU0UC1lWW13Z2J6amdPaWIzcmpTMkV1RmxKeFpXWjNzUlhxOFhhRFhBT18zcGp2NGo5ZVUyd2c0cmxfbU1Bdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-09-17-039",
+    "date": "2026-09-17",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products (NYSE:MWA) Shares Down 3.8% - Here's What Happened - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPbGJjblM4eHZIektwZlVFajFiWVdEdXB5QVVqQ1AzNFMxZHFWYUUwMldLdXE1Rld6bjdXYU9UMW9VM1lDSEJWNVR2TTVJMV9qN2kyNk42UXdSemMwbWxzMG0yUGZqMWwzY1EtVjRocX",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbGJjblM4eHZIektwZlVFajFiWVdEdXB5QVVqQ1AzNFMxZHFWYUUwMldLdXE1Rld6bjdXYU9UMW9VM1lDSEJWNVR2TTVJMV9qN2kyNk42UXdSemMwbWxzMG0yUGZqMWwzY1EtVjRocXJUSFl4MjlmcWtiRG1sZHZkS1R1eTFnQnBuUnVuVEFYSXdDV3U4VXl4Q1lRQ1l0VXRsRHM2dzNsd0ZScUprcjdoQVZzS0poWVZCWVRNOWY5QU9PZ0Nj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-09-17-040",
+    "date": "2026-09-17",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A.O. Smith Q2 2026 Earnings: EPS Beat of 10.4% Offset by Muted Stock Reaction - Earnings Season Review - careplusvn.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEx5S3Vyc0RQNFNKZGlfcUREWENnd1ZhWXdYU2IyblpHUU5QblpURWpKdGpKNEpvQ1pzSFhYaVZtR216R25CU2lOaFNLdmQ3UkdYQnR0Wjk4azlNeVdwc1Bfc0RXSGMwWFRjMDhZc1",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEx5S3Vyc0RQNFNKZGlfcUREWENnd1ZhWXdYU2IyblpHUU5QblpURWpKdGpKNEpvQ1pzSFhYaVZtR216R25CU2lOaFNLdmQ3UkdYQnR0Wjk4azlNeVdwc1Bfc0RXSGMwWFRjMDhZc1VuMUV3dWozX2plQ1FjZTZGVzZCV0F4Vm1weW1adGhSS081LUZUbXRHSENkc2FvMlo2TVY1RTBUelV6MlZlTFpEYUZKcE1qYktW?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-09-17-041",
+    "date": "2026-09-17",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water: Pennsylvania Settlement Filing Key Hurdle for Essential Utilities Merger - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNnlKaW5ydjBGTlNKVGQzdlpYM0hPRXZjTE05S1NORU9TS1BPMkp3QkRZWGdNWEctMm5iRDd6QkNUWUhvZUh3LWFmQjZBMWxGUjV2SXRuTUM1eUhQX1hUN0JkcWpreUoxWTRHbFhUem",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNnlKaW5ydjBGTlNKVGQzdlpYM0hPRXZjTE05S1NORU9TS1BPMkp3QkRZWGdNWEctMm5iRDd6QkNUWUhvZUh3LWFmQjZBMWxGUjV2SXRuTUM1eUhQX1hUN0JkcWpreUoxWTRHbFhUemh5NnNQQUVNN01sM2ZXSHV0VHZoVHN0NjRhRlg2ZXl3NlVCQ00zOU5DdDhnNVAyeHllN1VqaEl1U3M0VmthdndZLXhYanJ0Zy1vaHd2bzdjcXU3MHhnZ1hOMmxzWnlKREZOQjJtaUp3?oc=5",
         "type": "rss"
       }
     ]

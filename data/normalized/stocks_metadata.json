@@ -19,8 +19,8 @@
   },
   "veolia": {
     "earliest": "2000-07-20",
-    "latest": "2026-09-21",
-    "count": 6722,
+    "latest": "2026-09-22",
+    "count": 6723,
     "history_complete": true
   },
   "pentair": {
@@ -61,8 +61,8 @@
   },
   "zhongyu": {
     "earliest": "2000-01-05",
-    "latest": "2026-09-21",
-    "count": 6643,
+    "latest": "2026-09-22",
+    "count": 6644,
     "history_complete": true
   },
   "essential": {

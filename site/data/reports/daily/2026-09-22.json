@@ -1,0 +1,186 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T13:18:52.075614Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-09-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia stock holds near EUR 31.64 as Capital Group cuts stake - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWk9aNTZiMXd1eXRlMDFhdHh1UEZaMDNIYUpQaUZhX3dNaFp1TjJRQ0VjcU5wSTlVSGlVVTFYYnN5TVIxVVEteEZyX3llTE9iR29IMy1wOGpnQVFXeVhUb0ZrejBzS3ZmUFZnclFPdWtuVjdGcXQ1ZVBhYVFGY0EzZkNudUlBOV83cmNwR0J1T0stQlJlME9ibXBnWHNnc1hQMHFLMENTNVd3UE1JNjlhdG9hcFdSUlk1NGJyd0ctRDQzdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-22-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A. O. Smith Heat Pump Water Heater Earns Good Housekeeping Seal - StreetInsider",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLW85Zko0Q2EzR3FmdG1FcEdlUkVpQTVLS2JVaEtVU3BCTXFHS1JXaGlScVhWMmJnYjgyN0xObTVmTTB6TnBYUUxqSUZpalZGYm1EMnVZVW5NNGxWY0w4Z3BFVDJ3N2lHY3BucjM5TDBQcDQ1Ui1faVdiYXJkUGFfOXY3dDVZNzVoRW9nYmhXVXJhOXpOVFpxWXJFMlJnaXhPMnVnWEJWbHlLU1d3WVNCNEZwX0FSeUN4UE9yUnFYTQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_water-2026-09-22-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Works stock heads into the open after a 1.7% slide - AD HOC NEWS",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTmRpX2dsSzJtRVR4dHRsY1pVZzM4LTc0MEhVSC0tRGpOY0VROVdRQ3A3YThzaFFoVnY2LTBnTTdWem1HRUZGMC1feWxVQmIwbXN3eHpSWVVEaDZaS1oyZXduREVwODVSMk5QblJKSm5BSXY2cGw2VVVPZlBzQjRpY0puNDF4WVlleUUyaWJqSE5NNFJJb0ljeGNlWUFWS0lXNDZTT1J6WGIzakNEd0NXZkx0NVJEMEd1NGJtRXZwcTZKY2RPRlVodWFqMElpZXZh?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_water-2026-09-22-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Works stock falls 1.69 percent as earnings beat estimates - AD HOC NEWS",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbU1YVGpCb0dVTlhCZlVhQlpHX0ZETXBMOG8xMFd2bG92TWtySkV0emMtRGVuWG9QZkNWdW1WektFVlNha3lieFpFMGJyTkVfcDA0U0RZZ3pzUUc1cGNlalZLNmxwSXB6V0Q1Y1poeHoyektEelBldkRoMWJOUGpFTWJnU2Rlalh5bWk3R3V2OHBpdFVHcWpkMWdUWG5Td1NpT0dkMVNfZ0tELVdQWjRnTjJhNWNWVFoxQnhVaE1lM0ZiWEhTVzFVZzV1ZkgzUUEx?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 2
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 240,
+    "dup_title": 144,
+    "too_old": 71,
+    "gate1_blocked": 5,
+    "gate2_blocked": 4,
+    "passed": 16,
+    "pass_rate": "16.7%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Performance evaluation of beam breakup instability analysis of energy recovery linac using physics-i",
+      "Shanghai Tongjie as a Global Leading Containerized Mobile Emergency SWRO System from China: Energy R",
+      "Lois Anne Payne Obituary (2026) - Stamps, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel",
+      "A. O. Smith (AOS) Stock May Be 33% Undervalued On Cash Flow - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為美國水務、威立雅相關動態：「Veolia stock holds near EUR 31.64 as Capital Group cuts s...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Veolia stock holds near EUR 31.64 as Capital Group cuts stake - AD HOC NEWS（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "A. O. Smith Heat Pump Water Heater Earns Good Housekeeping Seal - StreetInsider（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
