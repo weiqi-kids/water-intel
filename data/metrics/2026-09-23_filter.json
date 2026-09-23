@@ -1,0 +1,16 @@
+{
+  "total_raw": 241,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 7,
+  "gate2_fail": 5,
+  "passed": 19,
+  "gate2_samples": [
+    "3 Reasons to Avoid ERII and 1 Stock to Buy Instead - stockstory.org",
+    "Performance evaluation of beam breakup instability analysis of energy recovery linac using physics-i",
+    "SINOTRUK showcases new-energy commercial vehicles at IAA Transportation 2026 - Inquirer.net",
+    "Veolia stock heads into the open after a 0.13 percent drop - AD HOC NEWS",
+    "Lois Anne Payne Obituary (2026) - Stamps, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel"
+  ]
+}

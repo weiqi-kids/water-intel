@@ -1,0 +1,272 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:33:15.359702Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-09-23-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mueller Water Products, Inc. (MWA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83R3lDRFZMdEp0UklVdTAxQ1hKZEdwaVh0a3Z6S3ZoT0JEa1Fzek02dkZiU25WRmVfQ09VSmFHdUhodzM5Y29UVl9uR2dSUjZh?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "energy_recovery-2026-09-23-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Energy Recovery stock gains 0.57 percent as valuation resets - AD HOC NEWS",
+      "companies": [
+        "energy_recovery"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOajVsUTVJOG9LWU9KeDgtNUtBUFgtWUg4M1AtalNzWDRNdlg3ZERNcGp1aEtzTDhkUHd5blRCMDhyYVdTdHhiVkJRUko0ZEEzSTFoLWJSTDlrRFo3RzFTNmo0UGVhbGVQQmVRUFMzckxnNVhiaktvY0ZuSjA5X2JLSWF6TGt1cDJDQXp0ZG14N1hPVF9YYjNtbVNLb0Q4VkdWWTVQeENsNWRlOHhSYUZKX1J4SU93WjRTcWZR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "essential-2026-09-23-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Essential Utilities, Inc. (WTRG) Stock forecasts - Yahoo Finance Australia",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORF9naUZwUWNqdVpndzJQMzJvRV9HYXhIUW0tcmN0U0hfQ2pkcTRPVVU1bmt2WE9KRi1tc2RlMjM3Rm5neVhvNGRQV1BJR25WYjJDZGJNQmZSbFF5eHFtX0IwZmFsNmMtREd5OFNRaHNwT2JxY0VIOVh1ZGFwdWFvUGZyVFhTTE56NjRXOQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-23-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ceramic Ultrafiltration Modules Market Forecast to 2035: Semiconductor Ultrapure Water Demand Drives Growth - News and Statistics - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "semiconductor_ultrapure_water",
+        "smart_water",
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdFF5MEdleHdaZGlRLUpod2FjMVJ5cmtTNDk4akdRZXNJV2hvUkt5UEpEeWlvMmptYVktUzJxWVVZeFI2ZUpVTmtPMnA0d05EdTNPU25IcE1YUGRSUy1DdkxzUFRvZjc2LTU0aFFXNllzeWVCOG5TSHBUVHVEZ3EyVGYwZ2V6dlFJTU84Y1VRd1BrR1pJaXQ1MDlqVGRLY3FZZDgwcDZPN25HVnZBZXE3UjNscC1KcjRHOWFuZnlpMFhPRUpoOGxrX3dhMlR0YnhncjV0Z21zakRScFpUMS1j?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mueller-2026-09-23-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Mueller Water Products (MWA) Tests Infrastructure Funding Story Following Pullback With Fair Value Still Higher - simplywall.st",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYWlOWWhpblJjNXI1OWtCaFBibE1oRzROUzA4NHNKMUR2ZWxJTmViOThCTVhJa1RxdFd2Qld3WWJYSFhBMUFmWkhTLVVmQTVmcG5ZdjNCaUFURXZhN19tdkhhc3E2aURLdHpKaW4zTXB0ekNRajZZTnhxS2EwM0h6QzduUVZPNUdUdVppTzRKVXhENDZYekpMSVVnODFHVURhSUxVc2JtUFhhYmYwOVpITWZYelBEUTVWSDlwS3hpSmt4Ymtrc1FSd3JUbldhaDkybDZRa2gxUkMtNm_SAeABQVVfeXFMUEZfLTY0ekJ5Mm4wazFpTHYydkpPUVZjcFFYd3ZqaHZEakwzUW9VOEFuaDJNdWp1ZjRNMEphNFVHaGdVSUh6VzVUYlRDdmJlWU9WS2IxM2JUZnJYeUlVTUVqU3owTjJUNm1uVWhlaGZfdHFSUG41ZnI3aXduN2R2Nk9vWGE3NTVzSmQxOUYxS3lxWFo1Mnp2ZWFLNkVueExZYi1jTUM3M1hDdjc5enJLQzVwTUdrcUREU1BqWGdvWk1remRSN3NnTzA1T0Q1YUVTdkxHdGhFemlaSDdBdnZxMUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "semiconductor_ultrapure_water": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "smart_water": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 3
+      },
+      {
+        "id": "energy_recovery",
+        "count": 1
+      },
+      {
+        "id": "essential",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "capex",
+        "count": 1
+      },
+      {
+        "id": "semiconductor_ultrapure_water",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 241,
+    "dup_title": 135,
+    "too_old": 75,
+    "gate1_blocked": 7,
+    "gate2_blocked": 5,
+    "passed": 19,
+    "pass_rate": "17.9%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "3 Reasons to Avoid ERII and 1 Stock to Buy Instead - stockstory.org",
+      "Performance evaluation of beam breakup instability analysis of energy recovery linac using physics-i",
+      "SINOTRUK showcases new-energy commercial vehicles at IAA Transportation 2026 - Inquirer.net",
+      "Veolia stock heads into the open after a 0.13 percent drop - AD HOC NEWS",
+      "Lois Anne Payne Obituary (2026) - Stamps, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為穆勒、ERII、必要公用相關動態：「Mueller Water Products, Inc. (MWA) Stock Price, News, Quo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Mueller Water Products, Inc. (MWA) Stock Price, News, Quote & History - Yahoo...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Energy Recovery stock gains 0.57 percent as valuation resets - AD HOC NEWS（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
