@@ -1,0 +1,16 @@
+{
+  "total_raw": 241,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 4,
+  "gate2_fail": 5,
+  "passed": 13,
+  "gate2_samples": [
+    "Energy Recovery stock falls 4.49 percent after Seaport downgrade - AD HOC NEWS",
+    "Performance evaluation of beam breakup instability analysis of energy recovery linac using physics-i",
+    "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Is A. O. Smith Stock Underperforming the S&P 500? - barchart.com",
+    "Lois Anne Payne Obituary (2026) - Stamps, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel"
+  ]
+}

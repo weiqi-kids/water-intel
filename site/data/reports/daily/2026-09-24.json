@@ -1,0 +1,148 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:28:40.374894Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-09-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia stock heads into the open after a 0.13 percent drop - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMGI2ejUtWlV2YnlDX0FjWDhTOXlTeVl4bERzdUZ2YVczVGlrUS1SWVREWGVnY2ttOW0tWmJBWFFyNkx4emZvYU54LVRVcGNTTXB2UHBwMzNFbnRtQ2J5aHYwMF9aUllFcXo3RlRIeHZzejVJV0hMOTQ2NzZ1WGJxNzBsRHFhT0llQmdFMzVDbVp0Nk5kaUV5TnZnbW9qT0lnRlBRZ0ExcU9TblhaNkdfWEZzcUd3R2c3cjlFRnVB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Jersey Water to invest £26m in desalination upgrade as 2027 charges rise - Water Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "desalination",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzF1QXFhQ0pvMmM5QXJEUURmX2N2WTRXTXVNUUp2ZjVSLUJKZXh5U0NFTG9oRm1DTC1LN0doQ2JDd1h6bGRZRE1pRVdDb2dKc3VvVldadmVaYTRUYTV0VG5ISnVEUzJ6QjV2UlRldTI5QzBsdi04ZXBUVWp5NXk3dGZ6d2lPblZVVlBGQXdVOVRXakFRT1RONV9mR21QNEljWVgtUFA1Y2pkMXVzQ1FSYTVPU3Fodw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "desalination": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "desalination",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 241,
+    "dup_title": 139,
+    "too_old": 80,
+    "gate1_blocked": 4,
+    "gate2_blocked": 5,
+    "passed": 13,
+    "pass_rate": "12.7%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Energy Recovery stock falls 4.49 percent after Seaport downgrade - AD HOC NEWS",
+      "Performance evaluation of beam breakup instability analysis of energy recovery linac using physics-i",
+      "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Is A. O. Smith Stock Underperforming the S&P 500? - barchart.com",
+      "Lois Anne Payne Obituary (2026) - Stamps, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為威立雅相關動態：「Veolia stock heads into the open after a 0.13 percent dro...」。主要關注主題為財報、海水淡化、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Veolia stock heads into the open after a 0.13 percent drop - AD HOC NEWS（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Jersey Water to invest £26m in desalination upgrade as 2027 charges rise - Wa...（海水淡化、財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
