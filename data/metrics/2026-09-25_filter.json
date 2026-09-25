@@ -1,0 +1,15 @@
+{
+  "total_raw": 241,
+  "dup_title": 138,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 4,
+  "gate2_fail": 4,
+  "passed": 19,
+  "gate2_samples": [
+    "California Waste Solutions plans new renewable energy facility to help Vietnam achieve national net ",
+    "Energy Recovery stock falls 4.49 percent after Seaport downgrade - AD HOC NEWS",
+    "Veolia Environnement SA (VIE.PA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Is A. O. Smith Stock Underperforming the S&P 500? - Barchart.com"
+  ]
+}

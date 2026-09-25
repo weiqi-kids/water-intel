@@ -1,0 +1,222 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:33:10.062195Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-25-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Roland Berger’s Dieter Billen: Governance failures often the earliest warning sign of a troubled project - Asian Power",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZWxFSEJ5b0VCQ2JKTFdheTdIelpaT0UtRWZJMUJwQ2poazBUZ0FFNEVWUjJ2YVhwWmtEb0xFQk14S1hLMmRsRVhfVWFIdWdPWFZIMW9vQlg4cDk0MVl1bUNZTU9hX05UaWZlTUNTMHNzUlByVEhiS2ZDOE5TcUo5cVk0U1A2LXR3V2pXa3ZYZFIzWnZSQlc0SUdFcnRmZURTWFJ4YWpYZkVmN0lfMFJlOEFnMGhXVlpkMTJXLW5USVVYel9XUVhsVjUydG03WTl2dE9CZVo5b1FNUmZIT2RZZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A. O. Smith (AOS) Pulls Back As Its Water Heater Narrative Faces A Valuation Test - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQTdYQnpLaHpJZVBXb3gtQTNIOWc4SjJhRGt0S0dPUkl0T2MzWkZqSzhZLXpVYndNQ1ItMUtSLTZCZkpjN1JlUTRYTHE4MFJZSU5YNURqemxzSXJpN09OaGE0RFBqcmpEM0xDNVFhVXh4SjZiOTMyb3RUdWFrb2hSR0tsN3ZUUmlKYWtTZmo4ZENsZFNWd2YyUFFqMzZQTGQ0czN0dGFyWXp1Zkg4RmtlVkNHVVVqTVZISy1FY1Z1dmRkWXpOWUJHWFlB0gHPAUFVX3lxTE1iUnl5OTJNc1Q2WVd2cEw5NDRKUWxBcjBSTVZfVWJuZWhCNEJieTItYmlJOC03NDh4RGF2TXpuMEUzZzl1VjhDZVltQ2x1eWVONWZWMWFWOEdiZndwVDMxSXJ6aHVRMDQ1SEs1WnZTb2FMMGNpSGVLQ054ZmxyN1F2Q1gzS2pmTUxWczNJOWs5a0tHYTJFcnVWMTZGbm5hbFgxUmtsY3RJYlBDeTN6ZUUzT2c3TTZDQXR1VHY2TFY4cDZBWXUxeWJrNXMtTDc0bw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ao_smith-2026-09-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A.O. Smith stock heads into the open after a 0.8 percent drop - AD HOC NEWS",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDNQcmNsaTEtVS1oRDgtMzdSY0VTblg0OFBjbG41a3NfY2Q3TG1vYzJpZFRRc3Z4RXdQbjQ5bEVyNG16R21nUVdDXzAxUTY4VHkwQTdMTTJuai1tVzdsbHBZQUFaU2l0aGJ6T1I1SWJQWmo0YWlObWNfeDhqaW5Ib01taGxoMk5vRVpOLVBGTEZBQkNLdm1OS3FEN0RKTlpsYmR3UUVPd1NQOUdPYmlOLV9BRmxXaFVicGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-25-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zacks Industry Outlook Highlights Eaton, Emerson Electric, A. O. Smith and EnerSys - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVEdRMlFweVZUdlUzclVXQjYtS2tXTG9sMU5JOUlDN3FTYVh3eTU0djhaUGR3dVNUd0FVbk1kUHNmQXRRY2wzdktMQlVRUGdhcDk3ekZ6OUlfcGZKTlpMMGl4Z0VQZEtaS3U0YUtNTmpYSmt3SGsyQ3VndHFHMC1hUjl6dEczeEZVT3gwLU9XaVlOZU9zbHo1R2lXb3ZQR1JLRGpzYnVybw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-25-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A. O. Smith stock weighs Q2 beat against USD 55 fair value - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkcycHlZekZ0X3NYTXZzeE40WHBKTFl2V1BhNE1YQU5LaTZxVkVIYWFQWlZqUjV4dFF5dnlkSG15N2lEbW9oTkVTNVhUNU54QmJ4MzMtRXR2Rkh3cGtBdDNnVGdhSWV6aVV1LXFISEE3aTFBVDkyYV9Reng3cVR5TGJIUFdaSEI3Zlk3NjlDdHBFb3dDLWxNVVZWT3FmTG9kVXBzVGpIelZWdFZwc2xmQUNpNzRYb1lGSXg4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 1
+      },
+      {
+        "id": "ao_smith",
+        "count": 1
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 241,
+    "dup_title": 138,
+    "too_old": 76,
+    "gate1_blocked": 4,
+    "gate2_blocked": 4,
+    "passed": 19,
+    "pass_rate": "18.4%",
+    "gate2_block_rate": "3.9%",
+    "gate2_samples": [
+      "California Waste Solutions plans new renewable energy facility to help Vietnam achieve national net ",
+      "Energy Recovery stock falls 4.49 percent after Seaport downgrade - AD HOC NEWS",
+      "Veolia Environnement SA (VIE.PA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Is A. O. Smith Stock Underperforming the S&P 500? - Barchart.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為穆勒、史密斯、美國水務相關動態：「Roland Berger’s Dieter Billen: Governance failures often ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Roland Berger’s Dieter Billen: Governance failures often the earliest warning...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "A. O. Smith (AOS) Pulls Back As Its Water Heater Narrative Faces A Valuation ...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
