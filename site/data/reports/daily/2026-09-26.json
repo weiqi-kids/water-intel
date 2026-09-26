@@ -1,0 +1,109 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T12:55:21.477376Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-09-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mueller Water Products $MWA Stock Sold by Engineers Gate Manager LP - MarketBeat",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3Vub1JfQW1MWmYzYkIzOGI0V2M2VVlHVHJlcVJwdUdwYWN6X3k0MHdZSzVtY0o0bGJ6UmZUWDU5YVlLc1FkT0pTeUs0TzI2MzZfRjJ5YVJBQjh6NXYyWkhDQkxzZTJTWk5iRXlkQUdnNXJiVnVGNzNaWkk5cjZsYXNXWlRFNVJNLXQ4UTg2ak5VR1VubUtyUV9sRDk1LUVmUUxFSktOMlQySGEzRng0RHZsQWhOQjZ6ZExPYTRlNW81WVA1N3c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 240,
+    "dup_title": 130,
+    "too_old": 85,
+    "gate1_blocked": 4,
+    "gate2_blocked": 3,
+    "passed": 18,
+    "pass_rate": "16.4%",
+    "gate2_block_rate": "2.7%",
+    "gate2_samples": [
+      "Energy Recovery stock falls 4.49 percent after Seaport downgrade - AD HOC NEWS",
+      "Veolia Environnement SA (VIE.PA) Stock Price, News, Quote & History - ca.finance.yahoo.com",
+      "Is A. O. Smith Stock Underperforming the S&P 500? - Barchart.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為穆勒相關動態：「Mueller Water Products $MWA Stock Sold by Engineers Gate ...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mueller Water Products $MWA Stock Sold by Engineers Gate Manager LP - MarketBeat（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "穆勒為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

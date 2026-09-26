@@ -43,8 +43,8 @@
   },
   "watts": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-24",
-    "count": 6722,
+    "latest": "2026-09-25",
+    "count": 6723,
     "history_complete": true
   },
   "badger": {
@@ -85,8 +85,8 @@
   },
   "etf_cgw": {
     "earliest": "2007-05-14",
-    "latest": "2026-09-24",
-    "count": 4873,
+    "latest": "2026-09-25",
+    "count": 4874,
     "history_complete": true
   }
 }

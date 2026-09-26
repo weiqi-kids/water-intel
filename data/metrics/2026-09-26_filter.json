@@ -1,0 +1,14 @@
+{
+  "total_raw": 240,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 4,
+  "gate2_fail": 3,
+  "passed": 18,
+  "gate2_samples": [
+    "Energy Recovery stock falls 4.49 percent after Seaport downgrade - AD HOC NEWS",
+    "Veolia Environnement SA (VIE.PA) Stock Price, News, Quote & History - ca.finance.yahoo.com",
+    "Is A. O. Smith Stock Underperforming the S&P 500? - Barchart.com"
+  ]
+}
