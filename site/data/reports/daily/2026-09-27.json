@@ -1,0 +1,132 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T13:47:55.996836Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_water-2026-09-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Works (AWK) Stock Looks Fully Priced On Its 14% Three Year Gain - Yahoo Finance",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQTZFd2ZmcHBMQUNabDJ3NjVtX0c3Q2FyV2R0cHZHYVFmTURHekRBdnRucDU4cm54VDZYam5FWVMtemRCc0pDUkY0MzY4b1JsaEZ6TG9pM1hPT29WSWZPRGRzcWNHWV9iUmpCdHlfMmljelJXaXh3ekR0VU5qeHU4ZmpqdXVVa1o1blY2dFU2VEIxR3BBTEt4QU45aw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-09-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Works Company (AWK), What Is Behind The Latest Attention? - Yahoo Finance",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWVRjY09HMTkzTF9YdXpyYkJYanpReFlxdXM0ZDV4SlJTWEkxbGVPQ0tSZ3ZWVUFaQncwUWkyOXM3OXc2QUVOajlhbVloTEdNZVdYbFVOcTRUX21NS2Z3RmQ2bEpYQVNleEQ2bGxEMEZlSmdnZU9jV0ZNODVYQ05fTkF2UEN1eU5rY0hIUmJLbk4ycHNUUXB3cUJpS1prUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 240,
+    "dup_title": 144,
+    "too_old": 81,
+    "gate1_blocked": 3,
+    "gate2_blocked": 1,
+    "passed": 11,
+    "pass_rate": "11.5%",
+    "gate2_block_rate": "1.0%",
+    "gate2_samples": [
+      "Is A. O. Smith Stock Underperforming the S&P 500? - Barchart.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為美國水務相關動態：「American Water Works (AWK) Stock Looks Fully Priced On It...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "American Water Works (AWK) Stock Looks Fully Priced On Its 14% Three Year Gai...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "American Water Works Company (AWK), What Is Behind The Latest Attention? - Ya...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

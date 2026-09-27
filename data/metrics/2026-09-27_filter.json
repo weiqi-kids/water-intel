@@ -1,0 +1,12 @@
+{
+  "total_raw": 240,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 3,
+  "gate2_fail": 1,
+  "passed": 11,
+  "gate2_samples": [
+    "Is A. O. Smith Stock Underperforming the S&P 500? - Barchart.com"
+  ]
+}
