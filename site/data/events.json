@@ -1,5 +1,63 @@
 [
   {
+    "id": "unknown-2026-09-28-001",
+    "date": "2026-09-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith stock gained 1.65 percent while analysts held - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOR3d4VWE4cFVuMF9fSVpNUzVRbThFbDVDdDJDbUJwbU55emFBODlkYXBZbEQ3cGU5TXJXalUxYlQxUTZmd3ZoWWNUZXBFQVREZ1NKZXhlU2p1V3c2Wm9qWkVDWjk0MGVxb0ZlRG1MT3",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR3d4VWE4cFVuMF9fSVpNUzVRbThFbDVDdDJDbUJwbU55emFBODlkYXBZbEQ3cGU5TXJXalUxYlQxUTZmd3ZoWWNUZXBFQVREZ1NKZXhlU2p1V3c2Wm9qWkVDWjk0MGVxb0ZlRG1MT3U5bEJXMXpXcW5rOFJaUUo5cGhJLWdYdFRiOWJwd2hYNE5KaGhlNnY1RC0tYU5iQXB2Z3B6OEp4RkcwOUtUSllsTnhWVUt3eWJVdmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "badger-2026-09-28-002",
+    "date": "2026-09-28",
+    "companies": [
+      "badger"
+    ],
+    "topics": [
+      "wastewater_treatment",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Badger Meter Introduces OneNetwork™ Software Platform for Water and Wastewater Utilities at WEFTEC 2026",
+    "summary": "",
+    "sources": [
+      {
+        "name": "badger",
+        "url": "http://investors.badgermeter.com/news-releases/press-release-details/2026/Badger-Meter-Introduces-OneNetwork-Software-Platform-for-Water-and-Wastewater-Utilities-at-WEFTEC-2026/default.aspx",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-28-003",
+    "date": "2026-09-28",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water stock at USD 130.91 on September 25, 2026, down 0.47 percent - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPelBqTlYwWldhMU14X0hTaXQ3MnQ4cmJrMk1iQl9yczJoWUs3SjlXTlpwalNuMk1KTE45aTV6b3ktQk1TWFpyYkRYUmpyMzV2ZzNDc0I4cTVhSUU0STlMLW5UQUoxVkpMcE5lNFZhZ2",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPelBqTlYwWldhMU14X0hTaXQ3MnQ4cmJrMk1iQl9yczJoWUs3SjlXTlpwalNuMk1KTE45aTV6b3ktQk1TWFpyYkRYUmpyMzV2ZzNDc0I4cTVhSUU0STlMLW5UQUoxVkpMcE5lNFZhZ2VhdGo5TGczNWYzQjFlZ2dFRmhrM1lHMXRGbXlidWxWb0tLZzNQblhtQl9yZnZ1U0dNUkpHaXNZVS05WjYwdVBpUkdwX282YkJHMEFNQzNHX1M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "american_water-2026-09-27-001",
     "date": "2026-09-27",
     "companies": [
@@ -37,6 +95,46 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWVRjY09HMTkzTF9YdXpyYkJYanpReFlxdXM0ZDV4SlJTWEkxbGVPQ0tSZ3ZWVUFaQncwUWkyOXM3OXc2QUVOajlhbVloTEdNZVdYbFVOcTRUX21NS2Z3RmQ2bEpYQVNleEQ2bGxEMEZlSmdnZU9jV0ZNODVYQ05fTkF2UEN1eU5rY0hIUmJLbk4ycHNUUXB3cUJpS1prUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-27-003",
+    "date": "2026-09-27",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works (AWK) Stock Looks Fully Priced On Its 14% Three Year Gain - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNYld2dlBBYjBxdmFzcXE4amRDRDQ3QS04ak02dlIzQ18zbW1Va2g5OWlaVnlxSXFKODF6Nk5HazlBR1BwSlVDRTY3Q0VJZW9wM2NCNG4ya29PMGtwNjJPbnhfUmNSbFRaZ2pRb01UVW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYld2dlBBYjBxdmFzcXE4amRDRDQ3QS04ak02dlIzQ18zbW1Va2g5OWlaVnlxSXFKODF6Nk5HazlBR1BwSlVDRTY3Q0VJZW9wM2NCNG4ya29PMGtwNjJPbnhfUmNSbFRaZ2pRb01UVW80Slk1Sk92VGdWdG4yN3czNGZnczVaZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-27-004",
+    "date": "2026-09-27",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Autodesk’s Chris Ryan explains why connected data matters - Utility Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPOWJJZUVCbE96dGc5S2VUOG1LZ3E1eW9VU3hvbzNhaEJmTTVWQ3ljcFZ0OEhwbUh0by02R1dfbGtmcTNKaHhwRDZPd25xWDROUWZYOW9JZXQ2YTFTbk5lYml6NUdNbENZMGUzY0xCSV",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOWJJZUVCbE96dGc5S2VUOG1LZ3E1eW9VU3hvbzNhaEJmTTVWQ3ljcFZ0OEhwbUh0by02R1dfbGtmcTNKaHhwRDZPd25xWDROUWZYOW9JZXQ2YTFTbk5lYml6NUdNbENZMGUzY0xCSVhDRGgtazZDVWhqM1ZHa05NQlhfVWdSc3ViVXpWRTk1Vy1JZw?oc=5",
         "type": "rss"
       }
     ]
@@ -610,6 +708,26 @@
     ]
   },
   {
+    "id": "mueller-2026-09-25-029",
+    "date": "2026-09-25",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products (MWA) Dividend Yield 2026, Date & History - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE90cVZ0NklmRm0yTE1hU2RiUUZRRWUtcWJwaVJtNHp1TWRMNVR1OWFWSDZiTS1Wc1RWVzhfa01QOFEzUmtTYTVaZHJuMTJoUnoxUWRqbDVNTmNnNVh5T3A2WVd3?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90cVZ0NklmRm0yTE1hU2RiUUZRRWUtcWJwaVJtNHp1TWRMNVR1OWFWSDZiTS1Wc1RWVzhfa01QOFEzUmtTYTVaZHJuMTJoUnoxUWRqbDVNTmNnNVh5T3A2WVd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "veolia-2026-09-24-001",
     "date": "2026-09-24",
     "companies": [
@@ -810,6 +928,27 @@
       {
         "name": "essential",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVHU0dVlKeEZnbThiVVRvRjl2bkE4RHpXdmdIajE0bG9la2drUFZIRnV5aWk2cHVWMDJwRThlWkVhbzBtaUJWOW9ybjVXY2pTaDRUMmpqRFp3OTBIeHFZbU4wc3lOajN1ZE9ZQWhscHJsRXFjYjJ0SVJaZ0kyVzlVRDd6LUtrT19iNERzQ3VFQWZkMGR3THlPMF9TcF9KMGxPZm5MNnhxdWx0X3JJTzdrSkZCQUdhSURZb2xVWjFDa1c2UTZObHR1N1lscVgtZW1iLVpXMWlTRWJTdGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-09-24-011",
+    "date": "2026-09-24",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products stock hits 52-week low at 21.68 USD - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPV2k1M3RpUGRvMnpqa1MyZkVvMlhnc1hsQkxOdVpoTElncExhQ1lPdmtyQnU3bjJwbzN6YkVDU0lnazVpZUI2b2MtazZ0QVdkNVp2ZGxZS0RCd2RISHBiNFdMdE9Xd2hlQXh5YjhxbT",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV2k1M3RpUGRvMnpqa1MyZkVvMlhnc1hsQkxOdVpoTElncExhQ1lPdmtyQnU3bjJwbzN6YkVDU0lnazVpZUI2b2MtazZ0QVdkNVp2ZGxZS0RCd2RISHBiNFdMdE9Xd2hlQXh5YjhxbTZWTFVscDNUckxvMDk4aW45VF9UT3hiRFJTN0I0Z1RqMUxzcHNvYjBwNUhva2JDajNyMWhva1JVRXNnUXFiZkJhZXliaw?oc=5",
         "type": "rss"
       }
     ]

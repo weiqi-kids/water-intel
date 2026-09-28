@@ -1,0 +1,169 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:40:40.954730Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A. O. Smith stock gained 1.65 percent while analysts held - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR3d4VWE4cFVuMF9fSVpNUzVRbThFbDVDdDJDbUJwbU55emFBODlkYXBZbEQ3cGU5TXJXalUxYlQxUTZmd3ZoWWNUZXBFQVREZ1NKZXhlU2p1V3c2Wm9qWkVDWjk0MGVxb0ZlRG1MT3U5bEJXMXpXcW5rOFJaUUo5cGhJLWdYdFRiOWJwd2hYNE5KaGhlNnY1RC0tYU5iQXB2Z3B6OEp4RkcwOUtUSllsTnhWVUt3eWJVdmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-28-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water stock at USD 130.91 on September 25, 2026, down 0.47 percent - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPelBqTlYwWldhMU14X0hTaXQ3MnQ4cmJrMk1iQl9yczJoWUs3SjlXTlpwalNuMk1KTE45aTV6b3ktQk1TWFpyYkRYUmpyMzV2ZzNDc0I4cTVhSUU0STlMLW5UQUoxVkpMcE5lNFZhZ2VhdGo5TGczNWYzQjFlZ2dFRmhrM1lHMXRGbXlidWxWb0tLZzNQblhtQl9yZnZ1U0dNUkpHaXNZVS05WjYwdVBpUkdwX282YkJHMEFNQzNHX1M?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "badger-2026-09-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Badger Meter Introduces OneNetwork™ Software Platform for Water and Wastewater Utilities at WEFTEC 2026",
+      "companies": [
+        "badger"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "wastewater_treatment",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "http://investors.badgermeter.com/news-releases/press-release-details/2026/Badger-Meter-Introduces-OneNetwork-Software-Platform-for-Water-and-Wastewater-Utilities-at-WEFTEC-2026/default.aspx"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "wastewater_treatment": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "badger",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "wastewater_treatment",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 220,
+    "dup_title": 142,
+    "too_old": 64,
+    "gate1_blocked": 5,
+    "gate2_blocked": 2,
+    "passed": 7,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "2.6%",
+    "gate2_samples": [
+      "Veolia Environnement SA (VIE.PA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Is A. O. Smith Stock Underperforming the S&P 500? - Barchart.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為巴傑相關動態：「A. O. Smith stock gained 1.65 percent while analysts held...」。主要關注主題為財報、水資源產業通用、廢水處理，市場情緒中性。",
+    "signals": [
+      {
+        "text": "A. O. Smith stock gained 1.65 percent while analysts held - AD HOC NEWS（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "American Water stock at USD 130.91 on September 25, 2026, down 0.47 percent -...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "廢水處理話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
