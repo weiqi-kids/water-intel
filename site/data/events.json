@@ -1,5 +1,118 @@
 [
   {
+    "id": "veolia-2026-09-29-001",
+    "date": "2026-09-29",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Veolia stock trades at EUR 31.09 as EBITDA rises 5.00 percent - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDFucFpHOS1JYktUd21DMzUzdk9id0lwOHdnWXg2N3dBNXJzZ01LQkxFQVNDanc2NlVLWmZZaUpzRkFqVkVnLThnR010d3dLRlNCeWp5TXJJc0o2UzJXV0prOWNkbW9JSXZmekRTbX",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDFucFpHOS1JYktUd21DMzUzdk9id0lwOHdnWXg2N3dBNXJzZ01LQkxFQVNDanc2NlVLWmZZaUpzRkFqVkVnLThnR010d3dLRlNCeWp5TXJJc0o2UzJXV0prOWNkbW9JSXZmekRTbXNRSnhGQkxwNW92SnM5bXNMOXYwUXMtb1g3cW5DWUZnTThac1hOWkZWSjE2MDVxYkJ6SXFROWdwckI0VG1VTDJYQVJyX2xmYzZueFFGdmlMMlhKUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-002",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Karl Fischer Titrators Market To 2035: Pharma QC and Battery Materials Demand Drive Growth - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaWtGLW5vOHBIRUdwbmI0ZUlJNnRsWTh2VmRMNVYwaTJ0ZWNUQWhSaUpYSzRBMnBHN2l0YjZlWTVwX012cjV6VXBLTWNmZk4xM19LWENLaVZkdWhPcWo1SGxBdXp2Ukd6OFRZRzdyNk",
+    "sources": [
+      {
+        "name": "danaher",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaWtGLW5vOHBIRUdwbmI0ZUlJNnRsWTh2VmRMNVYwaTJ0ZWNUQWhSaUpYSzRBMnBHN2l0YjZlWTVwX012cjV6VXBLTWNmZk4xM19LWENLaVZkdWhPcWo1SGxBdXp2Ukd6OFRZRzdyNkc4WFBzVVZhVG5TNU92VGJ0NHdLc3MwUUpYeTk1cjZ3M1JkbmVkcjduRk5jQTJHWVhacnk0VndZdUFpa0NqeU1CVDcyeTI3Q1N6MnZDZzhaSDRBYmtZWVhVeXNCT2xTemtHbTNYSGp1NUt5aEdfaE9RWGFXbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-29-003",
+    "date": "2026-09-29",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AWK vs. WTRG: One Dividend Champion Will Emerge From This $63 Billion Consolidation - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVEtTX3M4cFZaYWNRZk4tQmVDVDlEb0FLMFQ1Z0NMV1hIQ1NfQ3BqbTZKSmZOTmJWeXQxLWpWeVVQV0N2d1hiOHlkQ0hCaHJDSWxQNVQxeklMbW04LWJkMHJ2eVVDelhhd0pRNXdOUk",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVEtTX3M4cFZaYWNRZk4tQmVDVDlEb0FLMFQ1Z0NMV1hIQ1NfQ3BqbTZKSmZOTmJWeXQxLWpWeVVQV0N2d1hiOHlkQ0hCaHJDSWxQNVQxeklMbW04LWJkMHJ2eVVDelhhd0pRNXdOUkdRWV9zaHhtejJuNk16TXVxV05kNnRZT2p1am5kTUZwRkRpWXNIc2M2Z2p5Y3ZtbThhRFlla3BiN3d2alBWLWFZX3pMaEpWVGFZeEVvSGxHRTc1UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-004",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tennessee American Water Participates in Source Water Protection Week - Sequatchie Valley Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORlUwemg0bVhPSDR2dnExY3FCc0RubWxGSUN6M09feG04NjRmcHVwU05pNl96VFZpT3pTcE5NLTRQcENuWnQzaWJIOWdRSnZ2Y2ZvMkFoVXBwYzFWbUhMMDNJM0tVSmx6SjNCYXUyUD",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORlUwemg0bVhPSDR2dnExY3FCc0RubWxGSUN6M09feG04NjRmcHVwU05pNl96VFZpT3pTcE5NLTRQcENuWnQzaWJIOWdRSnZ2Y2ZvMkFoVXBwYzFWbUhMMDNJM0tVSmx6SjNCYXUyUDNHcDVNTm9iSnBDbk1WanlCNmVYX2ZKU05LeWUzVFRGRElERmt6ZktKZzNxNVlxRkNkZ1JoZjNjRdIBrAFBVV95cUxOdngzdVN0ME9aakJ6NGpxMGhQTVd5a292dW5Zck9fNU1GLXBVUzI4MzRiOUFrNmhITFMwd3R5eEIwalJFNDgxRVRRVDlSVFdmMVFUdlBXVVZKeWhRWEhlUWRSVndROEhrcERHeXk2d0JVVXVJOE1ObFNVd2NHc0ViZGs3VUdGVml5bEJZbjhyNlFrLW8yWUtfaXBWMzhuV2FZQlo5VXBncFYzejdQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-29-005",
+    "date": "2026-09-29",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is American Water Works (NYSE:AWK) Facing a Real Market Test? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOXzZXeG1ySl9jZldNXzZaaVdNN2dXT0dPOXNiZ0c1ZmI5ajFZVVF6dGtHNFUtTjFVVTVvbTRya1NSN2RMbklGMjJ5OWhxVVFBLV91YmxhR1FyUFZWeWt1Y2ZPVTJvcnh1NGw3emRodj",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOXzZXeG1ySl9jZldNXzZaaVdNN2dXT0dPOXNiZ0c1ZmI5ajFZVVF6dGtHNFUtTjFVVTVvbTRya1NSN2RMbklGMjJ5OWhxVVFBLV91YmxhR1FyUFZWeWt1Y2ZPVTJvcnh1NGw3emRodjUteWd6bzZGX08yY0FueDRsWUpkUERjMXhZM1VqOUx0RVVjby1UdmRsLUFRUTdvRnNSLTlZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-006",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "ATLAS Infrastructure Partners (UK) Ltd. Adds to H2O America (HTO - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa05PZ051NWZRMEE5V1hFRVFnRFY4LThRZFVaQTV5Q1dTSFJ6TkMtZXRTMFA1bGtJWkJtNlBDWkxjV1VScFlROE9FTTkyeV9mcjlvSmRLd0NBMHRHcmVDekRlQWM2OUhFb0daVlJEVV",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa05PZ051NWZRMEE5V1hFRVFnRFY4LThRZFVaQTV5Q1dTSFJ6TkMtZXRTMFA1bGtJWkJtNlBDWkxjV1VScFlROE9FTTkyeV9mcjlvSmRLd0NBMHRHcmVDekRlQWM2OUhFb0daVlJEVVhYV2VVN3c3bFhmMDZnRHhSMllpWGZmdTVwY3d2N1BJa0tFR2tQbmxDa19wcnMzYmFjTjc2MGpWdWJ0eTF5aDJCZTN3UHE3RlRHNUZ0LUN2RUZVaUVnUXpVRmlMbDBhc1diRzFXTkExVm5nZ0ZiRE9n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-09-28-001",
     "date": "2026-09-28",
     "companies": [],
@@ -53,6 +166,136 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPelBqTlYwWldhMU14X0hTaXQ3MnQ4cmJrMk1iQl9yczJoWUs3SjlXTlpwalNuMk1KTE45aTV6b3ktQk1TWFpyYkRYUmpyMzV2ZzNDc0I4cTVhSUU0STlMLW5UQUoxVkpMcE5lNFZhZ2VhdGo5TGczNWYzQjFlZ2dFRmhrM1lHMXRGbXlidWxWb0tLZzNQblhtQl9yZnZ1U0dNUkpHaXNZVS05WjYwdVBpUkdwX282YkJHMEFNQzNHX1M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-28-004",
+    "date": "2026-09-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Electricity is recycled at DB - DB Konzern",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQbUx5OWFJYkpXNkp2bm1BMS1zVGFILWtWRTJ3a3BJdmpHeW9rZGc5MFY4T2szMEIzY2VsVUdGYUdiUkNuY1M1V1VlcTlFODlxcmFIc203SnNWWTc4NERUVGZDdTQ4UmVsTURZLVlXOD",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbUx5OWFJYkpXNkp2bm1BMS1zVGFILWtWRTJ3a3BJdmpHeW9rZGc5MFY4T2szMEIzY2VsVUdGYUdiUkNuY1M1V1VlcTlFODlxcmFIc203SnNWWTc4NERUVGZDdTQ4UmVsTURZLVlXODRqWm93THFFaXBEN2NGdWJqcDF6aw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-09-28-005",
+    "date": "2026-09-28",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Veolia stock last trades at EUR 31.09 on September 28, 2026 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa0dCbGZfM2ZVelo1MGx6Skk1aGgzWTVaQjgyb3AyZV9ZS21meW1Icy1qZGNHSHZYOVJZZlR0OXhFb3BpQTduMGxEZllKN3p6Ui1fZVU0ZXFmRzZUMGoySVVFWTl0LU8xaDdTYXVyaX",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa0dCbGZfM2ZVelo1MGx6Skk1aGgzWTVaQjgyb3AyZV9ZS21meW1Icy1qZGNHSHZYOVJZZlR0OXhFb3BpQTduMGxEZllKN3p6Ui1fZVU0ZXFmRzZUMGoySVVFWTl0LU8xaDdTYXVyaXZ2azdGSGVaRmthWnZ0ODk5LXNyZ0ZaazNYbzE0YlBQb1RMbF8wOTl2S0ZVS0Z0bmUyN3VUSUVjZ1NEU29FN3VpMmIyYzhQUHBY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-28-006",
+    "date": "2026-09-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith Corporation stock last traded at USD 58.38 on September 28, 2026 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQTkdwZE1fQkN6RXFNcVZ5LU9KYTVwOFdoZUdCSWlESDRISzRwSTNpS01EeTZPZ0ZEQ296MlZFMWdfNFpCeVVIVVIyV3ItOWgtRVFJSl9xTndWVVllRUhiQ0FQcklzWlY4LW9HcUlaRE",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTkdwZE1fQkN6RXFNcVZ5LU9KYTVwOFdoZUdCSWlESDRISzRwSTNpS01EeTZPZ0ZEQ296MlZFMWdfNFpCeVVIVVIyV3ItOWgtRVFJSl9xTndWVVllRUhiQ0FQcklzWlY4LW9HcUlaREVWaVp4blcta0VKSVJtMFNQbFpwLTlKaE51Ync3cUh4azByMEI1ZHg3Nk1KcGpUZG5qOEhMVWE5dEZxXzM4REZuZXFIYmJwSHh3ZVRLYWEyM1pkMWxDUXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-09-28-007",
+    "date": "2026-09-28",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries Ltd (OTC: KTWIY) Stock Price, News & Analysis - kalkine.ca",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBidGJPamZYbVlzNXA3R1MzRDZtbWJkdjZyMEc5bGVXUW02ZFlVeFVGV3E3QzIwT1N5VlNrLVJEcGg1WWIxSk4wS3lobjZZZw?oc=5\" target=\"_blank\">Kurita Water Industri",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBidGJPamZYbVlzNXA3R1MzRDZtbWJkdjZyMEc5bGVXUW02ZFlVeFVGV3E3QzIwT1N5VlNrLVJEcGg1WWIxSk4wS3lobjZZZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-28-008",
+    "date": "2026-09-28",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pennsylvania American Water Participates in Source Water Protection Week, Highlighting its Commitment to High-Quality Water - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQdlJaUlpESDI4SFlxdGVIbW9oNEEyTjIzVThDdDVBeGtaRkFkX1d6ZWgzVS1iakkzbG5rYjFpb0x1UFFqZHljQ1pYQmU5S3hZdVFyOW85bF9xMU03TU5ndGEyeWcwX3BvUWhyZVV3Nz",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdlJaUlpESDI4SFlxdGVIbW9oNEEyTjIzVThDdDVBeGtaRkFkX1d6ZWgzVS1iakkzbG5rYjFpb0x1UFFqZHljQ1pYQmU5S3hZdVFyOW85bF9xMU03TU5ndGEyeWcwX3BvUWhyZVV3NzY1bnJuekE3Zzg2QUo1SEJXbk1QaUdrczJSdlJNQzVfcHdkM3huRVNyUUxJc3djZEdLdEhwYXR4U0N4MThCX2lNcW1Ydm9ETzhRYVlYbG1iaHB0eG92TkxkQ191YW54NkMzOWQ1MmxCWkhmcGk4d0tHaVB1c0FGaEJfSmsxUjZ2VmltR2JPbFZlcmVZOXRjUDhVdG04ZFJVNV85UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-28-009",
+    "date": "2026-09-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Indiana American Water Leads Indiana in Building the Next Generation of Certified Water Operators - GreatNews.Life",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2JRdE43UmNXMW1fTDZiQUhfdFZtU3AtRl9TSVdla1hWVjlPT0szUXNHSkNGNENrUXliV1pDX2Vpb3dhc3U2YXgyaktzM3VnaU1icS1ndklrelYxSzBNTFMzd19fNGZSRFZ5aXU1Zn",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2JRdE43UmNXMW1fTDZiQUhfdFZtU3AtRl9TSVdla1hWVjlPT0szUXNHSkNGNENrUXliV1pDX2Vpb3dhc3U2YXgyaktzM3VnaU1icS1ndklrelYxSzBNTFMzd19fNGZSRFZ5aXU1ZnUtRXVPYks2YlcwLXhiVGVxU0NJU1hEMmJEMWZlbUxvOHVIUVJqMTQ5OFlPdjB1TVhOS2NyX3ZjT1BoUnh1YnhJODZQZFNsNldEQllmT0M2enN2V0h4a2xyUA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-28-010",
+    "date": "2026-09-28",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pennsylvania American Water highlights efforts to protect source water during national awareness week - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHBWOUlnZ0RUOFBJa24zQlJGSTlycmNXQmxhb0ZXdUFFRXlabHZNRVptUkoxeTlNMzJvQlFJT3ZRRl96bWJaZjVJNmZWX09qdVF2QUdfbzBlTTNQZnFPVkM0TEVDV0lVOFdDV3YxVW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHBWOUlnZ0RUOFBJa24zQlJGSTlycmNXQmxhb0ZXdUFFRXlabHZNRVptUkoxeTlNMzJvQlFJT3ZRRl96bWJaZjVJNmZWX09qdVF2QUdfbzBlTTNQZnFPVkM0TEVDV0lVOFdDV3YxVW1YNVNuUlk0OHNHdnZIQnFsWWxGUnRSejAtWEQ2bHVfTDllLTJWLTZvMmtmanhSREdfUzJiSWxJZVlmb0lHbzVR?oc=5",
         "type": "rss"
       }
     ]
@@ -140,6 +383,26 @@
     ]
   },
   {
+    "id": "ao_smith-2026-09-27-005",
+    "date": "2026-09-27",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kevin Lee Wynne Obituary (2026) - Taylor, AR - A.O. Smith Funeral Homes, Inc. - Taylor Chapel - Legacy obituary",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1HTGVTUlQtTjRITTJvbk1LamZqaW1ZckpicVFSZEJTN254aTRScktWTUUtUHpZVi1rcEN3bTA5THNrLXF3bUpoQ1phNy1vUFhrb0Vha0haaVljdlFadUt3ZE1oM0YtRzhyWHhYSl8zdG",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HTGVTUlQtTjRITTJvbk1LamZqaW1ZckpicVFSZEJTN254aTRScktWTUUtUHpZVi1rcEN3bTA5THNrLXF3bUpoQ1phNy1vUFhrb0Vha0haaVljdlFadUt3ZE1oM0YtRzhyWHhYSl8zdGJlNHB0T2ZxdDNKSE9UVzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-09-26-001",
     "date": "2026-09-26",
     "companies": [
@@ -177,6 +440,47 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORzBQWllEbHgtLTVyTHh6U1BlcFdjbjB1WXNadkozbGRKWDRkeDZrT0pzODFDaEdrX1VqV3N3UnJMZXZyYUVyWkxLc3pmOHJ0SFpRVTBlaGdUb0FNdjJpWE5Oa0FjWlExcTMxZkk4WjFQNnZNQUlaalNvSGV4REVRWGFXMjFwWmVFMDBhUW1rdF9GX1dhN1l3cnVZb2gzVVNPUHV5SnZkM2huTTJoR2hjSnhNTFRZSkxMZi1GdUlrcEtZeFVlXzY3c2ZoX3l4dW5wX2JqNHRaWWjSAdgBQVVfeXFMTkcwUFpZRGx4LS01ckx4elNQZXBXY24wdVlzWnZKM2xkSlg0ZHg2a09KczgxQ2hHa19Valdzd1JyTGV2cmFFclpMS3N6ZjhydEhaUVUwZWhnVG9BTXYyaVhOTmtBY1pRMXEzMWZJOFoxUDZ2TUFJWmpTb0hleERFUVhhVzIxcFplRTAwYVFta3RfRl9XYTdZd3J1WW9oM1VTT1B1eUp2ZDNobk0yaEdoY0p4TUxUWUpMTGYtRnVJa3BLWXhVZV82N3NmaF95eHVucF9iajR0Wllo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-09-26-003",
+    "date": "2026-09-26",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products $MWA Stock Sold by Engineers Gate Manager LP - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3Vub1JfQW1MWmYzYkIzOGI0V2M2VVlHVHJlcVJwdUdwYWN6X3k0MHdZSzVtY0o0bGJ6UmZUWDU5YVlLc1FkT0pTeUs0TzI2MzZfRjJ5YVJBQjh6NXYyWkhDQkxzZTJTWk5iRXlkQU",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3Vub1JfQW1MWmYzYkIzOGI0V2M2VVlHVHJlcVJwdUdwYWN6X3k0MHdZSzVtY0o0bGJ6UmZUWDU5YVlLc1FkT0pTeUs0TzI2MzZfRjJ5YVJBQjh6NXYyWkhDQkxzZTJTWk5iRXlkQUdnNXJiVnVGNzNaWkk5cjZsYXNXWlRFNVJNLXQ4UTg2ak5VR1VubUtyUV9sRDk1LUVmUUxFSktOMlQySGEzRng0RHZsQWhOQjZ6ZExPYTRlNW81WVA1N3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-26-004",
+    "date": "2026-09-26",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Participates in American Water Works Association's Source Water Protection Week - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVlRGRjhGZk9oaVNWS3FnY3h2WE53bDEyMFh2WlViTHNnVjhQOV9INGJvLU1UMExYZlhfQm5lVUlDSXVkNmVxVkNKMXZ6NVpvM0JZWmU1VWJyN3hmYzM3YzNWQWZER3paZk5oa2JVZG",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVlRGRjhGZk9oaVNWS3FnY3h2WE53bDEyMFh2WlViTHNnVjhQOV9INGJvLU1UMExYZlhfQm5lVUlDSXVkNmVxVkNKMXZ6NVpvM0JZWmU1VWJyN3hmYzM3YzNWQWZER3paZk5oa2JVZG9CVTlURFY1bVhCR2hkMl9Palo1SUs2UG1NNVB0bFotQmY4YzdwRWs0dnduZXBHTVB2VEJ0TTJKUjYtRmRqSEtYem01bnlVOVVNREczbGRHRlZSSEU4V2kwR2JsWlNNMFRkbk1aS2twWGh1UmtROGc2a2V3?oc=5",
         "type": "rss"
       }
     ]
@@ -728,6 +1032,66 @@
     ]
   },
   {
+    "id": "mueller-2026-09-25-030",
+    "date": "2026-09-25",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top Mueller Water Products (MWA) Competitors 2026 - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBnMjBldm5pV3dqTV9Pcm9pT0JNaGEwdHlHTW5acmRkT01iLVRzRG1kYWNVQkhMQ29TTW4wcnByakNXNmJ1Y2ZZRDNGNjdVREtvRDZzUGtBWEpXb1d4YzA3a09obTBEQWx2TEJXblJuaU",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnMjBldm5pV3dqTV9Pcm9pT0JNaGEwdHlHTW5acmRkT01iLVRzRG1kYWNVQkhMQ29TTW4wcnByakNXNmJ1Y2ZZRDNGNjdVREtvRDZzUGtBWEpXb1d4YzA3a09obTBEQWx2TEJXblJuaUtQRUFJaVl3cXpIOWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-09-25-031",
+    "date": "2026-09-25",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products (MWA) Dividend Yield 2026, Date & History - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE90cVZ0NklmRm0yTE1hU2RiUUZRRWUtcWJwaVJtNHp1TWRMNVR1OWFWSDZiTS1Wc1RWVzhfa01QOFEzUmtTYTVaZHJuMTJoUnoxUWRqbDVNTmNnNVh5T3A2WVd3?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90cVZ0NklmRm0yTE1hU2RiUUZRRWUtcWJwaVJtNHp1TWRMNVR1OWFWSDZiTS1Wc1RWVzhfa01QOFEzUmtTYTVaZHJuMTJoUnoxUWRqbDVNTmNnNVh5T3A2WVd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-25-032",
+    "date": "2026-09-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois American Water Emphasizes the Importance of Source Water Protection During Annual Recognition Week - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcDZaUFFEdnNUNlBuMG1tT2dtNnk3SkRuR25YbW5IdEJ1aTlzR1VtckdreUtzc01yVVhYcUxRTlhJY2NxRXF0TFFiMG1vTGx5dmZfRWFZemphOEF5bGJFOUo0R1RMZTFoSXgtbUxfQk",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcDZaUFFEdnNUNlBuMG1tT2dtNnk3SkRuR25YbW5IdEJ1aTlzR1VtckdreUtzc01yVVhYcUxRTlhJY2NxRXF0TFFiMG1vTGx5dmZfRWFZemphOEF5bGJFOUo0R1RMZTFoSXgtbUxfQkZwSUZHbjFST3ROeFo5dmx1R0ZKWk1DZTZHRmk0WTFvV1c1Sm1ZNWxoa2tjREFGUk9yVHVmVi02Nk4zT196WnJHR3dEd0p1WlBZaktuSW5waWl3RWk3SmRkaVMyYll3cXBZdjBFdVl3bUl6bm9PZHFWaUtxQ0o1UnNDQ1ZNVXpMYU4wUFljMmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "veolia-2026-09-24-001",
     "date": "2026-09-24",
     "companies": [
@@ -949,6 +1313,24 @@
       {
         "name": "mueller",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV2k1M3RpUGRvMnpqa1MyZkVvMlhnc1hsQkxOdVpoTElncExhQ1lPdmtyQnU3bjJwbzN6YkVDU0lnazVpZUI2b2MtazZ0QVdkNVp2ZGxZS0RCd2RISHBiNFdMdE9Xd2hlQXh5YjhxbTZWTFVscDNUckxvMDk4aW45VF9UT3hiRFJTN0I0Z1RqMUxzcHNvYjBwNUhva2JDajNyMWhva1JVRXNnUXFiZkJhZXliaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-09-24-012",
+    "date": "2026-09-24",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "WMW | Energy Recovery: SWANA report sets out the key benefits of waste to energy for local decision-makers - Waste Management World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0wyTEF5cnBiUHBaUnR0aEZVQXZ0VDVYRTVDd3BrUy1JQl9oVkNGQXh0MFZ3bjVLRlE2U1Bfb2JRS3Z2RzlsQ0F0eV9UbmlnM3NhdW4xT1FHUVRqRjBETXhCdmEwNEhLMjJ5eHpvdk",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0wyTEF5cnBiUHBaUnR0aEZVQXZ0VDVYRTVDd3BrUy1JQl9oVkNGQXh0MFZ3bjVLRlE2U1Bfb2JRS3Z2RzlsQ0F0eV9UbmlnM3NhdW4xT1FHUVRqRjBETXhCdmEwNEhLMjJ5eHpvdktGbVY5WnhXcVBxOHRpdFh5dzVheEZOVm5HaUhlX3JLc3hsNkk1WlMxUWdLNWtJNDB0R21kakdkNlRYYWJnZlY5TTFtNHpCVkpnR0hLZll2WmdQSXdnZkU1VHViLUI?oc=5",
         "type": "rss"
       }
     ]
@@ -1621,6 +2003,24 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWVYtM1pIWGVhbGxJaFpLaHEtRzNkTkExWk9HVkpLMVVWVThQNkotTWpackFwQmVndVAtNFNMa1lfQUZRMUgteFFiYzhnbEVGRUxtM093NkRnU3VpQWZ6elNTZTFDUnpLVGFUeDgwOUMyczNHMHhjTXVLaDhDTGhhTVBrMTU0MDJ1ZThtUjVMaDZheFlxMDJmR2h1elU1YTN5dUhub05B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-09-22-014",
+    "date": "2026-09-22",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Energy Recovery, Inc. (NASDAQ:ERII) Given Average Recommendation of \"Reduce\" by Brokerages - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV0NXYkFIX0FWcE01c29zN0VGV055dG9RUzdfekhSMDEzMW9fM3AxVk5HWWo2aEdwdGNrcDJQSjh5aGk0eW5CU2J4RzRiRHdxcGFNLVRjVEVWS1ZBajhVajlpUU9jT2VfTjNzd21WY2",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV0NXYkFIX0FWcE01c29zN0VGV055dG9RUzdfekhSMDEzMW9fM3AxVk5HWWo2aEdwdGNrcDJQSjh5aGk0eW5CU2J4RzRiRHdxcGFNLVRjVEVWS1ZBajhVajlpUU9jT2VfTjNzd21WY28zWVN0SG9CdzVSTXV4WS1aTkdWcm9Za0dZMVNuQng3UnNmbEppazE4eWlpX1RDV3hsVTBsNlpVNld6VmVNTXY0bGRINVE4NlB3OTkzanZ2ZnFiNmRSUG1PM1BWRzJqTFBzRDk1SzE4TV91eUhlNDdSWFRn?oc=5",
         "type": "rss"
       }
     ]

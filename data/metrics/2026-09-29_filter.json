@@ -1,0 +1,12 @@
+{
+  "total_raw": 240,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 6,
+  "gate2_fail": 1,
+  "passed": 21,
+  "gate2_samples": [
+    "Africa: energy recovery from waste is gaining ground - capmad.com"
+  ]
+}
