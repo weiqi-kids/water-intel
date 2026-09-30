@@ -1,5 +1,44 @@
 [
   {
+    "id": "unknown-2026-09-30-001",
+    "date": "2026-09-30",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "3 U.S. Infrastructure Stocks Linked To Cold Chain Demand After Tariff Relief - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdGc4NktLamdEdDBYRmdqNnU0clpMaU4tZ1Z3VG5pYUJfN0RjQWtVUWRZSHRjaW4wdk5LcThaMGpObk9qOFpiaF9ieHItSHFHR3A5VEJSd09xSXc5b0lTWW5ObHhQSXVmWkdjZk1fS0",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdGc4NktLamdEdDBYRmdqNnU0clpMaU4tZ1Z3VG5pYUJfN0RjQWtVUWRZSHRjaW4wdk5LcThaMGpObk9qOFpiaF9ieHItSHFHR3A5VEJSd09xSXc5b0lTWW5ObHhQSXVmWkdjZk1fS0RGQnJ4dEZNdV84TWZYeGhubjFaY0pDYmZHN1JpXzlacDBMY1dvUl9ienVkRjJBTlRhZk5jY0RseHdrOGNXTW9WU3FXdG9WN0Rma1EtamtEMXZ6TGE5c3h4dXRrNGJUb3lLVWNLLUJ4bnA5MlXSAdsBQVVfeXFMTXRnODZLS2pnRHQwWEZnajZ1NHJaTGlOLWdWd1RuaWFCXzdEY0FrVVFkWUh0Y2luMHZOS3E4WjBqTm5PajhaYmhfYnhyLUhxR0dwOVRCUndPcUl3OW9JU1luTmx4UEl1ZlpHY2ZNX0tERkJyeHRGTXVfOE1mWHhobm4xWmNKQ2JmRzdSaV85WnAwTGNXb1JfYnp1ZEYyQU5UYWZOY2NEbHh3azhjV01vVlNxV3RvVjdEZmtRLWprRDF2ekxhOXN4eHV0azRiVG95S1VjSy1CeG5wOTJV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-30-002",
+    "date": "2026-09-30",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works stock reports Q2 EPS of USD 1.61 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0hiNVhwTXQtX0tnV3dTTGlfdDdZSkR6V1U3TDlLUG1XOUlYNGRGVVhtU0hGV2NXQmdiYjdlUDBaQlllQmpzaUZnSk1Gb1pqOVlLUlJ0SzVpS205S1ZTa1gyT2tWMEFXemJRc2JCUH",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0hiNVhwTXQtX0tnV3dTTGlfdDdZSkR6V1U3TDlLUG1XOUlYNGRGVVhtU0hGV2NXQmdiYjdlUDBaQlllQmpzaUZnSk1Gb1pqOVlLUlJ0SzVpS205S1ZTa1gyT2tWMEFXemJRc2JCUHhseUtvcHljUUFGQWNFNVZ6ZmJEeWJnUDRmTHZRYXFSZUdwZXh1U2FWTnpEbWc1VFc1Qkg4b3N2RWxScy1oRGxuTzQ2dGMxR1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "veolia-2026-09-29-001",
     "date": "2026-09-29",
     "companies": [
@@ -108,6 +147,181 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa05PZ051NWZRMEE5V1hFRVFnRFY4LThRZFVaQTV5Q1dTSFJ6TkMtZXRTMFA1bGtJWkJtNlBDWkxjV1VScFlROE9FTTkyeV9mcjlvSmRLd0NBMHRHcmVDekRlQWM2OUhFb0daVlJEVVhYV2VVN3c3bFhmMDZnRHhSMllpWGZmdTVwY3d2N1BJa0tFR2tQbmxDa19wcnMzYmFjTjc2MGpWdWJ0eTF5aDJCZTN3UHE3RlRHNUZ0LUN2RUZVaUVnUXpVRmlMbDBhc1diRzFXTkExVm5nZ0ZiRE9n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-09-29-007",
+    "date": "2026-09-29",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products (NYSE:MWA) Reaches New 52-Week Low - Time to Sell? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPX2dSWDJmU1V6YXQzT1A0Yk05ZV9SSmJTamVUdVBqQVB1WmdWX3RlT0ZpZ19rM1JReE4tZl9mUEhiQm5XQ3ZRT2VNQlQyWDFueUQyVUxSOHVsb0Rya0pTd2FLUEVMYUxBendFdXcxZ2",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX2dSWDJmU1V6YXQzT1A0Yk05ZV9SSmJTamVUdVBqQVB1WmdWX3RlT0ZpZ19rM1JReE4tZl9mUEhiQm5XQ3ZRT2VNQlQyWDFueUQyVUxSOHVsb0Rya0pTd2FLUEVMYUxBendFdXcxZ25pSjlDX1N4UUZzblBLb2tyWGFoZ2V3QmZMVUh5bDBxUTN1UElPNFRhdUJvQ05lTnZiNmJxb0htV2dPYUtPaWVIdHVTSkJSNDdSN25kN3FYdzZqNzdMZEZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-09-29-008",
+    "date": "2026-09-29",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ministry of Energy and UNDP launch Ukraine Energy Installation Facility to accelerate energy recovery and strengthen resilience - United Nations Development Programme",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQODhtT0t4NEsyaFk1TVhDdTBMYlhpd0V6NElyYkNRTElrdjhRcFNsajJ5MmM3X0hEQ3pRY1BKTURORkItbzRhOTZFZXpId2pDQmtKMDBXTW5sSFpRVnhQQWtHd0lsUTJmczhIMElfZV",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQODhtT0t4NEsyaFk1TVhDdTBMYlhpd0V6NElyYkNRTElrdjhRcFNsajJ5MmM3X0hEQ3pRY1BKTURORkItbzRhOTZFZXpId2pDQmtKMDBXTW5sSFpRVnhQQWtHd0lsUTJmczhIMElfZV9VcHA2dGIwTzRjMDI5aFFIemFCd1Bfekx1WEpTNW5GMEJ1SmpiTlRTb05pTy1ickR6cE0xY3Q1VlU3eTBLUG5qYkRFSzNXWHN5UG1JdGxKZWNBMEFMaVJfVXZUcEoyNnMzQk10MzNlLUNpWEk2TG1ONFRfS2FVMEkycjFJUkhvWXh0TDNndXFXSA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-09-29-009",
+    "date": "2026-09-29",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sludge-to-Energy: Plants Boosting Energy Recovery with THP - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0VzT3pmZzNUOU0wNnJCMENEVEtkUVJSSW9tdEtRSFRBSTZqRGVPV200OVRCX3FJMEVCODAyWGZSSWM5NjRhVVVkRGdnUHJtNGJCZHhyYS1hMU5CS0docUdQNXB6RGlvczJhWDFHSV",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0VzT3pmZzNUOU0wNnJCMENEVEtkUVJSSW9tdEtRSFRBSTZqRGVPV200OVRCX3FJMEVCODAyWGZSSWM5NjRhVVVkRGdnUHJtNGJCZHhyYS1hMU5CS0docUdQNXB6RGlvczJhWDFHSVpDazRjSEwyWjdNVl96dVIxUTYzeHpKV093VldSSXRGdmRILVNxbTRIN1VEOFctbEJfMTJ3MmNDUTRHc1FDZm9F?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-09-29-010",
+    "date": "2026-09-29",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Even hands-free phone use will be barred while driving on the job under Essential Utilities (WTRG)'s merger plans. - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDJQQm9mNzByX3dzTFM3RzRERVFkTWNMeUhFZGRURkpSbVctZ3lZNnpvV3VmV0t2Q1BxWFZ0VHpCZHhvZi1DbDlxTUR4VnlicGI5ZmcyV2M4dm55NXpKWmV6SUFabUFISnlVUzk0ZT",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDJQQm9mNzByX3dzTFM3RzRERVFkTWNMeUhFZGRURkpSbVctZ3lZNnpvV3VmV0t2Q1BxWFZ0VHpCZHhvZi1DbDlxTUR4VnlicGI5ZmcyV2M4dm55NXpKWmV6SUFabUFISnlVUzk0ZTlJV2lFbFQ5Y25uMVRNQVRZM3dZamUyN05PdlJpTm1teHQzZXV1Q1MzR0pNMXk5TU92bV9sckpMX0VVMXJ0QktCdFpsWkRfUnducTB1Q0h2Q3FKQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-09-29-011",
+    "date": "2026-09-29",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Asset turnover of Essential Utilities, Inc. – HAN:A2A - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPTHlpT2lkOGdCZUtfYlZUU1B0b1A5ZWRnU3lsVHh1bFZMOUEzdFlUSVRCR2tnWHQ5TkgybUxjV0pFdHRvSG85Zk1lSUhOSkdBOEgtbERmaW1QQ3I2VVdOSU1FYnRpa05UdlNYc0RGNm",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTHlpT2lkOGdCZUtfYlZUU1B0b1A5ZWRnU3lsVHh1bFZMOUEzdFlUSVRCR2tnWHQ5TkgybUxjV0pFdHRvSG85Zk1lSUhOSkdBOEgtbERmaW1QQ3I2VVdOSU1FYnRpa05UdlNYc0RGNmVmdmlnQi14dy1rTWlMRzhlZFhxR0o2M2g0ZWk4ZVNQOTU2dTdmcWVj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-29-012",
+    "date": "2026-09-29",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AWK vs. WTRG: One Dividend Champion Will Emerge From This $63 Billion Consolidation - 247wallst.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVEtTX3M4cFZaYWNRZk4tQmVDVDlEb0FLMFQ1Z0NMV1hIQ1NfQ3BqbTZKSmZOTmJWeXQxLWpWeVVQV0N2d1hiOHlkQ0hCaHJDSWxQNVQxeklMbW04LWJkMHJ2eVVDelhhd0pRNXdOUk",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVEtTX3M4cFZaYWNRZk4tQmVDVDlEb0FLMFQ1Z0NMV1hIQ1NfQ3BqbTZKSmZOTmJWeXQxLWpWeVVQV0N2d1hiOHlkQ0hCaHJDSWxQNVQxeklMbW04LWJkMHJ2eVVDelhhd0pRNXdOUkdRWV9zaHhtejJuNk16TXVxV05kNnRZT2p1am5kTUZwRkRpWXNIc2M2Z2p5Y3ZtbThhRFlla3BiN3d2alBWLWFZX3pMaEpWVGFZeEVvSGxHRTc1UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-013",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "West Virginia American Water Highlights Source Water Protection - Intellectia AI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPUVJXYWdCZnRsRmktWWpsQkxERWpJMnNrVzJrOGlUU2FTR05tZFlxaWttYUhxaXZ6elpGSkhvbTVoRkdJQy1PNU1maEppWHR6YlVFQW03TWo3UVFpYkFIbXJSVzhrWklpZ1NLQWpld2",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVJXYWdCZnRsRmktWWpsQkxERWpJMnNrVzJrOGlUU2FTR05tZFlxaWttYUhxaXZ6elpGSkhvbTVoRkdJQy1PNU1maEppWHR6YlVFQW03TWo3UVFpYkFIbXJSVzhrWklpZ1NLQWpld20wQlZpOEVoZlBKaWo4Nnl2WmpBTTQ0MEd4QU5DSGZSZzB4M2UybnNnOWFBUl9KQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-014",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tennessee American Water Participates in Source Water Protection Week - svalleynow.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORlUwemg0bVhPSDR2dnExY3FCc0RubWxGSUN6M09feG04NjRmcHVwU05pNl96VFZpT3pTcE5NLTRQcENuWnQzaWJIOWdRSnZ2Y2ZvMkFoVXBwYzFWbUhMMDNJM0tVSmx6SjNCYXUyUD",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORlUwemg0bVhPSDR2dnExY3FCc0RubWxGSUN6M09feG04NjRmcHVwU05pNl96VFZpT3pTcE5NLTRQcENuWnQzaWJIOWdRSnZ2Y2ZvMkFoVXBwYzFWbUhMMDNJM0tVSmx6SjNCYXUyUDNHcDVNTm9iSnBDbk1WanlCNmVYX2ZKU05LeWUzVFRGRElERmt6ZktKZzNxNVlxRkNkZ1JoZjNjRdIBrAFBVV95cUxOdngzdVN0ME9aakJ6NGpxMGhQTVd5a292dW5Zck9fNU1GLXBVUzI4MzRiOUFrNmhITFMwd3R5eEIwalJFNDgxRVRRVDlSVFdmMVFUdlBXVVZKeWhRWEhlUWRSVndROEhrcERHeXk2d0JVVXVJOE1ObFNVd2NHc0ViZGs3VUdGVml5bEJZbjhyNlFrLW8yWUtfaXBWMzhuV2FZQlo5VXBncFYzejdQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-015",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Utility exec talks big business of water in North Carolina - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNVjVRbVhvWF83dllMN0NTOUtnQkI5U0RlS0ZWVzNfX1JiV2pXUWlEcUVkSVh4ZXBOZnBvQ01keW1DMTNKN3hHTEpLNmhGMXNFaWktalkzVmNGSDVQX3U5LVhwLXNFakUxbDItbWdHd1",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVjVRbVhvWF83dllMN0NTOUtnQkI5U0RlS0ZWVzNfX1JiV2pXUWlEcUVkSVh4ZXBOZnBvQ01keW1DMTNKN3hHTEpLNmhGMXNFaWktalkzVmNGSDVQX3U5LVhwLXNFakUxbDItbWdHd1l5SzZoZERaS1QxUDRhWkVQVkZNV285S0R5c0dwUnBjZ3FhYXVkcm04aW1YWDF6dWNTSzhkZnlGTQ?oc=5",
         "type": "rss"
       }
     ]
@@ -301,6 +515,27 @@
     ]
   },
   {
+    "id": "kurita-2026-09-28-011",
+    "date": "2026-09-28",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries To Go Ex-Dividend On September 29th, 2026 With 67 JPY Dividend Per Share - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOSFpzQUEtMXc4TjR3aC1ZemZoQ2pESnpMUnZoeUstVV83T3plTlY4RnFxc0Y2V1p2a3ZNQTBFR0t5QVc4UDVrcTctS2htYllPUk4wNTF3UXZVMGgtTl9MTVFCM05oTWttZUFfSjZIZ3",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSFpzQUEtMXc4TjR3aC1ZemZoQ2pESnpMUnZoeUstVV83T3plTlY4RnFxc0Y2V1p2a3ZNQTBFR0t5QVc4UDVrcTctS2htYllPUk4wNTF3UXZVMGgtTl9MTVFCM05oTWttZUFfSjZIZ3JrSHlLMDdhSVlFWWxkclYwLTAyeEMybWFEZFA1TlVUY25VS3B3RDNqN25NZEJWX1NmdVBhc0Nn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "american_water-2026-09-27-001",
     "date": "2026-09-27",
     "companies": [
@@ -398,6 +633,48 @@
       {
         "name": "ao_smith",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HTGVTUlQtTjRITTJvbk1LamZqaW1ZckpicVFSZEJTN254aTRScktWTUUtUHpZVi1rcEN3bTA5THNrLXF3bUpoQ1phNy1vUFhrb0Vha0haaVljdlFadUt3ZE1oM0YtRzhyWHhYSl8zdGJlNHB0T2ZxdDNKSE9UVzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-27-006",
+    "date": "2026-09-27",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works (AWK) Stock Looks Fully Priced On Its 14% Three Year Gain - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQTZFd2ZmcHBMQUNabDJ3NjVtX0c3Q2FyV2R0cHZHYVFmTURHekRBdnRucDU4cm54VDZYam5FWVMtemRCc0pDUkY0MzY4b1JsaEZ6TG9pM1hPT29WSWZPRGRzcWNHWV9iUmpCdHlfMm",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQTZFd2ZmcHBMQUNabDJ3NjVtX0c3Q2FyV2R0cHZHYVFmTURHekRBdnRucDU4cm54VDZYam5FWVMtemRCc0pDUkY0MzY4b1JsaEZ6TG9pM1hPT29WSWZPRGRzcWNHWV9iUmpCdHlfMmljelJXaXh3ekR0VU5qeHU4ZmpqdXVVa1o1blY2dFU2VEIxR3BBTEt4QU45aw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-27-007",
+    "date": "2026-09-27",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company (AWK), What Is Behind The Latest Attention? - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOWVRjY09HMTkzTF9YdXpyYkJYanpReFlxdXM0ZDV4SlJTWEkxbGVPQ0tSZ3ZWVUFaQncwUWkyOXM3OXc2QUVOajlhbVloTEdNZVdYbFVOcTRUX21NS2Z3RmQ2bEpYQVNleEQ2bGxEME",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWVRjY09HMTkzTF9YdXpyYkJYanpReFlxdXM0ZDV4SlJTWEkxbGVPQ0tSZ3ZWVUFaQncwUWkyOXM3OXc2QUVOajlhbVloTEdNZVdYbFVOcTRUX21NS2Z3RmQ2bEpYQVNleEQ2bGxEMEZlSmdnZU9jV0ZNODVYQ05fTkF2UEN1eU5rY0hIUmJLbk4ycHNUUXB3cUJpS1prUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1087,6 +1364,25 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcDZaUFFEdnNUNlBuMG1tT2dtNnk3SkRuR25YbW5IdEJ1aTlzR1VtckdreUtzc01yVVhYcUxRTlhJY2NxRXF0TFFiMG1vTGx5dmZfRWFZemphOEF5bGJFOUo0R1RMZTFoSXgtbUxfQkZwSUZHbjFST3ROeFo5dmx1R0ZKWk1DZTZHRmk0WTFvV1c1Sm1ZNWxoa2tjREFGUk9yVHVmVi02Nk4zT196WnJHR3dEd0p1WlBZaktuSW5waWl3RWk3SmRkaVMyYll3cXBZdjBFdVl3bUl6bm9PZHFWaUtxQ0o1UnNDQ1ZNVXpMYU4wUFljMmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-25-033",
+    "date": "2026-09-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Zacks Industry Outlook Highlights Eaton, Emerson Electric, A. O. Smith and EnerSys - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNVEdRMlFweVZUdlUzclVXQjYtS2tXTG9sMU5JOUlDN3FTYVh3eTU0djhaUGR3dVNUd0FVbk1kUHNmQXRRY2wzdktMQlVRUGdhcDk3ekZ6OUlfcGZKTlpMMGl4Z0VQZEtaS3U0YUtNTm",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVEdRMlFweVZUdlUzclVXQjYtS2tXTG9sMU5JOUlDN3FTYVh3eTU0djhaUGR3dVNUd0FVbk1kUHNmQXRRY2wzdktMQlVRUGdhcDk3ekZ6OUlfcGZKTlpMMGl4Z0VQZEtaS3U0YUtNTmpYSmt3SGsyQ3VndHFHMC1hUjl6dEczeEZVT3gwLU9XaVlOZU9zbHo1R2lXb3ZQR1JLRGpzYnVybw?oc=5",
         "type": "rss"
       }
     ]

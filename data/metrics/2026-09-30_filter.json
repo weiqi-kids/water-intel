@@ -1,0 +1,15 @@
+{
+  "total_raw": 240,
+  "dup_title": 108,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 4,
+  "gate2_fail": 4,
+  "passed": 15,
+  "gate2_samples": [
+    "Africa: energy recovery from waste is gaining ground - Capmad",
+    "Ukraine Energy Installation Facility: Bridging the Final Mile of Energy Recovery - United Nations De",
+    "Veolia Environnement SA (VEOEY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Veolia stock pre-market at EUR 30.97: minus 0.74 percent - AD HOC NEWS"
+  ]
+}
