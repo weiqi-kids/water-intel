@@ -1,5 +1,123 @@
 [
   {
+    "id": "unknown-2026-10-01-001",
+    "date": "2026-10-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zacks cuts A. O. Smith stock estimate to USD 0.94 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2tQSUtHZ2lybmJNR21HOTdVRXNUd2dTNWRNdVFnVC0yTm1Jc0NZRXFRUXM3a2pfLWJFU2RMMzNXVmd3U3ZiTzlSdmNzMUQ1MHp6ZHdLMHJHT0ZBcUFUck5wRVhZejdzQUhYa0hJOT",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2tQSUtHZ2lybmJNR21HOTdVRXNUd2dTNWRNdVFnVC0yTm1Jc0NZRXFRUXM3a2pfLWJFU2RMMzNXVmd3U3ZiTzlSdmNzMUQ1MHp6ZHdLMHJHT0ZBcUFUck5wRVhZejdzQUhYa0hJOThjVVlFcExJR0hzaTE2N3NnWGpOVFYwcjFleUZZUm5VRW9BQ1h4T3Izem9ZcFMxbGRMenRwc2xUSTBmZWJMODlV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "watts-2026-10-01-002",
+    "date": "2026-10-01",
+    "companies": [
+      "watts"
+    ],
+    "topics": [
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Watts Water Technologies Announces Retirement of Kenneth R. Lepage and Succession Process",
+    "summary": "",
+    "sources": [
+      {
+        "name": "watts",
+        "url": "https://investors.wattswater.com/press-releases/press-release-details/2026/Watts-Water-Technologies-Announces-Retirement-of-Kenneth-R--Lepage-and-Succession-Process/default.aspx",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "badger-2026-10-01-003",
+    "date": "2026-10-01",
+    "companies": [
+      "badger"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Badger Meter Schedules Third Quarter 2026 Earnings Call",
+    "summary": "",
+    "sources": [
+      {
+        "name": "badger",
+        "url": "http://investors.badgermeter.com/news-releases/press-release-details/2026/Badger-Meter-Schedules-Third-Quarter-2026-Earnings-Call/default.aspx",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-01-004",
+    "date": "2026-10-01",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Is Changing for Essential Utilities (NYSE:WTRG)? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQNWFUQ3R2TkxILXVER2trZVQ2QVU1UWpjMzEtQmt1Z0x3bjlXUW93R1V4MzZtR0wtWU4tSFNMZnpkQjI1OG9PT0FsUUstNDJGYmQwajY0TjBkSFlTc0Zxd2FWcGtERXZXR25DdVJDdG",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNWFUQ3R2TkxILXVER2trZVQ2QVU1UWpjMzEtQmt1Z0x3bjlXUW93R1V4MzZtR0wtWU4tSFNMZnpkQjI1OG9PT0FsUUstNDJGYmQwajY0TjBkSFlTc0Zxd2FWcGtERXZXR25DdVJDdGFJSDVBYjE5Zl9LZUJERkJMZHpFb0pCNjlwbkJQVjAwSjNZeXNVRmUtOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-01-005",
+    "date": "2026-10-01",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Missouri American Water Participates in Source Water Protection Week - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQajh4Y1BVc3gtVElTdHF1eVk2QldYOUZzaHFSN0cyelpUemM3UjJubFdxVXJKbnRnaUlKUjBSYlozM0MwaVdrWjNpaGkwcFd6bHEyVEMtRC02eXpRaWJEVXBlMFEySlpKTEtlUm54UF",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQajh4Y1BVc3gtVElTdHF1eVk2QldYOUZzaHFSN0cyelpUemM3UjJubFdxVXJKbnRnaUlKUjBSYlozM0MwaVdrWjNpaGkwcFd6bHEyVEMtRC02eXpRaWJEVXBlMFEySlpKTEtlUm54UFVfWGphTzBzRDFhSWZScG1hUHVIQ1ljSTRjQTY5QnBzVDRyOFB4LTllcHN0VFN5WGtwTkNWUGRoOENGTnhLUmk2M28zZjRjZEt6cThteGxCb2tqQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-01-006",
+    "date": "2026-10-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Missouri American Water promotes source water p... - pluang.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQWDZmYmlKRzF6aHJFMmlsYWp3NnhJWXVnckJCakRLVzY5Vm5IUExFUDA5Wkt4OXBWU1d5OXJ5OFVzazIyaUlBWlZQRUVuTFlMMV93b1hpQkVibFNncjJ3T3JUVkNnRmZjZXRIX3NoLU",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWDZmYmlKRzF6aHJFMmlsYWp3NnhJWXVnckJCakRLVzY5Vm5IUExFUDA5Wkt4OXBWU1d5OXJ5OFVzazIyaUlBWlZQRUVuTFlMMV93b1hpQkVibFNncjJ3T3JUVkNnRmZjZXRIX3NoLU8xV2FuczAtMHpkcEpDcjFodG9ESlZFTnBsU3JpLV9UNk1QQVR4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-09-30-001",
     "date": "2026-09-30",
     "companies": [],
@@ -34,6 +152,200 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0hiNVhwTXQtX0tnV3dTTGlfdDdZSkR6V1U3TDlLUG1XOUlYNGRGVVhtU0hGV2NXQmdiYjdlUDBaQlllQmpzaUZnSk1Gb1pqOVlLUlJ0SzVpS205S1ZTa1gyT2tWMEFXemJRc2JCUHhseUtvcHljUUFGQWNFNVZ6ZmJEeWJnUDRmTHZRYXFSZUdwZXh1U2FWTnpEbWc1VFc1Qkg4b3N2RWxScy1oRGxuTzQ2dGMxR1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-09-30-003",
+    "date": "2026-09-30",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Boro Foundry Engineering Innovation Helps Energy Recovery Facility Avoid Unplanned Stoppages Costing Over £100,000 Each - EIN News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdV9RYm5EYURXYjVnR3BTZU10RFBrWlduUUJraUhqdlFZM1F6QVZVUU9pMFFhQkJiUnRaZTRaWmdMWTRocThQMWR2QVNSbXB2Q1MwVHRVbGo1Zi1scVg2V3RJMUlOR3VKSFB3TDRuTU",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdV9RYm5EYURXYjVnR3BTZU10RFBrWlduUUJraUhqdlFZM1F6QVZVUU9pMFFhQkJiUnRaZTRaWmdMWTRocThQMWR2QVNSbXB2Q1MwVHRVbGo1Zi1scVg2V3RJMUlOR3VKSFB3TDRuTU1xbXRSOTZmU2lqc3pGZjBEMWQ1Qmp6cEhUUUk5d3lBVnpPZFRJUDJvQkpza2tTY0ZWT05YMGdieVJ2ZWlHWVh4M21HQy1EY3ZIN25OcWRId1J6eXFQNGtYNWM2OUpaTlEtN3lsbTMyMkpfZGx4RFhkeGUwMWRmZm5tMV9VdlB1bDZ6bFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-30-004",
+    "date": "2026-09-30",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "3 U.S. Infrastructure Stocks Linked To Cold Chain Demand After Tariff Relief - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdGc4NktLamdEdDBYRmdqNnU0clpMaU4tZ1Z3VG5pYUJfN0RjQWtVUWRZSHRjaW4wdk5LcThaMGpObk9qOFpiaF9ieHItSHFHR3A5VEJSd09xSXc5b0lTWW5ObHhQSXVmWkdjZk1fS0",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdGc4NktLamdEdDBYRmdqNnU0clpMaU4tZ1Z3VG5pYUJfN0RjQWtVUWRZSHRjaW4wdk5LcThaMGpObk9qOFpiaF9ieHItSHFHR3A5VEJSd09xSXc5b0lTWW5ObHhQSXVmWkdjZk1fS0RGQnJ4dEZNdV84TWZYeGhubjFaY0pDYmZHN1JpXzlacDBMY1dvUl9ienVkRjJBTlRhZk5jY0RseHdrOGNXTW9WU3FXdG9WN0Rma1EtamtEMXZ6TGE5c3h4dXRrNGJUb3lLVWNLLUJ4bnA5MlXSAdsBQVVfeXFMTXRnODZLS2pnRHQwWEZnajZ1NHJaTGlOLWdWd1RuaWFCXzdEY0FrVVFkWUh0Y2luMHZOS3E4WjBqTm5PajhaYmhfYnhyLUhxR0dwOVRCUndPcUl3OW9JU1luTmx4UEl1ZlpHY2ZNX0tERkJyeHRGTXVfOE1mWHhobm4xWmNKQ2JmRzdSaV85WnAwTGNXb1JfYnp1ZEYyQU5UYWZOY2NEbHh3azhjV01vVlNxV3RvVjdEZmtRLWprRDF2ekxhOXN4eHV0azRiVG95S1VjSy1CeG5wOTJV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-09-30-005",
+    "date": "2026-09-30",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ukraine and US discuss energy recovery funding and nuclear cooperation - Межа. Новини України.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ycGJFdEJpQjVjX054bWVMSVFUV3k3VmROcmRZR3FnWlc2ZE5IdEdpbmRYMEp5MzlfeEthT0ZWUTRzVVlta2tvbUJ2VXR1SXF4b0Q4dnA3NHhLbkNERFljVQ?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ycGJFdEJpQjVjX054bWVMSVFUV3k3VmROcmRZR3FnWlc2ZE5IdEdpbmRYMEp5MzlfeEthT0ZWUTRzVVlta2tvbUJ2VXR1SXF4b0Q4dnA3NHhLbkNERFljVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-30-006",
+    "date": "2026-09-30",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "World Clark Polarographic Oxygen Electrodes - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYnRfNEdtcW45UEZiakZXa0xiaGJPR3F1ZnNUclZVQktSbEtUdUpNME8yZmFaY29uOVdEa2tjWWl0eXphY3hhN3JwdmYxR25OWWlMQUNJZl9jQjNlaXBoUDBkb3BPRm9vOHJULUFpYW",
+    "sources": [
+      {
+        "name": "danaher",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYnRfNEdtcW45UEZiakZXa0xiaGJPR3F1ZnNUclZVQktSbEtUdUpNME8yZmFaY29uOVdEa2tjWWl0eXphY3hhN3JwdmYxR25OWWlMQUNJZl9jQjNlaXBoUDBkb3BPRm9vOHJULUFpYWpZMXloR1JkTDJ0Q2FxNHFrS1RONGlPVDBPOVBzSmx5Um1DWnFqZXJyamwwOWU4S1lSMzFWWlRvLUtyMndqYW9nd0xPNmxpbnhCSDdadG9fTEFhbmxkZUFMVlhrT2NySHdJZkVqd1VMeUt1SnZUeTloZjh4QS1fcjBacmpZZ0hzUFhvdzRYM3NRdWxjUXRkLVBJRWwyOWh1NGY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-09-30-007",
+    "date": "2026-09-30",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Net income of Essential Utilities, Inc. – HAN:A2A - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2tnakx4ZUFILUh0empER1hMOC1aQmJRM0dJT05Fc3FYUUtaY2l6ZXB0UjV3dEpIaG4xSlQ0NEFlWEQxMDJjSkFzQXBySjZFXzItbzh0c19XSUlzRVJHbXZHSXpuMDN4VjJPUF9iME",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2tnakx4ZUFILUh0empER1hMOC1aQmJRM0dJT05Fc3FYUUtaY2l6ZXB0UjV3dEpIaG4xSlQ0NEFlWEQxMDJjSkFzQXBySjZFXzItbzh0c19XSUlzRVJHbXZHSXpuMDN4VjJPUF9iME55VXRlVXRxT0VqcGJsUXNwRVlJbnVLaDRvTmdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-30-008",
+    "date": "2026-09-30",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pet waste can carry bacteria into waterways. Kentucky American Water urges steps to protect drinking water. - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLXE2eFowMm5mMDVFbFR6NDczd1ZpeXdjWnJrZXh4MDRKXzBweXpHaDdfOWZXZVlTdGhOMEV1X0k5VG5rZWRIZUlVd2U3RzRyY0xEb19VQTBsa1V3M05YcnoybGtoSElBbHZKV2loOF",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLXE2eFowMm5mMDVFbFR6NDczd1ZpeXdjWnJrZXh4MDRKXzBweXpHaDdfOWZXZVlTdGhOMEV1X0k5VG5rZWRIZUlVd2U3RzRyY0xEb19VQTBsa1V3M05YcnoybGtoSElBbHZKV2loOFNCUUdhUGl4ekNpZGppMGV3NzVLQm5rOWEwYUJtYU9DbllkZmx2Mlozdlg0c21GM240LWF1RlRyNUF5eUoxN19iV1Q2VjBTQXVD?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-30-009",
+    "date": "2026-09-30",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kentucky American Water Participates in Source Water Protection Week - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWpkZTFxVzJCYzFjcGtkbGpWY09PRS1zNVJSUE5KYzhEU1dBWWx5eEQ1eVdjOS04TUUzamJxVHVLN1ZRS00wXzZMOUdzMTdpTWlCQV9xNWlzaWlvdjlGV05mblUwdzBQY2gwREJESF",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWpkZTFxVzJCYzFjcGtkbGpWY09PRS1zNVJSUE5KYzhEU1dBWWx5eEQ1eVdjOS04TUUzamJxVHVLN1ZRS00wXzZMOUdzMTdpTWlCQV9xNWlzaWlvdjlGV05mblUwdzBQY2gwREJESFhfMnIzZDgzSk1KcXlOWW9WTnBxX3prVlFsdWVVNWZXU0c0VnBEUF9TbVoxT0phS0tXLUtqOVRuRVNFbVQ3NG5NbmZpWktZa2FPU0FLN0tvOHhZQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-30-010",
+    "date": "2026-09-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pet waste can carry bacteria into waterways. California American Water asks people to keep it out. - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaHF3aTRYSWpoSWtXRlpleWpkUFNIOFhPSk1qV0hzU056aWNVbnl3aWh2WEZXQVQ5V3NfZXNmQnh6SldSWER4SHJ5MHpmV3BrdlN1LUZaelo3eWRHbTZ6UXVqalRHbWJNUWVmalNLQn",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaHF3aTRYSWpoSWtXRlpleWpkUFNIOFhPSk1qV0hzU056aWNVbnl3aWh2WEZXQVQ5V3NfZXNmQnh6SldSWER4SHJ5MHpmV3BrdlN1LUZaelo3eWRHbTZ6UXVqalRHbWJNUWVmalNLQnpjbGpfYnlZNGRHb2tnTnBmRXUtY19OQjJNVVRxMGFqRUx6aTZtX0hEV29pZ0ZtRW9vTFJMZXplZ043ZHRuMVZjVVZCdTB6SDg1V2tZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-30-011",
+    "date": "2026-09-30",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California American Water highlights source wat... - pluang.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPamUyZUczT1UwQ1lCQWEyNE1lTU9VR3oyVHd3U0d6YXlvUWlWRVhZU3NPZjhhYzBnY2RkeUFfUkpWR3BlSzNNbHJ4aGFHbXU3Q19vcE1MZl91bjc0aW1lS1h0OEIyWWQ2S2VhMmEwWH",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamUyZUczT1UwQ1lCQWEyNE1lTU9VR3oyVHd3U0d6YXlvUWlWRVhZU3NPZjhhYzBnY2RkeUFfUkpWR3BlSzNNbHJ4aGFHbXU3Q19vcE1MZl91bjc0aW1lS1h0OEIyWWQ2S2VhMmEwWHpCS3I0eGlHd1pUem16cWtvTGtXckdUM2pNYzd5OFhWWnJhSm94dkMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-09-30-012",
+    "date": "2026-09-30",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "semiconductor_ultrapure_water",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "American Water, Essential criticize non-settling party concerns over Pa. settlement - mlex.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWG0td3oxdE9jakU4clVRd1dzZjE0SzNrVkJRYmN2eHA3ZEdJcEtQekhRZXNMNm1CLWxCZ19VbUpWTjBGMExOSGFTU2VzeksxcmJfOVZxbnNwZU5KUnRoYTNkVTVIa1ZlOU5mUG5mQm",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWG0td3oxdE9jakU4clVRd1dzZjE0SzNrVkJRYmN2eHA3ZEdJcEtQekhRZXNMNm1CLWxCZ19VbUpWTjBGMExOSGFTU2VzeksxcmJfOVZxbnNwZU5KUnRoYTNkVTVIa1ZlOU5mUG5mQmFhc1ZnY2poVVZKWWdVeFRhZDV0Rl9UclFJWDR6U256dGhDTlFxSEpCTzBCM3lWenhDay1ibDRGenFSUk5mLXpkaG1POUVacHRvU3B5S09nSHlyZ9IBWkFVX3lxTE9VRFJpZjhscFVILUllYUowX3pyd1dVQTRKTTBGVFhyUVVDMVlEQ2NONUxQUmRpZzc5c2MxU0gtWTBpbEV1LUx4QWVBZ3hXLUs0M0ZxY1FvalpZUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -327,6 +639,24 @@
     ]
   },
   {
+    "id": "unknown-2026-09-29-016",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tennessee American Water Participates in Source Water Protection Week - SValleyNow.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORlUwemg0bVhPSDR2dnExY3FCc0RubWxGSUN6M09feG04NjRmcHVwU05pNl96VFZpT3pTcE5NLTRQcENuWnQzaWJIOWdRSnZ2Y2ZvMkFoVXBwYzFWbUhMMDNJM0tVSmx6SjNCYXUyUD",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORlUwemg0bVhPSDR2dnExY3FCc0RubWxGSUN6M09feG04NjRmcHVwU05pNl96VFZpT3pTcE5NLTRQcENuWnQzaWJIOWdRSnZ2Y2ZvMkFoVXBwYzFWbUhMMDNJM0tVSmx6SjNCYXUyUDNHcDVNTm9iSnBDbk1WanlCNmVYX2ZKU05LeWUzVFRGRElERmt6ZktKZzNxNVlxRkNkZ1JoZjNjRdIBrAFBVV95cUxOdngzdVN0ME9aakJ6NGpxMGhQTVd5a292dW5Zck9fNU1GLXBVUzI4MzRiOUFrNmhITFMwd3R5eEIwalJFNDgxRVRRVDlSVFdmMVFUdlBXVVZKeWhRWEhlUWRSVndROEhrcERHeXk2d0JVVXVJOE1ObFNVd2NHc0ViZGs3VUdGVml5bEJZbjhyNlFrLW8yWUtfaXBWMzhuV2FZQlo5VXBncFYzejdQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-09-28-001",
     "date": "2026-09-28",
     "companies": [],
@@ -536,6 +866,25 @@
     ]
   },
   {
+    "id": "unknown-2026-09-28-012",
+    "date": "2026-09-28",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pennsylvania American Water highlights efforts to protect source water during national awareness week - pluang.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHBWOUlnZ0RUOFBJa24zQlJGSTlycmNXQmxhb0ZXdUFFRXlabHZNRVptUkoxeTlNMzJvQlFJT3ZRRl96bWJaZjVJNmZWX09qdVF2QUdfbzBlTTNQZnFPVkM0TEVDV0lVOFdDV3YxVW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHBWOUlnZ0RUOFBJa24zQlJGSTlycmNXQmxhb0ZXdUFFRXlabHZNRVptUkoxeTlNMzJvQlFJT3ZRRl96bWJaZjVJNmZWX09qdVF2QUdfbzBlTTNQZnFPVkM0TEVDV0lVOFdDV3YxVW1YNVNuUlk0OHNHdnZIQnFsWWxGUnRSejAtWEQ2bHVfTDllLTJWLTZvMmtmanhSREdfUzJiSWxJZVlmb0lHbzVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "american_water-2026-09-27-001",
     "date": "2026-09-27",
     "companies": [
@@ -680,6 +1029,26 @@
     ]
   },
   {
+    "id": "ao_smith-2026-09-27-008",
+    "date": "2026-09-27",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kevin Lee Wynne Obituary (2026) - Taylor, AR - A.O. Smith Funeral Homes, Inc. - Taylor Chapel - legacy.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1HTGVTUlQtTjRITTJvbk1LamZqaW1ZckpicVFSZEJTN254aTRScktWTUUtUHpZVi1rcEN3bTA5THNrLXF3bUpoQ1phNy1vUFhrb0Vha0haaVljdlFadUt3ZE1oM0YtRzhyWHhYSl8zdG",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HTGVTUlQtTjRITTJvbk1LamZqaW1ZckpicVFSZEJTN254aTRScktWTUUtUHpZVi1rcEN3bTA5THNrLXF3bUpoQ1phNy1vUFhrb0Vha0haaVljdlFadUt3ZE1oM0YtRzhyWHhYSl8zdGJlNHB0T2ZxdDNKSE9UVzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-09-26-001",
     "date": "2026-09-26",
     "companies": [
@@ -758,6 +1127,27 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVlRGRjhGZk9oaVNWS3FnY3h2WE53bDEyMFh2WlViTHNnVjhQOV9INGJvLU1UMExYZlhfQm5lVUlDSXVkNmVxVkNKMXZ6NVpvM0JZWmU1VWJyN3hmYzM3YzNWQWZER3paZk5oa2JVZG9CVTlURFY1bVhCR2hkMl9Palo1SUs2UG1NNVB0bFotQmY4YzdwRWs0dnduZXBHTVB2VEJ0TTJKUjYtRmRqSEtYem01bnlVOVVNREczbGRHRlZSSEU4V2kwR2JsWlNNMFRkbk1aS2twWGh1UmtROGc2a2V3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-09-26-005",
+    "date": "2026-09-26",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company (AWK) Opens Training Center As Investors Ask If Resilience Is Priced In - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdG9GMHJONXNtSjFGN2VWUkM1M2I2a0Q1TlpIb1k0dW5xNDdCNGhUY2NtVnJ2MXBRREt3NDFYUTk2U1Q2TEtrMVJvbnpjeENmMEVBMlBDRlo1clBUUTM2ZjFwRG9qZlU5aHVQVUxpSV",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdG9GMHJONXNtSjFGN2VWUkM1M2I2a0Q1TlpIb1k0dW5xNDdCNGhUY2NtVnJ2MXBRREt3NDFYUTk2U1Q2TEtrMVJvbnpjeENmMEVBMlBDRlo1clBUUTM2ZjFwRG9qZlU5aHVQVUxpSVBpaGJoY1J0bWY4bXN0RTBYNkhzWWNNRmdSZHZ3b1BrdS12VUpSZ2dpT1NPWUVyTll4a3BJVVBWUWc4VFpLWjBmQVRyd0hFX1R0LUZ1UjNlc2dFeWZVeFFXNFlxM25CczVoOEhF0gHYAUFVX3lxTE5HMFBaWURseC0tNXJMeHpTUGVwV2NuMHVZc1p2SjNsZEpYNGR4NmtPSnM4MUNoR2tfVWpXc3dSckxldnJhRXJaTEtzemY4cnRIWlFVMGVoZ1RvQU12MmlYTk5rQWNaUTFxMzFmSThaMVA2dk1BSVpqU29IZXhERVFYYVcyMXBaZUUwMGFRbWt0X0ZfV2E3WXdydVlvaDNVU09QdXlKdmQzaG5NMmhHaGNKeE1MVFlKTExmLUZ1SWtwS1l4VWVfNjdzZmhfeXh1bnBfYmo0dFpZaA?oc=5",
         "type": "rss"
       }
     ]
@@ -1388,6 +1778,43 @@
     ]
   },
   {
+    "id": "unknown-2026-09-25-034",
+    "date": "2026-09-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith (AOS) Pulls Back As Its Water Heater Narrative Faces A Valuation Test - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNQTdYQnpLaHpJZVBXb3gtQTNIOWc4SjJhRGt0S0dPUkl0T2MzWkZqSzhZLXpVYndNQ1ItMUtSLTZCZkpjN1JlUTRYTHE4MFJZSU5YNURqemxzSXJpN09OaGE0RFBqcmpEM0xDNVFhVX",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQTdYQnpLaHpJZVBXb3gtQTNIOWc4SjJhRGt0S0dPUkl0T2MzWkZqSzhZLXpVYndNQ1ItMUtSLTZCZkpjN1JlUTRYTHE4MFJZSU5YNURqemxzSXJpN09OaGE0RFBqcmpEM0xDNVFhVXh4SjZiOTMyb3RUdWFrb2hSR0tsN3ZUUmlKYWtTZmo4ZENsZFNWd2YyUFFqMzZQTGQ0czN0dGFyWXp1Zkg4RmtlVkNHVVVqTVZISy1FY1Z1dmRkWXpOWUJHWFlB0gHPAUFVX3lxTE1iUnl5OTJNc1Q2WVd2cEw5NDRKUWxBcjBSTVZfVWJuZWhCNEJieTItYmlJOC03NDh4RGF2TXpuMEUzZzl1VjhDZVltQ2x1eWVONWZWMWFWOEdiZndwVDMxSXJ6aHVRMDQ1SEs1WnZTb2FMMGNpSGVLQ054ZmxyN1F2Q1gzS2pmTUxWczNJOWs5a0tHYTJFcnVWMTZGbm5hbFgxUmtsY3RJYlBDeTN6ZUUzT2c3TTZDQXR1VHY2TFY4cDZBWXUxeWJrNXMtTDc0bw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-09-25-035",
+    "date": "2026-09-25",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Annette Jackson King Obituary (2026) - Lewisville, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Chapel - legacy.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPWncyRVZ1WjlRVG9ZTlhCWVk1LVFIWHAzaU1KYlN4dUNuT0g1aVNFci1SRk5GbUZVYlRjZTVzNnhMZlVZRUFud3RvUmxnNjdrVkJVcUtFUGp0M1NMV2JldklRdHgyZHF1TU9UNlZUMX",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWncyRVZ1WjlRVG9ZTlhCWVk1LVFIWHAzaU1KYlN4dUNuT0g1aVNFci1SRk5GbUZVYlRjZTVzNnhMZlVZRUFud3RvUmxnNjdrVkJVcUtFUGp0M1NMV2JldklRdHgyZHF1TU9UNlZUMXFSRWhCdm5WSWlzYmVYT3luZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "veolia-2026-09-24-001",
     "date": "2026-09-24",
     "companies": [
@@ -1627,6 +2054,27 @@
       {
         "name": "energy_recovery",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0wyTEF5cnBiUHBaUnR0aEZVQXZ0VDVYRTVDd3BrUy1JQl9oVkNGQXh0MFZ3bjVLRlE2U1Bfb2JRS3Z2RzlsQ0F0eV9UbmlnM3NhdW4xT1FHUVRqRjBETXhCdmEwNEhLMjJ5eHpvdktGbVY5WnhXcVBxOHRpdFh5dzVheEZOVm5HaUhlX3JLc3hsNkk1WlMxUWdLNWtJNDB0R21kakdkNlRYYWJnZlY5TTFtNHpCVkpnR0hLZll2WmdQSXdnZkU1VHViLUI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-09-24-013",
+    "date": "2026-09-24",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Be Sure To Check Out Kurita Water Industries Ltd. (TSE:6370) Before It Goes Ex-Dividend - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNjRjM2RabGRpZXdUUUp4cjY4bEdqNU10bEk4aXhxM1NBY09WbGJTSmRyYnNTLU5VWEs4eWY5TmNqWmZhTjRDUWViLWRGejFnT2pMR1dJUDgtNkM0MDdKU0VLVXZlOGhJUmhCSDhrQU",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNjRjM2RabGRpZXdUUUp4cjY4bEdqNU10bEk4aXhxM1NBY09WbGJTSmRyYnNTLU5VWEs4eWY5TmNqWmZhTjRDUWViLWRGejFnT2pMR1dJUDgtNkM0MDdKU0VLVXZlOGhJUmhCSDhrQUZYMEk4ZV9ScEtkeUlrcEdBWkZiSnpGdjR1SFpXLTdibnROZ09GckJ2amhBR3ppNFJzQW5iVHhxNXlFS0RzMDFkbGo1dG14QVN0ZzNSWXJjWFlFZElFYzY2Q01aTW11RXVLYW9td3J1MnVZYVNqU3BydGRlb0JiUdIB6wFBVV95cUxPbmxrOG1BWkdaeVpwTEdXQ2tKYVBEQjZpNW9CSHdvQXE5WE1HTWFPV0ZiaG5rUTZwb2RNeDBWNmMzQUZPZGhkdTNicEFYVGdIMThOYmJHYzM2OXFxMWkxRExKNkRsWThyUU5ONldtY01rdzl5VUFTMHNMc1pYeDFjREpkOURNVzM0RThvLWlzY3QyeHA4SUZEYWZOc09LaGhxV0dyLXlLdFhkTTZDd1JfSWtfendFSTg4TUYzQ1d5bUd6QTNUV0xQVWxwZ1RQUEZwb1RxYi1maGdvQjU2dHBpS2p6T3VNV3pMZTRv?oc=5",
         "type": "rss"
       }
     ]

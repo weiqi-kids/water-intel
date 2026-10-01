@@ -1,0 +1,16 @@
+{
+  "total_raw": 240,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 3,
+  "gate2_fail": 6,
+  "passed": 23,
+  "gate2_samples": [
+    "Systemair Introduces SENSE CX and SENSE FX Energy Recovery Ventilators (ERVs) - buildings.com",
+    "Seaport downgrades Energy Recovery to Neutral as Energy Recovery stock faces Middle East risks - AD ",
+    "Africa: energy recovery from waste is gaining ground - Capmad",
+    "Ukraine Energy Installation Facility: Bridging the Final Mile of Energy Recovery - United Nations De",
+    "Veolia Environnement SA (VEOEY) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}
