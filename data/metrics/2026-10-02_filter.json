@@ -1,0 +1,14 @@
+{
+  "total_raw": 241,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 3,
+  "gate2_fail": 3,
+  "passed": 23,
+  "gate2_samples": [
+    "Africa: energy recovery from waste is gaining ground - capmad.com",
+    "A. O. Smith APCOM Manufacturing Facility Welcomes Local High School Students for Manufacturing Day E",
+    "A. O. Smith stock: Cyclone Flex receives Vision Award on September 15, 2026 - AD HOC NEWS"
+  ]
+}
