@@ -1,5 +1,64 @@
 [
   {
+    "id": "mueller-2026-10-03-001",
+    "date": "2026-10-03",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products (NYSE:MWA) Stock Rated \"Hold\" by Wall Street Analysts - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUVpLRFVKYjNCLTJUM2VEYlZvVmQ3TzhnM3l2U2kzaVJtYnp4VklCNnNua2xBS2prTHNYaWZLdndFdzlZcHdrMmxxREV2bVBqVmRoQ0JGWXotUGtrRy0zaXpzMF9VdURNRkYzaXVVTD",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUVpLRFVKYjNCLTJUM2VEYlZvVmQ3TzhnM3l2U2kzaVJtYnp4VklCNnNua2xBS2prTHNYaWZLdndFdzlZcHdrMmxxREV2bVBqVmRoQ0JGWXotUGtrRy0zaXpzMF9VdURNRkYzaXVVTDJfd0xiSUxkc2pSWERfOGdOaWZnM0FoQ2tvakZucjdqNGRudDVGcDlMbEk1NXdDb3V6Z0duR1Qwb2RHanNCZUJ2cFdEdnNUVjhtQTdvUUpLSEticUNpUm5kM251ZHJkWDNDWkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-03-002",
+    "date": "2026-10-03",
+    "companies": [],
+    "topics": [
+      "semiconductor_ultrapure_water",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith announces results date. A. O. Smith stock costs EUR 50.42 versus EUR 50.40 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPVUgxazJ3Vk9YY0tLam5wMjl3WFdZMTd0YnM1Qm5ucWF0b2VOTUFMOHZqd3AtWTlBVmhwZG1seExiYVE1SG4tZS13VVRFdFJhSmF5VF9kd0FUZUpwdmdCY1F6dGJkRG5KN29abzdkNl",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVUgxazJ3Vk9YY0tLam5wMjl3WFdZMTd0YnM1Qm5ucWF0b2VOTUFMOHZqd3AtWTlBVmhwZG1seExiYVE1SG4tZS13VVRFdFJhSmF5VF9kd0FUZUpwdmdCY1F6dGJkRG5KN29abzdkNlJ3eVBZc2pIbTVsZXNfdDZ5blliQWViWTBWcDI1QjFJaWQ3MWw1OW1qYVhuM1VUOEZNb3hTelZPSk56LS00OXZLbkVNN3pBVWd0OGVZbW9jS2lGU3NGc0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-03-003",
+    "date": "2026-10-03",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pennsylvania American Water Highlights Year-Round Commitment to Source Water Protection - BUCKSCO.Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMVlTaDZXeGNqY1hQcG12MU5NaFVkXzdqU0Z5QnJodXpmQ3UtemthOWRuRFZaSk1TblFrNlhZbzhpUWxMbng1Sm9nT2pPQ2ZmWnY0QUpXOW9uRDBiOXdTeTVXTFE5dUtVMTlrWXcyeT",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMVlTaDZXeGNqY1hQcG12MU5NaFVkXzdqU0Z5QnJodXpmQ3UtemthOWRuRFZaSk1TblFrNlhZbzhpUWxMbng1Sm9nT2pPQ2ZmWnY0QUpXOW9uRDBiOXdTeTVXTFE5dUtVMTlrWXcyeTFCZHE4OGVBdXJLOXljY1RkUTBKajV3M2NBblE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-10-02-001",
     "date": "2026-10-02",
     "companies": [
@@ -168,6 +227,86 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXFrWnc0WlhEaGtpNlpWRXNGRHpibDN4cXRicUV2VGxLbTNUdUxzOG8zb3B5Sy1aZFFMQThLek1xYW9sZk5IWGtLRzBBTms0SklSN3pnY240clFaX2ZnM1hucnJ2LVJiRkxkWTZHb3VoREFJekF2T3VFSlZyUk1FeWYzNmpxVFpKZE1JWXhkRXdydUZwdGR0djhxYjR1cW9Qd0pjTkViWHVlMjA1bDl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-10-02-010",
+    "date": "2026-10-02",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Winners And Losers Of Q2: Energy Recovery (NASDAQ:ERII) Vs The Rest Of The Water Infrastructure Stocks - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQWUQ4eS1kN2FRQzNWbWFuUlNnR1A1TGtjWm9iSU5CVzZ1QUE5dE80QzFYeUlIZnhuYkM4aWdoMHRNaU9qTThwSTBDNTlrelM2UThPMVRhSmdwdFIwMjF4RWJGeTNVUmVTUkxKMmhfSW",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWUQ4eS1kN2FRQzNWbWFuUlNnR1A1TGtjWm9iSU5CVzZ1QUE5dE80QzFYeUlIZnhuYkM4aWdoMHRNaU9qTThwSTBDNTlrelM2UThPMVRhSmdwdFIwMjF4RWJGeTNVUmVTUkxKMmhfSWd0RlBkdXRlRFRiUlM1b0hRM1lJS1d1eWdKUXl0V1UzT1owVV9E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-10-02-011",
+    "date": "2026-10-02",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Barcelona Water Contract Altering The Investment Case For Veolia Environnement Stock? - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZkxWbkdwTDBRMThEZXpKY2d2RzBkVF9jSnJrVGMzS3R3dl9RTWVFZ3BoZ1NGSmNqcjJoWC16YVNkazVlbElMOFlYczVPV2t5YmJKVnlWdE1nWjJmMWFjY01LaVowZF90MVZfTV9lMk",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZkxWbkdwTDBRMThEZXpKY2d2RzBkVF9jSnJrVGMzS3R3dl9RTWVFZ3BoZ1NGSmNqcjJoWC16YVNkazVlbElMOFlYczVPV2t5YmJKVnlWdE1nWjJmMWFjY01LaVowZF90MVZfTV9lMkhhT18yNVZxUDdjRkN6NF96MmJRZ3pmUTVRaUdnTGV3S0dHa3dva1drWVNJZ1p0UjczblgzZnlQd3ExR3JPc1QwbmlaVHVSQXRwa2NHZFJIWWxZdXc4ZTgwOTJ0MDJ5aHE5YjFjYVVCZW1sTHPSAeABQVVfeXFMTjBNeW9FN1ExTXowYVVIbWhhbEN5ZG5pQkRIS21FSkM0b19jV3oyanhyWmdreWRReFhWNEpJSXZZN3U5NXBfVUFsWkUydU1DS1NFY2pGVEdRMERjaTI3YlB4bDJEekN5bGdDdzVfeGlPa2N4ZlRlZi1VLUJsc3pzZGJJQ0RGSHNfcS1yR0ZwcW1BR1Y3NThVUnpTR3VsUWhvNm9JVlp4czFWSzJNbTdFU2ZWZTA2X25iQVJvSUIxdzNsQjRZSUtOYnVnWThkZUJIYzI1UmVyYnlGUkd5M3c1em8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-012",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Quarterly results are due before markets open Oct. 29; A. O. Smith's call follows at 10 a.m. EDT. - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNZWlpWlVTaVlUZ2V3TXNWRjQxRFhVT1ctOFpBcWV6X0JsbnctdTZhSU5WSGZoazB1UjM5cWdvZ2w3TE05NjY3QV9PZkc5OGNzYk1hdjZFQjZxZXUxbWJtMmtrWnBZc0xZLUdCLU9ldX",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZWlpWlVTaVlUZ2V3TXNWRjQxRFhVT1ctOFpBcWV6X0JsbnctdTZhSU5WSGZoazB1UjM5cWdvZ2w3TE05NjY3QV9PZkc5OGNzYk1hdjZFQjZxZXUxbWJtMmtrWnBZc0xZLUdCLU9ldXhlU29XbjZnS0E1MTk3VzEwVG5yeDgzeGZsSmFmVWViVFZsRk16V0Y0NHBLOWd5WmJmSnRwRkRab1dLaVQ4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-013",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Fire departments have received nearly $120,000 since 2011. Kentucky American Water opens its 15th grant round. - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSDRZTV9pbEU3QlBiRXQ5VThvNDBha1c1bmFfZ05pNWtlNkdDdDNmUElNS1hyeEY2blBRdnFzR2tMVzF6Z0o3TGx6bFZUVDJCZk9ZN2tVeUV4SkdLMHp0dGVNcnY3LVphbFBlQnU1WH",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSDRZTV9pbEU3QlBiRXQ5VThvNDBha1c1bmFfZ05pNWtlNkdDdDNmUElNS1hyeEY2blBRdnFzR2tMVzF6Z0o3TGx6bFZUVDJCZk9ZN2tVeUV4SkdLMHp0dGVNcnY3LVphbFBlQnU1WHF6cnE1RkZFNWhtTi1SRWU3X2Z0TVhrMngyN2JNQlQ0TUtORTNkR2JMQ1NRbmdSZmVDZ1g5Rm9uaEtPSFk4b2F1cy1GTQ?oc=5",
         "type": "rss"
       }
     ]
@@ -403,6 +542,24 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWDZmYmlKRzF6aHJFMmlsYWp3NnhJWXVnckJCakRLVzY5Vm5IUExFUDA5Wkt4OXBWU1d5OXJ5OFVzazIyaUlBWlZQRUVuTFlMMV93b1hpQkVibFNncjJ3T3JUVkNnRmZjZXRIX3NoLU8xV2FuczAtMHpkcEpDcjFodG9ESlZFTnBsU3JpLV9UNk1QQVR4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-01-013",
+    "date": "2026-10-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Water bodies sound alarm as Victoria sucks out billions - AFR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWtBS29nNHcyTWxXSmloZGJzYjRRMkhHTGlsNS1fejZaNGhvUXZ0U3VUY244SlFzeU0zbUozYmtrcDZCcl9oYmwwLUZoT3RjVldFU3NZdkYwZWp3X2xQWkJjVDNyZGZFVnlNUVhBM0",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWtBS29nNHcyTWxXSmloZGJzYjRRMkhHTGlsNS1fejZaNGhvUXZ0U3VUY244SlFzeU0zbUozYmtrcDZCcl9oYmwwLUZoT3RjVldFU3NZdkYwZWp3X2xQWkJjVDNyZGZFVnlNUVhBM0xtSkxtYXR2VEVrb1BTSmp0V3BWMkhEN2xBVzZIdVFtY3hvRGctdjJ3b1NGMUZBM3E3U0E?oc=5",
         "type": "rss"
       }
     ]
@@ -716,6 +873,25 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamUyZUczT1UwQ1lCQWEyNE1lTU9VR3oyVHd3U0d6YXlvUWlWRVhZU3NPZjhhYzBnY2RkeUFfUkpWR3BlSzNNbHJ4aGFHbXU3Q19vcE1MZl91bjc0aW1lS1h0OEIyWWQ2S2VhMmEwWHpCS3I0eGlHd1pUem16cWtvTGtXckdUM2pNYzd5OFhWWnJhSm94dkMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-30-017",
+    "date": "2026-09-30",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pet waste can carry bacteria into waterways. Kentucky American Water urges steps to protect drinking water. - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLXE2eFowMm5mMDVFbFR6NDczd1ZpeXdjWnJrZXh4MDRKXzBweXpHaDdfOWZXZVlTdGhOMEV1X0k5VG5rZWRIZUlVd2U3RzRyY0xEb19VQTBsa1V3M05YcnoybGtoSElBbHZKV2loOF",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLXE2eFowMm5mMDVFbFR6NDczd1ZpeXdjWnJrZXh4MDRKXzBweXpHaDdfOWZXZVlTdGhOMEV1X0k5VG5rZWRIZUlVd2U3RzRyY0xEb19VQTBsa1V3M05YcnoybGtoSElBbHZKV2loOFNCUUdhUGl4ekNpZGppMGV3NzVLQm5rOWEwYUJtYU9DbllkZmx2Mlozdlg0c21GM240LWF1RlRyNUF5eUoxN19iV1Q2VjBTQXVD?oc=5",
         "type": "rss"
       }
     ]
@@ -1082,6 +1258,27 @@
       {
         "name": "essential",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdWUwRVR5Rm9UQUlLNVpvS3lKc3BfaG42NjAyei12Z3ZOY3lvREdrcVNVZXFjNjVNNW1EREVRTVFSM0oxbDhnajhHRm01aGZ6T3d1eEdWQU1Ib1J1ajhER3luUTRsNTBPZkU0TEFCbExFZTBxb3RLZElBUVpwenZuSVNHLWl3bjFOOXdoRm5FTHhFMWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-09-29-020",
+    "date": "2026-09-29",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Even hands-free phone use will be barred while driving on the job under Essential Utilities (WTRG)'s merger plans. - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDJQQm9mNzByX3dzTFM3RzRERVFkTWNMeUhFZGRURkpSbVctZ3lZNnpvV3VmV0t2Q1BxWFZ0VHpCZHhvZi1DbDlxTUR4VnlicGI5ZmcyV2M4dm55NXpKWmV6SUFabUFISnlVUzk0ZT",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDJQQm9mNzByX3dzTFM3RzRERVFkTWNMeUhFZGRURkpSbVctZ3lZNnpvV3VmV0t2Q1BxWFZ0VHpCZHhvZi1DbDlxTUR4VnlicGI5ZmcyV2M4dm55NXpKWmV6SUFabUFISnlVUzk0ZTlJV2lFbFQ5Y25uMVRNQVRZM3dZamUyN05PdlJpTm1teHQzZXV1Q1MzR0pNMXk5TU92bV9sckpMX0VVMXJ0QktCdFpsWkRfUnducTB1Q0h2Q3FKQQ?oc=5",
         "type": "rss"
       }
     ]

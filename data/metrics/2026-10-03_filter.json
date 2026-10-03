@@ -1,0 +1,15 @@
+{
+  "total_raw": 241,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 4,
+  "gate2_fail": 4,
+  "passed": 10,
+  "gate2_samples": [
+    "Africa: energy recovery from waste is gaining ground - Capmad",
+    "AO Smith Corp Lobbying Profile, 2019 - OpenSecrets",
+    "A. O. Smith APCOM Manufacturing Facility Welcomes Local High School Students for Manufacturing Day E",
+    "A. O. Smith stock: Cyclone Flex receives Vision Award on September 15, 2026 - AD HOC NEWS"
+  ]
+}
