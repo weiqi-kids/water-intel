@@ -1,0 +1,16 @@
+{
+  "total_raw": 241,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 3,
+  "gate2_fail": 6,
+  "passed": 7,
+  "gate2_samples": [
+    "Africa: energy recovery from waste is gaining ground - Capmad",
+    "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "AO Smith Corp Lobbying Profile, 2019 - OpenSecrets",
+    "A. O. Smith APCOM Manufacturing Facility Welcomes Local High School Students for Manufacturing Day E",
+    "A. O. Smith to Hold Third Quarter Conference Call Oct. 29, 2026 - Wisconsin State Journal"
+  ]
+}
