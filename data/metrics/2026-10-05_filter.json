@@ -1,0 +1,16 @@
+{
+  "total_raw": 240,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 2,
+  "gate2_fail": 7,
+  "passed": 13,
+  "gate2_samples": [
+    "Systemair Introduces SENSE CX and SENSE FX Energy Recovery Ventilators (ERVs) - buildings.com",
+    "Veolia Environnement SA (VIE.PA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Pentair plc (PNR) stock price, news, quote and history - Yahoo Finance UK",
+    "AO Smith Corp Lobbying Profile, 2019 - OpenSecrets"
+  ]
+}
