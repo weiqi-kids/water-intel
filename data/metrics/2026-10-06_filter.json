@@ -1,0 +1,16 @@
+{
+  "total_raw": 240,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 1,
+  "gate2_fail": 8,
+  "passed": 15,
+  "gate2_samples": [
+    "Systemair Introduces SENSE CX and SENSE FX Energy Recovery Ventilators (ERVs) - buildings.com",
+    "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Pentair plc (PNR) stock price, news, quote and history - Yahoo Finance UK",
+    "A.O. Smith appoints VP, residential sales - hardlines.ca",
+    "A. O. Smith APCOM Manufacturing Facility Welcomes Local High School Students for Manufacturing Day E"
+  ]
+}
