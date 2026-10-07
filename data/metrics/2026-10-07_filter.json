@@ -1,0 +1,16 @@
+{
+  "total_raw": 240,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 4,
+  "gate2_fail": 7,
+  "passed": 23,
+  "gate2_samples": [
+    "Veolia Environnement SA (VIE.PA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Veolia stock falls 1.56 percent as Goldman Sachs cuts target - AD HOC NEWS",
+    "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Pentair plc (PNR) stock price, news, quote and history - Yahoo Finance UK",
+    "Stephen Harvey Leathers Obituary (2026) - Stamps, AR - A.O. Smith Funeral Homes, Inc. - Thomas Stree"
+  ]
+}
