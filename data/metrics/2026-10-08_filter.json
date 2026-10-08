@@ -1,0 +1,15 @@
+{
+  "total_raw": 240,
+  "dup_title": 136,
+  "no_date": 0,
+  "too_old": 74,
+  "gate1_fail": 6,
+  "gate2_fail": 4,
+  "passed": 20,
+  "gate2_samples": [
+    "Atlas Copco Showcases Steam Compression and Energy Recovery Solutions at Boiler India 2026 - Machine",
+    "Veolia Environnement SA (VEOEY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Veolia Environnement (ENXTPA:VIE) - Stock Analysis - Simply Wall Street",
+    "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}
