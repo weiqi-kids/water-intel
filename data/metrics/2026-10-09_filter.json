@@ -1,0 +1,16 @@
+{
+  "total_raw": 239,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 7,
+  "gate2_fail": 7,
+  "passed": 26,
+  "gate2_samples": [
+    "MYS 2026: CMC Marine on Turning the Energy Recovery System Into Real-World Results - Superyachts.com",
+    "Atlas Copco Showcases Steam Compression and Energy Recovery Solutions at Boiler India 2026 - Machine",
+    "Veolia Environnement (ENXTPA:VIE) - Stock Analysis - Simply Wall Street",
+    "Veolia Environnement SA (VEOEY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}
