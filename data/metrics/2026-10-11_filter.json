@@ -1,0 +1,16 @@
+{
+  "total_raw": 240,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 6,
+  "gate2_fail": 5,
+  "passed": 31,
+  "gate2_samples": [
+    "Energy Recovery, Inc. $ERII Stock Holdings Boosted by Kopion Asset Management LLC - MarketBeat",
+    "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Pentair plc (PNR) stock price, news, quote and history - Yahoo Finance Australia",
+    "A.O. Smith Women’s Resource Network donates $2,000 to East Tennessee Christian Home and Academy - El",
+    "Stephen Harvey Leathers Obituary (2026) - Stamps, AR - A.O. Smith Funeral Homes, Inc. - Thomas Stree"
+  ]
+}

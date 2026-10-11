@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:50:36.871276Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-10-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mueller Water Products director Healy buys $29,927 in shares - Investing.com",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaHRaM0pPcG90X3JndXN4cFlEaVJZZzMyajlJcEo4U1lUdGRWcWw2Z2lheXBUX3pjTUZCWU5XS1ZYZ1luTjRYdm51d3V5eUEtMjlYQmtfUU9vSnZwZmx1bTQxNnNsbGs2MGJoLU5DMUZaVGptU29yRjhXeG83djVfNWF0d3Y4UGU2T0RhMWlZSVhqLXk4aGJpN2tHME9ycTExNjFNTkpjelJfaEQ3bGJySG1wUXdoLVltR3FFOU9XOFg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mueller-2026-10-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Form 4 Mueller Water Products For: 11 October By Investing.com - Investing.com India",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "semiconductor_ultrapure_water",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdk9CSk5rX1FUOENxX2M3REFSNTFIRDE2RU5PMG9UQkFsZlNvUmdFYmptTWJGUzg0NnY4Q3NFVG01OW9yQzFBRUpWc09qNUxoQTFRNXUyNXdSRmRvQjlCTXl6NFFxSnctZ09TVUk4MEdUdG1JczlOUGFpZl9EdFlkQVY1bllCbXk3YmUwZ3ctX0FQTGJFTHhaTGtDVDh6bGhocU1UWGNnNlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "semiconductor_ultrapure_water": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "semiconductor_ultrapure_water",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 240,
+    "dup_title": 131,
+    "too_old": 67,
+    "gate1_blocked": 6,
+    "gate2_blocked": 5,
+    "passed": 31,
+    "pass_rate": "28.4%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "Energy Recovery, Inc. $ERII Stock Holdings Boosted by Kopion Asset Management LLC - MarketBeat",
+      "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Pentair plc (PNR) stock price, news, quote and history - Yahoo Finance Australia",
+      "A.O. Smith Women’s Resource Network donates $2,000 to East Tennessee Christian Home and Academy - El",
+      "Stephen Harvey Leathers Obituary (2026) - Stamps, AR - A.O. Smith Funeral Homes, Inc. - Thomas Stree"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為穆勒相關動態：「Mueller Water Products director Healy buys $29,927 in sha...」。主要關注主題為財報、水資源產業通用、半導體超純水，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mueller Water Products director Healy buys $29,927 in shares - Investing.com（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Form 4 Mueller Water Products For: 11 October By Investing.com - Investing.co...（半導體超純水、財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
