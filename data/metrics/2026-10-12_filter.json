@@ -1,0 +1,15 @@
+{
+  "total_raw": 220,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 5,
+  "gate2_fail": 4,
+  "passed": 15,
+  "gate2_samples": [
+    "Energy Recovery, Inc. $ERII Stock Holdings Boosted by Kopion Asset Management LLC - MarketBeat",
+    "Veolia completes USD 58 million project: Veolia stock sits 16.83 percent below its high - ad-hoc-new",
+    "Veolia Environnement (ENXTPA:VIE) Stock Price - Simply Wall Street",
+    "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}
