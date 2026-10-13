@@ -1,0 +1,16 @@
+{
+  "total_raw": 240,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 10,
+  "gate2_fail": 5,
+  "passed": 34,
+  "gate2_samples": [
+    "The outgoing CFO will advise Mueller through year-end; Morgan is expected to take over around Nov. 1",
+    "Energy Recovery, Inc. $ERII Stock Holdings Boosted by Kopion Asset Management LLC - MarketBeat",
+    "Morgan Stanley cuts target for Veolia stock to EUR 35.00 - ad-hoc-news.de",
+    "A.O. Smith Women’s Resource Network donates $2,000 to East Tennessee Christian Home and Academy - El",
+    "Mary Helen McClure Obituary (2026) - Taylor, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Cha"
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:49:22.142289Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-13-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "A. O. Smith Ups Quarterly Dividend By 6% to $0.38 a Share, Payable on Nov. 16 to Shareholders of Record on Oct. 30 - marketscreener.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUzFMLUJjeWxCSFlucEwyWHBUbjFmb3ZuWVY1c3A1QWNJd000OWlzVm1IS21pZ05oYnhyNHpnRzFKVm9NZDFnX3dkQ3hqUjZHVU81TUtPUmFGNllldGVBelFMUXFjVkZXSkczeUFxVV9kVnZXZTZ4YWVpSTBHN1ZKX2g5LVlCcVBocXZlQzEtcE4tSkFVQkU3MXJvcUplX0V5d2ZBVXBDYnpVOVZzUndRTmZVcEtielZ5TEctNjF4aTB6enB5VEdNQUlwbGhpUUNRQnFqWUJYSjMyb1lzUzh6Ng?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mueller-2026-10-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mueller Water Products CFO Melissa Rasmussen to Step Down; Mike Morgan Named Successor - TradingView",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUi1pV3V5UGFDVUFwSXBRRGRJR3BFSzZtemVKSmhJZVVqQ2g4U3k0UHBOSlJTUGpBMmVMOVI5aDdBTXVNcjdwbGVuOG9NcGw3akxxVlJTbGprTlE2cmhZd2hWX1R6UlJGUGxaLVVJaXhWYUhYdVVBS1VEVklpY3Z2c2FveEdUdHIzc25sVHRYQjExek85SVBRWXJFdy1KSVcxUG01UC1jblVSdTIzUVlyNFFhY3h3NUpZcHhOZG9UVEZqNThDbDZPM2V6cjY5RDNEUFMzenJ6OHVNLWpoVER5dA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mueller-2026-10-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mueller Water Products appoints Michael Morgan as CFO - Fire & Safety Journal Americas",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IOHhicVA2d2ZZM3kxOEFLY0ZjUTdSbVk5b0RIeEVOMjNqZGUyaHVkU1A2R2VBZHp4cHMwdGIyQ3dkellSM25Mb09Pb3BISUhvclBMaEVJMHpHcC0yZmRZWnVkQm9pX2haRGxJMkFEY1V2cC1kekZ3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mueller-2026-10-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mueller Water Products (MWA) Gets A New CFO As Investors Weigh Whether Shares Are A Bargain - Simply Wall Street",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN2tiX1BrMkZXaG1iNHYwUlRxcF9TSmhjYnc1YmZ3bFpab1NJSm1Vc2FpNXFqejhOUmlJa2UwWGJ4LWpLSllvdHY4LXdVYnhGVl9rdnpFc25XTVVyUm1EaHhpSjhmQjduTE5JT0kzSmpuU3hVZ045RnZjNzBKLTZUS2JjVTc1Nmtuc2MzU0ZhX2c0YVBFQm1xdmx2eGxxSFNHYTRDamFwdEhYdm1FS2p6WWREamZRS2FKX2duc2czeksyUGpQU3Fxd1djQjRxb2hqN0ZNUHhvazNub0HSAeABQVVfeXFMTjMwSl9yeDZzdE15ZlpsSl9GNUhCeE5oUlBGY25ib1VEZDdXdm45bDc0Rmg4c25oSFBRclByWVRXS3pTWkw1X2k1WkZOOC1kQUxqUGR5OE1xa3dWU2s1eXNWQ1JVQlgtR1RLQThFRzJJbERwSlJXRmZ6eE1Zb3lKRWFWbnZrN3dQNExSYlBNdnNiLWtXR2thV0tRVVhtOFVXQWZtTjhPbmdEMXNsQ1NlRXMwUGNDN09YLWZDTzBiNERvaEJURk9iR3FUdEdyalVUQjdaLUZOZWd4MEZMZy01MTM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mueller-2026-10-13-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A $700K sign-on bonus awaits the next CFO at Mueller Water Products (MWA). - Stock Titan",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSzl5WXBoRDFaYzdsOUx4Q0M1TFlOblBlU01LZ2JhaXBwTjZaR2d1Um5wbFk2dXZmVHJUTGtENHBhb1hacGFpdzNhZm02b0o1azVON29XSWhvMXMwejVIS2k2LVdKdUJteHdwX3ZsT0lYYnJVeFh3MjB1a2Q1Um1MMVhuOTRfVlB3dl9YNWY1QzNzU1dHUzdLandXYVByRU5Fb3VSWWZOSFozMUZ6MTl2N21POHo?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "desalination": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 5
+      },
+      {
+        "id": "ao_smith",
+        "count": 2
+      },
+      {
+        "id": "energy_recovery",
+        "count": 1
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "desalination",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 240,
+    "dup_title": 126,
+    "too_old": 65,
+    "gate1_blocked": 10,
+    "gate2_blocked": 5,
+    "passed": 34,
+    "pass_rate": "29.8%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "The outgoing CFO will advise Mueller through year-end; Morgan is expected to take over around Nov. 1",
+      "Energy Recovery, Inc. $ERII Stock Holdings Boosted by Kopion Asset Management LLC - MarketBeat",
+      "Morgan Stanley cuts target for Veolia stock to EUR 35.00 - ad-hoc-news.de",
+      "A.O. Smith Women’s Resource Network donates $2,000 to East Tennessee Christian Home and Academy - El",
+      "Mary Helen McClure Obituary (2026) - Taylor, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Cha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為穆勒、史密斯、ERII相關動態：「A. O. Smith Ups Quarterly Dividend By 6% to $0.38 a Share...」。主要關注主題為財報、水資源產業通用、海水淡化，市場情緒中性。",
+    "signals": [
+      {
+        "text": "A. O. Smith Ups Quarterly Dividend By 6% to $0.38 a Share, Payable on Nov. 16...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Mueller Water Products CFO Melissa Rasmussen to Step Down; Mike Morgan Named ...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
