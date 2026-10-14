@@ -1,0 +1,16 @@
+{
+  "total_raw": 240,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 8,
+  "gate2_fail": 6,
+  "passed": 17,
+  "gate2_samples": [
+    "The outgoing CFO will advise Mueller through year-end; Morgan is expected to take over around Nov. 1",
+    "Incoming Mueller CFO to receive $700K sign-on bonus - CFO Dive",
+    "Energy Recovery, Inc. $ERII Stock Holdings Boosted by Kopion Asset Management LLC - MarketBeat",
+    "A.O. Smith Women’s Resource Network donates $2,000 to East Tennessee Christian Home and Academy - El",
+    "Mary Helen McClure Obituary (2026) - Taylor, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Cha"
+  ]
+}

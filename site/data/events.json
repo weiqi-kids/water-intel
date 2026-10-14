@@ -1,5 +1,126 @@
 [
   {
+    "id": "mueller-2026-10-14-001",
+    "date": "2026-10-14",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Oppenheimer Adjusts Mueller Water Products Price Target to $30 From $32, Maintains Outperform Rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUHc1c1UyUWdvNVZFWVhRczg2akZQZGtCaVQ3dm5MWk9sU241bGFmMkU5Mnl6RVkxRThFc2N5Zll5YU9MVWJ6RFdLdUpUU2xPVjJVemhxZmRweDA1MExzR2RKQ1ZNUHpmS1o2YnhnYT",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUHc1c1UyUWdvNVZFWVhRczg2akZQZGtCaVQ3dm5MWk9sU241bGFmMkU5Mnl6RVkxRThFc2N5Zll5YU9MVWJ6RFdLdUpUU2xPVjJVemhxZmRweDA1MExzR2RKQ1ZNUHpmS1o2YnhnYTFxMGdDMUhaRm8xRnBPOXY0MmhqclVMNkJBbkJDWnlPUzZQMmR0MVJ3NUlnRFBjMGN2QWlyS09SSVFCWXRLQ21pdmlTOXVtSE5SbjhuY3BfRDVwTHQ2cU1KamZjMjBDZ3J1VTNjcHdaaFU2akMzTEt5WE9La2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-10-14-002",
+    "date": "2026-10-14",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Banks financed energy recovery with 68.7 billion UAH - mezha.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmtYSG5YMjV3eXFQWHFhd2RoOE1fYjJPRDRiQ3Y2VmVBUUZLdVBIT2h3cnFfNE15aXJaYjZMSTlEZ0JWUmxxaFRYNFJQUG1zc3k5VmdodVRhZXJTbm15MTRfOWhKMkc4NlZRb2NvaT",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmtYSG5YMjV3eXFQWHFhd2RoOE1fYjJPRDRiQ3Y2VmVBUUZLdVBIT2h3cnFfNE15aXJaYjZMSTlEZ0JWUmxxaFRYNFJQUG1zc3k5VmdodVRhZXJTbm15MTRfOWhKMkc4NlZRb2NvaTdiUXlySzFZb3lrcDF2WTNDWkxRVGNBbk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-10-14-003",
+    "date": "2026-10-14",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Morgan Stanley cuts target for Veolia stock to EUR 35.00 - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeXdReDhhZnlrTUZ6cEZOMy1aOEQ4dUpqTlRBYVJMNllJeWc4OEpTV0NITWZsSWpfRmQ0bU9LdHdic1hmMUdKY0RwdVQzQUk4bzd6TUxHUS0tOFkwZkZMT0tOeGNJdXdvcXJMdklyOX",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeXdReDhhZnlrTUZ6cEZOMy1aOEQ4dUpqTlRBYVJMNllJeWc4OEpTV0NITWZsSWpfRmQ0bU9LdHdic1hmMUdKY0RwdVQzQUk4bzd6TUxHUS0tOFkwZkZMT0tOeGNJdXdvcXJMdklyOXZJTU5mTE9ONDBLdUY4eHJjUG9jNzZEckZlaHI4Z2libjBFVDZFRl9vOXdlSHpVc3JZNVllMHhLV1hrN3JUTlVYY1JQZ2JIWnNsdDg0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-004",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aqua New Jersey identified about $1.4 million in needed investment for a water system serving 255 customers. - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2s3U1RFSkdPd1FteGt1NUtzOE1DcklCTC0zUGR5MlJ6UGdYMmF2N0h5alBRb0h3X2lVZHU5MmFfMlF4dkRDQTRTVjVaRkVwbUNRcGNlR2dXZm52WjhhV2szSFREVnl5YlNPX0xZMT",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2s3U1RFSkdPd1FteGt1NUtzOE1DcklCTC0zUGR5MlJ6UGdYMmF2N0h5alBRb0h3X2lVZHU5MmFfMlF4dkRDQTRTVjVaRkVwbUNRcGNlR2dXZm52WjhhV2szSFREVnl5YlNPX0xZMTJWanFaMDQzSGVGRkpNZXFLMkFKRHVLOG9VVDAwWW1JbmV3SkxkTmtwQ04yeFFibWV0dWZSVEdoSzBra01CdTBIdDdfd0UzSDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-14-005",
+    "date": "2026-10-14",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities' Aqua New Jersey Completes $113K Water Syste - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTWtpY3BVMDY4c1RtM2xmTUpiMTFGLW4zaDRjYVVtb0psWjlVbUgxaFc3dG5LU1g1Y0xxSy14U0kwOG5WakNaUVdGR0RfUVc0OGRuMXZSVWRCaDJhaThESy1nU2Q3b2xxMFR1LXM3aG",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTWtpY3BVMDY4c1RtM2xmTUpiMTFGLW4zaDRjYVVtb0psWjlVbUgxaFc3dG5LU1g1Y0xxSy14U0kwOG5WakNaUVdGR0RfUVc0OGRuMXZSVWRCaDJhaThESy1nU2Q3b2xxMFR1LXM3aGdhUXk5aWY5c2xNRHBNaDdqQmxoVTRBUjNuN0p2WFJiTGwtVlBOamlsam5DSzNsU3ZDa212RU9ic1JYVkJOelVLSFo2VVplLW5mM2dadlJnSEN2TVplOTlwZGpSSjg5OGlPbmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-14-006",
+    "date": "2026-10-14",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities acquires New Jersey water system for $113,000 By Investing.com - Investing.com India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWpTVmROZi1GODRpbEpwNmJUREEwdUxkcW1kaXo5Qm9teGVCZzUxa2hrVU9rc1FRTWtCTHF1QlQ3RE50Wl93N1RGUEREZHRVTF9lTzNWOXhlMk1rVkhUQVBWVjhrZXpNcUdRUnZ3Sz",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWpTVmROZi1GODRpbEpwNmJUREEwdUxkcW1kaXo5Qm9teGVCZzUxa2hrVU9rc1FRTWtCTHF1QlQ3RE50Wl93N1RGUEREZHRVTF9lTzNWOXhlMk1rVkhUQVBWVjhrZXpNcUdRUnZ3SzVJcGw1eVdDeTFHTVA5MTZpSldZdkZGUU5kTkZ2a2ZMOXJVUjg0cVBRdWpYTnY5NEstdjFjdnpiY0FaNmh4OUNBUkVPQkMzVXl4MHFJdXE0c0Z4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-10-13-001",
     "date": "2026-10-13",
     "companies": [
@@ -324,6 +445,106 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeUNkNmpKYnRueEQ3SFAwQXhad0pqdVhqdUdZaDBuVFlhMDZhN0ZaN05LZGw3WEloa3pWN3ZVUVFWWlp6VmZBcXc2XzJmaUkxMmRxc0x6eTR3ZkYwc1lQRm5VcE45ekN0Zng0VlhDMjVVdV9LUk1ETDN1T0pyVS03Nmpzd2JxY3ZLekhqV2RR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-10-13-018",
+    "date": "2026-10-13",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Is Mueller Water Products (NYSE:MWA) Changing Its CFO? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmlUbmZXblJEelczbG5fUmYya2dWTC1vYkF3blczVzJPWVEwRmJsUnRCU2RrNnlZZVpGRmtmaHRLSk8wU0EwZXMyaUlDTGEzQ1FMb1VmQkdVaVlPUHh0SUotR2lGZ085Ylkya0VQT1",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmlUbmZXblJEelczbG5fUmYya2dWTC1vYkF3blczVzJPWVEwRmJsUnRCU2RrNnlZZVpGRmtmaHRLSk8wU0EwZXMyaUlDTGEzQ1FMb1VmQkdVaVlPUHh0SUotR2lGZ085Ylkya0VQT1g3ZGpEUDlBOTQzSHVNcE1OeWpoSDY4N0h4QUtNRGZjZk16RURVN0Y5dGxRTW9OSFctaWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-019",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "positive",
+    "title": "TDS Meters Market Forecast to 2035: Growth Accelerates on Water Quality Compliance and Smart Monitoring - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNWjdubVRsTVBQdHNrcmN2b2lWTHF6b3ktU2h4RVVndGpZazY5OS1LTUxPN1RReWxlUEdEcHdhZWRyd0FYQkZxclEyMy0xY1E5bW5FVWU5eEx5MWR4Q2RaMjFXSU1TRFlIbUEwcmNQNk",
+    "sources": [
+      {
+        "name": "danaher",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWjdubVRsTVBQdHNrcmN2b2lWTHF6b3ktU2h4RVVndGpZazY5OS1LTUxPN1RReWxlUEdEcHdhZWRyd0FYQkZxclEyMy0xY1E5bW5FVWU5eEx5MWR4Q2RaMjFXSU1TRFlIbUEwcmNQNk1Jc2tDMHd4aC0xaTI4b3RhdXlQSFdobFdJb3R4M0ZMM3A4SElieHJBQ2xfQUJPa3J6NlFDemN3Q244dHdkbUd2SG9iNFF2UnZSaHRZQzVpd0ZLcUpDM2ZhR3BaMHk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-020",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Recent Ultra Pure Water Market Analysis by The Business Research Company Emphasizes Upcoming Industry Trends - EIN News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaTVMU2lodW04dVdNZjFBbnhfZWYtVUEtWVUxMFkzLWZkeHh1dFlDNC1lNE1kelhDbTc2cThiZ0xJVEV6MVFFaUplcnUzcUVxcnI1eklGcE5VQzZuVU5YeUJRemFUd2kyNk5GTmY3RV",
+    "sources": [
+      {
+        "name": "danaher",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaTVMU2lodW04dVdNZjFBbnhfZWYtVUEtWVUxMFkzLWZkeHh1dFlDNC1lNE1kelhDbTc2cThiZ0xJVEV6MVFFaUplcnUzcUVxcnI1eklGcE5VQzZuVU5YeUJRemFUd2kyNk5GTmY3RVlITFhOZU1WSVZzQ2JmOU5jaTZtcGRqbVhJdmRCT1hpQVB6TGhFVWxaVnhhZGg0emZic3BCTENXaFdjcDVEMEFzVWllMWxlX1hpS1J6YUh3WWlCcTJkZTN6c3F0YnBXdEF6d1lFNGRib0hEZlpsMVY3azZ2eTE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "watts-2026-10-13-021",
+    "date": "2026-10-13",
+    "companies": [
+      "watts"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Watts Water Named to Newsweek’s “America’s Greenest Companies 2027” List",
+    "summary": "",
+    "sources": [
+      {
+        "name": "watts",
+        "url": "https://investors.wattswater.com/press-releases/press-release-details/2026/Watts-Water-Named-to-Newsweeks-Americas-Greenest-Companies-2027-List/default.aspx",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-022",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Iowa American Water and River Bend Food Bank Celebrate Partnership Supporting Hunger Relief - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOV0ZTLXBtT0pReTcwNmt6N1phWk5ZVFpEVXF0bUJEYnpnRXNQenFWR1pfSnZ6OHVnYm9KTFFrQWJLNzZQM0kySFdURjlrM2pRRmVHaTlILW0xSW9nQWlSTEMyMDZiRTVGVEMxR2xjcG",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV0ZTLXBtT0pReTcwNmt6N1phWk5ZVFpEVXF0bUJEYnpnRXNQenFWR1pfSnZ6OHVnYm9KTFFrQWJLNzZQM0kySFdURjlrM2pRRmVHaTlILW0xSW9nQWlSTEMyMDZiRTVGVEMxR2xjcGszbE81YV9sSUNzTk4zdnR3dm55b09yeGhSMjQ1c0FTbnNIYk9rTjFRWg?oc=5",
         "type": "rss"
       }
     ]
@@ -781,6 +1002,46 @@
     ]
   },
   {
+    "id": "mueller-2026-10-12-024",
+    "date": "2026-10-12",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products Names Michael Morgan as CFO - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNQUhpMjhXbWZyRTIwUm9MU2N4NkRkU0FoNnRqQWhWYkhBUU1fT2J5dXlsZWlPa0VjSGlSWW03NDhlSmhOaXpETWFOTVFuZVBQd0RhMWpTLVBpY000eHM5cXFYc1RKZUdFZVgyM2UwWE",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQUhpMjhXbWZyRTIwUm9MU2N4NkRkU0FoNnRqQWhWYkhBUU1fT2J5dXlsZWlPa0VjSGlSWW03NDhlSmhOaXpETWFOTVFuZVBQd0RhMWpTLVBpY000eHM5cXFYc1RKZUdFZVgyM2UwWEYtVlVjR0ZtLTVtdkowZXlMdTlJSi1Na0VTQkgwWXgweVdfaEJFSThfQUtEUzAxX1JVREo4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-10-12-025",
+    "date": "2026-10-12",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery lands key supply contract for Saudi SWRO project - TradeArabia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQcGprWW5ydDVaSkxDbDVRV0NhQzFGQjY1ZXBsZ01PT1VSZE1Bb1pkd1J6ZWdEZVRNUV9ibWNjZXhuSGgyNWp2WHMySk1sWFRTcTNoWWRVZXEwRGxjREV1a2o5LWpxbWh6eWNPWERPR3",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcGprWW5ydDVaSkxDbDVRV0NhQzFGQjY1ZXBsZ01PT1VSZE1Bb1pkd1J6ZWdEZVRNUV9ibWNjZXhuSGgyNWp2WHMySk1sWFRTcTNoWWRVZXEwRGxjREV1a2o5LWpxbWh6eWNPWERPR3diVzBla1FjbExtQ3piY3ozRUZpejdzeF9nQzhZcDU1V21pQUJQUTdheG0xZlBPeGlYQnpNNXRaaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-10-11-001",
     "date": "2026-10-11",
     "companies": [
@@ -1078,6 +1339,68 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV0RsWnJjSGFpUkNjekRQRThZdTA3TTRJUUszOFJVVHctZTlhRjNaYy1rTVJWTmh6SndwLXcyMW1lMG1lOFRsQkJCc01MMTlmT0R0djlrckUycDNDd3FXbTdra05zSE5YbXh0Q0RwYWgwT19SbHA5TDE3YWRSWF9FbXowV21DSVNJUGtlYThQdk15YnVyZTdYajk5RW5fTWF5YXhCSnYwQjNVZVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-10-013",
+    "date": "2026-10-10",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company, Inc. $AWK Stock Bought by GAMMA Investing LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOTU1kZEV4bFRpVXFoSGoxWEs4YWVvdzhxWFFWRDRlR0RGa0dGTlpVaW44MU80bk5ZdGZNUEZTVFNhWmxLMjBuNVZ2akMtQWlrMzI0Zm1ZVEkzN0lMQl8zWmVBM1JxYmE4YVNJRFJMbU",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTU1kZEV4bFRpVXFoSGoxWEs4YWVvdzhxWFFWRDRlR0RGa0dGTlpVaW44MU80bk5ZdGZNUEZTVFNhWmxLMjBuNVZ2akMtQWlrMzI0Zm1ZVEkzN0lMQl8zWmVBM1JxYmE4YVNJRFJMbU1LRE9OekREaVBuQVRXVTFFbHdZV1VhWTZWYTBWWFhiU1VsLWFZdHQzbGhOTG05WS1jTGd4WFVvOVQ1VlZJRmE1OHRveDRLd252NlJYRkx2NWZuNnFLaUZldzN0TTNXZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-10-014",
+    "date": "2026-10-10",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company, Inc. $AWK Stock Purchased by Mn Services Vermogensbeheer B.V. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSmY4Wk9WWEltWUhPTFJ3WWoyVXdfMkdVd1lpTWlLYlJvMTRjZ3F0NTd6V2VVcVNGcnFoeVBYMFY5TFVhWklpYWI0VmJ0ZHg0SnZLRU4yNmZLMFFRdjRLTXptWHVDNmNpZGY3c3ZnVz",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSmY4Wk9WWEltWUhPTFJ3WWoyVXdfMkdVd1lpTWlLYlJvMTRjZ3F0NTd6V2VVcVNGcnFoeVBYMFY5TFVhWklpYWI0VmJ0ZHg0SnZLRU4yNmZLMFFRdjRLTXptWHVDNmNpZGY3c3ZnVzlaaHVtbjlfMVpnMnpuMmxwc0FOczR3SDE3WWpQOTA1WDlvdXhWb0ZLX1ZETDYwMEtPZEY2N0d3eUdiaEhZYkIwdXFGMlNlY3h4NzZxbkxXaXZ5WDdINmZjTHF0SlNhc1R5ZDFlWjRxbExfU0NXdHlnaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-10-015",
+    "date": "2026-10-10",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Form 4 American Water Works Inc For: 10 October By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNDh6MGxkWVRzODA4djNjTkduQUNhMUpfQ2l4bkhVUmQ1RGMwZ2xKeUhOQU9DTDMybWF1RUtrai1RX3JmeURQQ2pBdWdKMktKd1ZOZGFnelFyLUNPQk1PeW1zek93WmNzR09jekNmNj",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNDh6MGxkWVRzODA4djNjTkduQUNhMUpfQ2l4bkhVUmQ1RGMwZ2xKeUhOQU9DTDMybWF1RUtrai1RX3JmeURQQ2pBdWdKMktKd1ZOZGFnelFyLUNPQk1PeW1zek93WmNzR09jekNmNjRUeU55bFhhYUZJSVpRYm1BQmdFMm1pRFUwV0ZpYzJzRTRIYnZGQThtejhhRF9jc3dLRUtYLVBVbi1oQmM?oc=5",
         "type": "rss"
       }
     ]
@@ -2180,6 +2503,26 @@
       {
         "name": "energy_recovery",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWU10dnhJTUtuQWFrSHJNSFFYb1lKU1VGZWZlTDQzVW9VOVcwNjVMbkFid3hSVmxRZ3BoY2pOTmtoZ0ZlQnhjWnMwcFdpT1JJUUNXblRNNGk4blJ5VjNuTGlyZVR5eDBuNWVsU0xWS25jSUZfSktiR3FhcGZENGRkdnEtcy0zUjg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-035",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Greenville County committee approves amendment to let communication utilities make emergency repairs - Citizen Portal AI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPdDNYMlE1QUxQNDkxalhlNGpYcWpreGlkUGFUYWpJTk4tejFhN0RMZXBYTmRRMTh0U21nR3h5amFwRllpTENyenFKaXd5MEhqS1c3T0MwZXVtamUtZnNORzZrLXRoeGU1ZzA3UEJvQX",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPdDNYMlE1QUxQNDkxalhlNGpYcWpreGlkUGFUYWpJTk4tejFhN0RMZXBYTmRRMTh0U21nR3h5amFwRllpTENyenFKaXd5MEhqS1c3T0MwZXVtamUtZnNORzZrLXRoeGU1ZzA3UEJvQXlqcEo4d1VyYTJscTEwWV9fODlxOGMwYVFGWXNibkFOaWhtdkVXc0lqdThzUGhELWtSU2x1NHRHSDhIS3RWNlFsVndwbkt1U3FVaDJGRUZJbmJEdE1wUFRXTlZ2VkxqRVBtRE1vZnVLY2FVYk1XVW9nRTY0OHhneDh4akVxWHBLdm5yX25WZGNSQ3JVQmRUcVRBdXVUYzhkOA?oc=5",
         "type": "rss"
       }
     ]

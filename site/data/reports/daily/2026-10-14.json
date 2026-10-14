@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T13:33:12.867209Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-10-14-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Oppenheimer Adjusts Mueller Water Products Price Target to $30 From $32, Maintains Outperform Rating - marketscreener.com",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUHc1c1UyUWdvNVZFWVhRczg2akZQZGtCaVQ3dm5MWk9sU241bGFmMkU5Mnl6RVkxRThFc2N5Zll5YU9MVWJ6RFdLdUpUU2xPVjJVemhxZmRweDA1MExzR2RKQ1ZNUHpmS1o2YnhnYTFxMGdDMUhaRm8xRnBPOXY0MmhqclVMNkJBbkJDWnlPUzZQMmR0MVJ3NUlnRFBjMGN2QWlyS09SSVFCWXRLQ21pdmlTOXVtSE5SbjhuY3BfRDVwTHQ2cU1KamZjMjBDZ3J1VTNjcHdaaFU2akMzTEt5WE9La2s?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "energy_recovery-2026-10-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Banks financed energy recovery with 68.7 billion UAH - mezha.net",
+      "companies": [
+        "energy_recovery"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmtYSG5YMjV3eXFQWHFhd2RoOE1fYjJPRDRiQ3Y2VmVBUUZLdVBIT2h3cnFfNE15aXJaYjZMSTlEZ0JWUmxxaFRYNFJQUG1zc3k5VmdodVRhZXJTbm15MTRfOWhKMkc4NlZRb2NvaTdiUXlySzFZb3lrcDF2WTNDWkxRVGNBbk0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "veolia-2026-10-14-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Morgan Stanley cuts target for Veolia stock to EUR 35.00 - ad-hoc-news.de",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeXdReDhhZnlrTUZ6cEZOMy1aOEQ4dUpqTlRBYVJMNllJeWc4OEpTV0NITWZsSWpfRmQ0bU9LdHdic1hmMUdKY0RwdVQzQUk4bzd6TUxHUS0tOFkwZkZMT0tOeGNJdXdvcXJMdklyOXZJTU5mTE9ONDBLdUY4eHJjUG9jNzZEckZlaHI4Z2libjBFVDZFRl9vOXdlSHpVc3JZNVllMHhLV1hrN3JUTlVYY1JQZ2JIWnNsdDg0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "essential-2026-10-14-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Essential Utilities' Aqua New Jersey Completes $113K Water Syste - GuruFocus",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTWtpY3BVMDY4c1RtM2xmTUpiMTFGLW4zaDRjYVVtb0psWjlVbUgxaFc3dG5LU1g1Y0xxSy14U0kwOG5WakNaUVdGR0RfUVc0OGRuMXZSVWRCaDJhaThESy1nU2Q3b2xxMFR1LXM3aGdhUXk5aWY5c2xNRHBNaDdqQmxoVTRBUjNuN0p2WFJiTGwtVlBOamlsam5DSzNsU3ZDa212RU9ic1JYVkJOelVLSFo2VVplLW5mM2dadlJnSEN2TVplOTlwZGpSSjg5OGlPbmc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "essential-2026-10-14-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Essential Utilities acquires New Jersey water system for $113,000 By Investing.com - Investing.com India",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWpTVmROZi1GODRpbEpwNmJUREEwdUxkcW1kaXo5Qm9teGVCZzUxa2hrVU9rc1FRTWtCTHF1QlQ3RE50Wl93N1RGUEREZHRVTF9lTzNWOXhlMk1rVkhUQVBWVjhrZXpNcUdRUnZ3SzVJcGw1eVdDeTFHTVA5MTZpSldZdkZGUU5kTkZ2a2ZMOXJVUjg0cVBRdWpYTnY5NEstdjFjdnpiY0FaNmh4OUNBUkVPQkMzVXl4MHFJdXE0c0Z4QQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "essential",
+        "count": 2
+      },
+      {
+        "id": "mueller",
+        "count": 1
+      },
+      {
+        "id": "energy_recovery",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 240,
+    "dup_title": 133,
+    "too_old": 76,
+    "gate1_blocked": 8,
+    "gate2_blocked": 6,
+    "passed": 17,
+    "pass_rate": "15.9%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "The outgoing CFO will advise Mueller through year-end; Morgan is expected to take over around Nov. 1",
+      "Incoming Mueller CFO to receive $700K sign-on bonus - CFO Dive",
+      "Energy Recovery, Inc. $ERII Stock Holdings Boosted by Kopion Asset Management LLC - MarketBeat",
+      "A.O. Smith Women’s Resource Network donates $2,000 to East Tennessee Christian Home and Academy - El",
+      "Mary Helen McClure Obituary (2026) - Taylor, AR - A.O. Smith Funeral Homes, Inc. - Thomas Street Cha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為必要公用、穆勒、ERII相關動態：「Oppenheimer Adjusts Mueller Water Products Price Target t...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Oppenheimer Adjusts Mueller Water Products Price Target to $30 From $32, Main...（財報、水資源產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Banks financed energy recovery with 68.7 billion UAH - mezha.net（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
