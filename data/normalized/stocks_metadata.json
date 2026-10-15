@@ -1,8 +1,8 @@
 {
   "mueller": {
     "earliest": "2025-07-18",
-    "latest": "2026-10-13",
-    "count": 308,
+    "latest": "2026-10-14",
+    "count": 309,
     "history_complete": true
   },
   "energy_recovery": {
@@ -19,8 +19,8 @@
   },
   "veolia": {
     "earliest": "2000-07-20",
-    "latest": "2026-10-14",
-    "count": 6739,
+    "latest": "2026-10-15",
+    "count": 6740,
     "history_complete": true
   },
   "pentair": {
@@ -49,20 +49,20 @@
   },
   "badger": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-13",
-    "count": 6734,
+    "latest": "2026-10-14",
+    "count": 6735,
     "history_complete": true
   },
   "kurita": {
     "earliest": "2001-01-01",
-    "latest": "2026-10-14",
-    "count": 6421,
+    "latest": "2026-10-15",
+    "count": 6422,
     "history_complete": true
   },
   "zhongyu": {
     "earliest": "2000-01-05",
-    "latest": "2026-10-14",
-    "count": 6657,
+    "latest": "2026-10-15",
+    "count": 6658,
     "history_complete": true
   },
   "essential": {

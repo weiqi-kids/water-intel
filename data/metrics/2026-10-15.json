@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-15",
+  "total_events": 9,
+  "by_company": {
+    "energy_recovery": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "essential": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "american_water": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "desalination": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "capex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 240,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 7,
+  "gate2_fail": 6,
+  "passed": 25,
+  "gate2_samples": [
+    "The outgoing CFO will advise Mueller through year-end; Morgan is expected to take over around Nov. 1",
+    "Energy Recovery, Inc. $ERII Stock Holdings Boosted by Kopion Asset Management LLC - MarketBeat",
+    "Veolia Environnement (ENXTPA:VIE) - Stock Analysis - Simply Wall Street",
+    "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "A.O. Smith Women’s Resource Network donates $2,000 to East Tennessee Christian Home and Academy - El"
+  ]
+}
