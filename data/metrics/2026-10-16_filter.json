@@ -1,0 +1,16 @@
+{
+  "total_raw": 240,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 5,
+  "gate2_fail": 7,
+  "passed": 12,
+  "gate2_samples": [
+    "The outgoing CFO will advise Mueller through year-end; Morgan is expected to take over around Nov. 1",
+    "Energy Recovery stock at EUR 5.93, 0.61 percent above 52-week low - ad-hoc-news.de",
+    "Energy Recovery, Inc. $ERII Stock Holdings Boosted by Kopion Asset Management LLC - MarketBeat",
+    "Veolia Environnement (ENXTPA:VIE) - Stock Analysis - Simply Wall Street",
+    "Morgan Stanley cuts target for Veolia stock from EUR 38.00 to EUR 35.00 - ad-hoc-news.de"
+  ]
+}
