@@ -1,0 +1,16 @@
+{
+  "total_raw": 240,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 74,
+  "gate1_fail": 7,
+  "gate2_fail": 5,
+  "passed": 11,
+  "gate2_samples": [
+    "The outgoing CFO will advise Mueller through year-end; Morgan is expected to take over around Nov. 1",
+    "Energy Recovery, Inc. (NASDAQ:ERII) Stock Has Consensus Target Price of $11.67 According to Brokerag",
+    "Energy Recovery sets November 4 results date for Energy Recovery stock - ad-hoc-news.de",
+    "Pentair plc (PNR) stock price, news, quote and history - Yahoo Finance UK",
+    "Goldman Sachs cuts target for A.O. Smith stock from USD 59.00 to USD 55.00 - ad-hoc-news.de"
+  ]
+}
