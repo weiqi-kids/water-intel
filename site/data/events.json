@@ -1,5 +1,143 @@
 [
   {
+    "id": "energy_recovery-2026-10-19-001",
+    "date": "2026-10-19",
+    "companies": [
+      "energy_recovery",
+      "veolia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Encyclis acquires Veolia UK’s 20% ownership stake in the Rookery South Energy Recovery Facility - Interplas Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQeGVjc2x5ZHVtT1VncEtyRHVRRzRhRkxqZmFLUy1QdVh3a3ZVcnhGZThzQk5sWVhZRlpXTnN0bUdUaWlyOXM0ZWxkYTZIME9BU1AyTmlMTnVjV1ZCaE1LOEFIRGtPZG10YTJ4LWZzYl",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQeGVjc2x5ZHVtT1VncEtyRHVRRzRhRkxqZmFLUy1QdVh3a3ZVcnhGZThzQk5sWVhZRlpXTnN0bUdUaWlyOXM0ZWxkYTZIME9BU1AyTmlMTnVjV1ZCaE1LOEFIRGtPZG10YTJ4LWZzYllxN0E3MGFwWXhWZW0wQlFZQ0FHNF81cmJqRDA3aDRYN0lHMGxiSjd2eFNYdTFZeVE2ZkU5Y19SR2x0TUlOSFpoTlhObGxmVnV1bEk4V0VzQ0JyaFU5aFNyOVFYYW0xalFUa0F2LVRqckg1d1VwdmVsdXNCcXRjRVFMWlZWMWpTTzZVUl82d255N3ozdWQ0YWgyWkp1eA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-10-19-002",
+    "date": "2026-10-19",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Veolia challenges Milwaukee award: Veolia stock trades 1.33 percent below Xetra close - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxORjAyb2QxR2N0TUNxRzB0em9OYnFyYm9Ud0VhUlFleG5NMHRMbV9Udm50dEtfenU1RmdjS1gybjFFaDBHeksxWl9ZVGp6dkxNcE5oUkIxQVluRW91N3pxaHZmay1ZS0VTRHVIX1QzOU",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORjAyb2QxR2N0TUNxRzB0em9OYnFyYm9Ud0VhUlFleG5NMHRMbV9Udm50dEtfenU1RmdjS1gybjFFaDBHeksxWl9ZVGp6dkxNcE5oUkIxQVluRW91N3pxaHZmay1ZS0VTRHVIX1QzOUxMV2loLVJ3N01RX3ZWek5DU2pRQnAxUmFQMEt2TUJMUTVOcmMxX2RfOTlQTmN2UHJWS2xlOU1RSzY1aS1zdU5IMUFEQUVxUlVvX05JZGNMN1lhTnczSFpsNVVlc1NsUVV2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-10-19-003",
+    "date": "2026-10-19",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia stock: Citi maintains Veolia stock at EUR 37.50, 17.89 percent above price - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWUVaUGIyaF9zVmx1UWxNQWUzQ1pUd2JnRGM3TndTUzAteF9heHMtbTRyWngyNElQMGhBT0ZDY3JfbV9kWmlRLXFiR2pSQzJKS19hNi13bTJPeEZuMzlIR1JpbUNKNEl3dUdVdVBya2",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWUVaUGIyaF9zVmx1UWxNQWUzQ1pUd2JnRGM3TndTUzAteF9heHMtbTRyWngyNElQMGhBT0ZDY3JfbV9kWmlRLXFiR2pSQzJKS19hNi13bTJPeEZuMzlIR1JpbUNKNEl3dUdVdVBya2xNZnhDNFVCa3ZfQlFhMzBBSmJaY3FKWTBNSUJMNXVlU0Ntbm9QcFljMm5VNmt5dlRWWndSQ3RuY0dScTFXNHhQZ290bE5DMUZtN0djUDlEcUV6ZDZCSjREcVIwUzZFeDl6R1RITWNsZXU5QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-10-19-004",
+    "date": "2026-10-19",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia stock at EUR 32.40 ahead of the Xetra open: environmental services group - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQRjZCczU2b2ptbkt0SVdQT3ZqNC16TWg0QWRCSW00TEZMOVlzSk5zWUJwcUxxTEJobjMyaWhnRFJ1RUhXMzE4OGN0eEFja1NOMURlTDY5SDB3VW1EZEhIdHlQQ2Y1TTJibGdmaUxRbT",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRjZCczU2b2ptbkt0SVdQT3ZqNC16TWg0QWRCSW00TEZMOVlzSk5zWUJwcUxxTEJobjMyaWhnRFJ1RUhXMzE4OGN0eEFja1NOMURlTDY5SDB3VW1EZEhIdHlQQ2Y1TTJibGdmaUxRbTZuZTNhS052NDIyME1YU2NDSjMtZzZBSGVuM25XaHlfcGp1SG14YmxjRl9tM0JRY3IwSmxaRHV4NktDSVNmTy1TUTlFaDFaNEtuSXZRUDRmdWhqNS1icVg4R3N3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-10-19-005",
+    "date": "2026-10-19",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Stifel cuts AO Smith stock rating on steel costs, China concerns - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPajZacm1jWXEyOHNXM0tBaWtUQ1o0dFpmeGVQUTRZUjZvR292RWJSRG1XOWsxTFcyeVY3V3FJbndFaTN6M29PVm82N0RCZlExNFFLdFVmU1NMcHI1aVNoZkloeDkwb1dwU3NaV2thOG",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPajZacm1jWXEyOHNXM0tBaWtUQ1o0dFpmeGVQUTRZUjZvR292RWJSRG1XOWsxTFcyeVY3V3FJbndFaTN6M29PVm82N0RCZlExNFFLdFVmU1NMcHI1aVNoZkloeDkwb1dwU3NaV2thOGN1Z1FnYkI3VF9QN2JCdWgxY19tRlZkQUpkLTdldFB4NGZXTjBqa25Fai1lcjJVeU9RQjZsQ0kzYjVjelEtTEEtMklTcmxPdlVZR0FUUzJHd2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-19-006",
+    "date": "2026-10-19",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company, Inc. $AWK Shares Bought by TD Waterhouse Canada Inc. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZFFjc2NSMW54aEl3cDZLTmk0bU03ZzVkcHoxTEUxR0JmeWJIZmI1MUpENld5UmpwOTE4TmFMeXhOdE9mdFdhVU91Nm9RYzI0S2s3YU54cEo3TmRid2c2U25RQks2MXBCWldTWjRPZ0",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZFFjc2NSMW54aEl3cDZLTmk0bU03ZzVkcHoxTEUxR0JmeWJIZmI1MUpENld5UmpwOTE4TmFMeXhOdE9mdFdhVU91Nm9RYzI0S2s3YU54cEo3TmRid2c2U25RQks2MXBCWldTWjRPZ0o3SkRtWDM0Wm1Da3BOY2JDeUQxOE9YTUJiWDJNbVZjWncxYzRHTjFxN1N2UzNDZkpXcWJRdGpNODJpbDl0cVNjaldpRS1DVnlkSkJNTXRITmZfSlNtN1VvenlpRXc5YjNSempQWDhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-19-007",
+    "date": "2026-10-19",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Barclays Adjusts Price Target on American Water Works to $127 From $130 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOZUxnNEktSHliYXVQV2ppR2R5NlhpeEtiUHU2NFdHYWRXOWtob3NvR3lpQjlFVEY0SllqWk1Rbnl4RXZSWkhtOEZGVi0za2RNb3N1X0hUa3Q1UjNiVVNZeW55ZjdXY2ZKOWF1MmxmUD",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZUxnNEktSHliYXVQV2ppR2R5NlhpeEtiUHU2NFdHYWRXOWtob3NvR3lpQjlFVEY0SllqWk1Rbnl4RXZSWkhtOEZGVi0za2RNb3N1X0hUa3Q1UjNiVVNZeW55ZjdXY2ZKOWF1MmxmUDBnLVFieW8tYWFqMGJOOTVzWlpuVkdMMHNTRE5CM2E3dzNXakU2c0dVLXJKVzBfckJNWWxxWmVwbWxJai1zUmJfckFPTUd5ZHZWQ19PUDdIbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ao_smith-2026-10-18-001",
     "date": "2026-10-18",
     "companies": [
@@ -77,6 +215,65 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQbGZDTnRiYjVIZUlZV2RqU3V2MUowN1FuV3NMVWJ5STVyWWNubXlEalFjNV95bDlFU2VTTW90ZzlDdXBUNFo5bUdrZ1NFSU9aUEp5YTQwbVBMZjNvWlVOSE9UdFlzT01zYi0zVWV4S1dUbFFzWV8zU3lhdkdqd240dzFKV240SENJcExyN1QyU1d6bUJFQlEwVG1MdDIyejVycEN1Sy0xSUFFbEZxYTVUTjhOaGluQkhUX3ZocDNxUUplTFZBS2t5Y1kwNzdSNVNJZFkxT0t6MVAyUm03SU5lb0NaV2FqQ3N2dzNsN1N2OVdyQUpOWmx5ZW5TdFdDSGg2Z1drYlg5all3SFJEU0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-18-005",
+    "date": "2026-10-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "MWA: Municipal Demand Still Holds, Funding And Housing Now Set The Pace - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gJBVV95cUxPNmJXYkdheUIxRkhnTEpVcmVxd1czSGJZZ3J1b1EwRHZ2Z1Z1ZXVLM1ZzZGFzcjFVUVNKYVNocVdOdFJKb3A4c2x0LVJzbVVfUldYeHJTczhQZ0xVRjRQdEVlSTZtMGFQcUVMV2djX3",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPNmJXYkdheUIxRkhnTEpVcmVxd1czSGJZZ3J1b1EwRHZ2Z1Z1ZXVLM1ZzZGFzcjFVUVNKYVNocVdOdFJKb3A4c2x0LVJzbVVfUldYeHJTczhQZ0xVRjRQdEVlSTZtMGFQcUVMV2djX3J2RXo1MUxuNjFobF9ndkJpOFd3dVhyeHVuVmY3d19pNVJtUzlFSHZ3UXBiOVphMXFVUUZLSGVjTWZndDEtZEdQQVk3ZVQwU05OeGx0MTNoajBTTEJ0WWhxb3BkX09VTDhiNkd0bVRTOVhZblFBX1FvR2xFQURocUREZkU5RzdrN0p6bkZpR3B4bWxCOTBmNWFlRHJ2dk04aFFzRmJiVGVZdVJuQ2JRSUxzaDZGM3E0ZGVpSUlfUjZ5dV9qMXpBSHNxY3p2U1l4XzhsdmVJX2stQVNWcDA0QTJkVmxYR0JJTi1jSjdOQ0Y3cUJjbUZzWklkRnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-18-006",
+    "date": "2026-10-18",
+    "companies": [],
+    "topics": [
+      "wastewater_treatment",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Dissolved Oxygen Probes Market To 2035: Wastewater Rules and Optical Tech Drive Growth - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDJ3T0dqbDBDaENmUS1XOE04bEhpZ01vRk9JeXZBbXM3ZWFsUjdINnRlZlppczVfOG5ZQ2hKRk9wVkVLbTdnblR0OXBLdmFhOEZXN19nXy1HT3g3WTh4OFdobGJvZlRQWnBnRjNfd0",
+    "sources": [
+      {
+        "name": "danaher",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDJ3T0dqbDBDaENmUS1XOE04bEhpZ01vRk9JeXZBbXM3ZWFsUjdINnRlZlppczVfOG5ZQ2hKRk9wVkVLbTdnblR0OXBLdmFhOEZXN19nXy1HT3g3WTh4OFdobGJvZlRQWnBnRjNfd0pCT3Y5b0ZXUzE2Q0ZMVlJWZlgwTF9JeE5wZk1wcGRrdnBuOVBKNFhRZFNQMDJjcndsUHNWNDF5aWFpeEdvemxwQ093czY2UWtya21JUl9MNVN6anI1SVlJR2JEalEtVmZweEtr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-18-007",
+    "date": "2026-10-18",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities (WTRG) Could Be 3% Undervalued As Illinois Projects Advance - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeW1lb0Z5OFEzODVNNjN3Q2g4V1d6SGxWcTRjSzE5MEpqTmZiZUtUSUpiZ3BMTFY4U0hjVmhTbDNqdm4wS0RSd2o2QloxTE42cFhPckZqOUs2YmdMaFFuTUUtdkMxMHdiaERKQ2hWZm",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeW1lb0Z5OFEzODVNNjN3Q2g4V1d6SGxWcTRjSzE5MEpqTmZiZUtUSUpiZ3BMTFY4U0hjVmhTbDNqdm4wS0RSd2o2QloxTE42cFhPckZqOUs2YmdMaFFuTUUtdkMxMHdiaERKQ2hWZmhlcU9RSWNNLU41MUFoTGhYZHFXYzk5RGtYU3ZVbklQMHJyVWVNSVRCR2RpVUVVUU03MndGS0ZmdUJyLVowWVJSc2FyM2ZvWXhaZE03NW9uREQtZ09PNDIyMXlSVHFFWFpsVGfSAdcBQVVfeXFMT1ZBLUI0RHRTdU5rZjBvYlV3dHJva1hwZDQtdzJUanA1dFlodDFfemNtNWJnaW1WT1o2ZFBXc2RrUGV5U2pmQzhLLWp3V1F1YUZUdTBqN1cwc3pnYzNDd0xZdDZEaW54cm5xMWFwbVFEdE10MFFQWVRMcmJJaW5CUjNFR1pDZGNoeWNDbFVrSk04OXRuVWVZdnJtU0w3aFN4cXJXWmRLUUxmUWE4Tk5tYVF1V2hzcWNZNFVvUFdUcGxnUkIybUxISWYyWXJ4dl9wZ1daMlQtWFE?oc=5",
         "type": "rss"
       }
     ]
@@ -724,6 +921,26 @@
     ]
   },
   {
+    "id": "mueller-2026-10-15-017",
+    "date": "2026-10-15",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RBC Capital Maintains Mueller Water Products(MWA.US) With Sell Rating, Maintains Target Price $21 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPdExUcTZET0VpSXBBUXhmMFh6eTBPbDBwTHAydks5cmVRNUJ1X2t1aElTbk9aSFFTWGZUYU91MDJ5SFRnb25IWGFKQU5VazA5TkJsWV8xM0pYaEU2dmFkQmltYmJPQmI1TjZCZi1wMz",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdExUcTZET0VpSXBBUXhmMFh6eTBPbDBwTHAydks5cmVRNUJ1X2t1aElTbk9aSFFTWGZUYU91MDJ5SFRnb25IWGFKQU5VazA5TkJsWV8xM0pYaEU2dmFkQmltYmJPQmI1TjZCZi1wMzF4UVdBeHYwUDdMVHcyY1J6bFBjTmxTTHYwV1Z6ekJBamlpMXUzSFgzbGdfUUtuN3I4Wm5MMlRjSF9tWHJFelZyWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-10-14-001",
     "date": "2026-10-14",
     "companies": [
@@ -1186,6 +1403,27 @@
       {
         "name": "energy_recovery",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmtYSG5YMjV3eXFQWHFhd2RoOE1fYjJPRDRiQ3Y2VmVBUUZLdVBIT2h3cnFfNE15aXJaYjZMSTlEZ0JWUmxxaFRYNFJQUG1zc3k5VmdodVRhZXJTbm15MTRfOWhKMkc4NlZRb2NvaTdiUXlySzFZb3lrcDF2WTNDWkxRVGNBbk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-14-024",
+    "date": "2026-10-14",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Press Release: Essential Utilities to Report Financial Results for Q3 2026 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjJRWG5wdWRLWlhhdGVrbHhPdTBRLVdYRy1WMTNuWnNMZ1RTcXJYS0tQUkhrVDZnQ3d6bWdfZ1BPTnctNDlQajlldWtKYUd1VTF1V1RpZ3Q0cGtOSkRSNWcyTzRrRUtZNGwzSW9LUD",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjJRWG5wdWRLWlhhdGVrbHhPdTBRLVdYRy1WMTNuWnNMZ1RTcXJYS0tQUkhrVDZnQ3d6bWdfZ1BPTnctNDlQajlldWtKYUd1VTF1V1RpZ3Q0cGtOSkRSNWcyTzRrRUtZNGwzSW9LUDREblp5bUFfdUExX19PbEh1TmtOSjVGZm13VUhSYzR5ajFnaVRhQkFqOFB0c09uLWl0LXhWSG5iY3pKRHBkc0NTTDN3?oc=5",
         "type": "rss"
       }
     ]
@@ -2225,6 +2463,24 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZEVKWEYwdlN2T2VDallEMTNlWHNtN0JWd3BqZFQ3bUYyZmZTd1ZlZE9FWVdnVEQ5N3hLXzFTNWxSdk05Q2R5QkpQd3hNbjFsM3k1d2RjVWlpQUpUSWMwV2ZUaTdNVEdBQ2lLeEtEN3phcFNXeS1FYmMyblNvbTFnRzJCOHVDZi1GWTNqaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-030",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "A. O. Smith Increases Quarterly Dividend to $0.38 per Share - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDRTbkRLaFJjNjJLX1h0MG5wTDVmaFYxbVh1eWlwYjdMRTBVWUREN2xLTkZIUTdxY2JrOEs1ajhOTi05eEh5RS1NQzdkZ2lPdHJlbGFqaVVaay1OQmhSMENoV0l2Q1lfY2Z5azRhVG",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDRTbkRLaFJjNjJLX1h0MG5wTDVmaFYxbVh1eWlwYjdMRTBVWUREN2xLTkZIUTdxY2JrOEs1ajhOTi05eEh5RS1NQzdkZ2lPdHJlbGFqaVVaay1OQmhSMENoV0l2Q1lfY2Z5azRhVGtEMXF6U044RHQyVnExZjNGTVBOaW5jdXNLb2IwTHhYNlFjRGZsbWYxRGhxZl90ODdjSDNR?oc=5",
         "type": "rss"
       }
     ]

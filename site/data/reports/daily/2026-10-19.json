@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:28:01.906365Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-10-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia stock: Citi maintains Veolia stock at EUR 37.50, 17.89 percent above price - ad-hoc-news.de",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWUVaUGIyaF9zVmx1UWxNQWUzQ1pUd2JnRGM3TndTUzAteF9heHMtbTRyWngyNElQMGhBT0ZDY3JfbV9kWmlRLXFiR2pSQzJKS19hNi13bTJPeEZuMzlIR1JpbUNKNEl3dUdVdVBya2xNZnhDNFVCa3ZfQlFhMzBBSmJaY3FKWTBNSUJMNXVlU0Ntbm9QcFljMm5VNmt5dlRWWndSQ3RuY0dScTFXNHhQZ290bE5DMUZtN0djUDlEcUV6ZDZCSjREcVIwUzZFeDl6R1RITWNsZXU5QQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "veolia-2026-10-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia stock at EUR 32.40 ahead of the Xetra open: environmental services group - ad-hoc-news.de",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRjZCczU2b2ptbkt0SVdQT3ZqNC16TWg0QWRCSW00TEZMOVlzSk5zWUJwcUxxTEJobjMyaWhnRFJ1RUhXMzE4OGN0eEFja1NOMURlTDY5SDB3VW1EZEhIdHlQQ2Y1TTJibGdmaUxRbTZuZTNhS052NDIyME1YU2NDSjMtZzZBSGVuM25XaHlfcGp1SG14YmxjRl9tM0JRY3IwSmxaRHV4NktDSVNmTy1TUTlFaDFaNEtuSXZRUDRmdWhqNS1icVg4R3N3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ao_smith-2026-10-19-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Stifel cuts AO Smith stock rating on steel costs, China concerns - Investing.com",
+      "companies": [
+        "ao_smith"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPajZacm1jWXEyOHNXM0tBaWtUQ1o0dFpmeGVQUTRZUjZvR292RWJSRG1XOWsxTFcyeVY3V3FJbndFaTN6M29PVm82N0RCZlExNFFLdFVmU1NMcHI1aVNoZkloeDkwb1dwU3NaV2thOGN1Z1FnYkI3VF9QN2JCdWgxY19tRlZkQUpkLTdldFB4NGZXTjBqa25Fai1lcjJVeU9RQjZsQ0kzYjVjelEtTEEtMklTcmxPdlVZR0FUUzJHd2s?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_water-2026-10-19-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Barclays Adjusts Price Target on American Water Works to $127 From $130 - marketscreener.com",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZUxnNEktSHliYXVQV2ppR2R5NlhpeEtiUHU2NFdHYWRXOWtob3NvR3lpQjlFVEY0SllqWk1Rbnl4RXZSWkhtOEZGVi0za2RNb3N1X0hUa3Q1UjNiVVNZeW55ZjdXY2ZKOWF1MmxmUDBnLVFieW8tYWFqMGJOOTVzWlpuVkdMMHNTRE5CM2E3dzNXakU2c0dVLXJKVzBfckJNWWxxWmVwbWxJai1zUmJfckFPTUd5ZHZWQ19PUDdIbw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "energy_recovery-2026-10-19-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Encyclis acquires Veolia UK’s 20% ownership stake in the Rookery South Energy Recovery Facility - Interplas Insights",
+      "companies": [
+        "energy_recovery",
+        "veolia"
+      ],
+      "related": {
+        "customers": [
+          "veolia"
+        ],
+        "suppliers": [
+          "energy_recovery"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQeGVjc2x5ZHVtT1VncEtyRHVRRzRhRkxqZmFLUy1QdVh3a3ZVcnhGZThzQk5sWVhZRlpXTnN0bUdUaWlyOXM0ZWxkYTZIME9BU1AyTmlMTnVjV1ZCaE1LOEFIRGtPZG10YTJ4LWZzYllxN0E3MGFwWXhWZW0wQlFZQ0FHNF81cmJqRDA3aDRYN0lHMGxiSjd2eFNYdTFZeVE2ZkU5Y19SR2x0TUlOSFpoTlhObGxmVnV1bEk4V0VzQ0JyaFU5aFNyOVFYYW0xalFUa0F2LVRqckg1d1VwdmVsdXNCcXRjRVFMWlZWMWpTTzZVUl82d255N3ozdWQ0YWgyWkp1eA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "veolia",
+        "count": 4
+      },
+      {
+        "id": "american_water",
+        "count": 2
+      },
+      {
+        "id": "energy_recovery",
+        "count": 1
+      },
+      {
+        "id": "ao_smith",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 240,
+    "dup_title": 139,
+    "too_old": 75,
+    "gate1_blocked": 6,
+    "gate2_blocked": 7,
+    "passed": 13,
+    "pass_rate": "12.9%",
+    "gate2_block_rate": "6.9%",
+    "gate2_samples": [
+      "The outgoing CFO will advise Mueller through year-end; Morgan is expected to take over around Nov. 1",
+      "Energy Recovery, Inc. (NASDAQ:ERII) Stock Has Consensus Target Price of $11.67 According to Brokerag",
+      "Veolia Environnement SA (VEOEY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Pentair plc (PNR) stock price, news, quote and history - Yahoo Finance UK",
+      "Pentair builds on 60 years of innovation to evolve its pool equipment range - EuroSpaPoolNews"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為威立雅、美國水務、ERII相關動態：「Veolia stock: Citi maintains Veolia stock at EUR 37.50, 1...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Veolia stock: Citi maintains Veolia stock at EUR 37.50, 17.89 percent above p...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Veolia stock at EUR 32.40 ahead of the Xetra open: environmental services gro...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

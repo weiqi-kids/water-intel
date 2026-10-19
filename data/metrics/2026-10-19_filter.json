@@ -1,0 +1,16 @@
+{
+  "total_raw": 240,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 6,
+  "gate2_fail": 7,
+  "passed": 13,
+  "gate2_samples": [
+    "The outgoing CFO will advise Mueller through year-end; Morgan is expected to take over around Nov. 1",
+    "Energy Recovery, Inc. (NASDAQ:ERII) Stock Has Consensus Target Price of $11.67 According to Brokerag",
+    "Veolia Environnement SA (VEOEY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Pentair plc (PNR) stock price, news, quote and history - Yahoo Finance UK",
+    "Pentair builds on 60 years of innovation to evolve its pool equipment range - EuroSpaPoolNews"
+  ]
+}
