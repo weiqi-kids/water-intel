@@ -1,0 +1,16 @@
+{
+  "total_raw": 241,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 6,
+  "gate2_fail": 6,
+  "passed": 13,
+  "gate2_samples": [
+    "Energy Recovery, Inc. (NASDAQ:ERII) Stock Has Consensus Target Price of $11.67 According to Brokerag",
+    "Veolia Environnement SA (VEOEY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Pentair builds on 60 years of innovation to evolve its pool equipment range - EuroSpaPoolNews",
+    "Pentair plc (PNR) stock price, news, quote and history - Yahoo Finance UK"
+  ]
+}
