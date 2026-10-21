@@ -1,5 +1,85 @@
 [
   {
+    "id": "veolia-2026-10-21-001",
+    "date": "2026-10-21",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Bank cuts target for Veolia stock from EUR 39.00 to EUR 37.00 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSnlPN2s4aUVLY3BCMHVrdllycEpzODhIc25obzZBbDZwUjZQd3Zwck1MWXlCQzRlc1hmNHlFYk9jYWJiTUpZbGZuU2xiQjdhcGhWTG1kM2p2UVBKSnFIa3hOLTVNUjdGYTdibjIyRn",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSnlPN2s4aUVLY3BCMHVrdllycEpzODhIc25obzZBbDZwUjZQd3Zwck1MWXlCQzRlc1hmNHlFYk9jYWJiTUpZbGZuU2xiQjdhcGhWTG1kM2p2UVBKSnFIa3hOLTVNUjdGYTdibjIyRnd4QS1RclZtNnlXbHBKWFpjRDVKVGhsekVWYWp2T2N0MWl1TW9fWGk3Q1RFaEJvMzdiT2Y1NU82YUE2N09rdnduWU9RWjQ3NTV5dWVYOHpNd1g4Mkk0UTFyNDNoclVuQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-002",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith (AOS) Stock Sees Modest Fair Value Cut As Analysts Turn More Cautious - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOd01VUkQwazVKejJtdGlMaFJPUWFpUHRmcjFQY2pSNGQ0NG5wejhINHM2Mlo3ZWUtQzA0TFZSQ3hrVEJoVndIRDlzeDdZR29tNlhlT0w3bDVfTHU2VXg4QlNhWkdBcHNfT3RnSWdlNj",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd01VUkQwazVKejJtdGlMaFJPUWFpUHRmcjFQY2pSNGQ0NG5wejhINHM2Mlo3ZWUtQzA0TFZSQ3hrVEJoVndIRDlzeDdZR29tNlhlT0w3bDVfTHU2VXg4QlNhWkdBcHNfT3RnSWdlNjNQNU9XN0gzcHEzVWxnV1h2cS1NUmNUbXdTQV9YSWkyM1o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-21-003",
+    "date": "2026-10-21",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works (AWK) Expected to Announce Quarterly Earnings on Wednesday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc0tkMVIxckdEcVJxV2I4M3JvZDR3RnVycnktNU85Vm9UeGRFUExTMzJTR2RMMUhwWnRCN3YtXzFqRmxsSFAzeVhOYlM1QkNtdmRwS0ZQcEZOclp0NEZGcENuZzdYNV90Z1A5WTZZN0",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc0tkMVIxckdEcVJxV2I4M3JvZDR3RnVycnktNU85Vm9UeGRFUExTMzJTR2RMMUhwWnRCN3YtXzFqRmxsSFAzeVhOYlM1QkNtdmRwS0ZQcEZOclp0NEZGcENuZzdYNV90Z1A5WTZZN0l2QVkzVHJmVnVQbVBKQTg0LXRmM0dWVHcxdjRJY3JPVUpUR0ZVWlNtakJwbWJ4bnlJNFpqamZjVl9HWXFzS3VhTUVrWGZkejI2em8wWVZROGx4NjFJTlR1LVVKdUtfejYxZTlOU1dGdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-21-004",
+    "date": "2026-10-21",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company, Inc. $AWK Stock: Sumitomo Mitsui DS Asset Management Company Ltd Grows Stake - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT2ZhWFN1dXIwbVItWENKT3cydlZMLUg5QUdMT3VKZjg1Y3J4aWVqNnA1YUVWaDVpU1JxdGhkUVpZZFpiQWltbGxvamFEMmhEaFNFU1Y1YXdqaU9iRVYwc282bDZuanhwWTVTQlcxWF",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT2ZhWFN1dXIwbVItWENKT3cydlZMLUg5QUdMT3VKZjg1Y3J4aWVqNnA1YUVWaDVpU1JxdGhkUVpZZFpiQWltbGxvamFEMmhEaFNFU1Y1YXdqaU9iRVYwc282bDZuanhwWTVTQlcxWFJWY01HT21LQWFIVF82MnVqdWgxQ081X0M2S2FndmFlN2E5SGxWdjFTWk0zZThzVW9KV1R0SlhxNE5rQUlLS0xkUzZ4LTY3X0ZpQ2tWanBJakFtVFFzd1hMVldSdmJrT0RVQ1BKVXFPZmhwSnFLdjktcW1YZmlLOF9FeU81UF9NcnhVLVBONWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-10-20-001",
     "date": "2026-10-20",
     "companies": [
@@ -133,6 +213,162 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYVk5LUFPNVZVM0lLd19kX2pHTjdxZG1MYURhc2RkaDVFT0JxLTN5ZVdEQllCM3Qwb1dsZ2I4cGRzV0pkc3c2eUNZQ0d6WGZ4QlpWR2VmSzNYbWV3MU9KeWd5LVpRamVJbjcyYkpZZzAwbE1SV1JnS1V0ODhoZTBMV3UtNVpOOXZGM0hzWVZzWXBYc0Z1Q0s1a2c0MzZobnlOMWJFa0tkcmZyVTE1MXQ0S2hZS2R5ZEtNUDIwb2VCMnJuc1l0Y0tlX0FEa3lqblRxVnhF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-008",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Elite Undervalued Stocks To Own In October 2026 - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQVjJ5eGZQUVNubzVUSkhjcGUzSVJVQkl1bTF0OFZOSFNvSWM4YkRzc3ZXc004UjJ0STFDVVAzeE9tazhSNmR0S1BYX25lWHFXS2otdEpNcHkyYmdZbEdvNVRVbUQtTlI1SWFiTGtYUl",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVjJ5eGZQUVNubzVUSkhjcGUzSVJVQkl1bTF0OFZOSFNvSWM4YkRzc3ZXc004UjJ0STFDVVAzeE9tazhSNmR0S1BYX25lWHFXS2otdEpNcHkyYmdZbEdvNVRVbUQtTlI1SWFiTGtYUlRONHMzWHNLNHdYZVI3LXp2aDlWTFhGSnpDUGJtdnRfbUVCZzEtakt4aE5WTHg3U0M4MkhVMURiOGk2ZWozTkZEQ2hHdzhrNDJxMDZkSU9mTFF1UmtFNXZrMkxB0gHPAUFVX3lxTE5XYUxoMTVoUjh3RkdrTEJSeXhxaVZxaDUxZ1ZhTTBjcTcwT1hoM3p0WG1yWUFtbjJmYnQ2R3pKWjdralR0dDFBZG9LeHpob0JaMlNfcElDc1NWaU5mRUMzSHFkNzctSm5fckw5VU04TG5tNmdYakhUTGc5UGozX2Z0NEtrdS1JUkdWczhmWDZ1MEhZUFZWbjBjUjhCYXBvSlpyRkNFU0VUaVVRZHltN1RqWFpYb3ZOMF9OaVI5MU16TWFncHBrSmY1RWI4SFhsQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-10-20-009",
+    "date": "2026-10-20",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery secures Saudi contract and Energy Recovery stock trades at EUR 5.92 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxORGRFanRDMDZJUHFLalpIQ0RVTUxPa0VBQ0p1d0ZEbW9sQ2FQODBlU2NGRWZnbkhaS1dKTzY3ODE1Tk93bDFRaVloT2lDNTd1T1FDZmNTc3NKMG5BUmtYeDVEUGpZTW9mdTE5MTVDUU",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORGRFanRDMDZJUHFLalpIQ0RVTUxPa0VBQ0p1d0ZEbW9sQ2FQODBlU2NGRWZnbkhaS1dKTzY3ODE1Tk93bDFRaVloT2lDNTd1T1FDZmNTc3NKMG5BUmtYeDVEUGpZTW9mdTE5MTVDUU02cDkzVXVDa201MXoyLVpDTGtOY1AyS3VSTFZ4Q0kzejBGRGNoYWVCWEZVSUozMmpPaEFIRTM1T3hMNFVWNkdHbkFUcW1kS1VBa2ZVV0c0OFQyOE51S096bklCOUxvUzlmaFhlYldIMVR3Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-010",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith (AOS) Stock May Be 29% Undervalued On Cash Flow - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXUtS2JHS0Z2aGdiNko0azE0eXVmMkFTRnl3Zi02N1RHbjJVXzVoWTZ6NVNnOUtSNTlySnhKSEFiZGZQcmZITTZtSDQzbzhSRXNlLVU4SV94YnNROVdUQ2tUenpPWXN3c0R3bWotMH",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXUtS2JHS0Z2aGdiNko0azE0eXVmMkFTRnl3Zi02N1RHbjJVXzVoWTZ6NVNnOUtSNTlySnhKSEFiZGZQcmZITTZtSDQzbzhSRXNlLVU4SV94YnNROVdUQ2tUenpPWXN3c0R3bWotMHBIT3RoWjdIa09LeGJieXNNNzlab0tVYWE1NkVhazBlWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-10-20-011",
+    "date": "2026-10-20",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita reports JPY 99.90 billion revenue: meaning for Kurita Water Industries stock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbGp4RFhRRUdqQU5LMHhSbm5qS2FzSzBhRjNheEVpaFNzZGZkQ0VVeGJZVVRGekt6N1NqR2I1OWs4ZXVzOGN6OENoc2lVLUxqOVRSX1ZuU0pqeU5JeU1tVmtXOHZJajVKYlBWSGdMNF",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbGp4RFhRRUdqQU5LMHhSbm5qS2FzSzBhRjNheEVpaFNzZGZkQ0VVeGJZVVRGekt6N1NqR2I1OWs4ZXVzOGN6OENoc2lVLUxqOVRSX1ZuU0pqeU5JeU1tVmtXOHZJajVKYlBWSGdMNFJZOUo5LWhKa0J5V1RfMkplY1V2M05pdDV3a3QwcFNTZjVKdWhXTWw2OHFXcV92UDZVcFZpY2pvN2dueXpjRkxpMkl2N0ZUemxKaUhCZlcyeEhWOGEteTM5bEUzVjVZLTY0RHlZRDdoV2g?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-012",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Indiana American Water Proudly Recognizes $25,000 American Water Charitable Foundation STEM Education Grant to Girls Inc. of Shelbyville - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxQTmYtaVYxSVNkMjNfcWJkUnZHSjl5WE1pUEFfQ2hUQl9wWWZ3SldPSW5HMUhKZFJ2RFpHWVEwUmFtUk5vQjZzeVBBU2FRT1lwZ0Jhb0Vsc3FXTktBcGt5MlJGLVFfMVhTbzJuQkcyNE",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQTmYtaVYxSVNkMjNfcWJkUnZHSjl5WE1pUEFfQ2hUQl9wWWZ3SldPSW5HMUhKZFJ2RFpHWVEwUmFtUk5vQjZzeVBBU2FRT1lwZ0Jhb0Vsc3FXTktBcGt5MlJGLVFfMVhTbzJuQkcyNE40QjZhQ2F1RHAySU5ydzFpdGVySlRoMUc3VWwtMjJfTDVRbVNfajdGTmRpSGx4OGhkdEdlQ0swVXJMX0VnTy00VXdBekYyYWlUVW5TQ0FlZTYxUktQX1lDd1lvZ3Z0MmlLMVQ2N2ZlME9OTUl6c2pHcXdpbmQ3NkdWckZ3c3l5WklQQnBndW12eDU2ZXVqZEFzNVZjcldDbWF3MzVqcW1NSmNpWU9vaURfbXowdDNHUnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-20-013",
+    "date": "2026-10-20",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Barclays keeps Sell rating and sets USD 127.00 target for American Water Works stock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRnJoSVRna2JCeDhSU0R0a243LUtjUk83endVU3d2QlNoN3Z5TFFHZkZTTUhYZGV0aGhLU1YxYzlkUnNCNEpzemV1SnRLR19NSTgxN0NzRi1HbkVUbllfV3ZGZHhid3Y5LWpWVmp3Sm",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRnJoSVRna2JCeDhSU0R0a243LUtjUk83endVU3d2QlNoN3Z5TFFHZkZTTUhYZGV0aGhLU1YxYzlkUnNCNEpzemV1SnRLR19NSTgxN0NzRi1HbkVUbllfV3ZGZHhid3Y5LWpWVmp3SmFFcGtDNGZGQ3BpUndMZkdDbVlTM2ZCTEFxU1NnYnBxOWFOTVQ1clVVQ3JyYVFzMTZTeGhuVlpfb1FZRE9JMnNtWjh0ckl6Z3hJMlJ2dGhuTnU2RUdpSml0QWtHYUtpeC1oLTdtckNGU203emM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-014",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Foundation grants $25,000 to Gir... - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPbzVOZVVTZGxlaGFFM0RMdFZoM0FTTDhaUExvQUc3alBfWmZBSVRwQmZPMGRsLVM2azJaeF85X3VobVRTbVZkdnZ1d3RXZHdXWGJkYkdnc21rRzVhR3NBTVNZNmZXZnZwMEVVLXIzTm",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbzVOZVVTZGxlaGFFM0RMdFZoM0FTTDhaUExvQUc3alBfWmZBSVRwQmZPMGRsLVM2azJaeF85X3VobVRTbVZkdnZ1d3RXZHdXWGJkYkdnc21rRzVhR3NBTVNZNmZXZnZwMEVVLXIzTmZXaWlzdnpuZk1CQW1YUFVkRklFTVpHTEN0VjhFNmlZeXZ6cGZZeGlyWWM1RFZiYzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-20-015",
+    "date": "2026-10-20",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Is Maintained at Underweight by Barclays - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbnBUXzJvVDdXUVJJbjVOckFRcWt4M3FsU0pxcmN4dkdhdS1VZXd1b3A1dnBKeUtMa25CNkVqNzVzRC1ybVgwRVlISkpraDJFaElZQW9lZ29PWFNnVTNGTVdUekpQVHkxYlQ3WWtTZl",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbnBUXzJvVDdXUVJJbjVOckFRcWt4M3FsU0pxcmN4dkdhdS1VZXd1b3A1dnBKeUtMa25CNkVqNzVzRC1ybVgwRVlISkpraDJFaElZQW9lZ29PWFNnVTNGTVdUekpQVHkxYlQ3WWtTZl9vY3plcjZVTWI3bS1VNWpqNlByd2FlcWJKT21xdDBUQUJ6N0R1dkdnTUx2Z0lsU3plU1c5UXF3YkQ?oc=5",
         "type": "rss"
       }
     ]
@@ -352,6 +588,25 @@
     ]
   },
   {
+    "id": "unknown-2026-10-19-012",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Iowa American Water connects Low Moor to Clinton's water system - Clinton Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYmlicUlHRGJ0cEo3ZXhaUHVOYnROQ2NzYTk4eHZvV2JvS1VyalZhM3ZfZ3hvUDR1X20xVDJtaTFaZmVEYndzN2tVdHlZYnFwd2lLbDl6SlBhQ1cwTkIyYWVQdlNGc09xYUJjODU0Yj",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYmlicUlHRGJ0cEo3ZXhaUHVOYnROQ2NzYTk4eHZvV2JvS1VyalZhM3ZfZ3hvUDR1X20xVDJtaTFaZmVEYndzN2tVdHlZYnFwd2lLbDl6SlBhQ1cwTkIyYWVQdlNGc09xYUJjODU0YjBNd3M3NkoxekRIMTFueHM1c1VMUERCVUh2WUU0czViY3VZY0psNFd5ZGt1Qk5KRnlKNHRndnQ2aFFlMWF4V1JHd212ajYtbTRkOWZHdlRoM1BCNHBoUXhlaXFmSzNNdXFwd3lGblBPemVVdHdpc3JnRVVTR1I5ZXVHOEJsVVRlNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ao_smith-2026-10-18-001",
     "date": "2026-10-18",
     "companies": [
@@ -493,6 +748,26 @@
     ]
   },
   {
+    "id": "veolia-2026-10-18-008",
+    "date": "2026-10-18",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia stock trades at EUR 32.19 in weekend trading - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOdXE1cnVjQ05fQ2JETHFjdmlwNjNXVEhub1l3MkpmTmh5Z0Jfd2Voc1hOX0F4N0djYmdxY2hqczhrdk00M1F6MWVnLUZqbU5rVTc0Vmhac1MyVkltbnlEZE42eXJtOVhQMV85LVowYl",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdXE1cnVjQ05fQ2JETHFjdmlwNjNXVEhub1l3MkpmTmh5Z0Jfd2Voc1hOX0F4N0djYmdxY2hqczhrdk00M1F6MWVnLUZqbU5rVTc0Vmhac1MyVkltbnlEZE42eXJtOVhQMV85LVowYlRNX3kzQUVzN2hHZXl2RlBlQnh1X29Iam9UMzJ6dEhBZWdSQ3VwMzRHR1Fra05KX1FTbEM4ZG5uQU1BS0tucE9iMlVJSUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "veolia-2026-10-17-001",
     "date": "2026-10-17",
     "companies": [
@@ -611,6 +886,26 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcHRsYThrS1RkcWlHM1lWMEZ1YzJva00xeGZTN0RIU0ktb1doeGdjbEF6MXZVRHc3YUdmWE1ncWZtcG5jWVl5dGVLNjRTZEJEZG15RFc2SjQwa0hDQ2Y2c1ZjZENkSmdNZWlsUjRDUGNEckgxMkREeU1tcGxWZDA5amFFZzdVdi12cjU4MVF2TE5yWU9HTjBlT3dCcFFobTNYZnczamxKdmlPNDcxcUFwVFZqaDNXVEljOV9lQ1FFd1pIbmVsQm02UDBSRG5odw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-10-17-007",
+    "date": "2026-10-17",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries stock is due to report on November 5, 2026 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWmF6LVUxT3lacXFuX2hoUm9PQnJjY1MyVURRN1pVY3FKblJxNEJ3dDZ5eDVrREFDbGlDZGREYlFtM3JxbmpiZkZ2SWlrS09mV0h6QmMzc1ZMTkY4QmpNVExzWHRZNGR0dEotY0t1UF",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWmF6LVUxT3lacXFuX2hoUm9PQnJjY1MyVURRN1pVY3FKblJxNEJ3dDZ5eDVrREFDbGlDZGREYlFtM3JxbmpiZkZ2SWlrS09mV0h6QmMzc1ZMTkY4QmpNVExzWHRZNGR0dEotY0t1UFBVNi01Z1htRTFxZk9Sd0dDQW5oeDNONzc5dllYNFhZZmo4MDMwaHYwSWZneUZad3pDc2RIMjc0blpqRnJ1OUdzanNqU1lWRTI1MzVJYktMd2JPQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1659,6 +1954,26 @@
       {
         "name": "essential",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjJRWG5wdWRLWlhhdGVrbHhPdTBRLVdYRy1WMTNuWnNMZ1RTcXJYS0tQUkhrVDZnQ3d6bWdfZ1BPTnctNDlQajlldWtKYUd1VTF1V1RpZ3Q0cGtOSkRSNWcyTzRrRUtZNGwzSW9LUDREblp5bUFfdUExX19PbEh1TmtOSjVGZm13VUhSYzR5ajFnaVRhQkFqOFB0c09uLWl0LXhWSG5iY3pKRHBkc0NTTDN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-14-025",
+    "date": "2026-10-14",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities acquires New Jersey water system for $113,000 By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVktsUkhJdXFKNFd0QmN3SUJOc0ctS3NycHNibXVBbHpKOXcyM3plVWtHMjNQZTJyOFBWUlBmMkVRNDNKUlEybFU3RE45UU1UNzhJX1ZYOXMxNHI4bEM0X2ZZSlVDRGpLM0VJMGVQbn",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVktsUkhJdXFKNFd0QmN3SUJOc0ctS3NycHNibXVBbHpKOXcyM3plVWtHMjNQZTJyOFBWUlBmMkVRNDNKUlEybFU3RE45UU1UNzhJX1ZYOXMxNHI4bEM0X2ZZSlVDRGpLM0VJMGVQbnZHaUFDOHg0cXJWOUNCSDJlMmh2anR5YVk1bnAxUWZXQmNtRUo4YmNnRkdDRkh6U0Q5QVJnMkRGY3B4X2ViTHNTckxRRTAzNm5XcFRhZFNianhUQQ?oc=5",
         "type": "rss"
       }
     ]

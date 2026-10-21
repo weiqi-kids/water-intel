@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:38:57.665453Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-10-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Bank cuts target for Veolia stock from EUR 39.00 to EUR 37.00 - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSnlPN2s4aUVLY3BCMHVrdllycEpzODhIc25obzZBbDZwUjZQd3Zwck1MWXlCQzRlc1hmNHlFYk9jYWJiTUpZbGZuU2xiQjdhcGhWTG1kM2p2UVBKSnFIa3hOLTVNUjdGYTdibjIyRnd4QS1RclZtNnlXbHBKWFpjRDVKVGhsekVWYWp2T2N0MWl1TW9fWGk3Q1RFaEJvMzdiT2Y1NU82YUE2N09rdnduWU9RWjQ3NTV5dWVYOHpNd1g4Mkk0UTFyNDNoclVuQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A. O. Smith (AOS) Stock Sees Modest Fair Value Cut As Analysts Turn More Cautious - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd01VUkQwazVKejJtdGlMaFJPUWFpUHRmcjFQY2pSNGQ0NG5wejhINHM2Mlo3ZWUtQzA0TFZSQ3hrVEJoVndIRDlzeDdZR29tNlhlT0w3bDVfTHU2VXg4QlNhWkdBcHNfT3RnSWdlNjNQNU9XN0gzcHEzVWxnV1h2cS1NUmNUbXdTQV9YSWkyM1o?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_water-2026-10-21-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Works (AWK) Expected to Announce Quarterly Earnings on Wednesday - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc0tkMVIxckdEcVJxV2I4M3JvZDR3RnVycnktNU85Vm9UeGRFUExTMzJTR2RMMUhwWnRCN3YtXzFqRmxsSFAzeVhOYlM1QkNtdmRwS0ZQcEZOclp0NEZGcENuZzdYNV90Z1A5WTZZN0l2QVkzVHJmVnVQbVBKQTg0LXRmM0dWVHcxdjRJY3JPVUpUR0ZVWlNtakJwbWJ4bnlJNFpqamZjVl9HWXFzS3VhTUVrWGZkejI2em8wWVZROGx4NjFJTlR1LVVKdUtfejYxZTlOU1dGdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_water-2026-10-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Works Company, Inc. $AWK Stock: Sumitomo Mitsui DS Asset Management Company Ltd Grows Stake - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT2ZhWFN1dXIwbVItWENKT3cydlZMLUg5QUdMT3VKZjg1Y3J4aWVqNnA1YUVWaDVpU1JxdGhkUVpZZFpiQWltbGxvamFEMmhEaFNFU1Y1YXdqaU9iRVYwc282bDZuanhwWTVTQlcxWFJWY01HT21LQWFIVF82MnVqdWgxQ081X0M2S2FndmFlN2E5SGxWdjFTWk0zZThzVW9KV1R0SlhxNE5rQUlLS0xkUzZ4LTY3X0ZpQ2tWanBJakFtVFFzd1hMVldSdmJrT0RVQ1BKVXFPZmhwSnFLdjktcW1YZmlLOF9FeU81UF9NcnhVLVBONWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 2
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 242,
+    "dup_title": 134,
+    "too_old": 77,
+    "gate1_blocked": 6,
+    "gate2_blocked": 9,
+    "passed": 16,
+    "pass_rate": "14.8%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "Energy Recovery, Inc. (NASDAQ:ERII) Stock Has Consensus Target Price of $11.67 According to Brokerag",
+      "Investors Will Clean Up With Veolia Environnement - Barron's",
+      "Veolia stock at EUR 32.10 pre-market: services group rises 0.22 percent - AD HOC NEWS",
+      "Veolia stock: Citi keeps EUR 37.50 target for Veolia stock - ad-hoc-news.de",
+      "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為美國水務、威立雅相關動態：「Deutsche Bank cuts target for Veolia stock from EUR 39.00...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Deutsche Bank cuts target for Veolia stock from EUR 39.00 to EUR 37.00 - AD H...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "A. O. Smith (AOS) Stock Sees Modest Fair Value Cut As Analysts Turn More Caut...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

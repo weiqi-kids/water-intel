@@ -1,0 +1,16 @@
+{
+  "total_raw": 242,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 6,
+  "gate2_fail": 9,
+  "passed": 16,
+  "gate2_samples": [
+    "Energy Recovery, Inc. (NASDAQ:ERII) Stock Has Consensus Target Price of $11.67 According to Brokerag",
+    "Investors Will Clean Up With Veolia Environnement - Barron's",
+    "Veolia stock at EUR 32.10 pre-market: services group rises 0.22 percent - AD HOC NEWS",
+    "Veolia stock: Citi keeps EUR 37.50 target for Veolia stock - ad-hoc-news.de",
+    "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}
