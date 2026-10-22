@@ -1,0 +1,16 @@
+{
+  "total_raw": 232,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 5,
+  "gate2_fail": 5,
+  "passed": 14,
+  "gate2_samples": [
+    "Ukrenergo: energy recovery must go hand in hand with development - Mezha.net",
+    "Energy Recovery, Inc. (NASDAQ:ERII) Stock Has Consensus Target Price of $11.67 According to Brokerag",
+    "Investors Will Clean Up With Veolia Environnement - Barron's",
+    "Pentair builds on 60 years of innovation to evolve its pool equipment range - EuroSpaPoolNews",
+    "Stifel Downgrades A. O. Smith to Hold From Buy, Price Target is $59 - marketscreener.com"
+  ]
+}

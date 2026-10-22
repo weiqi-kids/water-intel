@@ -1,5 +1,106 @@
 [
   {
+    "id": "badger-2026-10-22-001",
+    "date": "2026-10-22",
+    "companies": [
+      "badger"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Badger Meter Reports Third Quarter 2026 Financial Results",
+    "summary": "",
+    "sources": [
+      {
+        "name": "badger",
+        "url": "http://investors.badgermeter.com/news-releases/press-release-details/2026/Badger-Meter-Reports-Third-Quarter-2026-Financial-Results/default.aspx",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-22-002",
+    "date": "2026-10-22",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "wastewater_treatment",
+      "earnings",
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities : Aqua Pennsylvania Wins Nearly $15.3 Million in PENNVEST Funding for PFAS Removal, Wastewater Treatment Plant Upgrade - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb3d5dXRXcjNGT0xsUTZod3JlZ0NKaHpuTGpTeXMwZjhud0pCVEhQaWxFaWYwakYtcXpQVG1pbDhVXzNocllsVFBnX21zcnpCVDNtbE9XOUJvLXZ0eTZuc2VGNzJlQVhrUnN4aFB2SD",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb3d5dXRXcjNGT0xsUTZod3JlZ0NKaHpuTGpTeXMwZjhud0pCVEhQaWxFaWYwakYtcXpQVG1pbDhVXzNocllsVFBnX21zcnpCVDNtbE9XOUJvLXZ0eTZuc2VGNzJlQVhrUnN4aFB2SDVfT0RSOHctcWZ2YlJnMm5wQllLUWtFOWFpUllxazlKdFNucWhEQy1veTRQWVRQM2xaVktWUVFoTXFqSXdVNV9NNVBsT09OM1hrX0E3djYwcG1jN3d3eDBDZGp2WXBNdkxYNHZ3dXpjbllRMXlRZGpNWS00Q1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-003",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Globe proposes creation of national utility resiliency plan; make connectivity a disaster recovery priority - Cebu Daily News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOamtvRFVsR05RdHNpVkNNNmpkQm9DbkY0dW1LVVJhOWZ0SDROZFBzUzVVUWRWZUFHdXhVc2M5ZF9XSDB0ejFIbm1Bamh2cVl0Qkp2Z2txaElJMnJaRFV5VXJ3N1dVNzBtZ2h1YmUtY1",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOamtvRFVsR05RdHNpVkNNNmpkQm9DbkY0dW1LVVJhOWZ0SDROZFBzUzVVUWRWZUFHdXhVc2M5ZF9XSDB0ejFIbm1Bamh2cVl0Qkp2Z2txaElJMnJaRFV5VXJ3N1dVNzBtZ2h1YmUtY1RfMnBQYmNOMm5qQ0FBeE12d1RENEhLbmFFNFhCSTRiWVRKV2xvR2kyYU9uVkR6cmFweklfcVdMQmdXdFdXV2U1RnQwRHFhQlVoTGZsaEU1NkJDWnVIVDh4emY3R0p5Yi1YY2RrM3d1TnlxSWx2d1hKc0d30gHnAUFVX3lxTE9LMlBIMS1WU0ZNQTJtREQzLTlwZmhTUGoxVGZyMVZIdkNiTGpVT2xOWGZOeWJDcmxOMFBZZ19nRkVRSVotRmNfRUFaUmNkejFmS0hHN05GWURMUnZ2UXY1RDI4MWFmZmtSV0prVFA3bDg4MWZEcTdDS3ZlTFRzbzR2QjRnQ1JoTWpyUHpEUjV5Mko0T0ktb3c2c2F3dTRyZHhxU2ZhOHRnRWw4QWpULWRTekxWelp3SENjNTFTNjZKRUV4aVN1VzdPQ2tYc2lkTWtzZFdOWTVIaW1XMkdLRjJnekpSRHFaRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-22-004",
+    "date": "2026-10-22",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What You Need to Know Ahead of American Water Works’ Earnings Release - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVTV6ZjI3WEI5V1oxUGo2X1VfZDQ2UWZXYkp5eU96aUZuUWlGZWtBNTNRVDZ6ZUY5ZTZzaV9RNVlEdFNtUU1UaFQxaFQ5eDNIMUJtanA0dExJUmYzc3Z3QUw5RzQzc0Z6TjBMU1d0aU",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVTV6ZjI3WEI5V1oxUGo2X1VfZDQ2UWZXYkp5eU96aUZuUWlGZWtBNTNRVDZ6ZUY5ZTZzaV9RNVlEdFNtUU1UaFQxaFQ5eDNIMUJtanA0dExJUmYzc3Z3QUw5RzQzc0Z6TjBMU1d0aUlxSGsyenJoWkhER0NtV3R5dTQwRkVqTWp2dVVseVVKSkFlYlhnUXRwZEpULTI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-005",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Council Backs More Investment in Regional Water Infrastructure - Mirage News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTkdsdUxTUEtseTBVOUlxMXdISmd1cG50aUVCTFZBM0p3MUdLSXhTNE1hZmJIa0d5R2hPMWhORUVVcnhTQVdtbW10UWVoTEtEVnZRd3BEU25WdTVzOUNtNUZmZk5kdnFqU2pSZThhZS",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTkdsdUxTUEtseTBVOUlxMXdISmd1cG50aUVCTFZBM0p3MUdLSXhTNE1hZmJIa0d5R2hPMWhORUVVcnhTQVdtbW10UWVoTEtEVnZRd3BEU25WdTVzOUNtNUZmZk5kdnFqU2pSZThhZS12OUdZaENaNHJ2dVdTNmNFTXgyMG9wT1RJcDRZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "veolia-2026-10-21-001",
     "date": "2026-10-21",
     "companies": [
@@ -75,6 +176,169 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT2ZhWFN1dXIwbVItWENKT3cydlZMLUg5QUdMT3VKZjg1Y3J4aWVqNnA1YUVWaDVpU1JxdGhkUVpZZFpiQWltbGxvamFEMmhEaFNFU1Y1YXdqaU9iRVYwc282bDZuanhwWTVTQlcxWFJWY01HT21LQWFIVF82MnVqdWgxQ081X0M2S2FndmFlN2E5SGxWdjFTWk0zZThzVW9KV1R0SlhxNE5rQUlLS0xkUzZ4LTY3X0ZpQ2tWanBJakFtVFFzd1hMVldSdmJrT0RVQ1BKVXFPZmhwSnFLdjktcW1YZmlLOF9FeU81UF9NcnhVLVBONWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-005",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "EUREX:TVVDF2027 Seasonals Chart - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVlDN2MtSDlpT1VkcWZCVi1vX09lQkVEYmpUVThaRzB6YnpJOGdTOFhUdE1nNm5vZ2d3ejBZckl5WGJYTkZybU9ZTlBhYkRnRU13czN2VnZmYnpZcnZxcWZ2cUN5bVF4UkQ4MHcydU",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVlDN2MtSDlpT1VkcWZCVi1vX09lQkVEYmpUVThaRzB6YnpJOGdTOFhUdE1nNm5vZ2d3ejBZckl5WGJYTkZybU9ZTlBhYkRnRU13czN2VnZmYnpZcnZxcWZ2cUN5bVF4UkQ4MHcydUt5Unlma3JGU2JGN3lQWmRSM0xCRDI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-10-21-006",
+    "date": "2026-10-21",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement (ENXTPA:VIE) Opens Princeton Meadows Facility, Is The 17% Upside Enough? - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSkI3Q1J3WnJfNi1SV2ZPbVVLTXVrTExXMnkwUkU4Z05LcEZvZS0zSFphSU9XcmZ6SGhRSGpFMnpIX1lORHVxQzhqMWJOZU9nUWxabkRNSWltT05aQTVWT1JTbXFVNkNCVldEYk9GME",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSkI3Q1J3WnJfNi1SV2ZPbVVLTXVrTExXMnkwUkU4Z05LcEZvZS0zSFphSU9XcmZ6SGhRSGpFMnpIX1lORHVxQzhqMWJOZU9nUWxabkRNSWltT05aQTVWT1JTbXFVNkNCVldEYk9GMEJQamMzbElSVnZqTU1ldmVOM2Q0bUpoYVZ6dDNzc2xKT3NZRzRmU1Uyd0hUWi1CSjB2NXdTV1RjNWZvQkZsTmI5LXdWVEVoSlJWaWhRdkNHenJKcW9weTZBMlpnbDhveWpxYWgtdTFRXzY4ZFHSAeABQVVfeXFMTnZsMlZsNkoxVXJmZWZCME9Bb1RGM0h2Yl9XaGFPWnpFWGxORnFab3ZuS0VMbE42YUhLU1VBeVd1ZEZlSDBsVEVJU2d2MFJYS0xhSDN5eFRzTGNtTnowTktQd012MFoyM2RtVE1lbHZTbVV0NkpUclBNMm12QnJSLWpfdEtvY3gwdVJDTmRKNUM1OEJyZDFrazhaZnFxRGxPdXZNa0t3UWUzV2g5QmNpWGVGNG0zNHlGeEtvZElZWm1PWmFYb05zTU5sZ2JNLVczOXlkWDZxdnBrcXVhNHQ1eng?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-21-007",
+    "date": "2026-10-21",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities, Inc. Revenue Breakdown – GETTEX:A2A - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE83aEFNajc0dU5WWnhLemU3bERuNXpsMmt5TS1CVmtwM28zWFpmanpNVHp1Nm9ldVhlRE9IT1lzS19jR3NseUotZXlkZjM3Rm1jcXY0cnREajdJTUF6ZmVidW50R1F0RVI2MkUxOEU2Mk",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83aEFNajc0dU5WWnhLemU3bERuNXpsMmt5TS1CVmtwM28zWFpmanpNVHp1Nm9ldVhlRE9IT1lzS19jR3NseUotZXlkZjM3Rm1jcXY0cnREajdJTUF6ZmVidW50R1F0RVI2MkUxOEU2MkV6ZVBQRlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-21-008",
+    "date": "2026-10-21",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities (WTRG) Declares Monthly Dividend, Yielding 1 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNSFlha2NRS2E1M0Ryc3EzaTVjLXlfLS1hZXJ6VXRDbWtObUppTndUSmgxSDVoRlJPeTBzUVVoNEs3bkJvQ2tQUWx1ZnotWGlIQ1NsYVowM1lwQ0FFdlFNd2hsTVhyT1FyTUtrbFdSMF",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSFlha2NRS2E1M0Ryc3EzaTVjLXlfLS1hZXJ6VXRDbWtObUppTndUSmgxSDVoRlJPeTBzUVVoNEs3bkJvQ2tQUWx1ZnotWGlIQ1NsYVowM1lwQ0FFdlFNd2hsTVhyT1FyTUtrbFdSMFlTbVVJWWt1TzUwNG0zMUZTdTUxVlJnMWtSWlJVWmhtUlRrY29LRXJIVEpmeHg1MFROT0Q0LVZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-21-009",
+    "date": "2026-10-21",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities Declares December 2026 Dividend - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnY2a1BXWmZmLWhfZGZYbGlxeHV6TzlINDJDb2trSTVhT0dab0pabjFaMGFHVk5wV25uNFc3TGdDZVVFbTJVQ2c5c0M2TGhfMmZXX08xXzlSbHdFQm5PTndlbGNhZE5IODZ2cVBPZE",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnY2a1BXWmZmLWhfZGZYbGlxeHV6TzlINDJDb2trSTVhT0dab0pabjFaMGFHVk5wV25uNFc3TGdDZVVFbTJVQ2c5c0M2TGhfMmZXX08xXzlSbHdFQm5PTndlbGNhZE5IODZ2cVBPZEhhZXRWX3VXWkU2Y1ZMaDhpc1hqLUx5SmNvVDRsMTNzNEdfTlZuSU9sOWx2cGlMU09pbWM2bWh5Znl5SEda?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-21-010",
+    "date": "2026-10-21",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities declares $0.3606 dividend - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVlR0aTZPODFxR1VWcEtWczJWMEhOWmhLWkVYZlhQNGlib251TlhUd3ZEVVdVdWVoaHVTUVlSa0JLY0xISTViaVZ6U3JTZE9uZmNrRlI3bzBsRFdTMFV1NHpwTU9zcE5xb2NkUUJKck",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVlR0aTZPODFxR1VWcEtWczJWMEhOWmhLWkVYZlhQNGlib251TlhUd3ZEVVdVdWVoaHVTUVlSa0JLY0xISTViaVZ6U3JTZE9uZmNrRlI3bzBsRFdTMFV1NHpwTU9zcE5xb2NkUUJKcks3dnpXdnlzX0gxaGtxUmdIZzdQcHBmTEZYSHR6ZTA2MWo2cHg3d09TbV9nbWhuQzRiZk9yYjNxWmxERE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-21-011",
+    "date": "2026-10-21",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities, Inc. Declares Quarterly Cash Dividend, Payable on December 1, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRi1xYk1nU0otZGw1MWkzRHFIWnFXcG8wZU9qVUY0NlVjaEZTX085SkYxNFNlbVlselFNdjVHX1M2eVVGMzdDdnktUEIxdF96czQyd0hrOEFvY3U4OXFlTTBocW5lM29WR0R1SUdkNT",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRi1xYk1nU0otZGw1MWkzRHFIWnFXcG8wZU9qVUY0NlVjaEZTX085SkYxNFNlbVlselFNdjVHX1M2eVVGMzdDdnktUEIxdF96czQyd0hrOEFvY3U4OXFlTTBocW5lM29WR0R1SUdkNTV5SHp5TXg3U2hUdDVmZ2pxTHVOMVlpTjR5eG5BYldiNF8yb1dUX2pUZXowMXc3a080bEVYUC1QcndCZXNIaWdDOS1tcGFkdExtN0N5aGlUQ3ctTWRzWlVyM1dIZEF5LTExNUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-21-012",
+    "date": "2026-10-21",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Essential Utilities Keeps Quarterly Dividend at $0.3606 a Share, Payable Dec. 1 to Holders of Record Nov. 10 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaWs2c205M1hnVWRaSUtKd0J4MWlkems1dFgzSUgwSDlkUWxqTXNQUE5NUHhEQ1c2MDllTUlVT2FiUVJNRDkyZVlGOXJlVDhFUkMtb1VGUmJsNWlUZjY3ZlhRS21vLWF4SGVCc1VfOF",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaWs2c205M1hnVWRaSUtKd0J4MWlkems1dFgzSUgwSDlkUWxqTXNQUE5NUHhEQ1c2MDllTUlVT2FiUVJNRDkyZVlGOXJlVDhFUkMtb1VGUmJsNWlUZjY3ZlhRS21vLWF4SGVCc1VfOFpfS2N4WWRqbU14SFJ4NEJiNVpGMmgwVGhkT01KZjA4aFRVcEFubWlEYTVXMl9FMTdKTGd2enBzQXZmd3ZQVk1fSllyS21mUjRlS0xva3BNMmZvTlZMV0ZyMUgtY3d0WnlEWEJzUzVOWGNzWVpwdjhiVk11VGk?oc=5",
         "type": "rss"
       }
     ]
@@ -369,6 +633,26 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbnBUXzJvVDdXUVJJbjVOckFRcWt4M3FsU0pxcmN4dkdhdS1VZXd1b3A1dnBKeUtMa25CNkVqNzVzRC1ybVgwRVlISkpraDJFaElZQW9lZ29PWFNnVTNGTVdUekpQVHkxYlQ3WWtTZl9vY3plcjZVTWI3bS1VNWpqNlByd2FlcWJKT21xdDBUQUJ6N0R1dkdnTUx2Z0lsU3plU1c5UXF3YkQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-20-016",
+    "date": "2026-10-20",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities (WTRG) Stock Forum and Discussion - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxNLXdjbGUzcVIyYjZfNnJsdHdXVWVFQkZ1TkxPU25BUkZEQU9keXl1OXN4djhtTzI1VnExS2RkQnFRRjQ0N2R6aklybjFweGRndVlqdmxNSDAzXzkyQVRBQjdfRzh0QzNYWmNDQjRfUE",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNLXdjbGUzcVIyYjZfNnJsdHdXVWVFQkZ1TkxPU25BUkZEQU9keXl1OXN4djhtTzI1VnExS2RkQnFRRjQ0N2R6aklybjFweGRndVlqdmxNSDAzXzkyQVRBQjdfRzh0QzNYWmNDQjRfUERuNFFMR1ZQSjBMUTRmUW43SVVYem82cHp6elplbVpsSGg4TkkyZXFFUmhpaU1NankzMm5XaXprYmlndmtjSTdtU1BtUDV2ZHhhZmItektaRWM0bWh1YVBoY1E0Vkw0M24zb000dkk1Yi1sOFZseTFRWDE5Nk50dVMtbTZfZl9EZnhvbl9VbnQyc0Y0QkFjMjhiSzNqVlRVQ0FuTDhyQzNCUkFLeEFEQnh0QVlsWDNuWHdzNTFTaUVYMG5XV2d3ZU9B?oc=5",
         "type": "rss"
       }
     ]
