@@ -1,0 +1,16 @@
+{
+  "total_raw": 242,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 6,
+  "gate2_fail": 6,
+  "passed": 22,
+  "gate2_samples": [
+    "Ukrenergo: energy recovery must go hand in hand with development - Mezha.net",
+    "Investors Will Clean Up With Veolia Environnement - Barron's",
+    "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Pentair builds on 60 years of innovation to evolve its pool equipment range - EuroSpaPoolNews",
+    "Pentair plc (PNR) stock price, news, quote and history - Yahoo Finance Australia"
+  ]
+}
