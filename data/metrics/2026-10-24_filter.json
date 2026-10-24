@@ -1,0 +1,16 @@
+{
+  "total_raw": 231,
+  "dup_title": 136,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 7,
+  "gate2_fail": 8,
+  "passed": 15,
+  "gate2_samples": [
+    "Form 4 Energy Recovery Inc: John Joseph Mitchell (Director) For: 9 July - Investing.com India",
+    "A director reports 15,186 shares at Energy Recovery (ERII), citing an administrative error. - Stock ",
+    "Ukrenergo: energy recovery must go hand in hand with development - Mezha.net",
+    "Investors Will Clean Up With Veolia Environnement - Barron's",
+    "Veolia Environnement (ENXTPA:VIE) - Stock Analysis - Simply Wall Street"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T12:34:55.756627Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "energy_recovery-2026-10-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Energy Recovery, Inc. Estimates – NASDAQ:ERII - TradingView",
+      "companies": [
+        "energy_recovery"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94anVfbDItb0tyQ19zR1RLMUtfMWNuTWlZSjNVeEhOY1RwdFN6WUIyOVZ0WVdRZG5mSktBcDFVRmhubFU5dUZlaEhJeC1GNFhUcm5DOHJFQzNzWWl5YXpvTVpIS3k2dDZXMTB5MG85OEhFSlhPOTROdg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "kurita-2026-10-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Total cash dividends paid of Kurita Water Industries Ltd. – TSE:6370 - TradingView",
+      "companies": [
+        "kurita"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORTltOVAwUHpTVXZqZC1kamhMcWp1NlI5OXh0azViUkdtak4zM3M1RGVmc3ZMTTlGeEdIX3V3WVdtbmhJWDJmZmc2cFY3aERVQjdxNF9qNTZpMzNOUEtPekFVSzlhUngwVlVubDF2SElSUjZ3VHllRThLSWhvMUhfU3hwZURvMXdCTG1nLWF6WG11VXczWlJJ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "energy_recovery",
+        "count": 1
+      },
+      {
+        "id": "kurita",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 231,
+    "dup_title": 136,
+    "too_old": 65,
+    "gate1_blocked": 7,
+    "gate2_blocked": 8,
+    "passed": 15,
+    "pass_rate": "15.8%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Form 4 Energy Recovery Inc: John Joseph Mitchell (Director) For: 9 July - Investing.com India",
+      "A director reports 15,186 shares at Energy Recovery (ERII), citing an administrative error. - Stock ",
+      "Ukrenergo: energy recovery must go hand in hand with development - Mezha.net",
+      "Investors Will Clean Up With Veolia Environnement - Barron's",
+      "Veolia Environnement (ENXTPA:VIE) - Stock Analysis - Simply Wall Street"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為ERII、栗田相關動態：「Energy Recovery, Inc. Estimates – NASDAQ:ERII - TradingView」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Energy Recovery, Inc. Estimates – NASDAQ:ERII - TradingView（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Total cash dividends paid of Kurita Water Industries Ltd. – TSE:6370 - Tradin...（水資源產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
