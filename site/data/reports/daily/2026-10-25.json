@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T13:07:56.341081Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_water-2026-10-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "8,257 American Water Works Company, Inc. $AWK Shares Sold by Robeco Schweiz AG - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTDhwQzA1UXhSM21reE1jN0VGNTlaZkthR2ZkZnVMV0JIZ2hXQ3JTSE9SSWg5bUFaOC1lMkpQbzBieVBlem84bi1oZUdfeDBSUUJqXzJTUHl1Vzc1V2xRUDk4SDdRTUlsWVpNUHFFTXhvTmVyM0w4dWFMeThHM3ZHRGlKckJtWGhHN2JZRDFEVENYWjRweW9yWWNDX2szOXdJV3A0NExvTnNSZ1laRVd0RGJwdWlxY2ZQWGFrRFoxOTlUSWtZQ2lLdXhXVmVMdjYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-10-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "43,453 American Water Works Company, Inc. $AWK Shares Bought by Middleton & Co. Inc. MA - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYWs3dWc5d0ZxalRlRU5ORnhjQjNINXJZRlZIaUNwbWt3V0Nja0RWRDVyWTBhTkFGVzViaW1MZ1JZdGZJS1JvTHBaYUpCWDg2N3RtVlVkSVZNM0FtNEkyRDNpaTRLZGtYQWFNcDlUV0U0N0hkQWh3VnJsVExDNnlnRlo5MUlRWXZkNEJidjJlMUt1Tlg5Tnl2dHJUbGJValhTTzZwUzM2SzFWR3FGaHhMQWUtRENlQkVTSElGRHU5MEZoM2V2SWNueWYtcU03R0N6ZU9rSjhKTQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_water-2026-10-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Evergreen Capital Management LLC Acquires 99,447 Shares of American Water Works Company, Inc. $AWK - MarketBeat",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaFpWamgwRVlHRERPbW1HM21pRWtMWlpCZE1RTXh1d1NFU09UdHdEVzYtTXNEbHhsN1ZfUVIwNVRfd3ppVnJOci0wSUM5anJpaGozUC1rRGw3TzRFNUlleUlPOEtDMXYzbC1KMHVnSldhdlYtWlFULUoxLVBna19XZVM1X2RTUjhUTTVBMXgyMWt1VENoMjlKYWIyX01JSGRENUtlUlA0Y0NJSDltNHFoRUlYcHhtNDBmREFqNTMtbHFOMFNqZ1hoSzBTd290VDdaMkJWcUk5emZLMEZpWUFqOHNvWmZTczdHandn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 230,
+    "dup_title": 149,
+    "too_old": 62,
+    "gate1_blocked": 6,
+    "gate2_blocked": 3,
+    "passed": 10,
+    "pass_rate": "12.3%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "Form 4 Energy Recovery Inc: John Joseph Mitchell (Director) For: 9 July By Investing.com - Investing",
+      "Ukrenergo: energy recovery must go hand in hand with development - Mezha.net",
+      "Investors Will Clean Up With Veolia Environnement - Barron's"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為美國水務相關動態：「8,257 American Water Works Company, Inc. $AWK Shares Sold...」。主要關注主題為水資源產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "8,257 American Water Works Company, Inc. $AWK Shares Sold by Robeco Schweiz A...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "43,453 American Water Works Company, Inc. $AWK Shares Bought by Middleton & C...（水資源產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

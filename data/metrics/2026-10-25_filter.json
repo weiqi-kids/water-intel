@@ -1,0 +1,14 @@
+{
+  "total_raw": 230,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 62,
+  "gate1_fail": 6,
+  "gate2_fail": 3,
+  "passed": 10,
+  "gate2_samples": [
+    "Form 4 Energy Recovery Inc: John Joseph Mitchell (Director) For: 9 July By Investing.com - Investing",
+    "Ukrenergo: energy recovery must go hand in hand with development - Mezha.net",
+    "Investors Will Clean Up With Veolia Environnement - Barron's"
+  ]
+}

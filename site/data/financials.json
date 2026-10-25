@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T12:34:51.428517Z",
-  "quarter": "2026-03-31, 2026-06-30",
+  "updated_at": "2026-10-25T13:07:52.522113Z",
+  "quarter": "2026-06-30",
   "companies": [
     {
       "id": "american_water",
@@ -109,17 +109,17 @@
       "name": "栗田",
       "ticker": "6370.T",
       "currency": "JPY",
-      "ar": 145633000000,
-      "ar_prev": 127920000000,
-      "ar_qoq": "+14%",
+      "ar": 140769000000,
+      "ar_prev": 145633000000,
+      "ar_qoq": "-3%",
       "ar_period": "QoQ",
-      "inventory": 20352000000,
-      "inv_prev": 21223000000,
-      "inv_qoq": "-4%",
+      "inventory": 21096000000,
+      "inv_prev": 20352000000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "mueller",
