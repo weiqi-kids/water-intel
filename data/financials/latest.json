@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T13:07:52.522113Z",
-  "quarter": "2026-06-30",
+  "updated_at": "2026-10-26T15:03:45.547194Z",
+  "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
       "id": "american_water",
@@ -58,17 +58,17 @@
       "name": "丹納赫",
       "ticker": "DHR",
       "currency": "USD",
-      "ar": 3965000000,
-      "ar_prev": 3819000000,
+      "ar": 4126000000,
+      "ar_prev": 3965000000,
       "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 3260000000,
-      "inv_prev": 2608000000,
-      "inv_qoq": "+25%",
+      "inventory": 3134000000,
+      "inv_prev": 3260000000,
+      "inv_qoq": "-4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "energy_recovery",

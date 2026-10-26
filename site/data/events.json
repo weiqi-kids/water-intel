@@ -1,5 +1,185 @@
 [
   {
+    "id": "mueller-2026-10-26-001",
+    "date": "2026-10-26",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Robeco Schweiz AG Sells 278,669 Shares of Mueller Water Products $MWA - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjBJSDJoeTZzSm5OWlFUV2V4N2VnUUN1bDVvc1MydENraXA3TWZ4ZlVRMnpTallEeTBSYWhVdTN6Z2Z1b1Q4U29MWDhvWnZjUVR6LVdXcThTQUdERkZtTTQxMGppQl9ibXdqR19sbn",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjBJSDJoeTZzSm5OWlFUV2V4N2VnUUN1bDVvc1MydENraXA3TWZ4ZlVRMnpTallEeTBSYWhVdTN6Z2Z1b1Q4U29MWDhvWnZjUVR6LVdXcThTQUdERkZtTTQxMGppQl9ibXdqR19sbnRtampmeDJPNmJhS05LTXFnTC1lMUNtNjFDUXZFc1JaejQteDJWNG9RalAxMTRoUG9aMS1hREpHd0dQQzlLR2JwVXVBQ0hHazhyTFA4ZE85dXZEWDRTYko4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-10-26-002",
+    "date": "2026-10-26",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "When pumps become turbines: A fresh look at energy recovery - Envirotec Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmxkOGRpQXZWaEZRdmExVFh0LTV2eGstNk5HU3VlSlVDcW1TaVFkcm1hVjhLLU1MenlqY0FtY1d6czNNWTltSHFXNjRWQzEyeGhjVXY4SWhjUzEtZFNpSU12eGZTOHozemRNeFYyVj",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmxkOGRpQXZWaEZRdmExVFh0LTV2eGstNk5HU3VlSlVDcW1TaVFkcm1hVjhLLU1MenlqY0FtY1d6czNNWTltSHFXNjRWQzEyeGhjVXY4SWhjUzEtZFNpSU12eGZTOHozemRNeFYyVjBRZGR6ZnlJeUFxRnNPVmhCLWt5U2hNVUNxNS1BTGFPSDlrc256TU5zQ00xOXF3VlB1Y2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-003",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Charwood Energy maintains strong revenue growth and makes progress in the deployment of its projects. - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMTNpal95cjNEU195VVNaWmhRQmpkaFNxSXM5d2RpdFZxRVYya3VMbmk5VEJ3RUpfeUtNUXZVVjRvYUFLQVBLOFFHeDc3VlJjN21HUlBTMjVISVdjMG50ZU9Ja2p4Slh4WW5hVFBVM1",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMTNpal95cjNEU195VVNaWmhRQmpkaFNxSXM5d2RpdFZxRVYya3VMbmk5VEJ3RUpfeUtNUXZVVjRvYUFLQVBLOFFHeDc3VlJjN21HUlBTMjVISVdjMG50ZU9Ja2p4Slh4WW5hVFBVM1ZtcGc0TU92WklRUG9icVo3MGtySGFTR0ZyX1N1RFFVX2ZfOHU0dDBycFZGT0NTWi1LZjZaX3VVTDRnZ0NpNjJDYU1UclhLa1dDUGpRTmZvUzVhSXhEcjdRLU0zVDBidEphaFRUSjNWRkt1N0J0enhaemJtSmtENU84LWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-26-004",
+    "date": "2026-10-26",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities Sets November 3 Earnings Release - MyChesCo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlg4VF9tSkF1UzZMRGh5eDQ0T0R0YjE4cW1UVkxlZmphWHNOYVVWVlRlWU1zQXNjZ3RkTlBuSTc4R3VxbXJIeEU0TzF3QjRfa29QYUdkWEQ5YlRUUDJDbWRvY0dKdGptZ3Q4cmZjcT",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlg4VF9tSkF1UzZMRGh5eDQ0T0R0YjE4cW1UVkxlZmphWHNOYVVWVlRlWU1zQXNjZ3RkTlBuSTc4R3VxbXJIeEU0TzF3QjRfa29QYUdkWEQ5YlRUUDJDbWRvY0dKdGptZ3Q4cmZjcTR4cUluWGZ0NWIzMGROUm9NV19MbngxY2UydHotZGw5ekFCUUNjV2VlUkRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-26-005",
+    "date": "2026-10-26",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jefferies Adjusts Price Target on American Water Works to $125 From $128 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT0RBVk1Na0dLSzdtQVJzLV90TmZqcG9TWGdpNXBncUhiNXJrZUdjS3FRUXlJVERXVGtaM05xa2JtdzJDdG9IZUFTQ25aaGpyei1hUlF1RlVZNDFtam44VVA3QW42R0tyUXVtRU40dX",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT0RBVk1Na0dLSzdtQVJzLV90TmZqcG9TWGdpNXBncUhiNXJrZUdjS3FRUXlJVERXVGtaM05xa2JtdzJDdG9IZUFTQ25aaGpyei1hUlF1RlVZNDFtam44VVA3QW42R0tyUXVtRU40dXJUbjY4d1RPaGVVaFh1aHlaUXVxVGctWlpTWHZZSVZfNE9pWWxBaTdwX3hqRG5pVVhxTU1TdnVrZlctZU12TnJJN3kyYU5LbVlMQjNESzhWSDU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-26-006",
+    "date": "2026-10-26",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "American Water Works Company, Inc. $AWK Stock: Yousif Capital Management LLC Increases Holdings - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbmVtVktXXzAwLU9XV21aOWcwR0RiM0Z4ZVhIWTAwTnNLME1YaFpaRVFOVm0tUHB6T0lKUEI1bWNYVHhuczhhNFg2bktZUXRLSHk3WVkzMFpTby10OENwc0hPZmdtbEpIWFdBODBZVj",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbmVtVktXXzAwLU9XV21aOWcwR0RiM0Z4ZVhIWTAwTnNLME1YaFpaRVFOVm0tUHB6T0lKUEI1bWNYVHhuczhhNFg2bktZUXRLSHk3WVkzMFpTby10OENwc0hPZmdtbEpIWFdBODBZVjZHY2xSOTVlTExoQUxxQ2c2R2lva2lxMndjakZCb0szVnM5WTJaTWZUSHF5VWx3VUpSdEo3dWJKR1c5aE1NNmtlbU9sS0tJeHB5RlFrRmNWaE5zOFM1bldmaUFNcU5jSXdzc1pLUVc2cnBITW10NXRWU3pLX29PakE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-007",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Water customers have received nearly $44 in refunds, about 15 days' worth of service. - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPUk9lZFhzenlBejdQME40LXJtRjE3Q1JzN2RSWWNOblJmbWNiaUd5NU1kaDNxdlpNU1c2eVpZY21kOElVbGc2MkJpeWZxa2Z5QVdBWWRZS05OVjN6MlBRQTc3bDdOdTZ5S0s1UXRGeT",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUk9lZFhzenlBejdQME40LXJtRjE3Q1JzN2RSWWNOblJmbWNiaUd5NU1kaDNxdlpNU1c2eVpZY21kOElVbGc2MkJpeWZxa2Z5QVdBWWRZS05OVjN6MlBRQTc3bDdOdTZ5S0s1UXRGeTZrR1Y5ZnNFNmN4c1JFOWxtaHk0S0htNHl2SjFLYXJrY2x5UEFKZC10REZrd25xdmEybDNkQWwtRER4MDk5QXFVdVV1OU5vTzZWV19OcA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-008",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Pennsylvania American Water Delivers Fourth PFAS Settlement Credit to Customers - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0lkcFRtOWRSUVBNUmFhSVE3Y3VtZ0tTbjJVSWRDWGN5eTZPRkExcVE2dXBsQXYxbFhqUHFTTGdCbkdfeGV1Q0VoS3B4b2lCdWN2TkNLOGU4Mi13WjBrVmxLLXNUNDA2dzBTNDV2Zm",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0lkcFRtOWRSUVBNUmFhSVE3Y3VtZ0tTbjJVSWRDWGN5eTZPRkExcVE2dXBsQXYxbFhqUHFTTGdCbkdfeGV1Q0VoS3B4b2lCdWN2TkNLOGU4Mi13WjBrVmxLLXNUNDA2dzBTNDV2ZmtVSUprVDVFSGQtQkNIeHJ2bU1MTk1GUlo1b2tYVC1BeTRYdVZIb0VueFhVSS04MGtQVmM4emxSdk1HSWlLcDdEakVIWXo3TjJCZDJueVRSNEZWNmUzZS0xTWdwMkw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-26-009",
+    "date": "2026-10-26",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EULAV Asset Management Buys New Shares in American Water Works Company, Inc. $AWK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYVNkdFRZc1R2N2lvMEppTktnMDRpRDFmN2d4TFg2Y2t0WURLeDBPV19IUkdjanZiZGFUaEREdVNJOW4zVm8wVzVSeWxwV1Y1OHpYSUpxLU9jdlF6WmMtTmYwb2tmdkN2UWlpcXMxb1",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYVNkdFRZc1R2N2lvMEppTktnMDRpRDFmN2d4TFg2Y2t0WURLeDBPV19IUkdjanZiZGFUaEREdVNJOW4zVm8wVzVSeWxwV1Y1OHpYSUpxLU9jdlF6WmMtTmYwb2tmdkN2UWlpcXMxb1hoMTE0Y3NhcHdZVkQ5czliT3U5ZDBHdXh5cEpDU3NNMjVQaWZReWd6WGZkb3pMZHlXcUpyRFY3Tk9LNnpVTEZLc3FhRFZQS3o5aGdyT1pHb0ZKei1YeW5DWktFb3RnTlZPeHFhVFdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "american_water-2026-10-25-001",
     "date": "2026-10-25",
     "companies": [
@@ -56,6 +236,48 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaFpWamgwRVlHRERPbW1HM21pRWtMWlpCZE1RTXh1d1NFU09UdHdEVzYtTXNEbHhsN1ZfUVIwNVRfd3ppVnJOci0wSUM5anJpaGozUC1rRGw3TzRFNUlleUlPOEtDMXYzbC1KMHVnSldhdlYtWlFULUoxLVBna19XZVM1X2RTUjhUTTVBMXgyMWt1VENoMjlKYWIyX01JSGRENUtlUlA0Y0NJSDltNHFoRUlYcHhtNDBmREFqNTMtbHFOMFNqZ1hoSzBTd290VDdaMkJWcUk5emZLMEZpWUFqOHNvWmZTczdHandn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-25-004",
+    "date": "2026-10-25",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities Plans $1.4 Million Upgrade After Water Deal - MyChesCo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPWTVWdmY2U0hZZV82dm1YNFFoVnFjZlp0ZkRtWTVCaHlhSEZDSGZ3UXFQNHBLR0RkTlhUS2xoZURaUFpQREtTRmJ6cUdubUU4UWo4bVJwR1RyZ1NOaTFaYkc4N1czWkJOaFFvNjljbU",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWTVWdmY2U0hZZV82dm1YNFFoVnFjZlp0ZkRtWTVCaHlhSEZDSGZ3UXFQNHBLR0RkTlhUS2xoZURaUFpQREtTRmJ6cUdubUU4UWo4bVJwR1RyZ1NOaTFaYkc4N1czWkJOaFFvNjljbUhCbGI5anFCejBYbUluYmtwR1RKSnUzeVNKdzNvZm9GTnlyd2lHMDJPMGJ1dV8xTTk3YkY4M0JXRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-25-005",
+    "date": "2026-10-25",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "desalination",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company (AWK) Updates Desalination Plans, Is The Stock Now Too Pricey? - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbzgzd2xYVG5OVnNyMzB3RHlCY1lRbGRqM3VLR2RlQ3Zpd2lHRUo4NkViWjVoV0xhNVJaSFdwOVp4ZTNCaGpOMkE4WV94LXFqa0pvNXhoZGswT0lJdzM1S3M4ajFCSndOdk5oZHV4MV",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbzgzd2xYVG5OVnNyMzB3RHlCY1lRbGRqM3VLR2RlQ3Zpd2lHRUo4NkViWjVoV0xhNVJaSFdwOVp4ZTNCaGpOMkE4WV94LXFqa0pvNXhoZGswT0lJdzM1S3M4ajFCSndOdk5oZHV4MV9fTEg4Mm0taDZKcmxleS1TWktON2lQbTY4NTNKOGdKczc2aVI5ZnRCZXh3ZjUxcERNNC1udnVPamxGMXV6M2NITjh3TjhTMmlUdnFYTFdHeDN3dTlvOWJMNnJ5Z0pCQk1QZGfSAdcBQVVfeXFMTWpiM1JnX3FMUmRIWjdKRFRBcXdoS1JPd2N2Vl94WUY3WGc4R2h0VTA1S1BFTFlyNmE5Zm1hbzYyc0kwa0xEcXhCQzhselJseXBWdU51Yzdsc0NuaHFseFQ3TkxoR3RXSVdLd0MtSHI4TTlDRlJSYmlmbFJmT2xVNU1qTGpXMV9DekotdVBwV3g4MXZIa21TUzRldkhENzBsQTA0UzZVUmRSakdjVGtPajRCenZZVUt4di1uVGJLZHFJY2VUWldWZk0yMF9LUVFPRm9sS183dkU?oc=5",
         "type": "rss"
       }
     ]
@@ -155,6 +377,64 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb1NtR3hhdTRnUnpkc1VQbTQ2N1kxTnEwbHlvVkdWUW5DSWN4Rmp6V0ExLTFicHl1b1JURGtpQlRXT0laUVhsbjg2OFJfR3BBNU9RQmhmMGpBcVN5Y1RTbkpmLXVxNlFBd3VjR3ktSU5BUE9mTW9kdXVmNklyQ1E5cno5WTVCeGRSMnRGTDJLM1NTYjBhalkzWkFCblE0bHZQRnFDYTZPYzhrRHViWlhNUEh2cl9IOEF3dHFHSFdyYUtudHBzWkgtWVpra0o4a2JHWXMtNTNkTHR0cklKbTFMSTZSWHgxLXl3d2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pentair-2026-10-24-006",
+    "date": "2026-10-24",
+    "companies": [
+      "pentair"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PNR: Pentair plc Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBEYXFIVUw5UG5SLVBXbUhLbXhXdFJVay1GckdFcmJtVV9zRjdKWVc5czZ5aTVUeE1BM3h2UDl3WjhzbVN3V05Paw?oc=5\" target=\"_blank\">PNR: Pentair plc Latest Stock",
+    "sources": [
+      {
+        "name": "pentair",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBEYXFIVUw5UG5SLVBXbUhLbXhXdFJVay1GckdFcmJtVV9zRjdKWVc5czZ5aTVUeE1BM3h2UDl3WjhzbVN3V05Paw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-10-24-007",
+    "date": "2026-10-24",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A.O. Smith Corporation Estimates – NYSE:AOS - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1JVEdNMEktSXZjYWRKcmM2UWlnX2E4NndTZk9xR1VSLWEwdGJJWXlUQW9reHZFeF8wZm16Z0hUQ3FLSlVuMVhONy1xUF9WVEExaUEyeVEtLTFxdTVHX3B0T2pYVFAydlF5UVZnM25VTW",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JVEdNMEktSXZjYWRKcmM2UWlnX2E4NndTZk9xR1VSLWEwdGJJWXlUQW9reHZFeF8wZm16Z0hUQ3FLSlVuMVhONy1xUF9WVEExaUEyeVEtLTFxdTVHX3B0T2pYVFAydlF5UVZnM25VTW02SVdT?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-24-008",
+    "date": "2026-10-24",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company, Inc. (AWK) stock price, news, quote and history - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OZVkyZG05ZU5lZDZUaVVkUENJNVBFWlUzRW1NU2NyRS1UOEkzTGs4TDVVQzFKNUJ0V1IzR2d0VjJxdEV6eFA4VHEwWExpYmR4?oc=5\" target=\"_blank\">American Water Work",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OZVkyZG05ZU5lZDZUaVVkUENJNVBFWlUzRW1NU2NyRS1UOEkzTGs4TDVVQzFKNUJ0V1IzR2d0VjJxdEV6eFA4VHEwWExpYmR4?oc=5",
         "type": "rss"
       }
     ]
@@ -400,6 +680,26 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1c3SG1VaVQwOGxzUVZEa3J0cl9URWh0RVBIX1VWdUF3QlNYOTZNQ1FYMW9jWUk5MUpfZzh0OEozdURzb3dlRi1hZzE3QmlDZDNyNENfZE9nc0VxUG8zSG1KMC1DdXdVbzNQVFNLbGVWVVpRbVE4RGR5clVRN2lxcnEtRTZEanMwVnRmODJQbUFqV0FYYU45U0Q4TE1oMzlWWURIaDl3RzVxMW96dXlQOTY5YWNzakxT?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-10-23-013",
+    "date": "2026-10-23",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery | 4/A: Statement of changes in beneficial ownership of securities (and amendment thereto)-Director Mitchell John Joseph - moomoo - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOWW9wT284MlZockVYLUdVcHVPX2lIZTVXR1QtLTVld1psQ2FwXzF4M2NYaUU3cWpWRGljRzJQU3duNmhkWktnY012NzBhRnpSNDlSLVBhb25BaGprX0Fmb0ltbzlqc2c5dVBNeUdVa0",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWW9wT284MlZockVYLUdVcHVPX2lIZTVXR1QtLTVld1psQ2FwXzF4M2NYaUU3cWpWRGljRzJQU3duNmhkWktnY012NzBhRnpSNDlSLVBhb25BaGprX0Fmb0ltbzlqc2c5dVBNeUdVa0hSX0ZBWkpOMUFxS2FIU2N1TmlrZEVYNUdzRmVmMHRDQ2RhUlhtQWQ5bENDcmdTNmc3Tm93OTJ3OWtTX0xWcjMxZTdhWGZoSzdjbHc?oc=5",
         "type": "rss"
       }
     ]
@@ -923,6 +1223,27 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONlotajlXUFVUdVFjcWVHdGg2cERlaHpwWC1QNWt1UG9SQXp2UGVXbWd2d1dfMUtiMmMyMXhJYjZpZGI3X3RabWFtMG11Q2NqVEdQcEVJa09DNEltc084VWQ3OGgtLXFsMlN5RjV3OFU1MnNNYU5qenBYYUd2UDEyVjhMa2JTRXp4c0tYbGViMExTLURqS2ZpODhXNDAySWRmVmxGZEliT3JqTDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-22-027",
+    "date": "2026-10-22",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What You Need to Know Ahead of American Water Works’ Earnings Release - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVVIYkdieGM0MWVKRzdnNVVLNEhndDlxSnQzVUNDWVFPa2RiRzN4Z01hUVZ2ZmtZV29QNWFObkdNbmFBRkRhLVoyODlBOXJpN3o0cW50dkk4S0FMVXJBSlBLMU5UdVN0TUNTQkI1cz",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVVIYkdieGM0MWVKRzdnNVVLNEhndDlxSnQzVUNDWVFPa2RiRzN4Z01hUVZ2ZmtZV29QNWFObkdNbmFBRkRhLVoyODlBOXJpN3o0cW50dkk4S0FMVXJBSlBLMU5UdVN0TUNTQkI1czFwTlIyakxwdk5ucER6aGNWalBBc3lnd3dWc3RWbzdSVzg0NXd3NWx4OGpjU2kwTnZLV29xS0lsRzBPaWNHSkg1Xzl3?oc=5",
         "type": "rss"
       }
     ]
@@ -1598,6 +1919,27 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd0R0M3NZZmxrYVVOeUMxemJNalpJUmFQXzNSOEZsalZoa3RIdlBDN2pnMTRpV3kzSXpOWkFoRldzS2lSalo4Nm05T1BoTExLZDJxcUgza2ZFLVJQa3dqWm13UlpKaVNBcTFDS00xU3RPWVVTRG5ERFNtNFN5T0VIQUxvOGtMNS1fSHJtb25jZW5fSHFkcnJxS2tac0tEdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-10-20-019",
+    "date": "2026-10-20",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita reports JPY 99.90 billion revenue: meaning for Kurita Water Industries stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbGp4RFhRRUdqQU5LMHhSbm5qS2FzSzBhRjNheEVpaFNzZGZkQ0VVeGJZVVRGekt6N1NqR2I1OWs4ZXVzOGN6OENoc2lVLUxqOVRSX1ZuU0pqeU5JeU1tVmtXOHZJajVKYlBWSGdMNF",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbGp4RFhRRUdqQU5LMHhSbm5qS2FzSzBhRjNheEVpaFNzZGZkQ0VVeGJZVVRGekt6N1NqR2I1OWs4ZXVzOGN6OENoc2lVLUxqOVRSX1ZuU0pqeU5JeU1tVmtXOHZJajVKYlBWSGdMNFJZOUo5LWhKa0J5V1RfMkplY1V2M05pdDV3a3QwcFNTZjVKdWhXTWw2OHFXcV92UDZVcFZpY2pvN2dueXpjRkxpMkl2N0ZUemxKaUhCZlcyeEhWOGEteTM5bEUzVjVZLTY0RHlZRDdoV2g?oc=5",
         "type": "rss"
       }
     ]

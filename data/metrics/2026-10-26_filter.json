@@ -1,0 +1,16 @@
+{
+  "total_raw": 242,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 74,
+  "gate1_fail": 3,
+  "gate2_fail": 5,
+  "passed": 17,
+  "gate2_samples": [
+    "Form 4 Energy Recovery Inc: John Joseph Mitchell (Director) For: 9 July By Investing.com - Investing",
+    "Ukrenergo: energy recovery must go hand in hand with development - Mezha.net",
+    "Investors Will Clean Up With Veolia Environnement - Barron's",
+    "Pentair plc (PNR) stock price, news, quote and history - Yahoo Finance Australia",
+    "Pentair plc (PNR) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}
