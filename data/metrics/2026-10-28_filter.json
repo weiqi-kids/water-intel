@@ -1,0 +1,14 @@
+{
+  "total_raw": 219,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 11,
+  "gate2_fail": 3,
+  "passed": 20,
+  "gate2_samples": [
+    "Norway Allocates $54 Million to Support Ukraine's Energy Sector - Oj - Odessa Journal",
+    "Form 4 Energy Recovery Inc: John Joseph Mitchell (Director) For: 9 July By Investing.com - Investing",
+    "Investors Will Clean Up With Veolia Environnement - Barron's"
+  ]
+}

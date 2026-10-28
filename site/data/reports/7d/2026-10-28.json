@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-28",
+  "date_range": {
+    "start": "2026-10-22",
+    "end": "2026-10-28"
+  },
+  "generated_at": "2026-10-28T15:00:10.153646Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-10-22-013",
+      "date": "2026-10-22",
+      "title": "SHARC Energy Receives Record Purchase Order from City of Surrey for District Energy Sewer Heat Recovery Project - GlobeNewswire",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 30,
+      "last_week": 19,
+      "week_over_week_change": "+58%",
+      "sentiment_this_week": 0.03
+    },
+    "wastewater_treatment": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 27,
+      "last_week": 30,
+      "week_over_week_change": "-10%",
+      "sentiment_this_week": 0.08
+    },
+    "regulation": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "smart_water": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "badger": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "essential": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "american_water": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "mueller": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "energy_recovery": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "kurita": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "veolia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "ao_smith": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 99,
+        "last": 90,
+        "change_pct": 10.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-22",
+      "event_count": 28,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-10-23",
+      "event_count": 15,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-24",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-25",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-26",
+      "event_count": 18,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-27",
+      "event_count": 11,
+      "sentiment_avg": -0.09
+    },
+    {
+      "date": "2026-10-28",
+      "event_count": 13,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-22 ~ 2026-10-28）共 99 則事件，重點為「SHARC Energy Receives Record Purchase Order fro...」。水資源產業通用、財報、法規為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "必要公用",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "美國水務",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "穆勒",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
