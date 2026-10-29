@@ -1,0 +1,15 @@
+{
+  "total_raw": 215,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 7,
+  "gate2_fail": 4,
+  "passed": 41,
+  "gate2_samples": [
+    "Norway Allocates $54 Million to Support Ukraine's Energy Sector - Oj - Odessa Journal",
+    "Form 4 Energy Recovery Inc: John Joseph Mitchell (Director) For: 9 July By Investing.com - Investing",
+    "Netherlands Pledges €1.2 Billion for Ukraine's Reconstruction and Energy Recovery - Oj - Odessa Jour",
+    "United Energy looking to sell NI’s first clinical and hazardous EfW project - ENDS Waste & Bioenergy"
+  ]
+}

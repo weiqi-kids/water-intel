@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T15:00:05.727382Z",
+  "updated_at": "2026-10-29T15:07:24.631979Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -143,17 +143,17 @@
       "name": "濱特爾",
       "ticker": "PNR",
       "currency": "USD",
-      "ar": 482700000,
-      "ar_prev": 913700000,
-      "ar_qoq": "-47%",
+      "ar": 500600000,
+      "ar_prev": 482700000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 666100000,
-      "inv_prev": 642000000,
-      "inv_qoq": "+4%",
+      "inventory": 655000000,
+      "inv_prev": 666100000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "veolia",
@@ -194,17 +194,17 @@
       "name": "賽萊默",
       "ticker": "XYL",
       "currency": "USD",
-      "ar": 1875000000,
-      "ar_prev": 1796000000,
-      "ar_qoq": "+4%",
+      "ar": 1965000000,
+      "ar_prev": 1875000000,
+      "ar_qoq": "+5%",
       "ar_period": "QoQ",
-      "inventory": 1016000000,
-      "inv_prev": 991000000,
-      "inv_qoq": "+3%",
+      "inventory": 1052000000,
+      "inv_prev": 1016000000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "zhongyu",
