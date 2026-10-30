@@ -1,0 +1,12 @@
+{
+  "total_raw": 241,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 7,
+  "gate2_fail": 1,
+  "passed": 31,
+  "gate2_samples": [
+    "Goldman Sachs Reiterates Sell Rating on AO Smith (AOS) - StreetInsider"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T15:07:24.631979Z",
+  "updated_at": "2026-10-30T14:58:22.529285Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -7,17 +7,17 @@
       "name": "美國水務",
       "ticker": "AWK",
       "currency": "USD",
-      "ar": 432000000,
-      "ar_prev": 386000000,
-      "ar_qoq": "+12%",
+      "ar": 473000000,
+      "ar_prev": 432000000,
+      "ar_qoq": "+9%",
       "ar_period": "QoQ",
       "inventory": 110000000,
-      "inv_prev": 114000000,
-      "inv_qoq": "-4%",
+      "inv_prev": 110000000,
+      "inv_qoq": "+0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "ao_smith",
