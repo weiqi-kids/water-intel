@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T14:27:24.535709Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "kurita-2026-10-31-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Kurita Water Industries Ltd. (6370.T) Seasonal returns chart - Yahoo Finance UK",
+      "companies": [
+        "kurita"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yUDR5LVJXMmtDb3VLUlY3UTRxMGtGVHJlZi14LWVwb3hqN0o2UGxsVUdYQjNQeTNZOV9kS1Q2LVBWdVhNNlN6bWRSc2VtWmxjLXdYLUV2U0FyQmhld0cwQ0J1T0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "essential-2026-10-31-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Essential Utilities, Inc. (A2A.F) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnd0k0Qnc3RjF0bWNxeDM4R1dDcXdLWFhwWnRrZ3FuZTRmQTlpS2ducE9CYXI2Q2h2dTI2dFdUMzRtbzYtSzBsUzFJRDNQdndmVkg3V2piajl6MVNpT0I2X2RXaw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "kurita",
+        "count": 1
+      },
+      {
+        "id": "essential",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 227,
+    "dup_title": 146,
+    "too_old": 64,
+    "gate1_blocked": 4,
+    "gate2_blocked": 2,
+    "passed": 11,
+    "pass_rate": "13.6%",
+    "gate2_block_rate": "2.5%",
+    "gate2_samples": [
+      "Netherlands Pledges €1.2 Billion for Ukraine's Reconstruction and Energy Recovery - Oj - Odessa Jour",
+      "Citigroup maintains A.O. Smith at Neutral, raises price target to $67 from $64 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為栗田、必要公用相關動態：「Kurita Water Industries Ltd. (6370.T) Seasonal returns ch...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Kurita Water Industries Ltd. (6370.T) Seasonal returns chart - Yahoo Finance UK（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Essential Utilities, Inc. (A2A.F) Seasonal Returns Chart - Yahoo Finance - Ya...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

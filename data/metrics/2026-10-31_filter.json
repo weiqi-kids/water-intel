@@ -1,0 +1,13 @@
+{
+  "total_raw": 227,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 4,
+  "gate2_fail": 2,
+  "passed": 11,
+  "gate2_samples": [
+    "Netherlands Pledges €1.2 Billion for Ukraine's Reconstruction and Energy Recovery - Oj - Odessa Jour",
+    "Citigroup maintains A.O. Smith at Neutral, raises price target to $67 from $64 - TradingView"
+  ]
+}

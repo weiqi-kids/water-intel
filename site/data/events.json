@@ -1,5 +1,47 @@
 [
   {
+    "id": "kurita-2026-10-31-001",
+    "date": "2026-10-31",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries Ltd. (6370.T) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yUDR5LVJXMmtDb3VLUlY3UTRxMGtGVHJlZi14LWVwb3hqN0o2UGxsVUdYQjNQeTNZOV9kS1Q2LVBWdVhNNlN6bWRSc2VtWmxjLXdYLUV2U0FyQmhld0cwQ0J1T0E?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yUDR5LVJXMmtDb3VLUlY3UTRxMGtGVHJlZi14LWVwb3hqN0o2UGxsVUdYQjNQeTNZOV9kS1Q2LVBWdVhNNlN6bWRSc2VtWmxjLXdYLUV2U0FyQmhld0cwQ0J1T0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-31-002",
+    "date": "2026-10-31",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities, Inc. (A2A.F) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnd0k0Qnc3RjF0bWNxeDM4R1dDcXdLWFhwWnRrZ3FuZTRmQTlpS2ducE9CYXI2Q2h2dTI2dFdUMzRtbzYtSzBsUzFJRDNQdndmVkg3V2piajl6MVNpT0I2X2RXaw?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnd0k0Qnc3RjF0bWNxeDM4R1dDcXdLWFhwWnRrZ3FuZTRmQTlpS2ducE9CYXI2Q2h2dTI2dFdUMzRtbzYtSzBsUzFJRDNQdndmVkg3V2piajl6MVNpT0I2X2RXaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-10-30-001",
     "date": "2026-10-30",
     "companies": [
@@ -256,6 +298,165 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pblAzTmJsdExpWEVxcjhsdUQ2VXVoY2lJaUxOczAtOGhZSnF1bEhwWXU2REhDRnM5VDZWUEZTSEhGd3ZnR2JqdkpCZ2lSUFVFeDVqTHJXd09tQnoxcFlnRw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-10-30-014",
+    "date": "2026-10-30",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Secures Carbon Capture Contract for UK's Protos Plant - Energy Digital Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQa0x3NG4wTmNlaE1ydG53dk1fcG5XSzJnOTRaUkcxNm5LNDRNVlFKY0h2Q3V0dUxaZ29UekgyVlRGUG9XVEZMNFM2aGhvYmRJZEx1bHJzNkVQeHhaZGVKRnZRN215SXNRelhVbjBEQn",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa0x3NG4wTmNlaE1ydG53dk1fcG5XSzJnOTRaUkcxNm5LNDRNVlFKY0h2Q3V0dUxaZ29UekgyVlRGUG9XVEZMNFM2aGhvYmRJZEx1bHJzNkVQeHhaZGVKRnZRN215SXNRelhVbjBEQnUzQ1NoV0swTGRId0lMNUtBUzVnVkk2a1M5dndrZGV3T0J4cDlD?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-015",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bulgaria Has EU’s Third-Highest Waste Generation per Capita - Novinite.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmVuR0RqbkYyeUZJb3FBZnBQSXZlYjV4djdKaEIyQ3NtUGc1eVd2UjBxMm1lbjFvOHkwZTlBNHFtdVFIcUttUXpMMV9kTHBKZU0xeTRvMmJNZTVVdmFkckVNWDlGWGJfZGFXa0llUF",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmVuR0RqbkYyeUZJb3FBZnBQSXZlYjV4djdKaEIyQ3NtUGc1eVd2UjBxMm1lbjFvOHkwZTlBNHFtdVFIcUttUXpMMV9kTHBKZU0xeTRvMmJNZTVVdmFkckVNWDlGWGJfZGFXa0llUFVhSmcwOFBBNmlHQjBkc2tueXp3bEp2ckwxMzF1emlfVmxlM3B6MlBMN2VPelNlMHZBdEEzR3loREY5LUxs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-10-30-016",
+    "date": "2026-10-30",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement S.A. (VEOEF) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wOXJyYWs5Z2ZYdVZublJOQWZkeURxaFBJbnFsMHc1SFJObmlCZmJYczlwYk1TZTFsanRVQ19vUC1VZ0hlZUdrV2Z6Tk9DZ0EwUFozeGpDbDJIbWFzNmxOOXF4MA?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wOXJyYWs5Z2ZYdVZublJOQWZkeURxaFBJbnFsMHc1SFJObmlCZmJYczlwYk1TZTFsanRVQ19vUC1VZ0hlZUdrV2Z6Tk9DZ0EwUFozeGpDbDJIbWFzNmxOOXF4MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-10-30-017",
+    "date": "2026-10-30",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries Ltd. (6370.T) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XdTJxM1I5ZGFVQlpwSFZkZ1c5QklXMHkxRXo2WkExVDB4bERLem1WYlZKb1liR21rbWMtWUEtZTZGQnR1TENnVHdONmllMjR2UmtCOWFiWmJKRHQyQks3TjdDYUM?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XdTJxM1I5ZGFVQlpwSFZkZ1c5QklXMHkxRXo2WkExVDB4bERLem1WYlZKb1liR21rbWMtWUEtZTZGQnR1TENnVHdONmllMjR2UmtCOWFiWmJKRHQyQks3TjdDYUM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-10-30-018",
+    "date": "2026-10-30",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries Ltd. (6370.T) Seasonal returns chart - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaNHpQclhaUDd5NHdMVEMyaXFiU2x1STJaYUZZN1c0azU4MXdzX3NSMDY3Yk1VMnhqblFNR29nS0tqLXBLaXlhcTZOUEtHZUFDX0dSb3FLbUxpN2IxUXl5ZUxQaG0?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaNHpQclhaUDd5NHdMVEMyaXFiU2x1STJaYUZZN1c0azU4MXdzX3NSMDY3Yk1VMnhqblFNR29nS0tqLXBLaXlhcTZOUEtHZUFDX0dSb3FLbUxpN2IxUXl5ZUxQaG0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-10-30-019",
+    "date": "2026-10-30",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities Sets December Dividend at 36.06 Cents - MyChesCo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2lMbHRnMEk1ajlJT2tnNVBuRW9MT2xKTFlxRVFPbldpb1pBNVlLaHFCS0JfNDI0VGl1aUNXeXhqMmd3UHBwV05zMjVMWjlRSGsyOHVRUjR5UWdNX1lXUlNiaUVLNGVoTktzZWE4Sk",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2lMbHRnMEk1ajlJT2tnNVBuRW9MT2xKTFlxRVFPbldpb1pBNVlLaHFCS0JfNDI0VGl1aUNXeXhqMmd3UHBwV05zMjVMWjlRSGsyOHVRUjR5UWdNX1lXUlNiaUVLNGVoTktzZWE4SkNoMFZyYXpBZjBaclZOckxCQ0JTTU9kbm9XTDY4YzZwV1lybXZxVnNtVWx5NG9lMTRo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-020",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "semiconductor_ultrapure_water",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Iowa American Water offers emergency assistance - Clinton Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbkR1aXo0RVNRM1MxaGc0LThVaGViYVpkRDRFUnV1NkpnTVZhRjJlUzVCRjhyQzBkbDFFM01zbGJ1em1kZTUzNFdJVlpPOUpWZkwwTENGR1hHYkVrX0hqekIxdHJWdWRKNDZ0bXA0T3",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbkR1aXo0RVNRM1MxaGc0LThVaGViYVpkRDRFUnV1NkpnTVZhRjJlUzVCRjhyQzBkbDFFM01zbGJ1em1kZTUzNFdJVlpPOUpWZkwwTENGR1hHYkVrX0hqekIxdHJWdWRKNDZ0bXA0T3NyR2VYbUlFTkJIY1kxSkE0LS1Ma1l1OEljenljVWRnajQ2MXgzcjFRTy1seFNjeFg5ZWxpVXRNRllqaldKNEgyRWpFNDFIVkdDRmE5MUJBNVE0a2MteVdRT2xFdWN0azU2Q0E2TnVKVFVyZjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-30-021",
+    "date": "2026-10-30",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What American Water Works (AWK) Said on Its Q3 Earnings Call - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbVVNTEFXaEN2YjVvNmdHRjN6WTdWcVp5eUF6SVZIczdCNjI2NHYzZkN6OVlMOXE1RmpTSXlKZTJnaUFUU0VSdzR3Y2ZFMGc3d2dpSGl5ZEVCMXVjTGtmemctVDY4YXJNOU9lNjhUVV",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbVVNTEFXaEN2YjVvNmdHRjN6WTdWcVp5eUF6SVZIczdCNjI2NHYzZkN6OVlMOXE1RmpTSXlKZTJnaUFUU0VSdzR3Y2ZFMGc3d2dpSGl5ZEVCMXVjTGtmemctVDY4YXJNOU9lNjhUVVU0T1BNRnRNMmR5R1MwalJCeUNBM080NlUzcFNCLVNZWjJRaG1VSlQ4b0VsM1A4UVNRZVVMaWpMQlB1MTdJbmFFN2prZjB4YUZ4d3pN?oc=5",
         "type": "rss"
       }
     ]
@@ -1064,6 +1265,26 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdEZOT3VEZmRabWcycGhWenM2bEFZTFNPcmNGMENOa1otNjlZbW5ta3FySFZhUTRWVVJJa3MyWmxvM1lzejNmdTBLaDhQUVRiMTNmR29MNmVjcnp5eGxMZDhEX21pSUJwU0RkVmFvV3VldExKU294enhKdWdkeGstdnRxZ3VzdVJVZE16bUMzNzBnMUV6OGZzNW9jRHFjMWt2cWFLRGh2aTlJdk5pUmVKWTU1azZxLU5kdF9kQg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-10-29-042",
+    "date": "2026-10-29",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A.O. Smith Q3 2026 Earnings Call Transcript - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPenkyOVI3VmE2cmJWQUFIOVo2cTFHSGxTZk1mTVczNDVsRFQ0UXpQcFdMV05rUzVpNTNYT3o1eXcyRWtjdU4wMlF1WjVzM1k1OURHQXJVXzNTNVd1N18yZE42eTBRWnhkd01YMkpfTF",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenkyOVI3VmE2cmJWQUFIOVo2cTFHSGxTZk1mTVczNDVsRFQ0UXpQcFdMV05rUzVpNTNYT3o1eXcyRWtjdU4wMlF1WjVzM1k1OURHQXJVXzNTNVd1N18yZE42eTBRWnhkd01YMkpfTFVoYUc5R0JQX25SWk0yc3hLYnBPdGl3TXlHMExsZ3A0OA?oc=5",
         "type": "rss"
       }
     ]
