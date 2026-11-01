@@ -1,5 +1,27 @@
 [
   {
+    "id": "american_water-2026-11-01-001",
+    "date": "2026-11-01",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Raised Earnings Outlook Could Be A Big Moment For American Water Works (AWK) - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbWVtb01uMnNVNHZZMkRhMndnTmtEUm1zdjBOeDRocUNlbjlCSDZBWDVDeWZfOVpjbmIzQ3premhCdVVRSGxMNEdkVU5TWS1zTmpDeFF2V0ZwMm9xeGJla1JmVlpweDdZNVpEVVQxRT",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbWVtb01uMnNVNHZZMkRhMndnTmtEUm1zdjBOeDRocUNlbjlCSDZBWDVDeWZfOVpjbmIzQ3premhCdVVRSGxMNEdkVU5TWS1zTmpDeFF2V0ZwMm9xeGJla1JmVlpweDdZNVpEVVQxRTExOTRDWnJMSy1lUFFhTHlraHc2dmdZc2poRGJSRzV2dkd0Y3lMNlVMZlN5M2ZNckVEU2RqaTFJQzZKVzI5TEtGc3lMMVp2d01OUTRJMVNGYXRGdThTcEEzLUZOcTFFaG8zWGZGamZ4QmjSAdgBQVVfeXFMTW1lbW9NbjJzVTR2WTJEYTJ3Z05rRFJtc3YwTng0aHFDZW45Qkg2QVg1Q3lmXzlaY25iM0N6a3poQnVVUUhsTDRHZFVOU1ktc05qQ3hRdldGcDJvcXhiZWtSZlZacHg3WTVaRFVUMUUxMTk0Q1pyTEstZVBRYUx5a2h3NnZnWXNqaERiUkc1dnZHdGN5TDZVTGZTeTNmTXJFRFNkamkxSUM2SlcyOUxLRnN5TDFadndNTlE0STFTRmF0RnU4U3BBMy1GTnExRWhvM1hmRmpmeEJo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "kurita-2026-10-31-001",
     "date": "2026-10-31",
     "companies": [
@@ -37,6 +59,26 @@
       {
         "name": "essential",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnd0k0Qnc3RjF0bWNxeDM4R1dDcXdLWFhwWnRrZ3FuZTRmQTlpS2ducE9CYXI2Q2h2dTI2dFdUMzRtbzYtSzBsUzFJRDNQdndmVkg3V2piajl6MVNpT0I2X2RXaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-31-003",
+    "date": "2026-10-31",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "High Service Pumps Market To 2035: Energy Transition and Water Infrastructure to Drive Demand - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ2lmMGRQODZPQmdGZFg4WjNBOV9UT0xya3ZWQjNWR2NSREZWSGQ0SXRYNC1wRnBhOG9BMjdCckxIMnlibVlaTzRRSTAzSERrYzE0UzJhX0ItUElzcUlIYW54VnFvZVlueXdDVXRBZT",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ2lmMGRQODZPQmdGZFg4WjNBOV9UT0xya3ZWQjNWR2NSREZWSGQ0SXRYNC1wRnBhOG9BMjdCckxIMnlibVlaTzRRSTAzSERrYzE0UzJhX0ItUElzcUlIYW54VnFvZVlueXdDVXRBZTdMNkluQmxIcllrSW9aQkV1dUl1U2NpV1JlNnZ5aHlYaUhaS1JJcVVzUjl0Z0M5SkU3cnFzbXVVNGxSNUtZVGZsQnZlVVk3cE5aYmhIMENka2JzNU1SY1RhWWhRelJVQ1lNLWc?oc=5",
         "type": "rss"
       }
     ]
@@ -1290,6 +1332,47 @@
     ]
   },
   {
+    "id": "unknown-2026-10-29-043",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings call transcript: A. O. Smith tops Q3 2026 EPS view, revenue misses - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxORWczanptYUJCOXlGMk1NbnJrTklSLVVONnJRbTBQSEgwYVhDenJWM2ZuLV9kMWQyU3pRbUNETExhZEVLamtHaGk1QXFEMS1qazRBTG9aQ2R6Y1c2a05MRk9aNDJHWWJMdmpUWGxuSm",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORWczanptYUJCOXlGMk1NbnJrTklSLVVONnJRbTBQSEgwYVhDenJWM2ZuLV9kMWQyU3pRbUNETExhZEVLamtHaGk1QXFEMS1qazRBTG9aQ2R6Y1c2a05MRk9aNDJHWWJMdmpUWGxuSmRSYVl0MEtlQ3VHTWJoelRhckd3bWwyNlhUNWZhMi1hTVIydTdGd2pJUmJDMmQybHBwVWZaWjZYZzRpTjBkZ2wwSE0wRERWVi00RXF1UkRhb0VFMlNmRlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-29-044",
+    "date": "2026-10-29",
+    "companies": [
+      "american_water",
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Zacks Industry Outlook Highlights American Water Works, Essential Utilities, American States Water and California Water Service - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSS1JVkxtcXg3MkY1U3Z3RUF5Q3lyaDloc2xXUU1pOTd0QjZrRjRNYnZydFY0QWRPdmtUSnBBcmhlNGhqa0l4LUJSc0hLREhROHMwQ1NzRmxvMTlsd3lFMkZaOEEyU18tSzk4UVg0aW",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSS1JVkxtcXg3MkY1U3Z3RUF5Q3lyaDloc2xXUU1pOTd0QjZrRjRNYnZydFY0QWRPdmtUSnBBcmhlNGhqa0l4LUJSc0hLREhROHMwQ1NzRmxvMTlsd3lFMkZaOEEyU18tSzk4UVg0aW1CTFVQMFpZTkluMHVFSlM0Y3ZUMHMxaDZ6cWh2bzVPOWloNXhhd3liTHcyVkhPY1VKRVY5YWdiM0tQbnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mueller-2026-10-28-001",
     "date": "2026-10-28",
     "companies": [
@@ -1802,6 +1885,27 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNamtUZGY2TlFJQWx4VnotQ2xXbkRVRUd0M0Rnc2JrTUJDZWRIUFVMTXZQUXRfbzVkT0J5X1dZYUk1M2MyMXBQNnZvN00yTjQyOG51MXF6SDl4a1Jhd0JRTVFkZXRaLTJtenljODVwR2hUUkZnTVlVNndZOWwwbUpVS05ISm5TSXFuTkRoMjI1Z2V2bjRTLXVqcXRuU1NqNFE4Y3ZrNDJneWpkZjJtYWpyZXFMcWxPTEVoTTIzSDFWTG1ScW4wdWt5NFk5SExpSTIwYTFhdkhhMjhEWVZEaUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-10-28-027",
+    "date": "2026-10-28",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Implied Volatility Surging for Mueller Water Products Stock Options - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFJoV0ktM3VZekJwV0VubXdEUlRtMjJaOHNRdGxQSHN5Wkg4elJkVTNRR2V3WVhZYnFoMEdhNFZzWUxCM1AxMFpBd3lYRE5KTmRvUk1Qcnc3TnBVb01pRmVTV2k5WnBDSkI1VkdwVV",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFJoV0ktM3VZekJwV0VubXdEUlRtMjJaOHNRdGxQSHN5Wkg4elJkVTNRR2V3WVhZYnFoMEdhNFZzWUxCM1AxMFpBd3lYRE5KTmRvUk1Qcnc3TnBVb01pRmVTV2k5WnBDSkI1VkdwVV9LR1NHeGJFS2k1anZrdVRDeHQwYTJaWG5nRDhKN1M4VzY2cVpWVTBnTFdKUGpqRWlORFlrVUdjOTQ1QQ?oc=5",
         "type": "rss"
       }
     ]
