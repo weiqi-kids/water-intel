@@ -1,5 +1,81 @@
 [
   {
+    "id": "energy_recovery-2026-11-02-001",
+    "date": "2026-11-02",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Improving LNG regasification efficiency with cold energy recovery - LNG Industry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRDFTZ3RWOWN1SFd3WEFDNmdBRHgteEZ6Q2RkOHROVDgyUXVyMmo2WFVrSGUwT0FTOTBTUDF1SjhiQVUxUUFvazVqb0tOdWVLVFdhSWJNTzVTNFd0RGNwdngxQ1JUTFBKTVBaV0JRVH",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRDFTZ3RWOWN1SFd3WEFDNmdBRHgteEZ6Q2RkOHROVDgyUXVyMmo2WFVrSGUwT0FTOTBTUDF1SjhiQVUxUUFvazVqb0tOdWVLVFdhSWJNTzVTNFd0RGNwdngxQ1JUTFBKTVBaV0JRVHhiZEhsN2tZRGtIbEJoNU5QNjZuN3o2U2E0ZVFFb0hScVU0eXBDZ0JiVEp1UXJaMEN6YjBCcUozY0ltTEs4NlpOdXpKSnZNeDg2WjNN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-002",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "SHARC Energy announces record P.O for Surrey District Energy Sewer Heat Recovery Project - HPAC Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMXBJNjVXcVJ4VlNYYWRpS0tFY3BvSEV1V0RsaFdkSmpmRWtoMGVyOTM0TWwtekJJcDFYelFCbnI0RGZ6MGo5bGtPSTIwLXg2dllMUmVJVDlFV1JSdEltbWpTM1pHLU1QSko1eS1BQX",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMXBJNjVXcVJ4VlNYYWRpS0tFY3BvSEV1V0RsaFdkSmpmRWtoMGVyOTM0TWwtekJJcDFYelFCbnI0RGZ6MGo5bGtPSTIwLXg2dllMUmVJVDlFV1JSdEltbWpTM1pHLU1QSko1eS1BQXpMdnp5N2V2RWxtNEt6NWpCbzlxWXVJWU5uS1BMa0RTaFB3Q2s5cFJkY1pydHA5cWpnN19ITlFKSXdUUURqSG9EUnlIbm4talJlQmZZWHFMb3VkUWZCeVBVaGYxNkJtMlBQMHo4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-11-02-003",
+    "date": "2026-11-02",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia stock heads toward November 5 results after Clean Earth deal - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQREJFYjJYOG43MWpoN0lpSUwxTHFOX1I5T21VTm1MdXJ2a0pxZ0RYZHNGWTNtOXRvSUJyd3RuLVp4R3dYV0tHQ2RXSVBLMzJZYXhrSHJwWURWcmdqbml6Skx3clN6SE0zTnpLM3RWdE",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQREJFYjJYOG43MWpoN0lpSUwxTHFOX1I5T21VTm1MdXJ2a0pxZ0RYZHNGWTNtOXRvSUJyd3RuLVp4R3dYV0tHQ2RXSVBLMzJZYXhrSHJwWURWcmdqbml6Skx3clN6SE0zTnpLM3RWdE9RbGRvYWJKS2JydU43c2FiQkJWcFlOLVZ4eTg0RXhtVlgtaExqQjZBT1Btc2JUb2xtOEhVSVpGck1XdWN6eG54NTlJaFRUQ044X1pMYmZRMW8xNTctZ0xFYW93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-004",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A. O. Smith (AOS) Faces A 15% Fair Value Gap On China Exit And 2026 Reset - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNZVRGNFctNl9uSW1yY1JuNmQ2OThiamJoLXltX0hubkJtN010UjROWnFTaG0xakNaNTRIM0Rxcl9icG40dW5QVU1BS2laTVhCN3pvem45MkY3MFZidjlPV2hzR0tfRUNEMmpObThBc1",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZVRGNFctNl9uSW1yY1JuNmQ2OThiamJoLXltX0hubkJtN010UjROWnFTaG0xakNaNTRIM0Rxcl9icG40dW5QVU1BS2laTVhCN3pvem45MkY3MFZidjlPV2hzR0tfRUNEMmpObThBc1d2U2pOMzBGdlV4MzVHVTNkQVM5Qi1NcmJUaU92eERXRXBmN1ItNUhCZ1lHaFRuZjBhb01qNFYzUjhNLVQ4bGVpVjZWanlSbVlTOXZvMkx5R2xub05fOFpGaUhB0gHPAUFVX3lxTE5DZzAtb0tPcnFKb0ZqcmphdVhFV3o2WW1SLUtHNDFmUXRSV3ZuTkFXNWd2MXMyMENHeVpZZkJQeDF2RkpvZDcxcmthajY3TXI0VTBLYnktRGRyUVN0Rm9KLWVGY0s3ak92Rmw2Vzgza2VfcG1kaUJTaE5PY0p3all0NHJuSkxKMXNRWHNuamRkVnlhLWR2THJ1VUFDUXR6Wjd1RzgyWTJhQUFnX0xieTNZdDB5VnFaZ28yMlNiMUpUMHd0TnFUb3VBcUk2c0lUMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "american_water-2026-11-01-001",
     "date": "2026-11-01",
     "companies": [
@@ -17,6 +93,26 @@
       {
         "name": "essential",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbWVtb01uMnNVNHZZMkRhMndnTmtEUm1zdjBOeDRocUNlbjlCSDZBWDVDeWZfOVpjbmIzQ3premhCdVVRSGxMNEdkVU5TWS1zTmpDeFF2V0ZwMm9xeGJla1JmVlpweDdZNVpEVVQxRTExOTRDWnJMSy1lUFFhTHlraHc2dmdZc2poRGJSRzV2dkd0Y3lMNlVMZlN5M2ZNckVEU2RqaTFJQzZKVzI5TEtGc3lMMVp2d01OUTRJMVNGYXRGdThTcEEzLUZOcTFFaG8zWGZGamZ4QmjSAdgBQVVfeXFMTW1lbW9NbjJzVTR2WTJEYTJ3Z05rRFJtc3YwTng0aHFDZW45Qkg2QVg1Q3lmXzlaY25iM0N6a3poQnVVUUhsTDRHZFVOU1ktc05qQ3hRdldGcDJvcXhiZWtSZlZacHg3WTVaRFVUMUUxMTk0Q1pyTEstZVBRYUx5a2h3NnZnWXNqaERiUkc1dnZHdGN5TDZVTGZTeTNmTXJFRFNkamkxSUM2SlcyOUxLRnN5TDFadndNTlE0STFTRmF0RnU4U3BBMy1GTnExRWhvM1hmRmpmeEJo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-11-01-002",
+    "date": "2026-11-01",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Veolia stock faces November 5 test as Clean Earth deal expands U.S. waste - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOWpqN25Dc0pBcTM3dHNnUmRBVDFkRnVnWFlLUTJfanUtZ3lCSWVrdFk5OUw5T21lZDNEbm05Q2d3TWNqQlgxMmp2d3cxcmtyQUJsSEtnaDBqX3p3QTFaMFNIbHRQUXFwbmxoRzBScn",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOWpqN25Dc0pBcTM3dHNnUmRBVDFkRnVnWFlLUTJfanUtZ3lCSWVrdFk5OUw5T21lZDNEbm05Q2d3TWNqQlgxMmp2d3cxcmtyQUJsSEtnaDBqX3p3QTFaMFNIbHRQUXFwbmxoRzBScnpoM3g1dmh4akp5QS1tUDA4dFc0bUoyaVQ2czNYU1JzMFFVem8yZmplWk1wQXdQMGVpclNPSDBXMUFVUXJLNWRvZFVVeHhoY2lpUkk5LWhZZEVmVmNSTS10TF94MnlzN2tr?oc=5",
         "type": "rss"
       }
     ]
@@ -499,6 +595,65 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbVVNTEFXaEN2YjVvNmdHRjN6WTdWcVp5eUF6SVZIczdCNjI2NHYzZkN6OVlMOXE1RmpTSXlKZTJnaUFUU0VSdzR3Y2ZFMGc3d2dpSGl5ZEVCMXVjTGtmemctVDY4YXJNOU9lNjhUVVU0T1BNRnRNMmR5R1MwalJCeUNBM080NlUzcFNCLVNZWjJRaG1VSlQ4b0VsM1A4UVNRZVVMaWpMQlB1MTdJbmFFN2prZjB4YUZ4d3pN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-10-30-022",
+    "date": "2026-10-30",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products, Inc. (MWA) Seasonal returns chart - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mRlhKMnc0QmRZUy1RSjhTUnhMeldkX2loYlVmQTdXX3ViWWw3MEltd25LemVWcmVCdElVZ205aW9KaEZ1ZFV4cGZSZTJFbGg2c1BqeXNKbWhDZVNhN051Vw?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mRlhKMnc0QmRZUy1RSjhTUnhMeldkX2loYlVmQTdXX3ViWWw3MEltd25LemVWcmVCdElVZ205aW9KaEZ1ZFV4cGZSZTJFbGg2c1BqeXNKbWhDZVNhN051Vw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-10-30-023",
+    "date": "2026-10-30",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Veolia stock: Clean Earth integration faces November results test - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmRneG8zQnZiWHlidnBEdlRVZVlEQjVZR2ZnZWxkbGVsNjVDTVVXR0lLSjlMMHRMbFhocGxPYjIwLUc2a3kyY2N6eTc2RlktR29xTlZlVzUwZWQxaXNibkEzMXN1Qlc0WU0xSm0yUm",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmRneG8zQnZiWHlidnBEdlRVZVlEQjVZR2ZnZWxkbGVsNjVDTVVXR0lLSjlMMHRMbFhocGxPYjIwLUc2a3kyY2N6eTc2RlktR29xTlZlVzUwZWQxaXNibkEzMXN1Qlc0WU0xSm0yUmxmUFZkcXAwZXQ0VGlXamxRNjVYUlREYmJrT1pCS3JoeDMzcGdrY3h3OVBGd19vcTFtYU1oOGZIME9FTXp5dlB3bVdWNDBEbnVaUjZVazlYN0VrZVcta3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-10-30-024",
+    "date": "2026-10-30",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company, Inc. (AWK) stock price, news, quote and history - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTM1E0UnBmb3UwbEN0UEFYZEFnbFEtM1VIVUlQVDBCUS1xT2lrZUxMcXFfUW94WW12bS1HekNraWw0Q3FqS2VXc3RUbURlWmxC?oc=5\" target=\"_blank\">American Water Work",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTM1E0UnBmb3UwbEN0UEFYZEFnbFEtM1VIVUlQVDBCUS1xT2lrZUxMcXFfUW94WW12bS1HekNraWw0Q3FqS2VXc3RUbURlWmxC?oc=5",
         "type": "rss"
       }
     ]
@@ -1368,6 +1523,26 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSS1JVkxtcXg3MkY1U3Z3RUF5Q3lyaDloc2xXUU1pOTd0QjZrRjRNYnZydFY0QWRPdmtUSnBBcmhlNGhqa0l4LUJSc0hLREhROHMwQ1NzRmxvMTlsd3lFMkZaOEEyU18tSzk4UVg0aW1CTFVQMFpZTkluMHVFSlM0Y3ZUMHMxaDZ6cWh2bzVPOWloNXhhd3liTHcyVkhPY1VKRVY5YWdiM0tQbnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-10-29-045",
+    "date": "2026-10-29",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A.O. Smith (AOS) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1JGanY2dFc5SHctbi13bWRneGxzZTV4cUNyNjdsRWh3RlFIbmI4RW16S25iOGptUG9aMGZEcUhDTUg2Q09Xb0wwZV9CZzhtQkZWWkNLaE01ak54UlM4NWs1RzFieWQ4T3dQNnNQSF",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1JGanY2dFc5SHctbi13bWRneGxzZTV4cUNyNjdsRWh3RlFIbmI4RW16S25iOGptUG9aMGZEcUhDTUg2Q09Xb0wwZV9CZzhtQkZWWkNLaE01ak54UlM4NWs1RzFieWQ4T3dQNnNQSFpVTC16Y2RnekVxSDJTZElOSUZwemdKT0ZzdUpRQ0ZHQ0Q2dw?oc=5",
         "type": "rss"
       }
     ]
