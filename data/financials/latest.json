@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T18:06:36.314073Z",
+  "updated_at": "2026-11-03T16:02:06.403998Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "史密斯",
       "ticker": "AOS",
       "currency": "USD",
-      "ar": 669800000,
-      "ar_prev": 634100000,
-      "ar_qoq": "+6%",
+      "ar": 612900000,
+      "ar_prev": 669800000,
+      "ar_qoq": "-8%",
       "ar_period": "QoQ",
-      "inventory": 482700000,
-      "inv_prev": 488500000,
-      "inv_qoq": "-1%",
+      "inventory": 509300000,
+      "inv_prev": 482700000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "badger",

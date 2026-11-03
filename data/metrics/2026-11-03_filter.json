@@ -1,0 +1,12 @@
+{
+  "total_raw": 228,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 5,
+  "gate2_fail": 1,
+  "passed": 15,
+  "gate2_samples": [
+    "Citigroup maintains A.O. Smith at Neutral, raises price target to $67 from $64 - TradingView"
+  ]
+}
