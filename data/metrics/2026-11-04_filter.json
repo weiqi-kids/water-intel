@@ -1,0 +1,13 @@
+{
+  "total_raw": 207,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 5,
+  "gate2_fail": 2,
+  "passed": 30,
+  "gate2_samples": [
+    "Northern Ireland’s energy recovery rates rise - ENDS Waste & Bioenergy",
+    "A.O. Smith Should Be Able to Sustain Its High Margins Even in an Inflationary Environment - Mornings"
+  ]
+}
