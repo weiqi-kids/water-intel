@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-05",
+  "date_range": {
+    "start": "2026-10-30",
+    "end": "2026-11-05"
+  },
+  "generated_at": "2026-11-05T16:21:06.791260Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-10-31-003",
+      "date": "2026-10-31",
+      "title": "High Service Pumps Market To 2035: Energy Transition and Water Infrastructure to Drive Demand - News and Statistics - IndexBox",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 38,
+      "last_week": 35,
+      "week_over_week_change": "+9%",
+      "sentiment_this_week": 0.01
+    },
+    "earnings": {
+      "this_week": 49,
+      "last_week": 46,
+      "week_over_week_change": "+7%",
+      "sentiment_this_week": 0.01
+    },
+    "semiconductor_ultrapure_water": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "regulation": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "mueller": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "energy_recovery": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 4
+    },
+    "ao_smith": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "american_water": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "kurita": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "essential": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "veolia": {
+      "event_count": 9,
+      "sentiment_avg": 0.05,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 126,
+        "last": 136,
+        "change_pct": -7.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-30",
+      "event_count": 26,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-31",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-01",
+      "event_count": 2,
+      "sentiment_avg": 0.25
+    },
+    {
+      "date": "2026-11-02",
+      "event_count": 9,
+      "sentiment_avg": -0.17
+    },
+    {
+      "date": "2026-11-03",
+      "event_count": 26,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-04",
+      "event_count": 41,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-11-05",
+      "event_count": 18,
+      "sentiment_avg": 0.08
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-30 ~ 2026-11-05）共 126 則事件，重點為「High Service Pumps Market To 2035: Energy Trans...」。財報、水資源產業通用、展望為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "穆勒",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "ERII",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "美國水務",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

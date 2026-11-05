@@ -1,0 +1,14 @@
+{
+  "total_raw": 208,
+  "dup_title": 97,
+  "no_date": 0,
+  "too_old": 57,
+  "gate1_fail": 2,
+  "gate2_fail": 3,
+  "passed": 49,
+  "gate2_samples": [
+    "Minol-ZENNER Group Expands in the U.S. - Via Ritzau",
+    "B.Riley cuts Energy Recovery stock price target on megaproject weakness - Investing.com",
+    "Veolia Environnement: Information relating to the total number of voting rights forming the share ca"
+  ]
+}
