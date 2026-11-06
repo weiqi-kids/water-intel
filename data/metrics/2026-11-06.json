@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-06",
+  "total_events": 14,
+  "by_company": {
+    "mueller": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "energy_recovery": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "kurita": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "essential": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "american_water": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 11,
+      "sentiment_avg": 0.05
+    },
+    "industry_general": {
+      "count": 10,
+      "sentiment_avg": 0.1
+    },
+    "desalination": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,14 @@
+{
+  "total_raw": 207,
+  "dup_title": 115,
+  "no_date": 0,
+  "too_old": 51,
+  "gate1_fail": 2,
+  "gate2_fail": 3,
+  "passed": 36,
+  "gate2_samples": [
+    "B.Riley cuts Energy Recovery stock price target on megaproject weakness - Investing.com",
+    "Veolia Environnement: Information relating to the total number of voting rights forming the share ca",
+    "Mason Wells sells Aquion to Pentair - PEI Private Equity"
+  ]
+}

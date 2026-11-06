@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T16:21:03.305268Z",
+  "updated_at": "2026-11-06T15:50:18.777374Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -75,34 +75,34 @@
       "name": "Energy Recovery",
       "ticker": "ERII",
       "currency": "USD",
-      "ar": 14237000,
-      "ar_prev": 38941000,
-      "ar_qoq": "-63%",
+      "ar": 10657000,
+      "ar_prev": 14237000,
+      "ar_qoq": "-25%",
       "ar_period": "QoQ",
-      "inventory": 38242000,
-      "inv_prev": 30886000,
-      "inv_qoq": "+24%",
+      "inventory": 44050000,
+      "inv_prev": 38242000,
+      "inv_qoq": "+15%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "essential",
       "name": "必要公用",
       "ticker": "WTRG",
       "currency": "USD",
-      "ar": 207802000,
-      "ar_prev": 287323000,
-      "ar_qoq": "-28%",
+      "ar": 175983000,
+      "ar_prev": 207802000,
+      "ar_qoq": "-15%",
       "ar_period": "QoQ",
-      "inventory": 95713000,
-      "inv_prev": 72196000,
+      "inventory": 126956000,
+      "inv_prev": 95713000,
       "inv_qoq": "+33%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "kurita",
