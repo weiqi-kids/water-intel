@@ -1,0 +1,15 @@
+{
+  "total_raw": 208,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 61,
+  "gate1_fail": 3,
+  "gate2_fail": 4,
+  "passed": 20,
+  "gate2_samples": [
+    "Energy Recovery (NASDAQ:ERII) Downgraded by Wall Street Zen to \"Strong Sell\" - MarketBeat",
+    "B.Riley cuts Energy Recovery stock price target on megaproject weakness - Investing.com",
+    "Veolia Environnement: Information relating to the total number of voting rights forming the share ca",
+    "Mason Wells sells Aquion to Pentair - PEI Private Equity"
+  ]
+}
