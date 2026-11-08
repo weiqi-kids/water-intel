@@ -1,0 +1,15 @@
+{
+  "total_raw": 206,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 62,
+  "gate1_fail": 2,
+  "gate2_fail": 4,
+  "passed": 8,
+  "gate2_samples": [
+    "Energy Recovery (ERII) Stock Price, Chart & Analysis - www.debelegger.nl",
+    "B.Riley cuts Energy Recovery stock price target on megaproject weakness - Investing.com",
+    "Veolia Environnement: Information relating to the total number of voting rights forming the share ca",
+    "Mason Wells sells Aquion to Pentair - PEI Private Equity"
+  ]
+}
