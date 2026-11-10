@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T18:37:18.050911Z",
+  "updated_at": "2026-11-10T16:19:39.305739Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -109,17 +109,17 @@
       "name": "栗田",
       "ticker": "6370.T",
       "currency": "JPY",
-      "ar": 140769000000,
-      "ar_prev": 145633000000,
-      "ar_qoq": "-3%",
+      "ar": 145880000000,
+      "ar_prev": 140769000000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 21096000000,
-      "inv_prev": 20352000000,
-      "inv_qoq": "+4%",
+      "inventory": 20862000000,
+      "inv_prev": 21096000000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "mueller",
@@ -177,17 +177,17 @@
       "name": "Watts Water Technologies",
       "ticker": "WTS",
       "currency": "USD",
-      "ar": 404400000,
-      "ar_prev": 374400000,
-      "ar_qoq": "+8%",
+      "ar": 399300000,
+      "ar_prev": 404400000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 546500000,
-      "inv_prev": 543100000,
-      "inv_qoq": "+1%",
+      "inventory": 576600000,
+      "inv_prev": 546500000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "xylem",

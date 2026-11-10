@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-10",
+  "date_range": {
+    "start": "2026-11-04",
+    "end": "2026-11-10"
+  },
+  "generated_at": "2026-11-10T16:19:42.435812Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "mueller-2026-11-05-021",
+      "date": "2026-11-05",
+      "title": "What Explains the 65% Revenue Drop at Energy Recovery (NASDAQ:ERII) While Mueller Water Products (NYSE:MWA), Watts Water Technologies (NYSE:WTS) and American States Water (NYSE:AWR) Took Different Paths? - kalkine.ca",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 53,
+      "last_week": 54,
+      "week_over_week_change": "-2%",
+      "sentiment_this_week": 0.04
+    },
+    "industry_general": {
+      "this_week": 56,
+      "last_week": 31,
+      "week_over_week_change": "+81%",
+      "sentiment_this_week": 0.03
+    },
+    "capex": {
+      "this_week": 5,
+      "last_week": 3,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.0
+    },
+    "desalination": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 8,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "semiconductor_ultrapure_water": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "smart_water": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "mueller": {
+      "event_count": 15,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "veolia": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 4
+    },
+    "essential": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "american_water": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "energy_recovery": {
+      "event_count": 6,
+      "sentiment_avg": 0.17,
+      "rank": 5
+    },
+    "kurita": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 158,
+        "last": 142,
+        "change_pct": 11.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-04",
+      "event_count": 45,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-11-05",
+      "event_count": 42,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-06",
+      "event_count": 29,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-11-07",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-08",
+      "event_count": 7,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-09",
+      "event_count": 16,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-10",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-04 ~ 2026-11-10）共 158 則事件，重點為「What Explains the 65% Revenue Drop at Energy Re...」。水資源產業通用、財報、資本支出為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "穆勒",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "威立雅",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "必要公用",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
