@@ -1,0 +1,16 @@
+{
+  "total_raw": 207,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 0,
+  "gate2_fail": 7,
+  "passed": 13,
+  "gate2_samples": [
+    "Energy Recovery, Inc. (ERII) - What Are Brokerages Thinking About This Stock? - MarketBeat",
+    "B.Riley cuts Energy Recovery stock price target on megaproject weakness - Investing.com",
+    "Energy Recovery (ERII) Stock Price, Chart & Analysis - www.debelegger.nl",
+    "Veolia increases organic EBITDA by 5% over nine months - www.marketscreener.com",
+    "Veolia Environnement: Information relating to the total number of voting rights forming the share ca"
+  ]
+}
