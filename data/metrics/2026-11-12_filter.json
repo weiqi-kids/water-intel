@@ -1,0 +1,14 @@
+{
+  "total_raw": 207,
+  "dup_title": 118,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 0,
+  "gate2_fail": 3,
+  "passed": 18,
+  "gate2_samples": [
+    "Veolia stock gains focus as portfolio transformation accelerates - ad-hoc-news.de",
+    "Veolia increases organic EBITDA by 5% over nine months - www.marketscreener.com",
+    "A.O. Smith Corp (AOS) Shares Fall 3.0% -- What GF Score of 85 Te - GuruFocus"
+  ]
+}
