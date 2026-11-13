@@ -1,0 +1,13 @@
+{
+  "total_raw": 205,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 62,
+  "gate1_fail": 1,
+  "gate2_fail": 2,
+  "passed": 14,
+  "gate2_samples": [
+    "Veolia Environnement SA (VIE.PA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Veolia bets on Grand Est to secure Europe's supply of strategic metals - www.marketscreener.com"
+  ]
+}
