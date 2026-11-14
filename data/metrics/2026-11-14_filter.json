@@ -1,0 +1,13 @@
+{
+  "total_raw": 207,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 1,
+  "gate2_fail": 2,
+  "passed": 9,
+  "gate2_samples": [
+    "Veolia bets on Grand Est to secure Europe's supply of strategic metals - www.marketscreener.com",
+    "IKEA, A.O. Smith and Moen Reshape China Footprints as Direct Retail Retreats - Retail News Asia"
+  ]
+}
