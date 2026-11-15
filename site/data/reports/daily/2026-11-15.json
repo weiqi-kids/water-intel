@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T15:32:20.228669Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "essential-2026-11-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Essential Utilities (WTRG) Could Be 10% Overvalued On Strong Q3 Results - Simply Wall St",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbFl3RUdPWExZcHVhVks3VUNaVDdZaVZxODByWHhSaDJ4cHB6WGFRLWhCVm8yeUl0dnhqUVEyaGV4OTlkM191RGRuNEduUnRFUGJhWEhsWjMtNVNOOWoxbjZXWjFOQnRPbTZ2Nm9GMDN0MTNJMDFWSUoyTjJUSElBSzJ3N2tueXl3MWRzMmFFQ2FGMTdzUEJQeXV6MHRJYUk0WkhKNTBDazgtTzZtbEpSUTJYTVFnSGZ0YjhBZlAxR1FnemxWY0J5Q2VXdlRMSjlDM0Rj0gHYAUFVX3lxTE81ZFhvc0dOTUltdGpHZDRPMUFYUVJrSDEzOTNXd2JYRkoyZXNKaldTMW4wU3Q1ZkJmUGd2dm5Tb0VqSTd4UVFJZXF6aDFKUmdZSHE5bEpPT1FwX2lOYXM1X3hUT0tvT1V6Y0Z2ZXRZb0F1aUR6Rm9senZhUjgwSG9hTFRTYUhNY3Mzc0o1MU9jVlc0YTQ0MU0zNFQ4RGpjUmRCc3BuaUN4R1dFb01jNVZEaHUzeTJUY0tBZUNRalBmODlaWjR3ZjdLenhobGNabHFvSjhuTWRNaw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "WTRG: Merger Scale Lifts The Story, Closing Risk Keeps The Upside Capped - Simply Wall St",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQWjJKa2QzdGZFdmJsX0FVWmNYbkNBUGJfdFBKQkVWN20xOGNRdGhRTDAzRUVRbXNReDhrb0FYUDdrTTFRc1V4SnVYaS1ZVEROYjFscEpoR0JTSm91bWVtTERpb3dCNWhUR2ZGWlQ2eTJjVnNMVm03djVjLTZEekVGWm12V0xfcDFHWjJ2azhyUzJFRmRyR0hQR3FDdUg1bEkwYWVYNUVUOHN2cFZTSUR3RklnVTdSblJFWldSblRDTmJlTGtJLWlUUERhNWJyQnZDcHMwYVJmYVVobzRDVjZCMW53WkowZDltcVdlWVdUdENQMGVGdFgwMTI0U1k0Q0ZtSWtodGFQSDBrQTFjVmZ1S1RPbEI3TGZXWGRCNVhtOUcyd20wQk5yLVVZTDRzbmg0c1k3TVQyVjl5X0FONmNvUlZWVkYxZ3RlQWVNRGc5c1pHc2NfR0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "essential",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 207,
+    "dup_title": 119,
+    "too_old": 82,
+    "gate1_blocked": 0,
+    "gate2_blocked": 2,
+    "passed": 4,
+    "pass_rate": "4.5%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "Missed Veolia Environnement's Rally? Here Is What Holders Saw - Simply Wall St",
+      "Veolia stock gains focus as portfolio transformation accelerates - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為必要公用相關動態：「Essential Utilities (WTRG) Could Be 10% Overvalued On Str...」。主要關注主題為財報、水資源產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Essential Utilities (WTRG) Could Be 10% Overvalued On Strong Q3 Results - Sim...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "WTRG: Merger Scale Lifts The Story, Closing Risk Keeps The Upside Capped - Si...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
