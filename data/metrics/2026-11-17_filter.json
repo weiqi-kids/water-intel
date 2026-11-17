@@ -1,0 +1,13 @@
+{
+  "total_raw": 188,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 54,
+  "gate1_fail": 0,
+  "gate2_fail": 2,
+  "passed": 18,
+  "gate2_samples": [
+    "London energy recovery facility faces £451M development cost increase following ‘significant dispute",
+    "Missed Veolia Environnement's Rally? Here Is What Holders Saw - Simply Wall St"
+  ]
+}

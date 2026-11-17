@@ -1,5 +1,297 @@
 [
   {
+    "id": "unknown-2026-11-17-001",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Water Manufacturer To Close Plant, Workers To Be Laid Off In March - WHKY",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0hDbE9RNUd5a1otUXVEWjFad1BSa2Y5bXljSm12aFBnR1pqNVkzcVU4OGRUd2trZklMX1ZkRlZmVG8wUnBmRy1hNzBOUTBnN0N5ekRiek43OWRVWS1MbGV2cG92YUpyMUM1bnNpN3",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0hDbE9RNUd5a1otUXVEWjFad1BSa2Y5bXljSm12aFBnR1pqNVkzcVU4OGRUd2trZklMX1ZkRlZmVG8wUnBmRy1hNzBOUTBnN0N5ekRiek43OWRVWS1MbGV2cG92YUpyMUM1bnNpN3R0aHl0cFpVeTVFQmhpMnBNVi1RMEVkZ0FHR2RJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-11-17-002",
+    "date": "2026-11-17",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery: The Market Is Too Short-Sighted Now (NASDAQ:ERII) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQNnI4MkFWdzRLTy1yT19Eei1tclFnVGZsWmwxclAwQ1RvTjdnTFRiUkFmUlhDaVZjbm81UUVpTE53d2N2ZnNmTGYxWmlRUzAyMExnU2VpczVwWVZYN0dCZWpJNjNUZFpNcXFSR1NBUk",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNnI4MkFWdzRLTy1yT19Eei1tclFnVGZsWmwxclAwQ1RvTjdnTFRiUkFmUlhDaVZjbm81UUVpTE53d2N2ZnNmTGYxWmlRUzAyMExnU2VpczVwWVZYN0dCZWpJNjNUZFpNcXFSR1NBUk5TNnkxMFVXRzlLS1h0dXZjQzJCTHcxLTMtOUZsZnRJWWRJMjNac0Jr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-11-17-003",
+    "date": "2026-11-17",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "desalination",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Energy Recovery, Inc. Announces PX Pressure Exchanger Technology Deployment At New Municipal Brackish Water Reverse Osmosis Plant in Southern Italy for Regional Water Utility - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRDg1VllPeG1xWndGM1ZYR0J2MmpmYV83dDkxOVJyRjBMMFNJYnVNSGlQbFR2eEZPeUNRcElHZEZvOVZkU0VYcDBlMUo5LTJFdEZ1NzJvTGNraDEtaEdja0U3ZXloYnZRWldlNW9xZj",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRDg1VllPeG1xWndGM1ZYR0J2MmpmYV83dDkxOVJyRjBMMFNJYnVNSGlQbFR2eEZPeUNRcElHZEZvOVZkU0VYcDBlMUo5LTJFdEZ1NzJvTGNraDEtaEdja0U3ZXloYnZRWldlNW9xZjJSczBNeGpmR2p2UmhXSHVjS2gzTnA5c0Q4LVEtU0VQZTR6dXg0dzFQM05pdFNnTVJJN0N0WmR4bUVuU3Y0cDVLaUxoZlhFRjB4X3hlaUhjUmFjbEEwdmZZMGV5aVMtM2xaTmhLOXBTRXBVUThxSnZwd1I0SHc2QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-11-17-004",
+    "date": "2026-11-17",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "desalination",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery's PX Technology to Cut Energy Use at New Municipal Brackish Water Plant in Southern Italy - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTkIyMURfNnV0bUdvVW1KSUNkSHE2X21uaVMwbVVBQVk1Zk55NnZVNlZqMk5FU0kzSzg0Q3VtWGp6aWxrRS1yZWlNbUdfYnZkREJIUzh0RUNUUGJWOFFpNm9PdmZQcVRLcDRITVpNTW",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTkIyMURfNnV0bUdvVW1KSUNkSHE2X21uaVMwbVVBQVk1Zk55NnZVNlZqMk5FU0kzSzg0Q3VtWGp6aWxrRS1yZWlNbUdfYnZkREJIUzh0RUNUUGJWOFFpNm9PdmZQcVRLcDRITVpNTWxGVTlsM0RZYUJzWGpXX1ZSTlQ4anRRaVZMNlJVX2xKN05Ha0swN3I3QlFiWk5vQkRNVkFCUHlNb2xvOVN0MHllZWtCNEZGbC1RS1ZVbjljYnR3dmFPYUNONHRWTDdfeFlrT0xIUjlzdGs4SmcwX1NZZXZvOEpoOElQR3JWcnFGcHh3MzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-11-17-005",
+    "date": "2026-11-17",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery's Q3 revenue drops 65%, but str... - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPX3hCNVVpbXJ3VWpMelZuT1JNY19KZnpDUTc2MlRxOGUtbHBiamhwc3hCalJIWW1UYWJBQS1DOEwyTHZGMWZ5Y3ItRDc3RzB3TVU4R0FZZU9mY29HVW0yY1pjQ1hQWU1KY1JqM3k4bW",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX3hCNVVpbXJ3VWpMelZuT1JNY19KZnpDUTc2MlRxOGUtbHBiamhwc3hCalJIWW1UYWJBQS1DOEwyTHZGMWZ5Y3ItRDc3RzB3TVU4R0FZZU9mY29HVW0yY1pjQ1hQWU1KY1JqM3k4bWJsMHgxMG5lSUljVEF4STdlZDR5aVNxaTNaemV2ZGp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-11-17-006",
+    "date": "2026-11-17",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A.O. Smith Lobbies on Tariffs After Section 301 Final Action - Legis1",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0tNlNwS1FzdWltd0dqOWc5ejl2Zm1XYm9Ta19KUUxZb0ppaWEzRXVYYWRmazA0R0JLeFhvR3BiRlFOQkVXNWxDeUVVNU10YlZRMGJFU0ZBcDNLYk51a1NOY0JNWEpTSFRYemppOHdGRm",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tNlNwS1FzdWltd0dqOWc5ejl2Zm1XYm9Ta19KUUxZb0ppaWEzRXVYYWRmazA0R0JLeFhvR3BiRlFOQkVXNWxDeUVVNU10YlZRMGJFU0ZBcDNLYk51a1NOY0JNWEpTSFRYemppOHdGRmZDczZRS2l4eTBJS20?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ao_smith-2026-11-17-007",
+    "date": "2026-11-17",
+    "companies": [
+      "ao_smith"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Who Owns A.O. Smith Water Heaters & Where Are They Made? - Yahoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRDZrSUJidDM3cUtvOGNmMVBmS0QwbXJjd0pvbHE0dU1zcF9YQUZVaUo3N2RFckRyYnhnbnFmWHNXYmFrZkNOTFMtd01lVE1YMml6Wi1OUS1mNHRvSjFaMkF6VHRTcm1iS1NFR2g4OS",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRDZrSUJidDM3cUtvOGNmMVBmS0QwbXJjd0pvbHE0dU1zcF9YQUZVaUo3N2RFckRyYnhnbnFmWHNXYmFrZkNOTFMtd01lVE1YMml6Wi1OUS1mNHRvSjFaMkF6VHRTcm1iS1NFR2g4OS1aWHdGSVZ3QXpNRFNEU2Yxb3hHSHh4SDlHbk4zXzJQN0lTcTZMb0xmbzZOM1hFUi0tTUJxNU5pcm91UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-008",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Discovery World's Life of Water will be first major new exhibit since 2018 - OnMilwaukee",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA0SFExTXRKVEs2R3hEV1p0cUJQRHFSMDJFM253dXZvb3NrS2lGWlF2Qm9qcmFkQmYyYTlDdTRFNE0wYUVaeEVXemV0by1GdU9VTjE5clg3YXBmQllXaEVnVm53eFlXSW9JcVV6TTljbw",
+    "sources": [
+      {
+        "name": "ao_smith",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0SFExTXRKVEs2R3hEV1p0cUJQRHFSMDJFM253dXZvb3NrS2lGWlF2Qm9qcmFkQmYyYTlDdTRFNE0wYUVaeEVXemV0by1GdU9VTjE5clg3YXBmQllXaEVnVm53eFlXSW9JcVV6TTljbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-009",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "wastewater_treatment",
+      "earnings",
+      "guidance",
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Industrial pH Meters Market Forecast to 2035: Water & Wastewater Compliance Spending Drives Steady Expansion - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeENnX2JxYUFybkd3N092ckdIMVhLUVZaUElPZ2kwbi1LZFNIMWpUOUtfTWtGZFFpS0tSMkxTY1FsYklUWHNua3R1X05fMEdaX0tXcjFrQ21nLWFWUEJlVHpjY3I3WnM1a0tsM0YtN2",
+    "sources": [
+      {
+        "name": "danaher",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeENnX2JxYUFybkd3N092ckdIMVhLUVZaUElPZ2kwbi1LZFNIMWpUOUtfTWtGZFFpS0tSMkxTY1FsYklUWHNua3R1X05fMEdaX0tXcjFrQ21nLWFWUEJlVHpjY3I3WnM1a0tsM0YtN2VrMkxoeF92cWc5eXptUDZRN20ya00tSUNoOHV5ZUVFUzFvbXRYbDU0TzdiSFlaMEc5VTZKbEhDdWpTYjFUMjVjSWM2bU1mc2lZSmFrR1ZoXzFkT19sRXVoS2djb3kySUFs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-010",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maryland American Water Launches Enhanced Digital Experience for Simpler Customer Information and Support - Quantisnow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXFjNmtzamp1Ml94YzY0aFM4cWRMNWlrM0ozU29uZ0RROGt5Q1RnSHNUc1Bnc0ZSYXVoM1BkZ25kNjBRZElHamhyRmFVMVFhTDFuZDZXOGE4UGI1Vm5xT0htRUpZWDlDMUJPNFlpWG",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXFjNmtzamp1Ml94YzY0aFM4cWRMNWlrM0ozU29uZ0RROGt5Q1RnSHNUc1Bnc0ZSYXVoM1BkZ25kNjBRZElHamhyRmFVMVFhTDFuZDZXOGE4UGI1Vm5xT0htRUpZWDlDMUJPNFlpWGh6RDU4Q21NdTBlMktJQTVyOU52X1NLdUlfUHBpeHE5YWlqYlhNQTFHMndwVGltUF82UFY2UHJSaGU0SUdzbTlQWlJzcnBncS1qeC1rZ0JvYUNlZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-011",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "West Virginia American Water Launches Enhanced Digital Experience for Simpler Customer Information and Support - Quantisnow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMm1qYkF4SS1VNXZocjg2MGZaeU9UNGNyeFNBcWNfOG5zby1aWHZTTTBkaF96NEFkaEh6bFoxc3hwcmlDbzZkTTJ0S0t5c1JneE5qMWU4MWQ0dmUwV2V6enptWndmdGNYODFjOXlzZz",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMm1qYkF4SS1VNXZocjg2MGZaeU9UNGNyeFNBcWNfOG5zby1aWHZTTTBkaF96NEFkaEh6bFoxc3hwcmlDbzZkTTJ0S0t5c1JneE5qMWU4MWQ0dmUwV2V6enptWndmdGNYODFjOXlzZzFJRHFuOHk0LWhBUlFmYmFnLVBubTBhZTNzV0g5a3czZlpYd1Rha1hiT1dhRHlaRUZGQ2dQNU1Hal9DUnRfQTRudGdZV0lyS2hqNWdaZA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-11-16-001",
+    "date": "2026-11-16",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Battery Recycling Expansion Altering The Investment Case For Veolia (ENXTPA:VIE)? - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd0o4ZVZqZjNmSmRoTjNkTk16ckFVaE1NMzN4R0Ztb2ZtS0RyT2VWTkxOclN0dHZKS01rUFplSGcwQklyUjNubDBucjJyTG45TEgwOElpRk13MkZFSTRvazVDaGxXZVFocWF6OUFhSF",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd0o4ZVZqZjNmSmRoTjNkTk16ckFVaE1NMzN4R0Ztb2ZtS0RyT2VWTkxOclN0dHZKS01rUFplSGcwQklyUjNubDBucjJyTG45TEgwOElpRk13MkZFSTRvazVDaGxXZVFocWF6OUFhSFUyb2c3OHlXYW9mNm5OeHNUMG03U3EzNmkxcFN2NjR1MERib2taWkJobTBtR0FCQ1dYNllpNTh3bktzNUJtdlhnQm5RYWlKU1cwTExWZGJYYVhGWmVMeUJfcW1oelZtQ2dsTURwVy1LZFQ2Z9IB3wFBVV95cUxOYllwOEVOcEZVZXdicllkT3NZSDcxdmZtZkRCZDhUZE53TmRSQkVONlB6Ul85MEo0RHRsbnlKMW5La2dlNGxfcE5lUXJFckJGRHFvZklOM0h5SDdJSHFFNTJjTUpmcGx6OUIxNU1nRjRyWlJwS0FKVjN5Zm52bFJNY0t6TUZ6dUZrQ2NqQnVkSkNfLWpJUnJWdEJsbDhzMHROUjlXYWtkNFI4Ynl5SWNkSTJtZ3hUamItX2ZCRTBhRVV2Q1BiQi1idUVBeEEwaU45azliVDdxQTM3UEhib1ZN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-002",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BofA raises American Water stock price target on merger progress - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTlPWXNHYVQ5V3l2dlBaRFdMUDhFVTRsSnhpNjFXVTN6Nk1TSnZneklybGpxWmFRa3B4dzVmdUR0Y1lUOHFpeDdrLUpoRFRjVXlUcWgxVmFDQjk0OHJCS3NSOFRSME5Qbm1kS3RSUD",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTlPWXNHYVQ5V3l2dlBaRFdMUDhFVTRsSnhpNjFXVTN6Nk1TSnZneklybGpxWmFRa3B4dzVmdUR0Y1lUOHFpeDdrLUpoRFRjVXlUcWgxVmFDQjk0OHJCS3NSOFRSME5Qbm1kS3RSUDlJZHJCcmhjcTljWFZpZ3ZPT29yVzE4bHEzd29qamljcFlFVjA1ZVhnb2txQk5LVi1HLTRrWXIyVUpPZTNTOFk0aXBhV3BFME1rN1VhR2RTWHEtZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-003",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois American Water Wants Customers to Pause and Think Before... - Quantisnow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQenZsVXRTMktzWUlmSnFQM2gxanFtbWJPV01aejFmbFJwWWNJVEc3QzA3eHVIQm4xbWtZTFVzajlUUWtlakUtRXdXTnVOMDdWa1V4OURUblBWYnBXUzdyd19kY0xoT2NLcTRuZEtPTU",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenZsVXRTMktzWUlmSnFQM2gxanFtbWJPV01aejFmbFJwWWNJVEc3QzA3eHVIQm4xbWtZTFVzajlUUWtlakUtRXdXTnVOMDdWa1V4OURUblBWYnBXUzdyd19kY0xoT2NLcTRuZEtPTUs5X1ZkZlpQeDhCQVI3UjczTTlNYWdkRTV2aXdOdHVKRlJvU0gtY1JvbG94NmhEeThabm1hcTJzTWp2RDU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-004",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Pause and Think Before You Put It Down the Kitchen Sink - Quantisnow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmJkUWotWFdoOTNodkNBMG13TWFNOGdMZnFzZ1RVSDhJblZib1FsVHBzcjdscFdRT2hiSGJGQ3ZYTVlVaUNJZ1Z3SzR5dGlyenk4enRSYTNNVjdoM0EyT2Y1enZSR2tGQ3hCY3BKUG",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmJkUWotWFdoOTNodkNBMG13TWFNOGdMZnFzZ1RVSDhJblZib1FsVHBzcjdscFdRT2hiSGJGQ3ZYTVlVaUNJZ1Z3SzR5dGlyenk4enRSYTNNVjdoM0EyT2Y1enZSR2tGQ3hCY3BKUGJmbkxVX0hkZzhZMDVTYTIwaGFPRnNaay12QnFHM1NKZEhJbV94TkJpdA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "essential-2026-11-15-001",
     "date": "2026-11-15",
     "companies": [
@@ -331,6 +623,26 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZEdlX0hDSWRsRHBOVmVKOF9lTS1nbHd1bEkxZUd5ZGR1M056VnptbW1veWc2b0FpbS1CbnlBQWpXcFppaXU3R3pJVHlDQjV0TllPSWtyV0FBWkloVUYtSlllQ2sxemVHTEhQOEtETjRYYUp2UjZBNERwX05YRW5ocmRJVU1wQ1ZGaXg1NEpTZFpEQ2VLUzlIU1JQd1FzUm0zMVNiUHpGbTEwLW9lR0VZcko0MG5IenJFeXVYQkJDUllrZTVrandn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-11-13-013",
+    "date": "2026-11-13",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kwinana Energy Recovery starts Mindarie Regional Council partnership for Perth's waste future - ACCIONA | Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNeFNRSjd5RDBnSk10OTR2bS1MVS10enFCekJWX0tiM1N5OXNIb2FCb1ZXeWpXTHN2cG0tNWwtUmIwMkVuanlzWGh1WnRQUXVJSW9Yc0ZKVnNsS3lCbC05bmtxeUpOOWpOOU90a0UtSD",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeFNRSjd5RDBnSk10OTR2bS1MVS10enFCekJWX0tiM1N5OXNIb2FCb1ZXeWpXTHN2cG0tNWwtUmIwMkVuanlzWGh1WnRQUXVJSW9Yc0ZKVnNsS3lCbC05bmtxeUpOOWpOOU90a0UtSDNPRHdnd1g2WDQ4OE5adjlhdm45dm5WNGJjT3NTT0dfMTZXbHQ0QkFVTzAyNlFOaEV2bDFweE9VZ1F3ZS1mdTZ3?oc=5",
         "type": "rss"
       }
     ]
@@ -755,6 +1067,42 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGZDWE9ST2thUzlnTXlXSHh1TldHSDNLclNTaVcxQmlrdTEzcTkzbUVEeXlydkdqNkw5MnZFVXJxLWNwb01Xb3RMWmZNS0pMOFJ2bnJCR21TRHVXNjNfYndnNEZwTHY2YlRNekZsZWlHZVd6aGlBamZKRVRNWjcwYkc2OEV4aVc2RVpVQzZidHFrZVd5Y05nOHF1Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-11-12-023",
+    "date": "2026-11-12",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Veolia CEO Wants Stricter Ban on EU Exports of Used Battery Material - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblFrSlVIWVpMTnBtaXl4SGZsT0M1REY2VVB6clFRNjUyT0pUd0tEOS0xQmx6NEhvcFJubzZIbVhGb25JZ3F2UDNJSzViQzFRb0NHbGNla0tfaUFnNlBESXo1dTJobDdGN0t6TzJ3TE",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblFrSlVIWVpMTnBtaXl4SGZsT0M1REY2VVB6clFRNjUyT0pUd0tEOS0xQmx6NEhvcFJubzZIbVhGb25JZ3F2UDNJSzViQzFRb0NHbGNla0tfaUFnNlBESXo1dTJobDdGN0t6TzJ3TEpUdE83TUlwWnlnMjJla2l6Y2o0TjFESFhPdmxsaHBEdzdDcjRHLXNrLXZ2QWxpc3czbUZPeXJnNklJZHpsMHhPYXhjVVZ5Y2luLXNN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-11-12-024",
+    "date": "2026-11-12",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Veolia Launches Pioneering Site For Extracting Strategic Metals From EV Batteries - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNR1U0SlBtSWkwWHdxdEJEOHV0Nlg3a3o4VWxkdTJ3RHpFdF9tZVJoVS1LSFN2NHNxVUJidmppRVpYUnpWR3oyY1NqWVJtZXFGOWpEa3puQVRXQkhyMWlZaDV4aWhVTkRZeHRNTkNsLU",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR1U0SlBtSWkwWHdxdEJEOHV0Nlg3a3o4VWxkdTJ3RHpFdF9tZVJoVS1LSFN2NHNxVUJidmppRVpYUnpWR3oyY1NqWVJtZXFGOWpEa3puQVRXQkhyMWlZaDV4aWhVTkRZeHRNTkNsLUxUN0NfLTlZUThHSldYSEVSazh6NE9hVndYeTNNUDRtaWhjdmNPVWEtZ3M2Y2hYTm4xN2JBOEFlT3IwMTI0d1BMUXgtUFVOYU5iSnNFc0pYNGdfUlRQeFRNZ0NycURncFU?oc=5",
         "type": "rss"
       }
     ]
