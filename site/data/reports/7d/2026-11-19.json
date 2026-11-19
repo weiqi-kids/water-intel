@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-19",
+  "date_range": {
+    "start": "2026-11-13",
+    "end": "2026-11-19"
+  },
+  "generated_at": "2026-11-19T17:14:39.544294Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "watts-2026-11-13-003",
+      "date": "2026-11-13",
+      "title": "Water infrastructure Q3 earnings: Watts Water Technologies is the best in the biz - TradingView",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "smart_water": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 21,
+      "last_week": 40,
+      "week_over_week_change": "-48%",
+      "sentiment_this_week": 0.02
+    },
+    "industry_general": {
+      "this_week": 26,
+      "last_week": 48,
+      "week_over_week_change": "-46%",
+      "sentiment_this_week": 0.02
+    },
+    "capex": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "desalination": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.25
+    },
+    "wastewater_treatment": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "regulation": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "mueller": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "watts": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "american_water": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "essential": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "energy_recovery": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 2
+    },
+    "ao_smith": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 57,
+        "last": 112,
+        "change_pct": -49.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-13",
+      "event_count": 13,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-14",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-15",
+      "event_count": 2,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-16",
+      "event_count": 7,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-11-17",
+      "event_count": 15,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-18",
+      "event_count": 12,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-19",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-13 ~ 2026-11-19）共 57 則事件，重點為「Water infrastructure Q3 earnings: Watts Water T...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "美國水務",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "ERII",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Watts",
+        "reason": "受廢水處理議題影響，供應鏈壓力可能上升。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

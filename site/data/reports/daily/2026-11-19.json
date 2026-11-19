@@ -1,0 +1,212 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T17:14:39.433119Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-19-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "The Best Stocks to Invest in Water Infrastructure - Nanalyze",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUTNCMlZNTGhFNnRFakxFUnREYk8yWkl6eUliUi10c0N2bExpbkRPWjZ2UTdOcGR2MFhnT1F4QXpoMHNhcThTLTdlVmRmRHFUalFUeU5oZVZmRVM3bFVOUWJJZE44aVZTS0FmVlVKU0gwY1pYTnZRU2YzSElFRGhMd19tUnNUT2NVSDQ4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novelis in €2.6 million waste heat investment - Aluminium International Today",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcUM1dC1qM093MkR1aTBpc0VCREVPYnU1ZDFWUW1aTHY5Q1JxZGNEY3o3S2VQQVQ1NVBSNUM4bGhtdlZFaXI2eHF4S0FobTI4cWMtcUlMaS1HQ1d5UHhBWm5XMG9MM2htakUyT2dUSEdON2dTRFpiREFGSGp5cWRNOFpIY3ZUUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_water-2026-11-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What Are Wall Street Analysts' Target Price for American Water Works Stock? - Barchart.com",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjl4NUNRdVRqUlZzN3hvOC15cU5pNEVDU19fMl9zYW45R1pwVjF4WllLVmhTcHQ3NVAxTmxpbUVWRURuVzJxV0ZrTnpiSjh3bGloRVcwV1dWeEM1V0J0SHNQYTRKWXRmMk1IX2dlVW13NnhRWmZqenZlQW1BdGNXZFVvWHJVN0NpYTdEOFdXSF8tbXhFV1poQ3c1ZF8wa2w4SkpCZENiNURVYm55QkJJb0xHWEJFdHVz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A. O. Smith reports 99 million gallons in annual water savings, against a 40 million-gallon goal. - Stock Titan",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTEJHSTlfeEwxSVFfd2dBYllBZC1LQmRmay1GZUtUUkZoaFdHUjNvaUFRY2pfX0cxelNQdFlER1ZpLXZiNkdKOGttV2tSV1p3emtyLTRuVkRQQVpPak90TUZMS1dZRzJHTlZya0I5UzUtTzVFTFd4ejh0SU1TTDZRMmx2dmFObXBieGdLeldjcFBMbVJzZUFGaVlmUVo5TmllV0c5RkxrSk0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_water-2026-11-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Water Works Company, Inc. Stock 12‑Month Price Target Cut to $141.5, Implies 6% Downside - TradingView",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTENSZlpwNlE1Vy1VbE43Mks0UkZILXhHUkYtUTlnSXE1TXJwQUduQU0zMl95MGtqUEpITXY0N0xXV2xHaTZjOVVkMGdzVV9qeU1PYXRNcmVjYXdjZHg3WVN2clhFWkdkbDN0ZWpvZ0V4M25hLXB5UmNqSGg1c0s5U0x4dWYwR2dOSVo4TmlDUkluc1RnTDlDTVFySlFPOThFRXptaDVHcEp4c1VyMUxQR0xGNGllTFRMSzRaNk9vNmZfbGU1TFlTRVltSkdOSVRHRXJ1OUx1b2xJMWw4X2V1REtRY09oRExZM0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_water",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 207,
+    "dup_title": 117,
+    "too_old": 74,
+    "gate1_blocked": 2,
+    "gate2_blocked": 3,
+    "passed": 11,
+    "pass_rate": "12.2%",
+    "gate2_block_rate": "3.3%",
+    "gate2_samples": [
+      "Energy Recovery (NASDAQ:ERII) Stock Sees Unusually High Put Option Buying - MarketBeat",
+      "London energy recovery facility faces £451M development cost increase following ‘significant dispute",
+      "London energy recovery facility £451M cost rise: risk lessons for project teams - Geomechanics.io"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為美國水務相關動態：「The Best Stocks to Invest in Water Infrastructure - Nanalyze」。主要關注主題為水資源產業通用、財報、資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "The Best Stocks to Invest in Water Infrastructure - Nanalyze（財報、資本支出、水資源產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Novelis in €2.6 million waste heat investment - Aluminium International Today（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

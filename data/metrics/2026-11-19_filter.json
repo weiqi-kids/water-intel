@@ -1,0 +1,14 @@
+{
+  "total_raw": 207,
+  "dup_title": 117,
+  "no_date": 0,
+  "too_old": 74,
+  "gate1_fail": 2,
+  "gate2_fail": 3,
+  "passed": 11,
+  "gate2_samples": [
+    "Energy Recovery (NASDAQ:ERII) Stock Sees Unusually High Put Option Buying - MarketBeat",
+    "London energy recovery facility faces £451M development cost increase following ‘significant dispute",
+    "London energy recovery facility £451M cost rise: risk lessons for project teams - Geomechanics.io"
+  ]
+}
