@@ -1,0 +1,13 @@
+{
+  "total_raw": 217,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 2,
+  "gate2_fail": 2,
+  "passed": 12,
+  "gate2_samples": [
+    "London energy recovery facility faces £451M development cost increase following ‘significant dispute",
+    "London energy recovery facility £451M cost rise: risk lessons for project teams - Geomechanics.io"
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T16:53:00.652822Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-20-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Water crisis requires more than infrastructure investment - IOL",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "water_scarcity",
+        "earnings",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdE9rVFdTQXViX183OXBxNktpbGhyWEpLUEZJaFVOX2pXaGJkR3VZczFUOEdjVWRIOGpRUzA1eXNnUG9Kb0k5YWtlUDU5M3duX280M2hKazlVUi1HcHJaQjRsVW15RHdHOEs2Rm82NUNFVjU2U2FEdnNfeUFHZUtibU1KVUJOUzZZQWlRekJobTc3UEdVZVRlanFsQ19QeTQwQnNRZjV5VkhQUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "essential-2026-11-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Essential Utilities (WTRG) Stock Trades Near Fair Value On Dividends - Yahoo Finance",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSGRIdFZNZXZYME9CcUF1Y3V4WE93ZXpSYjdzWXVEdlU0cmZzdHlBYm96N3M0ZlpTQlpNV0VUM1J2bGZ6ck1DeGJsZFEtbUFKb1hMNUFNNE9ya18tUWZzNWtCRnMtc09jR3FFU0xFVFlPTVg4MWhWWlFfS05BaGhWQ1djLTgxVndfQmJRMnZsZDE5QjA5dUs3SHV1MlMtSkFlM25zSA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_water-2026-11-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Microplastics in Water/Assessing the State of the Science: American Water Works Association/NACWA Report - JD Supra",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSGxYelU0TFpnTjROTmhnbXRROUtzQjhjc0dhSDZGUnFTRHgwUUtYQWNuMjNqU21CYmtmbkZrUnJkZ1FSRVJuS1Z5Y0pCMUhCOThxYlc4dWlDcVdralprTFUyTXhneEhGc3hmOFQ2MDkzM05uZEJUYmdBaEJEX0pNRjduSnRLdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Virginia American Water Urges Customers to Prepare for Cold Weather - Quantisnow",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general",
+        "regulation"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONHJpN05UZ01lZmU3WmlqNlRPdWs0SXVFMkJ2MTBXcXREMFo4QWdyakxfN3BDSDFZQjc1MFBUd005bi1RRGpCd0lGMFpjN2pjdjhTVFFscjBNM3VOVUZoeEJtMnpXeTZvdFRaUVBVWGhMc1VGd1VRcURmeDJtNF9XWHVJUEtiZUtpUkFFamNNYlZJeEFUTGs1dmtMUV9jeDRTQTlSUHpTWERnaVl6TFRB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "regulation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "water_scarcity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "essential",
+        "count": 1
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "regulation",
+        "count": 1
+      },
+      {
+        "id": "water_scarcity",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 217,
+    "dup_title": 133,
+    "too_old": 68,
+    "gate1_blocked": 2,
+    "gate2_blocked": 2,
+    "passed": 12,
+    "pass_rate": "14.3%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "London energy recovery facility faces £451M development cost increase following ‘significant dispute",
+      "London energy recovery facility £451M cost rise: risk lessons for project teams - Geomechanics.io"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為必要公用、美國水務相關動態：「Water crisis requires more than infrastructure investment...」。主要關注主題為水資源產業通用、財報、法規，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Water crisis requires more than infrastructure investment - IOL（水資源短缺、財報、資本支出、水資源產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Essential Utilities (WTRG) Stock Trades Near Fair Value On Dividends - Yahoo ...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

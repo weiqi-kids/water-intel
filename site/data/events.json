@@ -1,5 +1,87 @@
 [
   {
+    "id": "essential-2026-11-20-001",
+    "date": "2026-11-20",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities (WTRG) Stock Trades Near Fair Value On Dividends - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOSGRIdFZNZXZYME9CcUF1Y3V4WE93ZXpSYjdzWXVEdlU0cmZzdHlBYm96N3M0ZlpTQlpNV0VUM1J2bGZ6ck1DeGJsZFEtbUFKb1hMNUFNNE9ya18tUWZzNWtCRnMtc09jR3FFU0xFVF",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSGRIdFZNZXZYME9CcUF1Y3V4WE93ZXpSYjdzWXVEdlU0cmZzdHlBYm96N3M0ZlpTQlpNV0VUM1J2bGZ6ck1DeGJsZFEtbUFKb1hMNUFNNE9ya18tUWZzNWtCRnMtc09jR3FFU0xFVFlPTVg4MWhWWlFfS05BaGhWQ1djLTgxVndfQmJRMnZsZDE5QjA5dUs3SHV1MlMtSkFlM25zSA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-11-20-002",
+    "date": "2026-11-20",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Microplastics in Water/Assessing the State of the Science: American Water Works Association/NACWA Report - JD Supra",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQSGxYelU0TFpnTjROTmhnbXRROUtzQjhjc0dhSDZGUnFTRHgwUUtYQWNuMjNqU21CYmtmbkZrUnJkZ1FSRVJuS1Z5Y0pCMUhCOThxYlc4dWlDcVdralprTFUyTXhneEhGc3hmOFQ2MD",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSGxYelU0TFpnTjROTmhnbXRROUtzQjhjc0dhSDZGUnFTRHgwUUtYQWNuMjNqU21CYmtmbkZrUnJkZ1FSRVJuS1Z5Y0pCMUhCOThxYlc4dWlDcVdralprTFUyTXhneEhGc3hmOFQ2MDkzM05uZEJUYmdBaEJEX0pNRjduSnRLdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-20-003",
+    "date": "2026-11-20",
+    "companies": [],
+    "topics": [
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Virginia American Water Urges Customers to Prepare for Cold Weather - Quantisnow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxONHJpN05UZ01lZmU3WmlqNlRPdWs0SXVFMkJ2MTBXcXREMFo4QWdyakxfN3BDSDFZQjc1MFBUd005bi1RRGpCd0lGMFpjN2pjdjhTVFFscjBNM3VOVUZoeEJtMnpXeTZvdFRaUVBVWG",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONHJpN05UZ01lZmU3WmlqNlRPdWs0SXVFMkJ2MTBXcXREMFo4QWdyakxfN3BDSDFZQjc1MFBUd005bi1RRGpCd0lGMFpjN2pjdjhTVFFscjBNM3VOVUZoeEJtMnpXeTZvdFRaUVBVWGhMc1VGd1VRcURmeDJtNF9XWHVJUEtiZUtpUkFFamNNYlZJeEFUTGs1dmtMUV9jeDRTQTlSUHpTWERnaVl6TFRB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-20-004",
+    "date": "2026-11-20",
+    "companies": [],
+    "topics": [
+      "water_scarcity",
+      "earnings",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Water crisis requires more than infrastructure investment - IOL",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdE9rVFdTQXViX183OXBxNktpbGhyWEpLUEZJaFVOX2pXaGJkR3VZczFUOEdjVWRIOGpRUzA1eXNnUG9Kb0k5YWtlUDU5M3duX280M2hKazlVUi1HcHJaQjRsVW15RHdHOEs2Rm82NU",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdE9rVFdTQXViX183OXBxNktpbGhyWEpLUEZJaFVOX2pXaGJkR3VZczFUOEdjVWRIOGpRUzA1eXNnUG9Kb0k5YWtlUDU5M3duX280M2hKazlVUi1HcHJaQjRsVW15RHdHOEs2Rm82NUNFVjU2U2FEdnNfeUFHZUtibU1KVUJOUzZZQWlRekJobTc3UEdVZVRlanFsQ19QeTQwQnNRZjV5VkhQUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-11-19-001",
     "date": "2026-11-19",
     "companies": [],
@@ -92,6 +174,86 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUTNCMlZNTGhFNnRFakxFUnREYk8yWkl6eUliUi10c0N2bExpbkRPWjZ2UTdOcGR2MFhnT1F4QXpoMHNhcThTLTdlVmRmRHFUalFUeU5oZVZmRVM3bFVOUWJJZE44aVZTS0FmVlVKU0gwY1pYTnZRU2YzSElFRGhMd19tUnNUT2NVSDQ4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-11-19-006",
+    "date": "2026-11-19",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Get Help to Have Your Say on the Energy Recovery Facility - Parkes Shire Council",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOTHJ5aFNhYUp1ZlBIRzRmaEJrMFNqSjBwQ0FyYXp5Ymp6d0NWaU5fU1REeExoWFg2bmdBcWZ3bzJYZjIzM1BqYTN5dWt6NXZpQjZDUEFoM3hneWRpZ3hPSThEU01tQnFHQXBDWlI1en",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTHJ5aFNhYUp1ZlBIRzRmaEJrMFNqSjBwQ0FyYXp5Ymp6d0NWaU5fU1REeExoWFg2bmdBcWZ3bzJYZjIzM1BqYTN5dWt6NXZpQjZDUEFoM3hneWRpZ3hPSThEU01tQnFHQXBDWlI1enhCbVJGOUQ1NW9Sb0lKQ21sOXk0N0ZMcTM2NHNtM1pXQndzYm5ub2lxTnBCeUtweVQzMzdDbG5lbUN6OTktcWtQYUxaay1vZTFpblpkcTU2bGRCTmlnZW5QWGdUalliTDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-11-19-007",
+    "date": "2026-11-19",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works (AWK) Launched A New Monterey Peninsula Groundwater Well - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQeFAzRnlEcTlLZXdEcXJ2UEFGb3V1OWVrclBaNjNzZzBTRHdGRTg0QzNTMml3bmtMR2JoeEQwa2dHYnlzTlRTVHpwNVZRLXNhME5BVHhiMDZiaFpyV3RDc2k3WnZVSk9EaUZKVjA0Qk",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeFAzRnlEcTlLZXdEcXJ2UEFGb3V1OWVrclBaNjNzZzBTRHdGRTg0QzNTMml3bmtMR2JoeEQwa2dHYnlzTlRTVHpwNVZRLXNhME5BVHhiMDZiaFpyV3RDc2k3WnZVSk9EaUZKVjA0QklqZlNndGJCMWx3QUZPUzZOMVFnLTJqTnRXeDJFSVdhaGx3dzJBazVXanRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-11-19-008",
+    "date": "2026-11-19",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Are Wall Street Analysts' Target Price for American Water Works Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOazlfc2xPZE9HemM3SzJLaTdyWFJ1T01LSkkzaWM4LV8zVW5wWG9IZk13TDU3ajNZX19RLV9ZVDB3eWNNck03VVNDcm1yRWVtdFlLMlNkSEoyc2F5MGlaUVM3Qkt2SlUxX3JWUUJaaF",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOazlfc2xPZE9HemM3SzJLaTdyWFJ1T01LSkkzaWM4LV8zVW5wWG9IZk13TDU3ajNZX19RLV9ZVDB3eWNNck03VVNDcm1yRWVtdFlLMlNkSEoyc2F5MGlaUVM3Qkt2SlUxX3JWUUJaaFR6dEFqY3ZnZEJrQ3E5bkxhTGQyUDdrZUJyTHpHSERVeE9rMEdYYWxIbjlFR0xuZTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-009",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aurecon strengthens water infrastructure delivery - Utility Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTRIeU9XQkRfTWdhdGtLaExHMFVQWVpuY3hMS3hicFB4ZTkybk9wcy1vNVNUalVJT25idU1zdkhCTC1ueTV4Ykxra3hBekg0dzgtNEJBbWlnSDBKVnhIUG83SVBTa0NEUFZqcVplMH",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTRIeU9XQkRfTWdhdGtLaExHMFVQWVpuY3hMS3hicFB4ZTkybk9wcy1vNVNUalVJT25idU1zdkhCTC1ueTV4Ykxra3hBekg0dzgtNEJBbWlnSDBKVnhIUG83SVBTa0NEUFZqcVplMHFJLXN3TlpKcDVuelFUMVNYaXY0Mm5KTDN5?oc=5",
         "type": "rss"
       }
     ]
@@ -327,6 +489,44 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRTFaMnA5TXZrcDBhcmlkcjNyaU5BSHRfZGkwQlctUmZ5WVdGbkZxZi0yd1c1OU84Rkp0UG1JcVZOWXBJanRWdnJCV1JvVHU0djJ3VGlBTXZFVHZEdEt2TXpjRm5BeFRlMmFJWWFrOHR5ZGhYU19TaVpEbWFMZEduVTl4QTFJbkNBTlo1bnBrdlFaNDg2UUJCWGFfU0dZd1gzaXg3eEhYMl9uWS01YzNUMWc0aFhfMmVjdVc0bkloVGJTMDNwWW5yeS05UmY2OUxJNU9abTQtM1VZS1RocjNBN3RudkNyeFU5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-013",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "wastewater_treatment",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California American Water Brings New Groundwater Treatment and Production Capacity Online on the Monterey Peninsula - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM3R2OGpTTjl2R1VhTUtxZUxWMGYtWmxLR0F4bnRxWXpnTG1HSzA3TFdJWXVzTWppZGVQbThHX01ucy1JNF80bnZOazU5Z1M5c3JMVFEzX1RyVXphakc3eGptaGU4RzI5N2Ztbl80VV",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM3R2OGpTTjl2R1VhTUtxZUxWMGYtWmxLR0F4bnRxWXpnTG1HSzA3TFdJWXVzTWppZGVQbThHX01ucy1JNF80bnZOazU5Z1M5c3JMVFEzX1RyVXphakc3eGptaGU4RzI5N2Ztbl80VVFPZXF4UlZyaDUwbzBYSllJdEx6ek83QktYTnVFTUlDOFd2cHlGLXdTSTFvQllKQnhvVVJKNXJNNTluUU5MaW9uZ0QxZ3VTZjdfbGxxVlpoTGlCaVFBQUFhSHRsNTV6NWkwNVA0VXBmck1SeXJ3cFJ6RlRFRDBLaDFw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-014",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pennsylvania American Water Completes Acquisition of the Indian Creek Valley Water Authority Water System - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOLW1ZUHphZTVFT1pxY2NLNUw4VDFnYWVIOEM2RE1ZeGNyZ3VjTGpHc3cwYjNpd0FoaEhoOUVwQXZMM1NneThqcHFkVkdxNUctN01nbE1NYzBncmUzYVJ4cjhFa3JOYzZ6cTRRb05iOV",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLW1ZUHphZTVFT1pxY2NLNUw4VDFnYWVIOEM2RE1ZeGNyZ3VjTGpHc3cwYjNpd0FoaEhoOUVwQXZMM1NneThqcHFkVkdxNUctN01nbE1NYzBncmUzYVJ4cjhFa3JOYzZ6cTRRb05iOVBqZkQ5bFNyeThFZUQ1c0N1UUFybVRxWlRUTkpBU3JmUUJzd19pTkFhVmpZc0ZsNTAtV2EwX0xXdk4ybDAzTW5uRA?oc=5",
         "type": "rss"
       }
     ]
@@ -628,6 +828,24 @@
     ]
   },
   {
+    "id": "unknown-2026-11-17-016",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Virginia American Water Launches Enhanced Digital Experience for Simpler Customer Information and Support - Quantisnow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQSlFGcDY0aFlENVV0Z3pzVU00bl8zME1wUldzVTdad2NZSms5Wi1nTVhtVl9RelRwb2t6YXNHQUpzRmJ1aUJvNkFkNnRJV2JFUjhhV2lfaDJURnhLaWpyM3VsVXdrSFVNLW9DazU4Z2",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSlFGcDY0aFlENVV0Z3pzVU00bl8zME1wUldzVTdad2NZSms5Wi1nTVhtVl9RelRwb2t6YXNHQUpzRmJ1aUJvNkFkNnRJV2JFUjhhV2lfaDJURnhLaWpyM3VsVXdrSFVNLW9DazU4Z2dXX1hqY2NkS3hVN0x1Y1d6Umk5a0h6WW1TcEFDRFlpTjZWeVVQU3FlUVduVElDZDNBNWNoYndqX0RlX0ZDTFQyNzZCNDd5QzdXZmhldA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "veolia-2026-11-16-001",
     "date": "2026-11-16",
     "companies": [
@@ -754,6 +972,25 @@
       {
         "name": "danaher",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMFZpR2dPR3FTRWxDY3YwdzdIY0dRczg5aVhYRnNnMnNVRjBzdk85TUV3VEJGY1ZpSmtlbEs3ZFpMOFZYV0lWSURiY3lROUozVGEyUHpjQ3FDMmd4Y0hTVjBHRER0WjJld0J6Vy1GVlZWVDlIeGVPV1gzazFuTDhDcmExS1U2TkRMR3k5TXluTTBlUEx5ZmM4M1pOSEpvUWhFSnktYmRYdTlnQWxJbXMtUHc4R3NmcVBsaTVIRDk1LUJpbnR6dHdDMFpEMmE3LTRERGs3NWU1U0Q4UWdH?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-008",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maryland American Water Proudly Presents American Water Charitable Foundation Grant to Restore Main Street Clock in Downtown Bel Air - Finviz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNFVJQ3F1akpwS1JvVGt6cU1aZl9BUTQwYzJNOXRGZV84QzVGRHFIdXIyOHpoWVpSX0lzMlJOd0V0U3RuT044UDdvRGsyMy1tYllWWEMyeC1kMGx0bHVHTlNOZEdtLXYxWGw3cFBFZ2",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNFVJQ3F1akpwS1JvVGt6cU1aZl9BUTQwYzJNOXRGZV84QzVGRHFIdXIyOHpoWVpSX0lzMlJOd0V0U3RuT044UDdvRGsyMy1tYllWWEMyeC1kMGx0bHVHTlNOZEdtLXYxWGw3cFBFZ2NKUW9ydVR4N2I1LXVhUmZyU0dJNXFvUGJNYzJHOG16VnV1ZmhPUTlrWWZzSTFVYzJ1bnRoakk1NnJuT0xGY0diMUZlUzBSRDhuRUpBRTNsVjlkT3EzQkE4R2g4SmNqMFdPQ3VCYkQwZTN4STVqWTRVR3NScjVoWVVnM0hpRDJKWkQ5RWU1NlE?oc=5",
         "type": "rss"
       }
     ]
