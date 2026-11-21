@@ -1,5 +1,25 @@
 [
   {
+    "id": "energy_recovery-2026-11-21-001",
+    "date": "2026-11-21",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy Recovery (NASDAQ:ERII) Stock Breaks Below 50-Day Moving Average - What's Next? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQU9ZSkxwYVAzYWdIZmtURWhaRVIyeWZvSTRFM3dVOHBHTmpXeVR2Q3BSUWtTNm9ZNVcwNzVKdE5IN3JZUldvTU5VUGU4Tkk0NGkyT3JEVzRWcTRRZjh6dHdCRHkyWEVZVFNZQWx0Ql",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQU9ZSkxwYVAzYWdIZmtURWhaRVIyeWZvSTRFM3dVOHBHTmpXeVR2Q3BSUWtTNm9ZNVcwNzVKdE5IN3JZUldvTU5VUGU4Tkk0NGkyT3JEVzRWcTRRZjh6dHdCRHkyWEVZVFNZQWx0QlpwZG1rTTR6eWxsREtMSE5VMFg3MlYycUdUeW13SVBJYjVxdXhzNlh6Q3R5ZjQ5ckFrWlByZnhJRjBNTkFCRnZ3cFBpWU1xTnFMZ0pHSEsyVTRPYWZpQTNzRmRtczlRd0NVRS13NlNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "essential-2026-11-20-001",
     "date": "2026-11-20",
     "companies": [
@@ -77,6 +97,45 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdE9rVFdTQXViX183OXBxNktpbGhyWEpLUEZJaFVOX2pXaGJkR3VZczFUOEdjVWRIOGpRUzA1eXNnUG9Kb0k5YWtlUDU5M3duX280M2hKazlVUi1HcHJaQjRsVW15RHdHOEs2Rm82NUNFVjU2U2FEdnNfeUFHZUtibU1KVUJOUzZZQWlRekJobTc3UEdVZVRlanFsQ19QeTQwQnNRZjV5VkhQUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-11-20-005",
+    "date": "2026-11-20",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Will Mueller Water Products (NYSE:MWA) Keep Its Streak Alive? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOW5sRjdZNDFsTnNUdnUydVIzM1hKcVFvYUduckZDdXpyN29Ba2xyblZpMVphQjZvNndlT0xtYWltdVFhTnVacWJOa19IcFlPMVpqWnZUdk5SVFRmaktYQ0xIZGkxeGRWMGd0TjhFWn",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOW5sRjdZNDFsTnNUdnUydVIzM1hKcVFvYUduckZDdXpyN29Ba2xyblZpMVphQjZvNndlT0xtYWltdVFhTnVacWJOa19IcFlPMVpqWnZUdk5SVFRmaktYQ0xIZGkxeGRWMGd0TjhFWnNZLXd1ejNpd3FnS3UyU2RNYkRSdTF5TlRNbHFvQWRFMGJQR2pHWkg5UVYyQzY5MWRiTUJsQWtUOWdIOFVmSXkycm1vTnRSR0xLd2VwY1RQcWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-20-006",
+    "date": "2026-11-20",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bristol wins top prize in the ‘Connecticut Best Drinking Water Taste Test’ - The Bristol Press",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQak96WW82bjNmQ1lCM1prSzBZZ1VhdjY1cVl5R2J1SWNJRFVlWlFhMHJEZFpSOUplaHRtQW9QWFZqRE96aXJNaFREbVNxdnoyWk05MkRPeHMxTzdDa0g0b3FZTXJDTmRBZzFvaldRUF",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQak96WW82bjNmQ1lCM1prSzBZZ1VhdjY1cVl5R2J1SWNJRFVlWlFhMHJEZFpSOUplaHRtQW9QWFZqRE96aXJNaFREbVNxdnoyWk05MkRPeHMxTzdDa0g0b3FZTXJDTmRBZzFvaldRUFdFLXpRSTB1Y3p0eU1fcGRqSjdjM1NSNDNlMkc2bkZUazRmSm1obTZ2UG9YTEdTR1ZfbDhiQW5HTFVTaVBXN2s4TkU4anRzRE1sSXRtVFJjUkd5SWtyTml5RjJVTlZ4LUtIaXhUS01PS2JyMnBzX1dHbTRHMjA5SHZXME5Kdg?oc=5",
         "type": "rss"
       }
     ]

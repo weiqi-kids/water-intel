@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T16:52:56.179710Z",
+  "updated_at": "2026-11-21T16:01:29.818168Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -126,17 +126,17 @@
       "name": "穆勒",
       "ticker": "MWA",
       "currency": "USD",
-      "ar": 201500000,
-      "ar_prev": 208100000,
-      "ar_qoq": "-3%",
+      "ar": 187000000,
+      "ar_prev": 201500000,
+      "ar_qoq": "-7%",
       "ar_period": "QoQ",
-      "inventory": 379800000,
-      "inv_prev": 385400000,
-      "inv_qoq": "-1%",
+      "inventory": 385800000,
+      "inv_prev": 379800000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "pentair",

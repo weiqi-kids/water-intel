@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T16:01:33.131110Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "energy_recovery-2026-11-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Energy Recovery (NASDAQ:ERII) Stock Breaks Below 50-Day Moving Average - What's Next? - MarketBeat",
+      "companies": [
+        "energy_recovery"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQU9ZSkxwYVAzYWdIZmtURWhaRVIyeWZvSTRFM3dVOHBHTmpXeVR2Q3BSUWtTNm9ZNVcwNzVKdE5IN3JZUldvTU5VUGU4Tkk0NGkyT3JEVzRWcTRRZjh6dHdCRHkyWEVZVFNZQWx0QlpwZG1rTTR6eWxsREtMSE5VMFg3MlYycUdUeW13SVBJYjVxdXhzNlh6Q3R5ZjQ5ckFrWlByZnhJRjBNTkFCRnZ3cFBpWU1xTnFMZ0pHSEsyVTRPYWZpQTNzRmRtczlRd0NVRS13NlNn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "energy_recovery",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 197,
+    "dup_title": 127,
+    "too_old": 67,
+    "gate1_blocked": 0,
+    "gate2_blocked": 0,
+    "passed": 3,
+    "pass_rate": "4.3%",
+    "gate2_block_rate": "0.0%",
+    "gate2_samples": [],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為ERII相關動態：「Energy Recovery (NASDAQ:ERII) Stock Breaks Below 50-Day M...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Energy Recovery (NASDAQ:ERII) Stock Breaks Below 50-Day Moving Average - What...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "ERII為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
