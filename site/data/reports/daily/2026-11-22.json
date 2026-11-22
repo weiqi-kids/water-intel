@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T16:08:04.599367Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mueller-2026-11-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mueller Water Products Braces for Profit Squeeze as 2025 U.S. Tariff Hikes Drive Up Steel and Aluminum Costs - The Globe and Mail",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQV2p5eG40dUhRUzhUd1BLNjlmYlN4bEgzQno2NDNZY3ZSYVQ5NjFjZnlPemZGNUh2dlUwSjlHRkl0WGUtdC1HNHJNa1BydEd3by0ycE0xeldpWXVQMmRueFFyR2pCTFczV2xrZU9lVFd4Z20tR3BEX25Gc3VEbkhTQUZ4ZHYtbXlPQTdIdHJESFBGYTNHcmI0TE84VXpRWGM2SG9hQ3pGMDNzNXRoWnQzcFd2TTdCWE9iUWpPa3FyeWx2alZjUC1famFrMW5aRzVLeXNkeTBKN2VwNTBFODN3a1gtSV82cDk2NHBRNWx0aWliZ00tN0xMbktBbXVBNUlud1NESFVVRkQzdWo2dV8tME5PeUV6NkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mueller-2026-11-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mueller Water Products (NYSE:MWA) Stock Now Rated \"Hold\" by Wall Street Analysts - MarketBeat",
+      "companies": [
+        "mueller"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSVhtQkJiVG9jRjlHdEpTc3ZydF9YVURaLS1sTUdtMi1DSjB4ZkxFMlpPZHJuWXFHUWxxR1otYjctYkY1WlhDc3dYTFhYVkpQLUpiODNweGc3Qi1xTmdNWEFud0lObDVFVVY3YTNNc1NWZW5pcWtLVThSRjYzMjA3MHlQME5fNTBla0p4Mi1FeDhQZXIzVVJZRDhuYmFDRzMySE1ISVUzRlREWnFCRWhnZEJScUZ5OS02dl85ajRHM2JldDA2b0xMZkVaSjhFU3FQSWpHVUtXQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mueller",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 208,
+    "dup_title": 115,
+    "too_old": 90,
+    "gate1_blocked": 1,
+    "gate2_blocked": 0,
+    "passed": 2,
+    "pass_rate": "2.2%",
+    "gate2_block_rate": "0.0%",
+    "gate2_samples": [],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為穆勒相關動態：「Mueller Water Products Braces for Profit Squeeze as 2025 ...」。主要關注主題為水資源產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mueller Water Products Braces for Profit Squeeze as 2025 U.S. Tariff Hikes Dr...（財報、水資源產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Mueller Water Products (NYSE:MWA) Stock Now Rated \"Hold\" by Wall Street Analy...（水資源產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
