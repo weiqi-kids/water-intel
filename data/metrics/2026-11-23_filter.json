@@ -1,0 +1,12 @@
+{
+  "total_raw": 208,
+  "dup_title": 122,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 3,
+  "gate2_fail": 1,
+  "passed": 5,
+  "gate2_samples": [
+    "Veolia Environnement (ENXTPA:VIE) - Stock Analysis - Simply Wall St"
+  ]
+}
