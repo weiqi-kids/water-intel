@@ -1,0 +1,13 @@
+{
+  "total_raw": 230,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 6,
+  "gate2_fail": 2,
+  "passed": 10,
+  "gate2_samples": [
+    "Energy Recovery (NASDAQ:ERII) Stock Sees Unusually High Put Option Buying - MarketBeat",
+    "Veolia sells used oil-refining and tire recycling businesses to Itelyum - ChemEngOnline"
+  ]
+}
