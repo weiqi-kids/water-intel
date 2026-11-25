@@ -1,5 +1,83 @@
 [
   {
+    "id": "veolia-2026-11-25-001",
+    "date": "2026-11-25",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Veolia: A 4.7% Yield With Room For Continued Dividend Growth (OTCMKTS:VEOEY) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUE1cXlEbFBuazZucVpPZlhkcWdfTWpmQzQyV0VIVXJmS3hDdFp2c0Y5RXNkY1NrM3N5b0Q5ZmVYTG5pM0V2enhVc1lqNDJYS1EzQWV6SjR1aklrdkozRm1sVU1QUjRiVkFUNGdxRE",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUE1cXlEbFBuazZucVpPZlhkcWdfTWpmQzQyV0VIVXJmS3hDdFp2c0Y5RXNkY1NrM3N5b0Q5ZmVYTG5pM0V2enhVc1lqNDJYS1EzQWV6SjR1aklrdkozRm1sVU1QUjRiVkFUNGdxREllQjMzVTJ6M1BqUkc5dUZSY18tNjJxb2Rqb2hCdF8zLVQ4S3RidzdCM0h5NEZ4b3c4Z2tNS3dUWFREN0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-25-002",
+    "date": "2026-11-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ICC approves $74 million rate hike for Illinois American Water - AdVantageNews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTVVxZTdVRnNVYWpObk4wUDBmQ3I2RDhTSzlwd3lMUFJINnpnZDNhcTcwMVhoM3VkaVNTNmxadmFIV3ctYjRYZ3E1TGh0dElWWXVZdkU2a0tLVV9OTzBGWHhiU1ZaUEhNMTJUclVSWT",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTVVxZTdVRnNVYWpObk4wUDBmQ3I2RDhTSzlwd3lMUFJINnpnZDNhcTcwMVhoM3VkaVNTNmxadmFIV3ctYjRYZ3E1TGh0dElWWXVZdkU2a0tLVV9OTzBGWHhiU1ZaUEhNMTJUclVSWTJydGd4U0NEV09fNDZuVW5LTFRqMzE2NEpKR0tZb01hc29GMzZ6VXl6dmF1SDVWenc2NDdkR1N4RVQ3WktGY1JSVVlxRkhqNXFyU0NhUWlyaXZTM3pkMXhSMmRzamxJOW9EU0ZjYjNKZjNtZkd2YWcyWXBGdDgyN2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-11-25-003",
+    "date": "2026-11-25",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works stock hits 52-week high at 153.7 USD - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNWktSYlhRNVV2N0hmTkE2MkVJT3dKVnFmaVRfaTJZMnhaRFRoMmdVdDY3LW5hamcxR1llVDJMb1RKcXpCQ2V2Wno5OG5QYzVRYkJidFlTUE9GVDNGck5hcTBmR2JnZ1hVVTg5ZHIxSD",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWktSYlhRNVV2N0hmTkE2MkVJT3dKVnFmaVRfaTJZMnhaRFRoMmdVdDY3LW5hamcxR1llVDJMb1RKcXpCQ2V2Wno5OG5QYzVRYkJidFlTUE9GVDNGck5hcTBmR2JnZ1hVVTg5ZHIxSDN0ZlY3eG5URTdOZ19yQXpWSG9VY3BzLTM1ZFBpcS1pLS1ramxjVjJxQVJrY080ZzBWRkhJNjZjT0NXLUdIZTJYNW13?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-25-004",
+    "date": "2026-11-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mexico's Water Utilities Face Pumping Investment Challenges - Mexico Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2RjMDFKbWRhQnp4djdKbmNGcXNvMzBUZ01hWklIekVuaVg2dlMtdmhKb3VMaGhuVjZDc1diMmRPbC1ZVlJsamhyNWpxekptc2hXeVRMajloOU85Rk83MFl0b3ZUbTlybVJSRDNQMF",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2RjMDFKbWRhQnp4djdKbmNGcXNvMzBUZ01hWklIekVuaVg2dlMtdmhKb3VMaGhuVjZDc1diMmRPbC1ZVlJsamhyNWpxekptc2hXeVRMajloOU85Rk83MFl0b3ZUbTlybVJSRDNQMFh1TXhzeXFDdXVrUmFaRUlLN3V2U2owT3ZuWVpGVl80UVJvTFNZRjJTSGJkNGdTYjVKTlRzUng2OFlOUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-11-24-001",
     "date": "2026-11-24",
     "companies": [],
@@ -68,6 +146,84 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTEw5Qzd1cGszVERfNUMzN2tYWmFnV253Z19oOHp0QnNKZTU4aUhLWXlfei1xWmxBSDJ4cng4VE1xZTN1cHBiT012YTBIU2ZxWkZNeTZuVjhpcHVReDhyZnMyQm5BUWsxREo5WXJucm1xSklyOFRObUN1Q0NNSlhneXZybGl0MnBCaHR0cVE4TnhZd2xaTnFwalJRLUFDQTBHd0d1dzFaYU5pUTV3WHAtRWVXeGp2U2cxLXB5VURvV2JPMXI1VURkWUhhRHJJQjBtTDdSOThxRXlSNUtOQW1RbNIB4AFBVV95cUxNTEw5Qzd1cGszVERfNUMzN2tYWmFnV253Z19oOHp0QnNKZTU4aUhLWXlfei1xWmxBSDJ4cng4VE1xZTN1cHBiT012YTBIU2ZxWkZNeTZuVjhpcHVReDhyZnMyQm5BUWsxREo5WXJucm1xSklyOFRObUN1Q0NNSlhneXZybGl0MnBCaHR0cVE4TnhZd2xaTnFwalJRLUFDQTBHd0d1dzFaYU5pUTV3WHAtRWVXeGp2U2cxLXB5VURvV2JPMXI1VURkWUhhRHJJQjBtTDdSOThxRXlSNUtOQW1RbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-11-24-005",
+    "date": "2026-11-24",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries Ltd. (6370/JPY) Stock Price Prediction for 2026, 2030-2040 - Traders Union",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jdXpCblF3RFVONkpBSTYya3Z3czB2d240ei1RZWxBc2RTSjNmdXhxbHRmVUcwd1pkbjVGZFVaYjNLV29vSEhlVDRCeG1RdmdwcWp3RXFjbUdwbDRDVTg3MWV0Nm4?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jdXpCblF3RFVONkpBSTYya3Z3czB2d240ei1RZWxBc2RTSjNmdXhxbHRmVUcwd1pkbjVGZFVaYjNLV29vSEhlVDRCeG1RdmdwcWp3RXFjbUdwbDRDVTg3MWV0Nm4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-11-24-006",
+    "date": "2026-11-24",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential Utilities Director Tamara Linde Dies Unexpectedly - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNVWozZmhiQjVvUnU4ay1iSmFRNHA5ZGRYVmN5OEZpb281ZmxmX1cwMUJWLUZ6YjJzOTkwblFVSGh5dXVBQUxRcXhKNTZnR3NJcHJfNTFIR1ZHX09DN1RfbUMyTExYN29rLU9jVk9KYl",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVWozZmhiQjVvUnU4ay1iSmFRNHA5ZGRYVmN5OEZpb281ZmxmX1cwMUJWLUZ6YjJzOTkwblFVSGh5dXVBQUxRcXhKNTZnR3NJcHJfNTFIR1ZHX09DN1RfbUMyTExYN29rLU9jVk9KYlJwalNQSTNQMV81eXpLcFNXbV9Kc3VhMVVzWG1kLVpkVEFGV2RkSmJFcHZaNk5GMEZBaG16SUtxOFZTclFUd242NW5GRklHandmU01LNG5B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-007",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMWJNYnM1eXJLZ2h5Z1lfZm5ZVkVoTm52djdhajhUeFdZclR4ajlwVEhiM1NnTEtTQkN2STZ4d1VFUWt3Q09tQW9Rc0libkx3eDBQWHl3NEV2LUtaZ0dLazZ5U25WaldUOVp0cEpwb0",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMWJNYnM1eXJLZ2h5Z1lfZm5ZVkVoTm52djdhajhUeFdZclR4ajlwVEhiM1NnTEtTQkN2STZ4d1VFUWt3Q09tQW9Rc0libkx3eDBQWHl3NEV2LUtaZ0dLazZ5U25WaldUOVp0cEpwb0FYMzJDVGM5ZnlSSjlQTElvOGktX1Ayem1nQU9jLXF0T1VIS1NFbDJ6WUFDcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-008",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general",
+      "regulation"
+    ],
+    "impact": "neutral",
+    "title": "Iowa American Water Urges Customers to Prepare for Cold Weather - Quantisnow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVhRRmtPR0huZldPOWRERG90T0JhOUFfVm16WEFCLVFNcVd1UjM2Qms5LTByZHRlb2ltSzlPb0tfWmVaZFZ5SnU4eUhzbm52Q19fUVJOLUxwR1ppY3ZLSGEwV3hOQ1VoSmpaZUxWbk",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVhRRmtPR0huZldPOWRERG90T0JhOUFfVm16WEFCLVFNcVd1UjM2Qms5LTByZHRlb2ltSzlPb0tfWmVaZFZ5SnU4eUhzbm52Q19fUVJOLUxwR1ppY3ZLSGEwV3hOQ1VoSmpaZUxWbkVUR2x1andDaDhzTDRKNy1VWm1aY0trcGtrRTZLeXFHX0VaWkZGbkx6ZEFFWlB4ZEpNZ1BtNGNSOGxHQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -150,6 +306,65 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeEMweUVJOU9OZ2VCcVFseHd2cHNMMEpoOUw2STBITU83RjZVcWhSWWxBZGtlYU5hUVZpaGRMQndWUXlzY1RwUER3WUxRN1pRdkRTeFp5eE44Z3lzaFZXWUdfWnlMZUhLN3RfSFZlRlRaWDhRQ3g5QXdORGFwNncxMl9mSTEydGk2WVZQcl8wWDRRQ2ZVUmhDdWhKSW12ZlQ2YXdJNElZTUdDVGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-005",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Govt identifies energy sector's top priorities for coming weeks - Interfax-Ukraine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DU1JMTkk5bzRRMmV3dFZNNEtLSVhSTTRiNTlWY0JIWHJrUFpFV1hCck9uUzFiWjBKSWpFR1F4bjZTbVB5OHdSa0xsTWloVFNFQUx5NDFNRjdfXzQ1X2Y4UG5n0gFnQVVfeXFMT0VOZm",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DU1JMTkk5bzRRMmV3dFZNNEtLSVhSTTRiNTlWY0JIWHJrUFpFV1hCck9uUzFiWjBKSWpFR1F4bjZTbVB5OHdSa0xsTWloVFNFQUx5NDFNRjdfXzQ1X2Y4UG5n0gFnQVVfeXFMT0VOZmtqZHFqTGNIcUNNLWlFUTJrdjc5TTY0emljQjlHM0tJVmw0R196SFF0ZWNJUVd2V2JvbjZMeDQ3MWtSMlpScklYWEVZdnBPSjVKbEhZZ0t3TW9DM1RFTk9mYVJSZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-11-23-006",
+    "date": "2026-11-23",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries Ltd. (6370/JPY) Stock Price History & Data - Traders Union",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1ER2NBRElobF8xbEZMclRBLU9ySWhXSGpvZlpxc3MzaTBLZHlqNi11OVlDSXNLaGo5ODh4MlVURFdoYV91dWREZ2ZkUVgyTTFZc0UwanhZOHdKR3JkQVMxU0NmQXVObmxxdEdv?oc=5\"",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ER2NBRElobF8xbEZMclRBLU9ySWhXSGpvZlpxc3MzaTBLZHlqNi11OVlDSXNLaGo5ODh4MlVURFdoYV91dWREZ2ZkUVgyTTFZc0UwanhZOHdKR3JkQVMxU0NmQXVObmxxdEdv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-11-23-007",
+    "date": "2026-11-23",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Better Dividend Stock for Retirees: Southern Company vs. American Water Works - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHhScnFvaFlNUVB1OUN3aU9fTjg3dFA3andQTmJiR1lFZXJ4a0h6Y29QVkJtU2VhOFVHQUhxTDBTZGlGX3RfZXlTXzJfV1JrRTVmNkJYU18waXZRRzEzN0ZJZ29WM1lnODJiVXJPOV",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHhScnFvaFlNUVB1OUN3aU9fTjg3dFA3andQTmJiR1lFZXJ4a0h6Y29QVkJtU2VhOFVHQUhxTDBTZGlGX3RfZXlTXzJfV1JrRTVmNkJYU18waXZRRzEzN0ZJZ29WM1lnODJiVXJPOVYwY3Zqbmk2Q29UV1c4QzZZek9rRWRmMDh6RWdUOTVPZ1puQ2ZReUwwS1pNbVJTRGFmQzlB?oc=5",
         "type": "rss"
       }
     ]
@@ -388,6 +603,27 @@
       {
         "name": "ao_smith",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmxxQzNlT0s0TmlaUThXVkNaNjZSNndoT1U5dDd4ZzFSUUcwdldTRk5ZMFo5aVg1aldlRVNEYlJyV1pOVXpOT3BFbzZ2ZTEza0YzU29OSkR0dWNRUWFDc2d2NmVEaG1XUEhiMFlCQkh5S19pN0hZLWZ0UzVJSl9uYlVzelRGRFFDenZBSG1NNldETUpmOXNCeFAwWVNxMzYxN1A3WGs0NXFsN1IxbzFMLTNSaXlJUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-11-20-009",
+    "date": "2026-11-20",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries (KTWIF) Q2 2027 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFAyZzE0bWFjZnBMNU90eUh4ck5vV0VIbi1VUGtIRlZQMjdYVzQ2V3EycjNOYm81MkNWbEQ3QlAtaHRkUng4cWs1S1RJSEJ4T1FnaVNaZTRVVkZNU1dycE1iVmwwa1VRUk9pVHhnTEhn?o",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyZzE0bWFjZnBMNU90eUh4ck5vV0VIbi1VUGtIRlZQMjdYVzQ2V3EycjNOYm81MkNWbEQ3QlAtaHRkUng4cWs1S1RJSEJ4T1FnaVNaZTRVVkZNU1dycE1iVmwwa1VRUk9pVHhnTEhn?oc=5",
         "type": "rss"
       }
     ]

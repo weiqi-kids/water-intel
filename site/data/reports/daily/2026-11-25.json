@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T18:34:48.318620Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-11-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia: A 4.7% Yield With Room For Continued Dividend Growth (OTCMKTS:VEOEY) - Seeking Alpha",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUE1cXlEbFBuazZucVpPZlhkcWdfTWpmQzQyV0VIVXJmS3hDdFp2c0Y5RXNkY1NrM3N5b0Q5ZmVYTG5pM0V2enhVc1lqNDJYS1EzQWV6SjR1aklrdkozRm1sVU1QUjRiVkFUNGdxREllQjMzVTJ6M1BqUkc5dUZSY18tNjJxb2Rqb2hCdF8zLVQ4S3RidzdCM0h5NEZ4b3c4Z2tNS3dUWFREN0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ICC approves $74 million rate hike for Illinois American Water - AdVantageNews.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTVVxZTdVRnNVYWpObk4wUDBmQ3I2RDhTSzlwd3lMUFJINnpnZDNhcTcwMVhoM3VkaVNTNmxadmFIV3ctYjRYZ3E1TGh0dElWWXVZdkU2a0tLVV9OTzBGWHhiU1ZaUEhNMTJUclVSWTJydGd4U0NEV09fNDZuVW5LTFRqMzE2NEpKR0tZb01hc29GMzZ6VXl6dmF1SDVWenc2NDdkR1N4RVQ3WktGY1JSVVlxRkhqNXFyU0NhUWlyaXZTM3pkMXhSMmRzamxJOW9EU0ZjYjNKZjNtZkd2YWcyWXBGdDgyN2s?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_water-2026-11-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Works stock hits 52-week high at 153.7 USD - Investing.com",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWktSYlhRNVV2N0hmTkE2MkVJT3dKVnFmaVRfaTJZMnhaRFRoMmdVdDY3LW5hamcxR1llVDJMb1RKcXpCQ2V2Wno5OG5QYzVRYkJidFlTUE9GVDNGck5hcTBmR2JnZ1hVVTg5ZHIxSDN0ZlY3eG5URTdOZ19yQXpWSG9VY3BzLTM1ZFBpcS1pLS1ramxjVjJxQVJrY080ZzBWRkhJNjZjT0NXLUdIZTJYNW13?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mexico's Water Utilities Face Pumping Investment Challenges - Mexico Business News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2RjMDFKbWRhQnp4djdKbmNGcXNvMzBUZ01hWklIekVuaVg2dlMtdmhKb3VMaGhuVjZDc1diMmRPbC1ZVlJsamhyNWpxekptc2hXeVRMajloOU85Rk83MFl0b3ZUbTlybVJSRDNQMFh1TXhzeXFDdXVrUmFaRUlLN3V2U2owT3ZuWVpGVl80UVJvTFNZRjJTSGJkNGdTYjVKTlRzUng2OFlOUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "american_water",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 218,
+    "dup_title": 132,
+    "too_old": 69,
+    "gate1_blocked": 2,
+    "gate2_blocked": 3,
+    "passed": 12,
+    "pass_rate": "14.0%",
+    "gate2_block_rate": "3.5%",
+    "gate2_samples": [
+      "Barclays Reaffirms Their Buy Rating on Veolia Environnement (0NY8) - The Globe and Mail",
+      "Veolia Environnement (ENXTPA:VIE) - Stock Analysis - Simply Wall St",
+      "Veolia sells used oil-refining and tire recycling businesses to Itelyum - ChemEngOnline"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為威立雅、美國水務相關動態：「Veolia: A 4.7% Yield With Room For Continued Dividend Gro...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Veolia: A 4.7% Yield With Room For Continued Dividend Growth (OTCMKTS:VEOEY) ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "ICC approves $74 million rate hike for Illinois American Water - AdVantageNew...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,14 @@
+{
+  "total_raw": 218,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 2,
+  "gate2_fail": 3,
+  "passed": 12,
+  "gate2_samples": [
+    "Barclays Reaffirms Their Buy Rating on Veolia Environnement (0NY8) - The Globe and Mail",
+    "Veolia Environnement (ENXTPA:VIE) - Stock Analysis - Simply Wall St",
+    "Veolia sells used oil-refining and tire recycling businesses to Itelyum - ChemEngOnline"
+  ]
+}
