@@ -1,0 +1,12 @@
+{
+  "total_raw": 219,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 1,
+  "gate2_fail": 1,
+  "passed": 7,
+  "gate2_samples": [
+    "Barclays Reaffirms Their Buy Rating on Veolia Environnement (0NY8) - The Globe and Mail"
+  ]
+}
