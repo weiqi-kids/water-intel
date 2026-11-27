@@ -1,5 +1,69 @@
 [
   {
+    "id": "essential-2026-11-27-001",
+    "date": "2026-11-27",
+    "companies": [
+      "essential",
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Is American Water Works (NYSE:AWK) Steady Pre-Market Today With the Essential Utilities Merger Moving Ahead and Shares Close to a 52-Week High? - kalkine.ca",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNREkzTHp6R21PaDExWUNyT1JZZGtuTXgwdDBtalFjS0lOOFE2SWNOSzZiejNvc1NIZmtXZnhwbmoyN2NJYTBKaHNRNDlZcHFxTTJUMWFSd1lmSndSWDh4cTRQYkNnSU5zVnp1SW11Y1",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNREkzTHp6R21PaDExWUNyT1JZZGtuTXgwdDBtalFjS0lOOFE2SWNOSzZiejNvc1NIZmtXZnhwbmoyN2NJYTBKaHNRNDlZcHFxTTJUMWFSd1lmSndSWDh4cTRQYkNnSU5zVnp1SW11Y1hiYzNVeHpKUVl3SU4xbk1RVU9xSU8yaEJvYS05OHhXb2V6cnZUZjVhVVp1WkRvaGlLS2I5RXN0dUJjeVRQSlhWMGJjcU5ueTBTM3VRazMtRm52SlptZVJ3LTluQnl2OVo2VjJWX3V5Y1NJaGtQdlZWanMzZzdBeklvNE5UeG9fbTg5R2ZJai0tdmtiT3BXSDMybFRGdFo1ZTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-11-27-002",
+    "date": "2026-11-27",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works (AWK) Up 7.5% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmxxbjFFVmltQ1hNeFFtcDRyb3dBOGt6QU9wQUkySHJSQjZFRDlabUhDSkJtNFNsX1c1QUNjc0pOdHpkYUVMZzZ0MTBXbjB4TVllX2ZDN3REcXJrZWVIQUtubWhGRmIteUIzRVRjbj",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmxxbjFFVmltQ1hNeFFtcDRyb3dBOGt6QU9wQUkySHJSQjZFRDlabUhDSkJtNFNsX1c1QUNjc0pOdHpkYUVMZzZ0MTBXbjB4TVllX2ZDN3REcXJrZWVIQUtubWhGRmIteUIzRVRjbjFtN21TTzhhVTBROFZ0RnRnQ3I2MUlkampUYThhZlpoRHBkUFRjS3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "essential-2026-11-27-003",
+    "date": "2026-11-27",
+    "companies": [
+      "essential"
+    ],
+    "topics": [
+      "earnings",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Liberia’s Water and Sanitation Sector: Can Infrastructure Investment Improve Essential Services? – Expert View by Spherical Insights - Spherical Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVNiWTczZUxjNHNSWWc5S2ZraGtNREVMLWNzUi1IMm96TmV5Um1qMFhubFlpSW9VMHlybnFkcUpmcml1cUhpek9nUkVfc0NxTC1ndDBpWHhyWmpxUWNfeUpXQ1VKRU9IazZOelJwZm",
+    "sources": [
+      {
+        "name": "google_news_water_utility",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVNiWTczZUxjNHNSWWc5S2ZraGtNREVMLWNzUi1IMm96TmV5Um1qMFhubFlpSW9VMHlybnFkcUpmcml1cUhpek9nUkVfc0NxTC1ndDBpWHhyWmpxUWNfeUpXQ1VKRU9IazZOelJwZmh3U21uOENsRHZHZk5feV81TU5LM0tJenpKZENBUk00MkNhYXZMT0hLdUdKQldnVzJqWkVBT1RYVnhaN0FINzhOeTQzYWxqZUc1dzdSWlV0TFlJTHVkRWd6VW9wY0o4cEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "energy_recovery-2026-11-26-001",
     "date": "2026-11-26",
     "companies": [
@@ -89,6 +153,44 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZUhIMW5qSVJDNmY0cWdmXzEwRWJMOUo0RF9tbW1IY1VaWHB0SkZwd0RYeHVVd2g2dHlyNFNZaU1ycWZwNWRsNEFrWDNzUDY3ekhoOU84VTA2cG1sV2R4OTUxdFZjSFZ4ZTRmdDNsTG9QTGtLVGMyUmFJdDNyMXFZa1Q1dzFxbmZVZEZDeENpcGVveDBaTmc2YXFfYVJlcUd1RE1HMDB2NTJUeWRBVU51NTJ2dEhpM3RwOTFGZg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-11-26-006",
+    "date": "2026-11-26",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ETFs Investing in Veolia Environnement SA Stocks - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fRmF4dmZINW51cGVsbHpSeV81MFdjVzVNYWR6T3NkejAxMzMwTl9lUGRaT1UxbEVybzhUS1kyV0NHMDBXWDRRcU5BRGp3bkJfdUlpaWRwSGUzdHUxOGpKbWd3?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fRmF4dmZINW51cGVsbHpSeV81MFdjVzVNYWR6T3NkejAxMzMwTl9lUGRaT1UxbEVybzhUS1kyV0NHMDBXWDRRcU5BRGp3bkJfdUlpaWRwSGUzdHUxOGpKbWd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kurita-2026-11-26-007",
+    "date": "2026-11-26",
+    "companies": [
+      "kurita"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kurita Water Industries Ltd. Research & Ratings | KWI - Barron's",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZVNBZWFSbHZadjRpbmhZRFVWU25kM2FPcnpqRkVBZkU1Z0JOY1hxWWR0NzBJSTZXaHFWT05xYlZxUHV5VTV0SWhJdjBlT1huZEhaQUpXVVhXamdsZTF5ODFTVnMyY09rMkdkYURUVm",
+    "sources": [
+      {
+        "name": "kurita",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZVNBZWFSbHZadjRpbmhZRFVWU25kM2FPcnpqRkVBZkU1Z0JOY1hxWWR0NzBJSTZXaHFWT05xYlZxUHV5VTV0SWhJdjBlT1huZEhaQUpXVVhXamdsZTF5ODFTVnMyY09rMkdkYURUVmpvWnRfaFpweHFHLVdtb0xCaUNMMERlelFwNXVlVDR3OWd6a1dsU0xGLThBSHZ0M05zekJVTnpPb2dSb25jS1hROHFnaUhFY3o2SGJLQV9qYUNVU0hWSDRiZERR?oc=5",
         "type": "rss"
       }
     ]
@@ -205,6 +307,45 @@
       {
         "name": "energy_recovery",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd3VlWEdUYi1hSTVFTU5uYTR1dTZRRFROR2ZtcHRoWmdYVXE2VGpmeEdwWG1hOGlfVXBTZDJmRFRVS1ItMi14aTh5ckFkOEJkTFoxc2thYWV2WE5SUTZTVzhaNE1CM2RjZ3F6a1N1ZWEzUFEwTVFrNjRWVGNxRV9obWNMLWVNZlJ2bnFBeml0RzB1QzRfbHpV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-25-007",
+    "date": "2026-11-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water plans $20B investment by 2030, e... - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPWHNNZGVleG9KLVQ0X3hkanI5UU1CRmlWdURjbW5Ec2JtMTZjeVNPYWlfT3dCTGJUdWkyRExyS3oyOUFzaS1ZdWU3a2pud1pFMW94YUtDUEFjdVVTcUh2LVFWS1pnQ3VqVzM3eGpMWl",
+    "sources": [
+      {
+        "name": "essential",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWHNNZGVleG9KLVQ0X3hkanI5UU1CRmlWdURjbW5Ec2JtMTZjeVNPYWlfT3dCTGJUdWkyRExyS3oyOUFzaS1ZdWU3a2pud1pFMW94YUtDUEFjdVVTcUh2LVFWS1pnQ3VqVzM3eGpMWlVZZUk5cU5rVkRBbVpubG9zdjVUamxzN09YWTJMWTRMZGR0TzQ5dFB2OHlwbHk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-11-25-008",
+    "date": "2026-11-25",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works (NYSE:AWK) Hits New 52-Week High - Time to Buy? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZElFdHJibjRNU0h0SXU4RGMyTlA0TTVBWUhEa283RTZ2dVp5b0hIMkxhQUVodmFuUnJCSjJ2TGotMEdQaUxqaVRORmpOQjZNVDRmVHFlbThMYXV3UXJ5NHhMLWxnbXJIMmtOdDF5Ql",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZElFdHJibjRNU0h0SXU4RGMyTlA0TTVBWUhEa283RTZ2dVp5b0hIMkxhQUVodmFuUnJCSjJ2TGotMEdQaUxqaVRORmpOQjZNVDRmVHFlbThMYXV3UXJ5NHhMLWxnbXJIMmtOdDF5Qlpqck5XXy01UVRDazI2S3l5N180ZC1nVVVJSzRVMTZNWmxnM1UzLU9oVml3Z2tPLVpfd0MySGEzY2VzLXBmcV9RUU5yclhvLTlBS19JTUU4b28?oc=5",
         "type": "rss"
       }
     ]
@@ -356,6 +497,24 @@
       {
         "name": "american_water",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVhRRmtPR0huZldPOWRERG90T0JhOUFfVm16WEFCLVFNcVd1UjM2Qms5LTByZHRlb2ltSzlPb0tfWmVaZFZ5SnU4eUhzbm52Q19fUVJOLUxwR1ppY3ZLSGEwV3hOQ1VoSmpaZUxWbkVUR2x1andDaDhzTDRKNy1VWm1aY0trcGtrRTZLeXFHX0VaWkZGbkx6ZEFFWlB4ZEpNZ1BtNGNSOGxHQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-009",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Set your thermostat to 55°F while away to help prevent frozen pipes. - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzZzWVZaMzhveWVNMjZwdVQzV05FWUFDNWc3akhUcndjX0VKdFNLZjQ0RXBjQWczT1NoSVZjMlFjYVdhUnJwT0VoeGxPSUJqOGJqSmo5cExKdDh4SWFia3FkemNfTjVUaFRNbHZZb3",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzZzWVZaMzhveWVNMjZwdVQzV05FWUFDNWc3akhUcndjX0VKdFNLZjQ0RXBjQWczT1NoSVZjMlFjYVdhUnJwT0VoeGxPSUJqOGJqSmo5cExKdDh4SWFia3FkemNfTjVUaFRNbHZZb3hyMDRac29FVXVmZ2lkbk1XRXZuakltY0x2WE5HRGZTbTRoM0xiajJLNDdOUXpYdTJTSlB6S2ZRYjVkZkNUUUE?oc=5",
         "type": "rss"
       }
     ]

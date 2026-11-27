@@ -1,0 +1,177 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T18:01:22.139469Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "essential-2026-11-27-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Liberia’s Water and Sanitation Sector: Can Infrastructure Investment Improve Essential Services? – Expert View by Spherical Insights - Spherical Insights",
+      "companies": [
+        "essential"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVNiWTczZUxjNHNSWWc5S2ZraGtNREVMLWNzUi1IMm96TmV5Um1qMFhubFlpSW9VMHlybnFkcUpmcml1cUhpek9nUkVfc0NxTC1ndDBpWHhyWmpxUWNfeUpXQ1VKRU9IazZOelJwZmh3U21uOENsRHZHZk5feV81TU5LM0tJenpKZENBUk00MkNhYXZMT0hLdUdKQldnVzJqWkVBT1RYVnhaN0FINzhOeTQzYWxqZUc1dzdSWlV0TFlJTHVkRWd6VW9wY0o4cEU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_water-2026-11-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Water Works (AWK) Up 7.5% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+      "companies": [
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmxxbjFFVmltQ1hNeFFtcDRyb3dBOGt6QU9wQUkySHJSQjZFRDlabUhDSkJtNFNsX1c1QUNjc0pOdHpkYUVMZzZ0MTBXbjB4TVllX2ZDN3REcXJrZWVIQUtubWhGRmIteUIzRVRjbjFtN21TTzhhVTBROFZ0RnRnQ3I2MUlkampUYThhZlpoRHBkUFRjS3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "essential-2026-11-27-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Why Is American Water Works (NYSE:AWK) Steady Pre-Market Today With the Essential Utilities Merger Moving Ahead and Shares Close to a 52-Week High? - kalkine.ca",
+      "companies": [
+        "essential",
+        "american_water"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNREkzTHp6R21PaDExWUNyT1JZZGtuTXgwdDBtalFjS0lOOFE2SWNOSzZiejNvc1NIZmtXZnhwbmoyN2NJYTBKaHNRNDlZcHFxTTJUMWFSd1lmSndSWDh4cTRQYkNnSU5zVnp1SW11Y1hiYzNVeHpKUVl3SU4xbk1RVU9xSU8yaEJvYS05OHhXb2V6cnZUZjVhVVp1WkRvaGlLS2I5RXN0dUJjeVRQSlhWMGJjcU5ueTBTM3VRazMtRm52SlptZVJ3LTluQnl2OVo2VjJWX3V5Y1NJaGtQdlZWanMzZzdBeklvNE5UeG9fbTg5R2ZJai0tdmtiT3BXSDMybFRGdFo1ZTg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "essential",
+        "count": 2
+      },
+      {
+        "id": "american_water",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 199,
+    "dup_title": 112,
+    "too_old": 77,
+    "gate1_blocked": 1,
+    "gate2_blocked": 1,
+    "passed": 8,
+    "pass_rate": "9.2%",
+    "gate2_block_rate": "1.1%",
+    "gate2_samples": [
+      "Veolia Environnement SA (VVDH.F) Seasonal returns chart - Yahoo Finance Australia"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為必要公用、美國水務相關動態：「Liberia’s Water and Sanitation Sector: Can Infrastructure...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Liberia’s Water and Sanitation Sector: Can Infrastructure Investment Improve ...（財報、資本支出、水資源產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "American Water Works (AWK) Up 7.5% Since Last Earnings Report: Can It Continu...（財報、水資源產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

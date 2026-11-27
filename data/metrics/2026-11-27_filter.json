@@ -1,0 +1,12 @@
+{
+  "total_raw": 199,
+  "dup_title": 112,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 1,
+  "gate2_fail": 1,
+  "passed": 8,
+  "gate2_samples": [
+    "Veolia Environnement SA (VVDH.F) Seasonal returns chart - Yahoo Finance Australia"
+  ]
+}
