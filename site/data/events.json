@@ -1,5 +1,64 @@
 [
   {
+    "id": "mueller-2026-11-28-001",
+    "date": "2026-11-28",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products (NYSE:MWA) Screens as a Lynch-Style GARP Pick - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOeHl0c0U2R3NMZDMxX0R4a3JzYWxsbHU1enRkQjQxYmZtb3ZJY1I1M2RCQW9ORGFYNWpGTzdheUczMFBkVVdRZUQ1aklTR2Z3RzJKTFNwd2Y3M1d4VUY5TU5Ya0NjTTZESVp4LTlfWm",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeHl0c0U2R3NMZDMxX0R4a3JzYWxsbHU1enRkQjQxYmZtb3ZJY1I1M2RCQW9ORGFYNWpGTzdheUczMFBkVVdRZUQ1aklTR2Z3RzJKTFNwd2Y3M1d4VUY5TU5Ya0NjTTZESVp4LTlfWm5la3VJNFVfMnN0bXNtbm9oUHBwU0h2cXFjM2FpSTkwc2xpd3h5VV9oWXgyMllnUXBSalRZSHJCekd0MlNqcVFRTUlldXRoS0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "energy_recovery-2026-11-28-002",
+    "date": "2026-11-28",
+    "companies": [
+      "energy_recovery"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "World Bank rates Ghana's energy recovery plan unsatisfactory as losses reach $1.52bn - 3News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPdzhvcW9qZllZOFIwbWtmcnMwT3NVTkZZcnBhWUpFakxDVDF6azROZ25RcXEtTzVKR19CUlc4Mk9OOHVOdVh1NTNJaDZQd2Jnd3JqU09LeXg4YW52Wi1HY01tamhVX1RjRGpMRkZrTD",
+    "sources": [
+      {
+        "name": "energy_recovery",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdzhvcW9qZllZOFIwbWtmcnMwT3NVTkZZcnBhWUpFakxDVDF6azROZ25RcXEtTzVKR19CUlc4Mk9OOHVOdVh1NTNJaDZQd2Jnd3JqU09LeXg4YW52Wi1HY01tamhVX1RjRGpMRkZrTDJ4elU4Yll4VTNGdEM1WXoxTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_water-2026-11-28-003",
+    "date": "2026-11-28",
+    "companies": [
+      "american_water"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Water Works Company, Inc. (NYSE:AWK) Stock Has Average Price Target of $147.00 According to Brokerages - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaHhKSVB5cVRhME16U1F6dXM3eU1CVDVUekNsOVlqWUVlRWRySmVmRGRiMktPbjl3RnpDNHBCZEZ1NXRHWnNjM3pRYnRpQTZKMk1Tem9pQjRGaWN3U3RQU2tGSmx0RHItb1ljUUI1TD",
+    "sources": [
+      {
+        "name": "american_water",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaHhKSVB5cVRhME16U1F6dXM3eU1CVDVUekNsOVlqWUVlRWRySmVmRGRiMktPbjl3RnpDNHBCZEZ1NXRHWnNjM3pRYnRpQTZKMk1Tem9pQjRGaWN3U3RQU2tGSmx0RHItb1ljUUI1TDdCMFF4S28zcEhtQnVNLVJvcGhaZ1EtWHVvZUtkdjJRVy1SUWJ2RjB2VGVMMGhodmR3ekpFTllrSklQWUVCVElYdkhYRFJsVWVpU01vemV0bkZodU9jcTl0c2NuVllFUkpIZmdrVFlSZVFqZmNkWmRZd2YzWWpGdEMyWjNVUE51QkRvbm9UbFlfbGlucW9Sdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "essential-2026-11-27-001",
     "date": "2026-11-27",
     "companies": [
@@ -59,6 +118,27 @@
       {
         "name": "google_news_water_utility",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVNiWTczZUxjNHNSWWc5S2ZraGtNREVMLWNzUi1IMm96TmV5Um1qMFhubFlpSW9VMHlybnFkcUpmcml1cUhpek9nUkVfc0NxTC1ndDBpWHhyWmpxUWNfeUpXQ1VKRU9IazZOelJwZmh3U21uOENsRHZHZk5feV81TU5LM0tJenpKZENBUk00MkNhYXZMT0hLdUdKQldnVzJqWkVBT1RYVnhaN0FINzhOeTQzYWxqZUc1dzdSWlV0TFlJTHVkRWd6VW9wY0o4cEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-11-27-004",
+    "date": "2026-11-27",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products, Inc. (JT5.SG) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fU0p3TmFwb0Npank1b2lKWjVYdDVFVWtYcFJpYnhwaTdiZ0tYVk0zVG8ya3FFeWlTTWNOMWJsZ2E2d3B3ajgyS1FzQ2tsbXdJek1uYjVhSnFJR0VQdXNmNXNYdnc?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fU0p3TmFwb0Npank1b2lKWjVYdDVFVWtYcFJpYnhwaTdiZ0tYVk0zVG8ya3FFeWlTTWNOMWJsZ2E2d3B3ajgyS1FzQ2tsbXdJek1uYjVhSnFJR0VQdXNmNXNYdnc?oc=5",
         "type": "rss"
       }
     ]
@@ -191,6 +271,27 @@
       {
         "name": "kurita",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZVNBZWFSbHZadjRpbmhZRFVWU25kM2FPcnpqRkVBZkU1Z0JOY1hxWWR0NzBJSTZXaHFWT05xYlZxUHV5VTV0SWhJdjBlT1huZEhaQUpXVVhXamdsZTF5ODFTVnMyY09rMkdkYURUVmpvWnRfaFpweHFHLVdtb0xCaUNMMERlelFwNXVlVDR3OWd6a1dsU0xGLThBSHZ0M05zekJVTnpPb2dSb25jS1hROHFnaUhFY3o2SGJLQV9qYUNVU0hWSDRiZERR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mueller-2026-11-26-008",
+    "date": "2026-11-26",
+    "companies": [
+      "mueller"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mueller Water Products, Inc. (JT5.SG) Seasonal returns chart - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9USlQ2QmVLNGhSWFl3WmZ1Q191MGlBMzRtSWx4YXRJT3lKSVZjYk9RU2pRTXV0R0VFR3M4UzYtM21qX0trSjFMMWltRkxhN0ZQdlFIWDJZTVV0UjQ0d2p1aWJ5bVI?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "mueller",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9USlQ2QmVLNGhSWFl3WmZ1Q191MGlBMzRtSWx4YXRJT3lKSVZjYk9RU2pRTXV0R0VFR3M4UzYtM21qX0trSjFMMWltRkxhN0ZQdlFIWDJZTVV0UjQ0d2p1aWJ5bVI?oc=5",
         "type": "rss"
       }
     ]
